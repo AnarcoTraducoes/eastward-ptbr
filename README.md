@@ -8,7 +8,7 @@ Este repositório é dedicado à tradução do jogo Eastward para uma língua n�
 ### Como Contribuir
 
 #### Tradução
-1. **Encontre os Arquivos**: Os arquivos para tradução estão localizados em `unpacked/game/<HASH DO MODULO>/en` para o jogo original e `unpacked/dlc/<HASH DO MODULO>/en` para a nova DLC.
+1. **Encontre os Arquivos**: Os arquivos para tradução estão localizados em `unpacked/game/locale_g/<HASH DO MODULO>/en` para o jogo original e `unpacked/dlc/locale_g/<HASH DO MODULO>/en` para a nova DLC.
 2. **Traduza o Texto**: Escolha um arquivo e faça a tradução respeitando o contexto e o estilo do jogo.
 3. **Faça um Pull Request**: Após traduzir, crie um pull request com suas alterações. Certifique-se de descrever as mudanças feitas e o arquivo que foi traduzido.
 
