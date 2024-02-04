@@ -1,0 +1,21 @@
+{
+  "guid":"f85c326edc4211e9960b3c15c2dd513c",
+  "items":[
+    {
+      "name":"CH_Alva.sq",
+      "path":"event/global/Ch_Main/CH_Alva.sq"
+    },
+    {
+      "name":"CH_Isabel.sq",
+      "path":"event/global/Ch_Main/CH_Isabel.sq"
+    },
+    {
+      "name":"CH_Li.sq",
+      "path":"event/global/Ch_Main/CH_Li.sq"
+    },
+    {
+      "name":"CH_William.sq",
+      "path":"event/global/Ch_Main/CH_William.sq"
+    }
+  ]
+}
