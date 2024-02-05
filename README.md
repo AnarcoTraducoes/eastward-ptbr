@@ -5,6 +5,12 @@
 
 Este repositório é dedicado à tradução do jogo Eastward para uma língua não suportada oficialmente pelos desenvolvedores. Acreditamos que todos devem ter a chance de desfrutar deste incrível jogo em seu próprio idioma, e com a ajuda da comunidade, podemos tornar isso possível!
 
+### Como instalar a tradução
+
+1. Baixe o arquivo locale.g na seção Releases (aqui do ladinho ->)
+2. Mova (substituindo o original) o arquivo para o diretório de instalação do game: ...\Eastward\content\game\
+3. Divirta-se (agora entendendo todo o game :) )
+
 ### Como Contribuir
 
 #### Tradução
