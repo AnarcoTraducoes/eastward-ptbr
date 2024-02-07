@@ -8,7 +8,9 @@ Este repositório é dedicado à tradução do jogo Eastward para uma língua n�
 ### Como instalar a tradução
 
 1. Baixe o arquivo locale.g na seção Releases (aqui do ladinho ->)
-2. Mova (substituindo o original) o arquivo para o diretório de instalação do game: ...\Eastward\content_dlc\
+2. Mova (substituindo os originais) o arquivo para os diretórios de instalação do game:
+   ...\Eastward\content\game\
+   ...\Eastward\content_dlc\
 3. Divirta-se (agora entendendo todo o game :) )
 
 ### Como Contribuir
@@ -50,9 +52,9 @@ Se tiver dúvidas ou precisar de ajuda, sinta-se à vontade para entrar em conta
 Agradecemos a todos que contribuem para este projeto. Sua paixão e dedicação são o que tornam a comunidade de Eastward tão especial!
 
 ### Andamento de traduções de texto
-#### Jogo
 ```[x] Feito [~] Fazendo [ ] Para Fazer```
 
+#### Game
 - [x] 334f728ccd273a85a224f7e0eb839dd0
 - [x] d06eebd5bfbe30f6ad73b65303a94e21
 - [x] 1fbba5dfab829f507358f58c1c2dc59a
@@ -67,17 +69,9 @@ Agradecemos a todos que contribuem para este projeto. Sua paixão e dedicação 
 - [ ] 9314a22a166ddd1bad2f4ea5e5f411d5
 - [ ] 957ed9b1b5a8e2fc810e94b87d50f68b
 - [ ] b40fb2262862fc76d979588e49935c40
-- [ ] cb5ca7a599adb084c7a1b63b6c8d30e3
-
 #### DLC
+- [~] 44b2427b16b64d28f973fdc4ac6c7da6
 - [ ] 122f5641f7b649db4d7716e67e4aab55
-- [ ] 1fbba5dfab829f507358f58c1c2dc59a
-- [ ] 25e037c1a1d76edf4596890808e3938e
-- [ ] 334f728ccd273a85a224f7e0eb839dd0
-- [ ] 341e6bb8929d91da602f53df0bf21db8
-- [ ] 42728413ee65018e0dd6621ac7dc2eb0
-- [ ] 44b2427b16b64d28f973fdc4ac6c7da6
-- [ ] 4a5bb2241303eb6b90c258265fa21736
 - [ ] 4c33581f814364f8a14d5c3da04ac0d4
 - [ ] 552a3f4c241cabf3c9c422916f5b397a
 - [ ] 56eed9ad76abf741b77ba8f42414908c
@@ -86,24 +80,16 @@ Agradecemos a todos que contribuem para este projeto. Sua paixão e dedicação 
 - [ ] 753f0a8bf11f6c350f5b43c3dba3ab22
 - [ ] 787901aa2a1ebb09e8b9236bdfddcbe0
 - [ ] 8586007ad3a03d26413dc1ac2a32eb9e
-- [ ] 85efbb9226a1dddad443741e9ea07ebc
 - [ ] 911f1b650b63f0df427914430aa5e865
-- [ ] 9314a22a166ddd1bad2f4ea5e5f411d5
-- [ ] 957ed9b1b5a8e2fc810e94b87d50f68b
 - [ ] aacab8083544a295935d4ff413adf6cd
-- [ ] af35e610b51269d051826c2eb595b7a1
-- [ ] b40fb2262862fc76d979588e49935c40
 - [ ] bacd0a823298781c42afd9fef5261d89
 - [ ] bb5a225dcd996a0a76f7caa36b5ec578
-- [ ] d06eebd5bfbe30f6ad73b65303a94e21
 - [ ] d50648bd9983209f3ff7e1a3f5950df8
 - [ ] d828a8224e8260b628876ce5d5c16ab5
-- [ ] d858d56da15d75a9aaf8e34fea48fbd7
 - [ ] decd2aea7fe9e4d69147dd3e2e7c7226
 - [ ] e5e3f588c29965bf1c6d36284b90b52a
 - [ ] ee41c0e01637e46191c9128c8d09e631
 - [ ] f15ed770df7ae68455a69d85dcd7299d
-- [ ] f3ceeb5d15be09aeb9395423f913ae08
 ---
 
 Vamos juntos expandir os horizontes de Eastward e compartilhar esta aventura com ainda mais jogadores ao redor do mundo! 🌍🎮
