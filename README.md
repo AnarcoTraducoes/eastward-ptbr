@@ -21,8 +21,16 @@ Se você possuir a dcl do game, também copie o arquivo locale.g (substituindo o
 ### Como Contribuir
 
 #### Tradução
-1. **Encontre os Arquivos**: Os arquivos para tradução estão localizados em `unpacked/game/locale_g/<HASH DO MODULO>/en` para o jogo original e `unpacked/dlc/locale_g/<HASH DO MODULO>/en` para a nova DLC.
-2. **Traduza o Texto**: Escolha um arquivo e faça a tradução respeitando o contexto e o estilo do jogo.
+1. **Encontre os Arquivos**: Os arquivos para tradução estão localizados em `unpacked/<HASH DO MODULO>/en`.
+2. **Traduza o Texto**: Escolha um arquivo e faça a tradução as hashs, tags e formatação, por exemplo:
+```
+-- Linha original:
+["32e8ae4cf80a11eaac1b3c15c2dd513c"] = "{<}Exactly!\n{====}You can \"use\" an item now.\n{====}Hurry up and {|} choose an item.{stop}\n{====}{choice:yes}You bet!\n{choice:no}Maybe next time.";
+-- Linha traduzida:
+"["32e8ae4cf80a11eaac1b3c15c2dd513c"] = {<}Exatamente!\n{====}Você pode \"usar\" um item agora.\n{====}Apresse-se e {|} escolha um item.{stop}\n{====}{choice:yes}Pode apostar!\n{choice:no}Talvez na próxima vez."
+
+Obs: Esse é uma linha teste com diversas tags, mas não se preocupe, pois normalmente são poucas ou nenhuma tags por linha.
+```
 3. **Faça um Pull Request**: Após traduzir, crie um pull request com suas alterações. Certifique-se de descrever as mudanças feitas e o arquivo que foi traduzido.
 
 #### Criando Issues
