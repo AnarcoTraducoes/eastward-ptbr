@@ -8,9 +8,12 @@ Este repositório é dedicado à tradução do jogo Eastward para uma língua n�
 ### Como instalar a tradução
 
 1. Baixe o arquivo locale.g na seção Releases (aqui do ladinho ->)
-2. Mova o arquivo locale.g para os seguintes diretórios substituindo o original:
+2. Copie o arquivo locale.g (substituindo o original) para o diretório:
 ```
 ...\Eastward\content\game\
+```
+Se você possuir a dcl do game, também copie o arquivo locale.g (substituindo o original) para o diretório:
+```
 ...\Eastward\content_dlc\
 ```
 4. Divirta-se (agora entendendo todo o game :) )
