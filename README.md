@@ -29,7 +29,7 @@ Se você possuir a dcl do game, também copie o arquivo locale.g (substituindo o
 -- Linha traduzida:
 "["32e8ae4cf80a11eaac1b3c15c2dd513c"] = {<}Exatamente!\n{====}Você pode \"usar\" um item agora.\n{====}Apresse-se e {|} escolha um item.{stop}\n{====}{choice:yes}Pode apostar!\n{choice:no}Talvez na próxima vez."
 
-Obs: Esse é uma linha teste com diversas tags, mas não se preocupe, pois normalmente são poucas ou nenhuma tags por linha.
+Obs: Esse é uma linha teste com diversas tags, mas não se preocupe, pois normalmente são poucas ou nenhuma tag por linha.
 ```
 3. **Faça um Pull Request**: Após traduzir, crie um pull request com suas alterações. Certifique-se de descrever as mudanças feitas e o arquivo que foi traduzido.
 
