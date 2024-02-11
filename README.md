@@ -85,7 +85,7 @@ Agradecemos a todos que contribuem para este projeto. Sua paixão e dedicação 
 #### DLC
 - [x] 44b2427b16b64d28f973fdc4ac6c7da6
 - [x] 552a3f4c241cabf3c9c422916f5b397a
-- [~] d50648bd9983209f3ff7e1a3f5950df8
+- [x] d50648bd9983209f3ff7e1a3f5950df8
 ---
 
 Vamos juntos expandir os horizontes de Eastward e compartilhar esta aventura com ainda mais jogadores ao redor do mundo! 🌍🎮
