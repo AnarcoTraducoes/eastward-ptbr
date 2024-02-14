@@ -1,44 +1,44 @@
 return {
 ["CH_William.sq"]={
-	["75a389f2f80d11ea8f7c3c15c2dd513c"] = "Hello again, fellow train passengers.\n{====}Wondering where to go, are you?\n{====}{big}You might try Princess Avenue. Always something going on there.";
-	["75a38aecf80d11ea8f7c3c15c2dd513c"] = "{big}You might try Princess Avenue. Always something going on there.";
-	["75a38baaf80d11ea8f7c3c15c2dd513c"] = "We meet again, fellow railway wayfarers.";
-	["75a38d6cf80d11ea8f7c3c15c2dd513c"] = "Have I introduced you to my workshop yet?";
-	["75a38e66f80d11ea8f7c3c15c2dd513c"] = "{~}Your workshop?!\n{====}I rented that room for you to SLEEP!\n{====}If you try anything funny in there, Granny's kicking you out!";
-	["75a38f42f80d11ea8f7c3c15c2dd513c"] = "Haha. As you can see, this is only a, hrm, temporary arrangement.";
-	["75a39000f80d11ea8f7c3c15c2dd513c"] = "Quite the zeal left in the old woman, isn't there?\n{====}Something about that voice makes me feel right at home.";
-	["75a39334f80d11ea8f7c3c15c2dd513c"] = "Seems you two are getting along just fine here in New Dam City.\n{====}Though you'll soon be seeing less of us, I'm afraid.\n{====}For we'll be setting forth to continue our travels.";
+	["75a389f2f80d11ea8f7c3c15c2dd513c"] = "Olá novamente, companheiros de viagem de trem.\n{====}Se perguntando para onde ir, estão?\n{====}{big}Podem tentar a Avenida da Princesa. Sempre algo acontecendo por lá.";
+	["75a38aecf80d11ea8f7c3c15c2dd513c"] = "{big}Podem tentar a Avenida da Princesa. Sempre algo acontecendo por lá.";
+	["75a38baaf80d11ea8f7c3c15c2dd513c"] = "Nos encontramos novamente, colegas viajantes da ferrovia.";
+	["75a38d6cf80d11ea8f7c3c15c2dd513c"] = "Já apresentei a vocês minha oficina?";
+	["75a38e66f80d11ea8f7c3c15c2dd513c"] = "{~}Sua oficina?!\n{====}Eu aluguei aquele quarto para você DORMIR!\n{====}Se tentar algo engraçado lá dentro, a vovó vai te expulsar!";
+	["75a38f42f80d11ea8f7c3c15c2dd513c"] = "Haha. Como podem ver, isso é apenas uma, hrm, disposição temporária.";
+	["75a39000f80d11ea8f7c3c15c2dd513c"] = "Bastante zelo deixado na velha mulher, não é mesmo?\n{====}Algo naquela voz me faz sentir em casa.";
+	["75a39334f80d11ea8f7c3c15c2dd513c"] = "Parece que vocês dois estão se dando bem aqui em Nova Dam City.\n{====}Embora em breve nos verão menos, temo.\n{====}Pois estaremos partindo para continuar nossas viagens.";
 	};
 ["CH_Alva.sq"]={
-	["75a2ffb4f80d11ea8f7c3c15c2dd513c"] = "Izzy, could you grab me the wrench on the work bench?";
-	["75a30126f80d11ea8f7c3c15c2dd513c"] = "Oldtown's home to a few... strange lifeforms.";
-	["75a303ecf80d11ea8f7c3c15c2dd513c"] = "{big}But don't worry! A hero will be on call to swoop in and help in the nick of time!";
-	["75a30662f80d11ea8f7c3c15c2dd513c"] = "Intelligent monkeys...\nWe're gonna have to investigate this!";
-	["75a307acf80d11ea8f7c3c15c2dd513c"] = "Don't worry! There's no way the Wind God can lose!";
-	["75a30838f80d11ea8f7c3c15c2dd513c"] = "{<}Whew!\n{====}It's finally over.\n{====}My hands are still shaking...\n{====}Guess I'm still not used to this kinda thing.";
-	["75a308b0f80d11ea8f7c3c15c2dd513c"] = "You should have no trouble finding the place.\n{====}But that old man on the other hand...";
-	["75a309dcf80d11ea8f7c3c15c2dd513c"] = "Never underestimate the crab!\n{====}Left to themselves, they can grow as a big as a... a rocket!";
-	["75a30a68f80d11ea8f7c3c15c2dd513c"] = "We've seen a crab like that!";
-	["75a30accf80d11ea8f7c3c15c2dd513c"] = "Really?";
-	["75a30bbcf80d11ea8f7c3c15c2dd513c"] = "Yeah! John had to fight it.";
-	["75a30c48f80d11ea8f7c3c15c2dd513c"] = "Dang, I'd love to see a crab that big one day...";
+	["75a2ffb4f80d11ea8f7c3c15c2dd513c"] = "Izzy, você pode pegar a chave inglesa na bancada de trabalho?";
+	["75a30126f80d11ea8f7c3c15c2dd513c"] = "A Cidade Velha é lar de algumas... formas de vida estranhas.";
+	["75a303ecf80d11ea8f7c3c15c2dd513c"] = "{big}Mas não se preocupe! Um herói estará de prontidão para entrar em ação e ajudar no último minuto!";
+	["75a30662f80d11ea8f7c3c15c2dd513c"] = "Macacos inteligentes...\nVamos ter que investigar isso!";
+	["75a307acf80d11ea8f7c3c15c2dd513c"] = "Não se preocupe! Não há como o Deus do Vento perder!";
+	["75a30838f80d11ea8f7c3c15c2dd513c"] = "{<}Ufa!\n{====}Finalmente acabou.\n{====}Minhas mãos ainda estão tremendo...\n{====}Acho que ainda não estou acostumado com esse tipo de coisa.";
+	["75a308b0f80d11ea8f7c3c15c2dd513c"] = "Você não terá problemas para encontrar o lugar.\n{====}Mas aquele velho, por outro lado...";
+	["75a309dcf80d11ea8f7c3c15c2dd513c"] = "Nunca subestime o caranguejo!\n{====}Deixados por conta própria, eles podem crescer tanto quanto um... um foguete!";
+	["75a30a68f80d11ea8f7c3c15c2dd513c"] = "Nós vimos um caranguejo assim!";
+	["75a30accf80d11ea8f7c3c15c2dd513c"] = "É mesmo?";
+	["75a30bbcf80d11ea8f7c3c15c2dd513c"] = "Sim! John teve que lutar contra ele.";
+	["75a30c48f80d11ea8f7c3c15c2dd513c"] = "Caramba, adoraria ver um caranguejo tão grande um dia...";
 	};
 ["CH_Li.sq"]={
-	["75a36062f80d11ea8f7c3c15c2dd513c"] = "I leave Alva and Isabel to you, then.\n{====}As soon as the power is ready, I'll try to contact you.";
-	["75a361def80d11ea8f7c3c15c2dd513c"] = "{<}And now the Wind God... it's just as the prophecy predicted...";
-	["75a36288f80d11ea8f7c3c15c2dd513c"] = "Stop wasting time around here.\n{====}I don't want to turn that thing on until everyone is evacuated.";
-	["75a363faf80d11ea8f7c3c15c2dd513c"] = "Be careful. Both of you.\n{====}{big}After everything that's happened... we can't afford to lose anyone else.";
+	["75a36062f80d11ea8f7c3c15c2dd513c"] = "Deixo Alva e Isabel com você, então.\n{====}Assim que o poder estiver pronto, tentarei entrar em contato com você.";
+	["75a361def80d11ea8f7c3c15c2dd513c"] = "{<}E agora o Deus do Vento... é exatamente como a profecia previu...";
+	["75a36288f80d11ea8f7c3c15c2dd513c"] = "Não perca tempo por aqui.\n{====}Não quero ligar aquilo até que todos sejam evacuados.";
+	["75a363faf80d11ea8f7c3c15c2dd513c"] = "Tenham cuidado. Ambos.\n{====}{big}Depois de tudo o que aconteceu... não podemos nos dar ao luxo de perder mais ninguém.";
 	};
 ["CH_Isabel.sq"]={
-	["75a33d08f80d11ea8f7c3c15c2dd513c"] = "{big}Now's not the time to be asking questions. You need to get to the station!";
-	["75a33e16f80d11ea8f7c3c15c2dd513c"] = "That's the MIASMA!\n{====}Don't let it touch you or it's game over—literally!";
-	["75a33edef80d11ea8f7c3c15c2dd513c"] = "Oldtown's not gonna be a walk in the park, that's for sure.\n{====}Make sure you're absolutely ready before heading out.";
-	["75a34154f80d11ea8f7c3c15c2dd513c"] = "You met the Sonic Punk?\n{====}Ah, right... that's, uh... yeah...";
-	["75a342e4f80d11ea8f7c3c15c2dd513c"] = "It's not my fault.\n{====}It was bound to happen collecting samples in a place like that...";
-	["75a3438ef80d11ea8f7c3c15c2dd513c"] = "You should be able to buy King Krabs at the King Krab.";
-	["75a3442ef80d11ea8f7c3c15c2dd513c"] = "The creatures in Quake Valley can be a little... volatile. Be careful.";
-	["75a34550f80d11ea8f7c3c15c2dd513c"] = "You're here! Then, let's go!\n{====}To the hot springs!\n{choice:go}Let's go!\n{choice:wait}Wait a sec.";
-	["75a34762f80d11ea8f7c3c15c2dd513c"] = "You still have something to do? We'll wait here for you then.";
-	["95764a80889011ebb8f93c15c2dd513c"] = "I... apologize. I wasn't exactly truthful.\n{====}By the time I found you, the village, it was already...";
+	["75a33d08f80d11ea8f7c3c15c2dd513c"] = "{big}Agora não é hora de fazer perguntas. Você precisa ir para a estação!";
+	["75a33e16f80d11ea8f7c3c15c2dd513c"] = "Isso é o MIASMA!\n{====}Não deixe ele te tocar, ou é game over - literalmente!";
+	["75a33edef80d11ea8f7c3c15c2dd513c"] = "Oldtown não vai ser um passeio no parque, com certeza.\n{====}Certifique-se de estar absolutamente pronto antes de sair.";
+	["75a34154f80d11ea8f7c3c15c2dd513c"] = "Você encontrou o Sonic Punk?\n{====}Ah, certo... isso é, uh... sim...";
+	["75a342e4f80d11ea8f7c3c15c2dd513c"] = "Não é culpa minha.\n{====}Estava destinado a acontecer coletando amostras em um lugar assim...";
+	["75a3438ef80d11ea8f7c3c15c2dd513c"] = "Você deveria conseguir comprar King Krabs no King Krab.";
+	["75a3442ef80d11ea8f7c3c15c2dd513c"] = "As criaturas no Vale do Terremoto podem ser um pouco... voláteis. Tenha cuidado.";
+	["75a34550f80d11ea8f7c3c15c2dd513c"] = "Você está aqui! Então, vamos lá!\n{====}Para as fontes termais!\n{choice:go}Vamos!\n{choice:wait}Espera aí.";
+	["75a34762f80d11ea8f7c3c15c2dd513c"] = "Você ainda tem algo para fazer? Nós vamos esperar por você aqui então.";
+	["95764a80889011ebb8f93c15c2dd513c"] = "Peço desculpas. Eu não fui exatamente sincero.\n{====}Na época em que te encontrei, a vila, já estava...";
 	};
 }

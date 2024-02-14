@@ -101,7 +101,7 @@ return {
 	["description1::CitizenA_Farm"] = "Um músico que gosta de Octopia e do suco de John.";
 	["description2::CitizenA_Farm"] = "Silva reclama que ele está espantando os peixes, mas John gosta de sua cantoria.";
 	["name::CitizenD_Farm"] = "Tony";
-	["description1::CitizenD_Farm"] = "Se ele se desculpasse com Solomon, com certeza reconciliariam suas diferenças.";
+	["description1::CitizenD_Farm"] = "Se ele se desculpasse com Salomão, com certeza reconciliariam suas diferenças.";
 	["name::CitizenG_Farm"] = "Wang Hongbin";
 	["description1::CitizenG_Farm"] = "Guarda ressentimentos e se acha muito.";
 	["name::DamKidA_Farm"] = "Jackson";
@@ -180,10 +180,10 @@ return {
 	["description1::RobotDaniel_Farm"] = "Ele é bem-comportado e simples.";
 	["description2::RobotDaniel_Farm"] = "Um cara misterioso ajudou a atualizar sua IA. Agora, nenhuma tarefa é difícil demais para ele resolver.";
 	["description3::RobotDaniel_Farm"] = "Depois de receber uma câmera, ele se interessou pela fotografia.";
-	["name::Solomon_Farm"] = "Solomon";
-	["description1::Solomon_Farm"] = "Solomon vendeu a Fazenda Octopia para nós, mas ele parecia muito ansioso para fazer isso.";
-	["description2::Solomon_Farm"] = "Solomon perdeu o emprego, mas agora é o chefe da estação da Estação Octopia. Aquele chapéu parece elegante nele.";
-	["description3::Solomon_Farm"] = "É ótimo reconciliar com Solomon, mas eu não quero que ele saia de Octopia.";
+	["name::Solomon_Farm"] = "Salomão";
+	["description1::Solomon_Farm"] = "Salomão vendeu a Fazenda Octopia para nós, mas ele parecia muito ansioso para fazer isso.";
+	["description2::Solomon_Farm"] = "Salomão perdeu o emprego, mas agora é o chefe da estação da Estação Octopia. Aquele chapéu parece elegante nele.";
+	["description3::Solomon_Farm"] = "É ótimo reconciliar com Salomão, mas eu não quero que ele saia de Octopia.";
 	["name::Yuuyu_Farm"] = "Yuuyu";
 	["description1::Yuuyu_Farm"] = "Ele se esconde no baú de dinheiro devido ao seu amor insaciável por dinheiro. No entanto, ele realmente sabe muito sobre a fazenda.";
 	["description2::Yuuyu_Farm"] = "Ficou solitário após viver todo esse tempo apenas com um moinho de pedra.";
