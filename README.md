@@ -76,8 +76,8 @@ Agradecemos a todos que contribuem para este projeto. Sua paixão e dedicação 
 - [X] f3ceeb5d15be09aeb9395423f913ae08
 - [X] 4a5bb2241303eb6b90c258265fa21736
 - [X] 85efbb9226a1dddad443741e9ea07ebc
-- [ ] 341e6bb8929d91da602f53df0bf21db8
-- [ ] af35e610b51269d051826c2eb595b7a1
+- [x] 341e6bb8929d91da602f53df0bf21db8
+- [x] af35e610b51269d051826c2eb595b7a1
 - [ ] 42728413ee65018e0dd6621ac7dc2eb0
 - [ ] 9314a22a166ddd1bad2f4ea5e5f411d5
 - [ ] 957ed9b1b5a8e2fc810e94b87d50f68b
