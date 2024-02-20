@@ -73,17 +73,17 @@ Agradecemos a todos que contribuem para este projeto. Sua paixão e dedicação 
 - [x] 1fbba5dfab829f507358f58c1c2dc59a
 - [x] d858d56da15d75a9aaf8e34fea48fbd7
 - [x] 25e037c1a1d76edf4596890808e3938e
-- [X] f3ceeb5d15be09aeb9395423f913ae08
-- [X] 4a5bb2241303eb6b90c258265fa21736
-- [X] 85efbb9226a1dddad443741e9ea07ebc
+- [x] f3ceeb5d15be09aeb9395423f913ae08
+- [x] 4a5bb2241303eb6b90c258265fa21736
+- [x] 85efbb9226a1dddad443741e9ea07ebc
 - [x] 341e6bb8929d91da602f53df0bf21db8
 - [x] af35e610b51269d051826c2eb595b7a1
+- [x] b40fb2262862fc76d979588e49935c40
 - [ ] 42728413ee65018e0dd6621ac7dc2eb0
 - [ ] 9314a22a166ddd1bad2f4ea5e5f411d5
 - [ ] 957ed9b1b5a8e2fc810e94b87d50f68b
-- [ ] b40fb2262862fc76d979588e49935c40
 ### DLC
-- [X] 44b2427b16b64d28f973fdc4ac6c7da6
+- [x] 44b2427b16b64d28f973fdc4ac6c7da6
 - [x] 552a3f4c241cabf3c9c422916f5b397a
 - [x] d50648bd9983209f3ff7e1a3f5950df8
 ---
