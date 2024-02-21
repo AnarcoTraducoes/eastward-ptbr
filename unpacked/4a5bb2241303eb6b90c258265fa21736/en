@@ -2,8 +2,8 @@ return {
 ["MRPGTutorial.sq"]={
 	["32e8a6eaf80a11eaac1b3c15c2dd513c"] = "Está começando, está começando.";
 	["32e8a910f80a11eaac1b3c15c2dd513c"] = "Primeiro, você precisa planejar sua estratégia.";
-	["32e8aa5af80a11eaac1b3c15c2dd513c"] = "Ensine-lhe uma lição, Sam!\n{====}Primeiro? Use a habilidade de Ataque Forte do cavaleiro!";
-	["053fa296f99711ea99c53c15c2dd513c"] = "Primeiro, você precisa escolher \"Habilidade\". Em seguida, escolha \"Ataque Forte\".";
+	["32e8aa5af80a11eaac1b3c15c2dd513c"] = "Ensine-lhe uma lição, Sam!\n{====}Primeiro? Use a perícia de Ataque Forte do cavaleiro!";
+	["053fa296f99711ea99c53c15c2dd513c"] = "Primeiro, você precisa escolher \"Perícia\". Em seguida, escolha \"Ataque Forte\".";
 	["32e8ab7cf80a11eaac1b3c15c2dd513c"] = "O mercador é bem fraco. Mas temos... ISTO!";
 	["32e8ac8af80a11eaac1b3c15c2dd513c"] = "Pixball... VAI!";
 	["32e8ae4cf80a11eaac1b3c15c2dd513c"] = "Exatamente!\n{====}Agora você pode usar um item.\n{====}Apresse-se e escolha um item.";

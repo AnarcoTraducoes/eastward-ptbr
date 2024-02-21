@@ -931,7 +931,7 @@ return {
 	};
 ["Mine_StorageCave.sq"]={
 	["95694c82155511e9a9a83c15c2dd513c"] = "{~}Não... não... NÃO ME COMA!!";
-	["95694eb3155511e9b79c3c15c2dd513c"] = "*sniffle*...{.}*sniffle*...";
+	["95694eb3155511e9b79c3c15c2dd513c"] = "*sniff*...{.}*sniff*...";
 	["4671af4755e211e983713c15c2dd513c"] = "Bem, você não é um colírio para os olhos!\n{====}Eu pensei que você fosse uma daquelas criaturas carnívoras.\n{====}Sou eu! Dr. Charlatão!";
 	["eaf56421761b11e99ab23c15c2dd513c"] = "Não não não! Eu tenho que parar de me chamar assim!\n{====}Vou parar de receber pacientes!\n{====}A propósito, você sabia que essas lesmas secretam um gel muito peculiar?\n{====}Eles fazem! E pode até ser usado como uma espécie de adesivo para curar feridas.\n{====}É por isso que estou aqui, para colocar as mãos naquele gel!\n{====}{big}Mas como eu poderia saber o quão LOUCO aqueles ácaros mucilaginosos ficariam!\n{====}Eu não tive escolha a não ser me esconder aqui.";
 	["95695299155511e98bc03c15c2dd513c"] = "{~}N-não vá! Por favor, não vá!";

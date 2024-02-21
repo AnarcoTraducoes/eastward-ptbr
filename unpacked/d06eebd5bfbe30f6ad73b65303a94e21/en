@@ -32,7 +32,7 @@ return {
 	["WEAPONS"] = "ARMAS";
 	["QUEST ITEMS"] = "ITENS DE MISSÃO";
 	["Inventory"] = "Inventário";
-	["Quest Log"] = "Registro de missões";
+	["Quest Log"] = "Missões";
 	["Reciept"] = "Recibo";
 	["Status"] = "Status";
 	["Map"] = "Mapa";
