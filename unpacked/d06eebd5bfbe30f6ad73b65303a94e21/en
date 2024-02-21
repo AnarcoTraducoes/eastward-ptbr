@@ -99,7 +99,7 @@ return {
 	["move_down"] = "Baixo";
 	["interaction"] = "Interação";
 	["attack_main"] = "Ataque";
-	["attack_sec"] = "Habilidade";
+	["attack_sec"] = "Aptidão";
 	["switch_player"] = "Mudar personagem";
 	["toggle_separate"] = "Agrupar/Desagrupar";
 	["pouch"] = "Abra a mochila";
@@ -151,7 +151,7 @@ return {
 	["slot_stop"] = "Parar!";
 	["mrpg_start"] = "Iniciar";
 	["mrpg_resume"] = "Continuar";
-	["mrpg_manual"] = "Manual do jogo";
+	["mrpg_manual"] = "Manual";
 	["mrpg_screen"] = "Ajuste a tela";
 	["mrpg_reset"] = "Reiniciar";
 	["mrpg_quit"] = "Desistir";

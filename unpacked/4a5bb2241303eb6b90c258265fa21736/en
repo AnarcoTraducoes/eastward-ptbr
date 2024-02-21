@@ -2,30 +2,30 @@ return {
 ["MRPGTutorial.sq"]={
 	["32e8a6eaf80a11eaac1b3c15c2dd513c"] = "Está começando, está começando.";
 	["32e8a910f80a11eaac1b3c15c2dd513c"] = "Primeiro, você precisa planejar sua estratégia.";
-	["32e8aa5af80a11eaac1b3c15c2dd513c"] = "Ensine-lhe uma lição, Sam!\n{====}Primeiro? Use a perícia de Ataque Forte do cavaleiro!";
-	["053fa296f99711ea99c53c15c2dd513c"] = "Primeiro, você precisa escolher \"Perícia\". Em seguida, escolha \"Ataque Forte\".";
+	["32e8aa5af80a11eaac1b3c15c2dd513c"] = "Ensine-lhe uma lição, Sam!\n{====}Primeiro? Use a aptidão de Ataque Forte do cavaleiro!";
+	["053fa296f99711ea99c53c15c2dd513c"] = "Primeiro, você precisa escolher \"Aptidão\". Em seguida, escolha \"Ataque Forte\".";
 	["32e8ab7cf80a11eaac1b3c15c2dd513c"] = "O mercador é bem fraco. Mas temos... ISTO!";
 	["32e8ac8af80a11eaac1b3c15c2dd513c"] = "Pixball... VAI!";
 	["32e8ae4cf80a11eaac1b3c15c2dd513c"] = "Exatamente!\n{====}Agora você pode usar um item.\n{====}Apresse-se e escolha um item.";
 	["053faafcf99711ea99c53c15c2dd513c"] = "Você deveria usar um item aqui.";
-	["32e8afbef80a11eaac1b3c15c2dd513c"] = "Deixe-me dar uma dica.\n{====}{big}Mesmo que coloque o macaco na sua fileira de trás, ele ainda pode ajudar na luta.\n{====}Escolha \"Trocar\" e substitua-o pelo seu mago.";
-	["053fac3cf99711ea99c53c15c2dd513c"] = "Escolha \"Trocar,\" depois mova outro membro do grupo para a fileira da frente.";
-	["053fb222f99711ea99c53c15c2dd513c"] = "Assim mesmo! Agora, você pode usar as habilidades do seu mago!";
-	["32e8b0fef80a11eaac1b3c15c2dd513c"] = "Aqui vem! A habilidade máxima do Rei Demônio: Drenagem de Energia!";
+	["32e8afbef80a11eaac1b3c15c2dd513c"] = "Deixe-me dar uma dica.\n{====}{big}Mesmo que coloque o Macaco na sua fileira de trás, ele ainda pode ajudar na luta.\n{====}Escolha \"Trocar\" e substitua-o pelo seu Mago.";
+	["053fac3cf99711ea99c53c15c2dd513c"] = "Escolha \"Trocar\", depois mova outro membro do grupo para a fileira da frente.";
+	["053fb222f99711ea99c53c15c2dd513c"] = "Assim mesmo! Agora, você pode usar as aptidões do seu mago!";
+	["32e8b0fef80a11eaac1b3c15c2dd513c"] = "Aqui vem! A aptidão máxima do Rei Demônio: Drenagem de Energia!";
 	["32e8b234f80a11eaac1b3c15c2dd513c"] = "Agora, o que você vai fazer?!\n{====}Você não tem mais nenhum AP.";
 	["32e8b2c0f80a11eaac1b3c15c2dd513c"] = "Tudo de acordo com o plano!\n{====}Enquanto você continuar atacando, continuará acumulando AP.";
 	["32e8b3cef80a11eaac1b3c15c2dd513c"] = "Esta é a batalha final. Não podemos fugir.";
-	["32e8b590f80a11eaac1b3c15c2dd513c"] = "Aqui vem! A segunda habilidade máxima do Rei Demônio: Onda Hipnótica!";
+	["32e8b590f80a11eaac1b3c15c2dd513c"] = "Aqui vem! A segunda aptidão máxima do Rei Demônio: Onda Hipnótica!";
 	["32e8b61cf80a11eaac1b3c15c2dd513c"] = "Todos os monstros fortes usam esse movimento.";
 	["32e8b6daf80a11eaac1b3c15c2dd513c"] = "Este não é o momento para você se exibir!\n{====}Pense em uma maneira de SAIR dessa!";
 	["32e8b7d4f80a11eaac1b3c15c2dd513c"] = "Mas é esse o ponto. Não há uma maneira!\n{====}Seu grupo inteiro está sendo controlado agora. Você não pode fazer nada.";
 	["1ae420e42ca111eb801b3c15c2dd513c"] = "Primeiro, você precisa escolher \"Item.\" Em seguida, escolha \"Poção de AP\".";
-	["1ae422882ca111eb801b3c15c2dd513c"] = "Assim mesmo! Agora, poderemos usar algumas habilidades incríveis!";
+	["1ae422882ca111eb801b3c15c2dd513c"] = "Assim mesmo! Agora, poderemos usar algumas aptidões incríveis!";
 	["1ae425b22ca111eb801b3c15c2dd513c"] = "Tudo de acordo com o plano! Pixball—VAI!";
 	["1ae4281e2ca111eb801b3c15c2dd513c"] = "Ah, sim!\n{====}Em seguida, use uma \"Poção de AP\"!";	
 	};
 ["MRPGSQ.sq"]={
-	["6d556232893d11ea97073c15c2dd513c"] = "O jovem é despertado pelo zumbido das cigarras.\nDepois de intermináveis dias no mar, esta é a primeira vez que ele vê terra em meses.\nOnde é este lugar?\nMas sua pergunta é rapidamente abafada.\nO ancião da vila já lhe disse.\nUm continente misterioso, longe a leste e cercado por montanhas e mar.\nUma terra de perigo e infestada de monstros.\nMas também abrigando tesouros ilimitados.";
+	["6d556232893d11ea97073c15c2dd513c"] = "O jovem é despertado pelo zumbido\n das cigarras.\nDepois de intermináveis dias no\n mar, esta é a primeira vez que \nele vê terra em meses.\nOnde é este lugar?\nMas sua pergunta é rapidamente\n abafada.\nO ancião da vila já lhe disse.\nUm continente misterioso, longe\n a leste e cercado por montanhas\n e mar.\nUma terra de perigo e infestada\n de monstros.\nMas também abrigando tesouros ilimitados.";
 	["9f285db673fb11eaba9e3c15c2dd513c"] = "Você aí! Jovem!";
 	["9f285faa73fb11eaba9e3c15c2dd513c"] = "Posso ajudar, senhor?\nEu sou Rocket de Dam, um cavaleiro em treinamento.";
 	["9f28606873fb11eaba9e3c15c2dd513c"] = "Dam? Agora, há um lugar que eu não ouvi em minhas viagens.\nMas contos sobre vocês cavaleiros já chegaram aos meus ouvidos.\nDizem que vocês são campeões da justiça e vencedores do mal.";
@@ -113,7 +113,7 @@ return {
 	["9f28e4d473fb11eaba9e3c15c2dd513c"] = "Você parece ser um sujeito impressionante.\nDeixe-me juntar a você!";
 	["9f28e6b473fb11eaba9e3c15c2dd513c"] = "Estamos a caminho para salvar a princesa.";
 	["9f28e7b873fb11eaba9e3c15c2dd513c"] = "Parece ótimo.";
-	["9f28e90c73fb11eaba9e3c15c2dd513c"] = "Mas primeiro, precisamos aprimorar nossas habilidades em combate.";
+	["9f28e90c73fb11eaba9e3c15c2dd513c"] = "Mas primeiro, precisamos aprimorar nossas aptidões em combate.";
 	["9f28ea0673fb11eaba9e3c15c2dd513c"] = "Ouvi dizer que a princesa é bastante atraente.";
 	["9f28eb3c73fb11eaba9e3c15c2dd513c"] = "Não diga isso! Venha. Partimos imediatamente!";
 	["9f28ebf073fb11eaba9e3c15c2dd513c"] = "Pensei que você disse que íamos salvar a princesa.\nDo que estamos esperando aqui?";
@@ -176,7 +176,7 @@ return {
 	["c905ca3ae07811eab2673c15c2dd513c"] = "Certamente.\nTer um rapaz forte como você por perto...\nSeria melhor do que um daqueles guarda-costas avarentos.\nIsso me lembra, eu tenho algumas mercadorias à venda.\nE não se preocupe—elas definitivamente valem cada centavo!";
 	["38df304c92a111ea9a513c15c2dd513c"] = "{~}Cuidado! Um monstro!";
 	["38df316492a111ea9a513c15c2dd513c"] = "Não se preocupe. Deixe este cretino comigo!";
-	["38df32e092a111ea9a513c15c2dd513c"] = "Tão confiável quanto eu esperava!\nEu deveria ter sabido que um cavaleiro como você saberia como usar habilidades.";
+	["38df32e092a111ea9a513c15c2dd513c"] = "Tão confiável quanto eu esperava!\nEu deveria ter sabido que um cavaleiro como você saberia como usar aptidões.";
 	["c905cf30e07811eab2673c15c2dd513c"] = "Oh ho ho! Não tem medo de mim, né?\nEntão eu vou me banquetear com seus ossos também!";
 	["c905d19ce07811eab2673c15c2dd513c"] = "Eu não passo de uma simples garota camponesa...\nQue foi serendipitosamente salva por um cavaleiro depois de ser atacada por monstros.";
 	["c905d2bee07811eab2673c15c2dd513c"] = "Tudo bem então, simples garota camponesa...\nSerendipitosamente salva por um cavaleiro depois de ser atacada por monstros.\nPosso perguntar o seu nome?";

@@ -143,7 +143,7 @@ return {
 	["msg::award_money"] = "Recebeu {money} de ouro.";
 	["msg::award_usury_money"] = "Juros cobrados de {actor}.";
 	["msg::usury_end"] = "A dívida de {actor} foi paga.";
-	["msg::usury_money"] = "O mercador retira {money} de ouro do princípio.";
+	["msg::usury_money"] = "O comerciante retira {money} de ouro do princípio.";
 	["msg::award_item"] = "Recebeu o item: {item}";
 	["msg::award_equip"] = "Recebeu o equipamento: {equip}";
 	["msg::level_up"] = "{actor} atinge o nível {level}!";
@@ -175,7 +175,7 @@ return {
 	["msg::defend"] = "Defender";
 	["msg::retreat"] = "Fugir";
 	["msg::item"] = "Item\n";
-	["msg::skill"] = "Perícia";
+	["msg::skill"] = "Aptidão";
 	["msg::switch"] = "Trocar";
 	["msg::tavern"] = "Taberna";
 	["msg::spa"] = "Massagem";
@@ -534,7 +534,7 @@ return {
 	["content::choose_target"] = "Escolher Alvo";
 	["content::choose_hero"] = "Escolher Herói";
 	["content::attack"] = "Atacar";
-	["content::skill"] = "Habilidade";
+	["content::skill"] = "Aptidão";
 	["content::item"] = "Item";
 	["content::switch"] = "Trocar";
 	["content::turn"] = "Turno";

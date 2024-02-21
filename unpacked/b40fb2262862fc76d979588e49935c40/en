@@ -274,14 +274,14 @@ return {
 	["68638836f80911eaac1b3c15c2dd513c"] = "Se Chevis não trazer o bacon para casa...\n{====}...o bacon vai trazer Chevis! Je serai viré!";	
 	};
 ["CH_Juggler.sq"]={
-	["4e844559d2ac11e9aa423c15c2dd513c"] = "Não gosto daquele sujeito chamado Jasper.\n{====}Quem ele pensa que é para ficar dando ordens para todo mundo, hein?\n{====}Ele acabou de chegar!"
+	["4e844559d2ac11e9aa423c15c2dd513c"] = "Não gosto daquele sujeito chamado Jasper.\n{====}Quem ele pensa que é para ficar dando ordens para todo mundo, hein?\n{====}Ele acabou de chegar!";
 	};
 ["CH_LiuJiang.sq"]={
 	["4e8a4b59d2ac11e9b1c83c15c2dd513c"] = "Nem sempre foi assim, sabe.\n{====}Antigamente, este lugar estaria cheio de gente até transbordar.\n{====}Não haveria nem lugar para ficar em pé!";
 	["4e8a4ce6d2ac11e988cc3c15c2dd513c"] = "Não tenho certeza de como as coisas chegaram a esse ponto.";
 	["4e8a4dcfd2ac11e9b4963c15c2dd513c"] = "Pode ser finalmente hora de eu fazer minhas malas...";
 	["4e8a4f40d2ac11e9a5203c15c2dd513c"] = "Acho que não vou precisar daquela roupa antiga por muito mais tempo...";
-	["4e8a5199d2ac11e99f6f3c15c2dd513c"] = "Vocês realmente salvaram este lugar, sabia?\n{====}Se precisarem de algo, é só pedir.\n{====}Tenho certeza de que todos nós faríamos o que pudéssemos para ajudar."	
+	["4e8a5199d2ac11e99f6f3c15c2dd513c"] = "Vocês realmente salvaram este lugar, sabia?\n{====}Se precisarem de algo, é só pedir.\n{====}Tenho certeza de que todos nós faríamos o que pudéssemos para ajudar.";
 	};
 ["CH_Lili.sq"]={
 	["4e8cd4c2d2ac11e995d33c15c2dd513c"] = "Não posso dizer que tenho interesse em alguém como você.\n{====}Quer brincar? Vai procurar aquele robô.";
@@ -906,10 +906,10 @@ return {
 	};
 ["CH_Irish.sq"]={
 	["4e902ae6d2ac11e9a2423c15c2dd513c"] = "Oh, Meninos do Carnaval, as multidões, as multidões estão chamando\n{====}De barraca em barraca, e ao longo do lado do ringue\n{====}O verão se foi, e o dinheiro está diminuindo\n{====}Somos nós, somos nós que devemos ir, embora possamos chorar.";
-	["4e902d66d2ac11e981cc3c15c2dd513c"] = "Mas volte quando o dinheiro não for um problema\n{====}Ou quando os assentos estiverem lotados e cheios de admiração\n{====}Estaremos aqui quando precisar de risadas\n{====}Oh, Meninos do Carnaval, oh Meninos do Carnaval, eu amo vocês tanto!"		
+	["4e902d66d2ac11e981cc3c15c2dd513c"] = "Mas volte quando o dinheiro não for um problema\n{====}Ou quando os assentos estiverem lotados e cheios de admiração\n{====}Estaremos aqui quando precisar de risadas\n{====}Oh, Meninos do Carnaval, oh Meninos do Carnaval, eu amo vocês tanto!";
 	};
 ["CH_Jasper.sq"]={
-	["4e887121d2ac11e9ae713c15c2dd513c"] = "Eu... Eu realmente não quero sair ainda."
+	["4e887121d2ac11e9ae713c15c2dd513c"] = "Eu... Eu realmente não quero sair ainda.";
 	};
 ["CH_Keroman.sq"]={
 	["4e8817c0d2ac11e9a0bd3c15c2dd513c"] = "Este é meu lugar de pesca.\n{====}Eu cheguei primeiro. Sem espaço para você.\n{====}Que tal você levar isso no lugar?";
@@ -922,7 +922,7 @@ return {
 	["4e88208ad2ac11e981263c15c2dd513c"] = "Sim! MIASMA! Você precisa ir para o Coin Palace!\n{====}Todo mundo está se escondendo lá dentro!";
 	["3d944d4adc4211e99d723c15c2dd513c"] = "Esse camarada não fala. Ele é como eu.\n{====}Eu pesquei você?\n{====}Talvez. Quem sabe.";
 	["3d944f51dc4211e98d973c15c2dd513c"] = "Esse sujeito era um mergulhador.\n{====}Pelo menos foi o que ele escreveu naqueles papéis.";
-	["4e882166d2ac11e98bd13c15c2dd513c"] = "Não posso voltar para o lugar de pesca por causa do MIASMA.\n{====}Mas talvez eu te conte um segredo.\n{====}Tente pescar depois do MIASMA. Muitos peixes raros!"	
+	["4e882166d2ac11e98bd13c15c2dd513c"] = "Não posso voltar para o lugar de pesca por causa do MIASMA.\n{====}Mas talvez eu te conte um segredo.\n{====}Tente pescar depois do MIASMA. Muitos peixes raros!";
 	};
 ["CH_Sawcoper.sq"]={
 	["4e919eb3d2ac11e9b8b23c15c2dd513c"] = "Lanches, lanches. Pacotes de lanches. Pegue seu pacote de lanches hoje!";

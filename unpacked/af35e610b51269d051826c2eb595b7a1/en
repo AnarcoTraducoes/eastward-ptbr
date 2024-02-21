@@ -823,7 +823,7 @@ return {
 ["CH_Bebe.sq"]={
 	["5f5bb3c8b13511ea9dc73c15c2dd513c"] = "Nós trabalhamos tão bem juntos... O que acha? Você? Eu? Jantar?\n{====}Eu não dou essa oportunidade para qualquer um, sabe.";
 	["5f5bb51cb13511ea9dc73c15c2dd513c"] = "Isso significa que você está indo para a Cidade de Ester, então?\n{====}Que pena. Eu estava esperando tomar um drinque com você algum dia.";
-	["23853675174a11eaaa8e3c15c2dd513c"] = "Você só fica mais encantador, não é?\n{====}Ainda estou esperando por aquele convite seu, sabe."	
+	["23853675174a11eaaa8e3c15c2dd513c"] = "Você só fica mais encantador, não é?\n{====}Ainda estou esperando por aquele convite seu, sabe.";
 	};
 ["CH_Tafuro.sq"]={
 	["238504cf174a11ea8a253c15c2dd513c"] = "Aquele Rotondo saiu correndo de novo. Que medroso! Eeek!\n{====}Do jeito que está, esse papel é MEU!";
