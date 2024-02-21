@@ -79,7 +79,7 @@ Agradecemos a todos que contribuem para este projeto. Sua paixão e dedicação 
 - [x] 341e6bb8929d91da602f53df0bf21db8
 - [x] af35e610b51269d051826c2eb595b7a1
 - [x] b40fb2262862fc76d979588e49935c40
-- [ ] 42728413ee65018e0dd6621ac7dc2eb0
+- [x] 42728413ee65018e0dd6621ac7dc2eb0
 - [ ] 9314a22a166ddd1bad2f4ea5e5f411d5
 - [ ] 957ed9b1b5a8e2fc810e94b87d50f68b
 ### DLC
