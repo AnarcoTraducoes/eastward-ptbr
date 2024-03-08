@@ -260,9 +260,9 @@ return {
 	["desc::CollectGachaAll"] = "Colete cada Pixball.";
 	["name::FightStoneKill"] = "Apedrejado até a morte";
 	["desc::FightStoneKill"] = "Derrote um inimigo usando a desordem vinda do chão.";
-	["name::FightCooperation"] = "Não eu na equipe";
+	["name::FightCooperation"] = "Trabalho em equipe";
 	["desc::FightCooperation"] = "Derrotar um inimigo enquanto está sendo controlado por Sam.";
-	["name::AllJobs"] = "Jack de todos os ofícios";
+	["name::AllJobs"] = "Pau pra toda obra";
 	["desc::AllJobs"] = "Experimente todos os cinco empregos com John.";
 	["name::SaltBug"] = "Salgado fedorento rico";
 	["desc::SaltBug"] = "Obtenha 1.000 sal de um Salt Bug.";
@@ -306,10 +306,10 @@ return {
 	["extra"] = "Extra";
 	["setting"] = "Configurações";
 	["exit"] = "Sair";
-	["copyright_PXP"] = "© 2023 Anarco Traduções";
+	["copyright_PXP"] = "© 2024 Anarco Traduções";
 	["copyright_CF"] = "© 2021 Chucklefish Ltd";
 	["copyright_XD"] = "© 2021 Pixpil";
-	["press_any_key"] = "Pressione qualquer botão";
+	["press_any_key"] = "Aperte algum botão";
 	["continue"] = "Continue";
 	["select_file"] = "Carregar arquvio";
 	["select_session"] = "Selecionar arquivo";
@@ -465,7 +465,7 @@ return {
 	["Knock"] = "Bater";
 	["buy"] = "Comprar";
 	["trigger_pachinko"] = "Jogar";
-	["Tear"] = "Enganar";
+	["Tear"] = "Rasgar";
 	["MiniGame"] = "Jogar Earth Born";
 	["GetBombBack"] = "Recuperar a bomba";
 	["Play_Gasha"] = "Jogar";
@@ -496,7 +496,7 @@ return {
 	["PushRaft"] = "Enpurrar jangada";
 	};
 ["chapter_end"]={
-	["ch_1_end"] = "Charon grita enquanto atravessa a Ilha Potrock.\nEnquanto John vigia a janela, ele tem um pensamento.\nÉ a primeira vez em sua vida que ele pensou.\nPequeno, ele pensa.\nTão pequeno, eles passam em um piscar de olhos.\n...\nJohn! Essa é a nossa casa!\nSam grita enquanto ela olha pela janela.\nEssa é a nossa casa!\nSim, John pensa. Essa é a nossa casa.";
+	["ch_1_end"] = "Charon grita enquanto atravessa a Ilha Potrock.\nEnquanto John vigia a janela, ele tem um pensamento.\nÉ a primeira vez em sua vida que ele pensou.\nPequeno, ele pensa.\nTão pequeno, eles crescem em um piscar de olhos.\n...\nJohn! Essa é a nossa casa!\nSam grita enquanto ela olha pela janela.\nEssa é a nossa casa!\nSim, John pensa. Essa é a nossa casa.";
 	["ch_2_end"] = "O trem acelera.\nAs luzes dos sinais da ferrovia deixam estrias vermelhas na noite negra.\nO MIASMA serpenteia pelas encostas das falésias íngremes como um alpinista incansável.\nA fábrica foi ativada.\nEm breve, Greenberg receberá seus novos residentes.";
 	["ch_3_end"] = "A luz da lua ilumina o caminho de volta para a cidade.\nÉ a primeira vez que Sam é capaz de admirar o céu desde que atingiu a superfície.\nE que visão bonita é.\nTão grande e vasto que poderia engoli-la.\nMas há algo decepcionante nisso também.\nIsso não é apenas mais uma cúpula? Mais alto que o da Ilha Potcrock, mas ainda.\nO que poderia ser do outro lado daquela cúpula?\nEla terá que perguntar a Alva.\nAlva sabe tudo.\nTudo o que há para saber.";
 	["ch_4_end"] = "Os super-heróis do outro lado da tela têm sido ídolos para crianças.\nConstruímos um esconderijo secreto do lixo.\nUm símbolo de segurança. De diversão e liberdade.\nAté que não fosse mais.\nQuando cresceu tão frágil?\nAgora suscetível de entrar em colapso em nada mais que o golpe de uma vassoura, a mudança das estações ou uma rajada de vento.\nNós esquecemos.";

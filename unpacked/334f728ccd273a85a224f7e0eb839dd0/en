@@ -153,9 +153,9 @@ return {
 	["name::龙门市场"] = "Dragon Market";
 	["name::古代遗迹"] = "Ruínas antigas";
 	["name::怪异森林"] = "Strange Forest";
-	["name::长老公馆"] = "Propriedade do prefeito";
+	["name::长老公馆"] = "Propriedade do Prefeito";
 	["name::「卡戎」"] = "Charon";
-	["name::学校前"] = "Frente Escolar";
+	["name::学校前"] = "Frente da Escola";
 	["name::「挖掘家」宿舍"] = "Dormitórios de escavadores";
 	["name::车站大厅"] = "Saguão da estação";
 	["name::地底洞穴"] = "Túnel subterrâneo";
@@ -205,7 +205,7 @@ return {
 	["text::YokujoFinish"] = "Todos os dias têm sido uma aventura desde que chegamos a New Dam City, desde nos tornarmos assistentes de laboratório de Alva até ganhar uma aposta contra Lee. Eu gostaria de poder contar tudo isso aos meus amigos da Ilha Potcrock! Mas ainda mais, espero que possamos ficar em New Dam City para sempre.";
 	};
 ["CH_Fridge_mini.sq"]={
-	["cd27917d1a3611ea86ac8c85907abf45"] = "Você pode refrigerar suas memórias aqui.\n{====}Mas quando você os retira novamente...\n{====}...o novo você realmente será você?";
+	["cd27917d1a3611ea86ac8c85907abf45"] = "Você pode refrigerar suas memórias aqui.\n{====}Mas quando você as retira novamente...\n{====}...o novo você, ainda será você?";
 	["cd2792dc1a3611ea94688c85907abf45"] = "Que estranho...\n{====}Você deve ter passado por muita coisa.\n{====}Há ainda mais... cores em suas memórias do que antes.";
 	["66657116f80911eaac1b3c15c2dd513c"] = "Sempre que você me encontrar na selva, certifique-se de salvar suas memórias.\n{====}Você nunca sabe o que pode esperar por você no caminho a seguir.";
 	["cd2793c21a3611eabdda8c85907abf45"] = "Você já ouviu?\n{====}{big}Dizem que você pode ver outro mundo através da estática da televisão.";
@@ -214,7 +214,7 @@ return {
 	["cd2795331a3611eaba9f8c85907abf45"] = "O desespero é como o gelo em suas memórias.\n{====}Até que você consiga esquecer, o gelo nunca derreterá.";
 	["6665727ef80911eaac1b3c15c2dd513c"] = "Existem inúmeras memórias aqui, algumas até mais antigas que eu.\n{====}Mas tenho medo de que ninguém os carregue novamente...";
 	["666572d8f80911eaac1b3c15c2dd513c"] = "Há uma baleia gigante no topo desta montanha.\n{====}Diz a lenda, é um monstro que consome memórias.";
-	["cd27969c1a3611eab4758c85907abf45"] = "{signal:open}Salve suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
+	["cd27969c1a3611eab4758c85907abf45"] = "{signal:open}Salvar suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
 	};
 ["quest_CH7"]={
 	["text::EsterCity"] = "Um segundo, estamos em Ester City. E o próximo? Fomos levados para a Ilha do Tempo!";
@@ -270,7 +270,7 @@ return {
 	["name::shotgun"] = "Arma Bang-Bang";
 	["desc::shotgun"] = "Uma arma poderosa com alcance limitado.";
 	["name::stick"] = "Frigideira";
-	["desc::stick"] = "Uma arma básica. Também os utensílios de cozinha favoritos de John.";
+	["desc::stick"] = "Uma arma básica. Também um dos utensílios de cozinha favoritos de John.";
 	["name::flame"] = "Cetro de chama";
 	["desc::flame"] = "Uma arma do tipo lança-chamas. Cuidado com sua munição!";
 	["name::cog"] = "Atirador de engrenagens";
@@ -289,7 +289,7 @@ return {
 	["desc::service_charge_ammo"] = "Use para reabastecer imediatamente sua munição e bombas.";
 	["name::part_hp"] = "Jóia Coração";
 	["detail::shotgun"] = "Embora poderoso, a intensidade de seu ruído não é um bom presságio para sua popularidade.";
-	["detail::stick"] = "A panela favorita de John. Diz a lenda que algumas meninas também usaram isso como arma. Não se esqueça de limpá-la após a batalha antes de usá-lo para cozinhar novamente!";
+	["detail::stick"] = "A panela favorita de John. Diz a lenda que algumas meninas também usaram isso como arma. Não se esqueça de limpá-la após a batalha e antes de usá-la para cozinhar novamente!";
 	["detail::flame"] = "Uma velha pistola de água do avô de Alva que o Sonic Punk transformou em uma arma flamejante de destruição.";
 	["detail::cog"] = "Um adereço de Monkollywood. Foi demonstrado que é um risco à segurança, no entanto, e eles estão eliminando isso gradualmente.";
 	["detail::bomb"] = "Os designs das bombas podem diferir entre as regiões, mas todas têm o mesmo propósito: explodir coisas.";
@@ -330,8 +330,8 @@ return {
 	["desc::info_cap_pouch"] = "Mochila do John.";
 	["detail::info_cap_pouch"] = "Pense cuidadosamente em cada item que você coloca dentro. Espaço é limitado.";
 	["name::info_sam_energy"] = "Sam";
-	["desc::info_sam_energy"] = "Usar o poder de Sam consome sua energia. Ele irá reabastecer lentamente com o tempo.";
-	["detail::info_sam_energy"] = "Usar o poder de Sam consome sua energia. Ele irá reabastecer lentamente com o tempo.";
+	["desc::info_sam_energy"] = "Usar o poder de Sam consome sua energia. Ela irá reabastecer lentamente com o tempo.";
+	["detail::info_sam_energy"] = "Usar o poder de Sam consome sua energia. Ela irá reabastecer lentamente com o tempo.";
 	["name::info_sam_orb"] = "Bolha de Energia";
 	["desc::info_sam_orb"] = "O orbe de luz de Sam. Pode ser usado para contrair monstros.";
 	["detail::info_sam_orb"] = "O orbe de luz de Sam. Não pode ser usado em humanos, mas pode ter outras finalidades.";
@@ -483,7 +483,7 @@ return {
 	["name::Sansey"] = "Sansey";
 	["name::RobotBarman"] = "Terminal de culinária";
 	["name::Boguta"] = "Bogotá";
-	["name::CaptainTiger"] = "Captão Tiger";
+	["name::CaptainTiger"] = "Capitão Tiger";
 	["name::OldArthur"] = "Velho Arthur";
 	["name::Carota"] = "Cenourinha";
 	["name::Hunt"] = "Caçador";
@@ -503,7 +503,7 @@ return {
 	["name::RocketHead"] = "Albert";
 	["name::SandGearVendor"] = "Johnny";
 	["name::SandGrocer"] = "Chang";
-	["name::Tacoma"] = "Diretor Tacoma";
+	["name::Tacoma"] = "Diretora Tacoma";
 	["name::TeacherReal"] = "Senhorita Real";
 	["name::Yocar"] = "Yocar";
 	["name::YocarRed"] = "Grande Yocar";
@@ -694,7 +694,7 @@ return {
 	["name::Noname_woman"] = "???";
 	["name::FakeSam"] = "???";
 	["name::Fridge"] = "Geladeira";
-	["name::Fridge_mini"] = "Mni Geladeira";
+	["name::Fridge_mini"] = "Geladeirinha";
 	["name::Noname_Sam"] = "???";
 	["name::Noname_Isabel"] = "???";
 	["name::Noname_Alva"] = "???";
@@ -754,13 +754,13 @@ return {
 ["CH_Fridge.sq"]={
 	["cd273b281a3611eab5038c85907abf45"] = "Se você conseguisse a memória de outras pessoas...\n{====}...você seria você? Ou eles?";
 	["cd273f751a3611eaa6018c85907abf45"] = "Mantenha seu progresso atual aqui comigo.\n{====}Então, se for derrotado em batalha, poderá começar de novo a partir daqui.";
-	["cd2740971a3611eab4f68c85907abf45"] = "Levamos muito esforço para descobrir uma maneira de salvar nossas memórias.\n{====}Mas e se essas memórias que você salva não forem quem você é de verdade?";
+	["cd2740971a3611eab4f68c85907abf45"] = "Nos esforçamos muito para descobrir uma maneira de salvar nossas memórias.\n{====}Mas e se essas memórias que você salva não forem quem você é de verdade?";
 	["cd2742e61a3611eab1858c85907abf45"] = "Isto aqui é uma floresta..\n{====}Se você cortar uma árvore, ainda será uma floresta.\n{====}Mas e se você cortar metade das árvores?\n{====}E se você deixar apenas uma única árvore??\n{====}Quando é que uma floresta... deixa de ser uma floresta?";
 	["cd2743851a3611eaa97b8c85907abf45"] = "Você é uma teia de aranha esticada no tempo.\n{====}E as memórias ficam presas em você, assim como pequenos insetos.\n{====}Mas de vez em quando, alguém desliza silenciosamente...\n{====}E é por isso, meu amigo, que você esquece as coisas.";
 	["cd2745511a3611ea85978c85907abf45"] = "{big}O vento pode afastar o MIASMA, mas não pode dissipar a névoa que envolve o seu coração.";
 	["cd2746871a3611eaa8cb8c85907abf45"] = "Já vi alguns filmes antes. Alguns foram ótimos. Mas a maioria era horrível.\n{====}Suponho que os filmes aqui constituem principalmente o último.";
 	["cd2749c51a3611eab5448c85907abf45"] = "Você realmente precisa ir desta vez? Vou sentir sua falta.\n{====}{box_size:big}Nos próximos dias, serei como uma partícula, uma onda, viajando pelo universo.\n{====}O universo chamado John.";
-	["cd274a661a3611eaa3a58c85907abf45"] = "Esses segredos que você guarda deveriam agradecer.\n{====}Segredos só são segredos porque você os conhece.";
+	["cd274a661a3611eaa3a58c85907abf45"] = "Esses segredos que você guarda deveriam te agradecer.\n{====}Segredos só são segredos porque você os conhece.";
 	["cd274ba31a3611eaa5db8c85907abf45"] = "Quer salvar seu jogo?\nEu posso fazer isso por você. Mas ...{,,}\n{====}...você sabe, ainda estou me aquecendo.";
 	["cd274c781a3611eaac498c85907abf45"] = "{signal:open}Salvar suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
 	["666538b8f80911eaac1b3c15c2dd513c"] = "Você coloca as coisas na geladeira na esperança de que elas permaneçam boas para sempre.\n{====}{big}Mas da próxima vez que você abrir a geladeira, eles já podem estar estragados.";
@@ -854,7 +854,7 @@ return {
 	};
 ["CH_FloatFridge.sq"]={
 	["bf9c42d2654611eb85da3c15c2dd513c"] = "Que lugar bastante estranho, você não concorda?\n{====}Algumas pessoas gostam de colecionar máquinas.\n{====}Naturalmente, as máquinas também coletarão pessoas.";
-	["bf9c45f2654611eb85da3c15c2dd513c"] = "{signal:open}Salve suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
+	["bf9c45f2654611eb85da3c15c2dd513c"] = "{signal:open}Salvar suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
 	};
 ["StoreFoodName"]={
 	["name::gel"] = "Bebida Energética";
@@ -1071,11 +1071,11 @@ return {
 ["quest_CH1"]={
 	["text::Tour"] = "A vida de um escavador";
 	["text::TourTown"] = "Corra para o local de escavação. Se você se atrasar, seu pagamento será descontado...";
-	["text::TourMine"] = "Salve o local de escavação do ataque de slug.";
+	["text::TourMine"] = "Salve o local de escavação do ataque das lesmas.";
 	["text::AfterCount"] = "Peça a Mason, do Rancho Sunnyside, para consertar a panela de John. Caso contrário, você não conseguirá fazer o jantar.";
 	["text::PanFixed"] = "A panela está concertada e mais forte também! Mas primeiro? Jantar.";
 	["text::Bully"] = "Dias escolares";
-	["text::BullySchool"] = "Hoje é meu primeiro dia de aula. Vamos nos apressar para não me atrasar.";
+	["text::BullySchool"] = "Hoje é meu primeiro dia de aula. Vamos nos apressar para \nnão me atrasar.";
 	["text::BullyMayor"] = "Preciso de uma carta de referência do prefeito para poder ir para a escola.";
 	["text::BullyDaniel"] = "Graças ao Chuck, recebemos a carta de referência. De volta à escola então!";
 	["text::BullyKillTime"] = "Ainda falta muito tempo para o fim das aulas. Vá passar algum tempo pela cidade.";
@@ -1215,7 +1215,7 @@ return {
 	["Recipe::bai_qie_ji"] = "Ferva, corte, coloque em um molho.";
 	["name::chips"] = "Fritas";
 	["desc::chips"] = "Um lanche frito simples.";
-	["detail::chips"] = "Desfrute das batatas fritas como lanche, acompanhando o seu prato preferido ou até como prato. Quando você escolhe batatas fritas, você escolhe certo.";
+	["detail::chips"] = "Desfrute das batatas fritas como lanche, acompanhando o seu prato preferido ou até como prato. Batatas fritas são a escolha certa.";
 	["Recipe::chips"] = "O segredo das melhores batatas fritas é a temperatura do óleo.";
 	["name::lasagne"] = "Lasanha";
 	["desc::lasagne"] = "Delicado e rico.";

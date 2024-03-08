@@ -2,11 +2,11 @@ return {
 ["CH_MomGlass.sq"]={
 	["b91eaf26868c11e8afcd3c15c2dd513c"] = "Você fica longe do meu filho, você ouviu?";
 	["b91eb17d868c11e894883c15c2dd513c"] = "Ele vai conseguir grandes coisas um dia. Ao contrário de você!";
-	["b91eb34a868c11e8b8133c15c2dd513c"] = "Então. John se foi e se machucou, não foi? Hmph!\n{====}Provavelmente estava chegando!";
+	["b91eb34a868c11e8b8133c15c2dd513c"] = "Então. John foi e se machucou, não foi? Hmph!\n{====}A culpa foi sua!";
 	["b91eb551868c11e8900e3c15c2dd513c"] = "Escola?\n{==}Suba as escadas e siga em frente, obviamente!";
 	["b91eb691868c11e883743c15c2dd513c"] = "A meu ver, VOCÊ é quem precisa de uma educação adequada.";
 	["b91eb82b868c11e8a58c3c15c2dd513c"] = "Me deixe em paz.";
-	["b91eba8f868c11e89bd53c15c2dd513c"] = "Qual foi o pensamento principal?\n{====}Permitir uma criança assim na escola!";
+	["b91eba8f868c11e89bd53c15c2dd513c"] = "O que a diretora estava pensando?\n{====}Permitir uma criança assim na escola!";
 	};
 ["CH_FarmerC.sq"]={
 	["229a7c1cae0d11e8be423c15c2dd513c"] = "Escola... com certeza sinto falta agora.\n{====}A mesa perto da janela era minha, você sabe.";
@@ -32,10 +32,10 @@ return {
 	["b91e1028868c11e8961e3c15c2dd513c"] = "Senhor Don!";
 	["b91e10dc868c11e883063c15c2dd513c"] = "Se não é a pequena Sammy! Você vai ao local de escavação novamente hoje?\n{====}Fique perto de John, agora, você ouve?\n{====}Não gostaria que você esbarrasse em nenhuma criaturinha travessa.";
 	["b91e119c868c11e89d443c15c2dd513c"] = "Deve ser tão difícil cuidar da pequena Sammy sozinho.";
-	["ed75a270dc1811e88c1a3c15c2dd513c"] = "Veja se você ouve John agora, pequena Sammy.\n{====}Você não deve estar sempre correndo, causando problemas a ele.";
+	["ed75a270dc1811e88c1a3c15c2dd513c"] = "Vê se escuta o John agora, pequena Sammy.\n{====}Você não deve ficar sempre correndo e causando problemas a ele.";
 	};
 ["SandTown_DanielTrapped.sq"]={
-	["1a40127a88e511e8b0013c15c2dd513c"] = "{~}Aqui! eu o encontrei!";
+	["1a40127a88e511e8b0013c15c2dd513c"] = "{~}Aqui! Eu o encontrei!";
 	["1a40159c88e511e8a2c73c15c2dd513c"] = "V-você... Como você...?";
 	["1a40188088e511e880cb3c15c2dd513c"] = "Tudo vai ficar bem. Estamos aqui para resgatar você!";
 	["48ea37f3155511e9b1f93c15c2dd513c"] = "Daniel!";
@@ -47,7 +47,7 @@ return {
 	["1a64e3f388e511e899633c15c2dd513c"] = "De jeito nenhum eu ouvi errado.";
 	["1a64e4ba88e511e8912c3c15c2dd513c"] = "OK então!";
 	["1a64e72688e511e89d0e3c15c2dd513c"] = "Eu tenho uma ideia.";
-	["1a64e91188e511e897083c15c2dd513c"] = "Esse é o pai do Cabeça de Algodão.";
+	["1a64e91188e511e897083c15c2dd513c"] = "Esse é o pai da Cabeça de \nAlgodão.";
 	["1a64ea0c88e511e8aa723c15c2dd513c"] = "Hora da aula! Vamos!";
 	};
 ["CH_FarmerA.sq"]={
@@ -61,17 +61,17 @@ return {
 	["b91c632e868c11e8800c3c15c2dd513c"] = "Cuidado, porém, John.\n{====}Aqueles brilhantes vão te dar uma chance pelo seu dinheiro.";
 	["b91c6414868c11e88bfa3c15c2dd513c"] = "C-... como aquela coisa fechou sozinha?";
 	["b91c64bd868c11e8bc323c15c2dd513c"] = "De qualquer forma. Não parece que a chave do depósito está aqui.";
-	["b91c657d868c11e8bd553c15c2dd513c"] = "O prefeito pergunta, é melhor você não contar que foi para a Terra Proibida.";
-	["cd303302256111ea80c73c15c2dd513c"] = "Droga! Sandrupes novamente!\n{====}Não posso ser pago em dinheiro pela primeira vez?\n{====}Eu não comi nada além de sandrupes durante todo o mês...";
-	["cc7696cccfad11e98b383c15c2dd513c"] = "Bem. Menos coisas deram certo.";
+	["b91c657d868c11e8bd553c15c2dd513c"] = "Se o prefeito perguntar, é melhor você não contar que foi para a Terra Proibida.";
+	["cd303302256111ea80c73c15c2dd513c"] = "Droga! Sandrupes novamente!\n{====}Não posso ser pago em dinheiro pelo menos uma vez?\n{====}Eu não comi nada além de sandrupes durante todo o mês...";
+	["cc7696cccfad11e98b383c15c2dd513c"] = "Bem, pelo menos as coisas deram certo.";
 	["cc76b3d1cfad11e999c23c15c2dd513c"] = "Tenho que admitir, John. Você realmente nos tira de algumas dificuldades.";
 	["cc76b80acfad11e9a3a93c15c2dd513c"] = "Acho que você vai para a escola amanhã. Não é mesmo, Pequena Sammy?";
 	["cc76baf8cfad11e993e33c15c2dd513c"] = "Vai parecer muito vazio por aqui sem você.";
 	["cc770863cfad11e992c43c15c2dd513c"] = "Eu voltarei! Eu prometo!";
 	["cc773a97cfad11e9b2793c15c2dd513c"] = "Não vá matar aula agora!\n{====}Você tem que ouvir aquele professor que é seu.";
 	["cc775311cfad11e988633c15c2dd513c"] = "{<}Sim, sim. Eu sei eu sei!";
-	["cc777894cfad11e9a0d83c15c2dd513c"] = "Você não \"eu sei.\" Nós falamos sério!\n{====}Não quero que você seja enviado para Charon por nossa conta.\n{====}Não é mesmo, John?{stop}";
-	["cc77d97dcfad11e98f2d3c15c2dd513c"] = "Sim! Não há nada que aquele velho idiota não consiga consertar.\n{====}Você pode encontrar o cavalheiro no Rancho Sunnyside.\n{====}Veja se ele não consegue sintonizar aquele cachorrinho para você.";
+	["cc777894cfad11e9a0d83c15c2dd513c"] = "Você não \"eu sei.\" Nós falamos sério!\n{====}Não quero que você seja enviada para Charon por nossa conta.\n{====}Não é mesmo, John?{stop}";
+	["cc77d97dcfad11e98f2d3c15c2dd513c"] = "Sim! Não há nada que aquele velho idiota não consiga consertar.\n{====}Você pode encontrar o cavalheiro no Rancho Sunnyside.\n{====}Veja se ele não consegue consertar para você.";
 	};
 ["CH_Carota.sq"]={
 	["b91ae594868c11e8b4f83c15c2dd513c"] = "Eu não me envolveria se fosse você.";
@@ -84,19 +84,19 @@ return {
 	["b92d35a8868c11e8951f3c15c2dd513c"] = "Eu-... Eu acredito no meu pai!";
 	["b92d3742868c11e8878f3c15c2dd513c"] = "Eu também vi isso, você sabe.\n{====}O mundo acima do solo.";
 	["b92d3c61868c11e8ae0b3c15c2dd513c"] = "R-realmente?!";
-	["48fb19d4155511e9a9a23c15c2dd513c"] = "Como está John, Sam?\n{====}{big}I-... é tudo culpa minha. Se não fosse por mim, esses três n-... não-... estariam atrás de você.";
+	["48fb19d4155511e9a9a23c15c2dd513c"] = "Como está John, Sam?\n{====}{big}I-... I-... isso é tudo culpa minha. Se não fosse por mim, esses três n... não... estariam atrás de você.";
 	};
 ["SandTown_Jail.sq"]={
-	["eb199033761b11e9a2d63c15c2dd513c"] = "Entre lá!";
+	["eb199033761b11e9a2d63c15c2dd513c"] = "Entre aí!";
 	["eb199778761b11e9bec73c15c2dd513c"] = "Você também!";
 	["eb199b42761b11e98be23c15c2dd513c"] = "E fique quieto!";
 	["eb199fe6761b11e9b5bc3c15c2dd513c"] = "{~}Pare aí!";
 	["eb19a50f761b11e9a2153c15c2dd513c"] = "\"Não toque no meu bebê!\"";
 	["eb19a8a8761b11e9b4423c15c2dd513c"] = "{<}Huh? Quem é você?";
-	["eb19abd1761b11e991e33c15c2dd513c"] = "Não fique muito surpreso!";
+	["eb19abd1761b11e991e33c15c2dd513c"] = "Não fique muito surpresa!";
 	["eb19ad94761b11e9b1583c15c2dd513c"] = "Sou eu! Jasper, o showman!";
-	["eb19af05761b11e9a8a33c15c2dd513c"] = "Na carne!";
-	["eb19b1a3761b11e9a00f3c15c2dd513c"] = "Chocado?";
+	["eb19af05761b11e9a8a33c15c2dd513c"] = "Em carne e osso!";
+	["eb19b1a3761b11e9a00f3c15c2dd513c"] = "Chocada?";
 	["eb19b3ca761b11e99d593c15c2dd513c"] = "{<}\"Showman,\" huh...? O que é isso?";
 	["eb19b71c761b11e9b2993c15c2dd513c"] = "{<}Não, não me diga...{stop}";
 	["eb19b897761b11e9a2e53c15c2dd513c"] = "O povo já me esqueceu!";
@@ -105,24 +105,24 @@ return {
 	["eb19bdfd761b11e983993c15c2dd513c"] = "{big}\"Olhos dourados como holofotes, iluminando o crime na escuridão.\"";
 	["eb19beba761b11e989153c15c2dd513c"] = "\"Sangue fresco um testemunho vívido da batalha que aconteceu.\"";
 	["eb19bf78761b11e9ac493c15c2dd513c"] = "Ninguém menos que—{signal:yaha}Earth Born: O perseguidor noturno!";
-	["eb19c07a761b11e9a7b43c15c2dd513c"] = "{<}Earth Born!\n{====}{>}Este é o Earth Born, também? Sem chance!\n{====}{~}Isso é DEMAIS!!";
+	["eb19c07a761b11e9a7b43c15c2dd513c"] = "{<}Earth Born!\n{====}{>}Este é o Earth Born, sério? Sem chance!\n{====}{~}Isso é DEMAIS!!";
 	["eb19c13a761b11e9bea73c15c2dd513c"] = "Você também gosta de Earth Born?";
 	["eb19c247761b11e9b94b3c15c2dd513c"] = "É só meu FAVORITO!";
 	["eb19c2fd761b11e9a3aa3c15c2dd513c"] = "{~}Mais alto! {signal:turn}{.}Eu não consigo ver!";
 	["eb19c44f761b11e9a6cb3c15c2dd513c"] = "Is- Isso é o mais alto que posso ir!\n{====}Quanto você pesa? Uma tonelada?!";
-	["eb19c52e761b11e99dfc3c15c2dd513c"] = "{~}{<}What did you say?!";
-	["eb19c61c761b11e9aee83c15c2dd513c"] = "Huh? Carota?";
-	["eb19c6b0761b11e9bfe83c15c2dd513c"] = "Essa é a voz da Carota!";
+	["eb19c52e761b11e99dfc3c15c2dd513c"] = "{~}{<}O que você disse?!";
+	["eb19c61c761b11e9aee83c15c2dd513c"] = "Huh? Cenourinha?";
+	["eb19c6b0761b11e9bfe83c15c2dd513c"] = "Essa é a voz da Cenourinha!";
 	["eb19c87d761b11e992603c15c2dd513c"] = "{~}Sam!";
 	["eb19c933761b11e990e13c15c2dd513c"] = "{.}Ela está aqui!";
 	["eb19ca35761b11e98e533c15c2dd513c"] = "Eles não pegaram vocês também, pegaram?";
 	["eb19cb75761b11e9ae873c15c2dd513c"] = "Sam está lá?";
 	["eb19cc66761b11e9b14d3c15c2dd513c"] = "{~}Uau! Essa é a minha cabeça!";
 	["eb19cd54761b11e9a6333c15c2dd513c"] = "D-d-desculpe...!";
-	["eb19ce63761b11e99b4f3c15c2dd513c"] = "Apresse-se já!\n{====}Sam! Big Eyes disse que queria te dar algo!";
+	["eb19ce63761b11e99b4f3c15c2dd513c"] = "Apresse-se já!\n{====}Sam! O Olhudo disse que queria te dar algo!";
 	["eb19cf68761b11e99ba63c15c2dd513c"] = "É-é-é uma moeda de s-sorte...\n{====}Pertenceu ao meu pai...\n{====}Talvez seja útil...";
 	["eb19d075761b11e98de43c15c2dd513c"] = "C-como é que eu vou conseguir \nisso...?";
-	["eb19d170761b11e998003c15c2dd513c"] = "Besteira! É o Capitão Tigre! Corra para isso!";
+	["eb19d170761b11e998003c15c2dd513c"] = "Besteira! É o Capitão Tigre! Corram!";
 	["eb19d275761b11e9ab953c15c2dd513c"] = "{~}Seu idiota!\n{==}Me deixe fazê-lo!";
 	["eb19d4a3761b11e9bfe73c15c2dd513c"] = "{~}AHHHHHH!";
 	["eb19d5ba761b11e99b043c15c2dd513c"] = "{<}Perseguidor Noturno!!";
@@ -140,14 +140,14 @@ return {
 	["1a49e56888e511e8ad243c15c2dd513c"] = "E você está tão adorável como sempre, Sam.\n{====}Você ainda se lembra do que eu te ensinei?";
 	["1a49e69e88e511e8be1a3c15c2dd513c"] = "Claro!";
 	["1a49e77088e511e8a8443c15c2dd513c"] = "Sobre o poço, sob a rocha.\nTesouro enterrado, 24 horas por dia.\n{====}Na mina, pedras explodem. Segurança em primeiro lugar ou você não vai durar.";
-	["1a49e81c88e511e8b0713c15c2dd513c"] = "Tenho que cavar! Tenho que cavar!\nCave para fazer {.}essas {.}riquezas {.}fluírem!";
+	["1a49e81c88e511e8b0713c15c2dd513c"] = "Tenho que cavar! Tenho que cavar!\nCave para fazer {.}as {.}riquezas {.}multiplicar!";
 	["1a49ea4088e511e884fb3c15c2dd513c"] = "Bravo!\n{====}Você será uma excelente escavadora um dia, Sam!";
 	["1a49eb4288e511e88a483c15c2dd513c"] = "Ela vai! Ainda melhor que John, eu diria.";
 	["1a49ed6188e511e8aa033c15c2dd513c"] = "{~}Pessoal, venham rápido! Lesmas!";
 	["1a49f13d88e511e89b4f3c15c2dd513c"] = "John!\n{====}Graças a Deus você está aqui! Venha comigo!";
 	["1a49f25488e511e8ad803c15c2dd513c"] = "Lesmas! E muitas delas! Me siga!";
 	["1a49f4e888e511e88f683c15c2dd513c"] = "Eu não desenterrei um único pedaço.\n{==}O prefeito vai me matar.";
-	["1a49f7b088e511e887783c15c2dd513c"] = "Não me preocupe.";
+	["1a49f7b088e511e887783c15c2dd513c"] = "Não me importo..";
 	["1a49f92b88e511e8b7453c15c2dd513c"] = "Traidor.";
 	["1a49f9f388e511e8b7983c15c2dd513c"] = "O que você disse?!";
 	["1a49fe7388e511e8a23e3c15c2dd513c"] = "Calma, pessoal! Ele está aqui!";
@@ -157,7 +157,7 @@ return {
 	["1a4a06ba88e511e8b20d3c15c2dd513c"] = "{~}Você realmente é inútil!";
 	["1a4a079e88e511e8ac5d3c15c2dd513c"] = "{~}Todos vocês!";
 	["1a4a096188e511e898ec3c15c2dd513c"] = "{~}E você!";
-	["1a4a0b9188e511e8b1c73c15c2dd513c"] = "{~}Sim, estou falando com VOCÊ!\n{====}Por que esse garoto ainda está aqui?\n{====}Você acha que isso é um playground?!\n{====}Ela pertence à escola!";
+	["1a4a0b9188e511e8b1c73c15c2dd513c"] = "{~}Sim, estou falando com VOCÊ!\n{====}Por que essa menina ainda está aqui?\n{====}Você acha que isso é um playground?!\n{====}Ela pertence à escola!";
 	["1a4a0d4088e511e8a8053c15c2dd513c"] = "A mensalidade sairá do seu contracheque, é claro.";
 	["1a4a0ef888e511e88f073c15c2dd513c"] = "Você ouviu isso, John?\n{====}Eu posso ir para a escola!";
 	["1a4a0fd488e511e8a5323c15c2dd513c"] = "Ele se foi?\n{====}{<}Uau! {|}Pensei que aquele velho ia descontar meu salário de novo.";
@@ -185,26 +185,26 @@ return {
 	["48f18d61155511e9a0563c15c2dd513c"] = "{big}É perigoso lá dentro! Você deveria ficar aqui com seu tio Chage!\n{====}Nós protegeremos você dessas lesmas!";
 	["48f18eee155511e9b1813c15c2dd513c"] = "Mas... mas estou bem...!{stop}";
 	["48f19030155511e9943b3c15c2dd513c"] = "Um ponto muito bom!\n{====}{big}Sam, você gostaria de saber quando o prefeito enfrentou o dragão malvado?";
-	["48f19242155511e9944a3c15c2dd513c"] = "Não ESSE de novo...";
+	["48f19242155511e9944a3c15c2dd513c"] = "Não, ESSA história de novo...";
 	["48f19417155511e9be6f3c15c2dd513c"] = "O que você está fazendo, John?\n{====}Se o prefeito descobre que você está matando aula, as coisas não vão ficar bem.";
-	["48f1951c155511e9a88a3c15c2dd513c"] = "John! John!\n{====}Você já viu as lesmas? Hein, John? Eles são super assustadores?!";
+	["48f1951c155511e9a88a3c15c2dd513c"] = "John! John!\n{====}Você já viu as lesmas? Hein, John? Elas são super assustadores?!";
 	["48f197e1155511e9a68b3c15c2dd513c"] = "John, John!\n{====}Você encontrou alguma coisa para comer, hein?";
 	};
 ["SandTown_Jail_Behind_Maze.sq"]={
 	["eb30f921761b11e9b1af3c15c2dd513c"] = "John!\n{====}John, não consigo abrir!";
 	["eb30fb85761b11e9a8e83c15c2dd513c"] = "Parece que está faltando alguma coisa.";
-	["eb3135f5761b11e9a0403c15c2dd513c"] = "Pensar que um lugar como esse existia!";
+	["eb3135f5761b11e9a0403c15c2dd513c"] = "Como advinhar que um lugar como esse existia!";
 	["eb314600761b11e9b1ef3c15c2dd513c"] = "John!";
 	["eb3147c2761b11e992e53c15c2dd513c"] = "O que você acabou de fazer?\n{====}Houve um barulho enorme!";
 	["eb314985761b11e9bead3c15c2dd513c"] = "Tsk tsk tsk.\n{====}Para onde, oh, para onde foram aqueles ratinhos...?";
 	["eb314aba761b11e9b4543c15c2dd513c"] = "Hohoho, AÍ estão vocês, meus ratinhos.";
 	["eb314b5c761b11e9b1c63c15c2dd513c"] = "Por que os rostos sombrios? O show está prestes a começar!";
-	["eb314c2e761b11e98a833c15c2dd513c"] = "Sim, você não está curioso?\n{====}Hmmm, que tipo de show poderia ser?";
+	["eb314c2e761b11e98a833c15c2dd513c"] = "Sim, vocês não estão curiosos?\n{====}Hmmm, que tipo de show poderia ser?";
 	["eb314ce3761b11e989343c15c2dd513c"] = "Não estamos interessados em nenhum tipo de show! Vamos!";
-	["eb314dc7761b11e98e753c15c2dd513c"] = "Ah, eu vou deixar você ir.\n{====}Sim, vou deixar todos vocês, ratinhos, irem.";
-	["eb314e66761b11e991293c15c2dd513c"] = "Diga-me... você já ouviu falar de Charon?";
-	["eb314f45761b11e9aed63c15c2dd513c"] = "Ch-Charon! Você não está falando sobre... ESSA Charon, está?";
-	["eb315028761b11e9a9683c15c2dd513c"] = "Vejo que você está familiarizado com ele, então. Impressionante.\n{====}Eu não deveria esperar menos do \"Showman.\" da Ilha Potcrock";
+	["eb314dc7761b11e98e753c15c2dd513c"] = "Ah, eu vou deixar vocês irem.\n{====}Sim, vou deixar todos vocês, ratinhos, irem.";
+	["eb314e66761b11e991293c15c2dd513c"] = "Diga-me... vocês já ouviram falar de Charon?";
+	["eb314f45761b11e9aed63c15c2dd513c"] = "Ch-Charon! Você não está falando sobre... AQUELA Charon, está?";
+	["eb315028761b11e9a9683c15c2dd513c"] = "Vejo que você está familiarizado com ela, então. Impressionante.\n{====}Eu não deveria esperar menos do \"Showman.\" da Ilha Potcrock";
 	["eb315430761b11e99cc83c15c2dd513c"] = "Jasper sabe das coisas dele! Ele é um artista incrível!";
 	["eb3155a1761b11e983e13c15c2dd513c"] = "O que posso dizer?\n{====}Eu sou o ÚNICO artista de Potcrock!";
 	["eb31564a761b11e9bad93c15c2dd513c"] = "{big}\"Quando o entretenimento é o que você deseja, chame Jasper de Showman você vai adorar!\"";
@@ -214,7 +214,7 @@ return {
 	};
 ["SandTown_Room_Exile.sq"]={
 	["eb1f191e761b11e9a08a3c15c2dd513c"] = "{<}A Terra dos Mortos! Sim... uma vez que os criminosos são enviados para lá...";
-	["eb1f1b2e761b11e98e163c15c2dd513c"] = "{<}Eles nunca vão...\n{====}{signal:pose}Nunca retorne!";
+	["eb1f1b2e761b11e98e163c15c2dd513c"] = "{<}Eles nunca vão...\n{====}{signal:pose}Nunca retornarão!";
 	["eb1f1cb5761b11e9a4643c15c2dd513c"] = "Vocês ouviram isso?\n{====}Eles realmente conseguiram. Eles realmente embarcaram em Charon.";
 	["eb1f1d91761b11e9bbf63c15c2dd513c"] = "Não tem jeito! Deve haver algum tipo de erro!";
 	["eb1f1e3d761b11e98b5c3c15c2dd513c"] = "O quê, você acha que o prefeito está mentindo?";
@@ -233,7 +233,7 @@ return {
 	["1a5cdc2e88e511e8b08b3c15c2dd513c"] = "Ok...";
 	["1a5cde1e88e511e8a6c13c15c2dd513c"] = "Pirralho irritante.{stop}";
 	["1a5ce0ca88e511e8b3033c15c2dd513c"] = "{~}Você aí! Pare aí!";
-	["1a5ce24588e511e8a19f3c15c2dd513c"] = "Eu sou novo aqui. Hoje é meu primeiro dia...{break}";
+	["1a5ce24588e511e8a19f3c15c2dd513c"] = "Eu sou nova aqui. Hoje é meu primeiro dia...{break}";
 	["1a5ce40788e511e888b93c15c2dd513c"] = "{~}Seu primeiro dia?\n{====}Na minha escola?\n{====}E QUEM, posso perguntar, disse que você poderia frequentar a MINHA escola?";
 	["1a5ce5c788e511e8a9643c15c2dd513c"] = "Erm, ontem...{break}";
 	["1a5cf01988e511e8aa1a3c15c2dd513c"] = "{~}Silêncio!\n{====}Aqueles sem uma carta de referência não são permitidos na minha escola.";
@@ -245,10 +245,10 @@ return {
 	["1a5cf90088e511e8ac783c15c2dd513c"] = "A superfície? Você quer dizer, tipo, a Terra Proibida? No local de escavação?";
 	["1a5cf9e388e511e8a9713c15c2dd513c"] = "Exatamente. E então ele nunca mais voltará! Hahaha!";
 	["1a5cfcab88e511e89f6e3c15c2dd513c"] = "{~}Pare com isso!";
-	["1a5cfd9188e511e8b0413c15c2dd513c"] = "Aí vem outro, Grandis.";
+	["1a5cfd9188e511e8b0413c15c2dd513c"] = "Aí vem outra, Grandis.";
 	["1a5cfea188e511e8ba813c15c2dd513c"] = "É aquela criança que John pegou na rua.";
 	["1a5d00ee88e511e882303c15c2dd513c"] = "Ninguém a quer...\n{==}Que estranho!";
-	["1a5d01e688e511e898883c15c2dd513c"] = "E olha esse cabelo! Por que é tudo branco?";
+	["1a5d01e688e511e898883c15c2dd513c"] = "E olha esse cabelo! Por que é todo branco?";
 	["1a5d02f888e511e88e4c3c15c2dd513c"] = "Hahaha!";
 	["1a5d040588e511e883423c15c2dd513c"] = "{>}Assim como uma velha bruxa!";
 	["1a5d06fd88e511e89a0c3c15c2dd513c"] = "Bruxa velha!";
@@ -267,7 +267,7 @@ return {
 	["1a5d250f88e511e881493c15c2dd513c"] = "Rato de rua!";
 	["1a5d27a388e511e8a84d3c15c2dd513c"] = "Ei, ouça! Grandis está falando com você!";
 	["1a5d2a8788e511e88d773c15c2dd513c"] = "O que você disse?";
-	["1a5d2c6888e511e8b7863c15c2dd513c"] = "Hmph! Qualquer que seja. Vamos sair daqui!";
+	["1a5d2c6888e511e8b7863c15c2dd513c"] = "Hmph! Que seja. Vamos sair daqui!";
 	["1a5d38c088e511e8ba1a3c15c2dd513c"] = "A escola é por aqui, John!";
 	["1a5d39cc88e511e891333c15c2dd513c"] = "A escola é por aqui, John!";
 	["1a5d2fd988e511e897963c15c2dd513c"] = "Pensei ter te contado! Sem uma carta de referência, você não pode...";
@@ -279,27 +279,27 @@ return {
 	["1a379e3088e511e8bb7f3c15c2dd513c"] = "O vento pegajoso sopra pelas rachaduras na parede.";
 	};
 ["SandTown_Bar.sq"]={
-	["1a4a83ba88e511e883443c15c2dd513c"] = "O prefeito é tudo \"Por que esse garoto ainda está aqui?\"\n{====}\"Você acha que isso é um playground?!\"";
+	["1a4a83ba88e511e883443c15c2dd513c"] = "O prefeito pergunta \"Por que essa menina ainda está aqui?\"\n{====}\"Você acha que isso é um playground?!\"";
 	["1a4a86c788e511e8a3d93c15c2dd513c"] = "Ei, ei, John! Aqui para uma bebida, meu homem?";
 	["48f239eb155511e98c2c3c15c2dd513c"] = "John, esse idiota, ele... tipo o prefeito, na cara dele...\n{====}E ele fica ali parado, parecendo que vai mijar nas calças.";
-	["48f23b5c155511e9ad1d3c15c2dd513c"] = "Então, é claro, eu tenho que \nser tipo... \"Ei. Prefeito...\"\n{====}\"Dê uma folga para o cara.\"\n{====}\"Ele acabou de matar um exército inteiro, uma lesma pelo amor de Deus.\"";
+	["48f23b5c155511e9ad1d3c15c2dd513c"] = "Então, é claro, eu tenho que \nser tipo... \"Ei. Prefeito...\"\n{====}\"Dê uma folga para o cara.\"\n{====}\"Ele acabou de matar um exército inteiro de lesmas, pelo amor de Deus.\"";
 	["131e6bee2ca111eb801b3c15c2dd513c"] = "Língua ressecada, não é, John??";
 	};
 ["JohnHouse.sq"]={
 	["1a461e2e88e511e8b0c83c15c2dd513c"] = "Não sei cozinhar. A panela está quebrada.";
 	["1a46228588e511e888be3c15c2dd513c"] = "John!\n{====}Acorde, John!\n{====}Eu tenho que ir para a escola hoje!";
-	["1a46258588e511e8a95f3c15c2dd513c"] = "Depressa, John!\n{====}Hoje vou para a escola com Carota e os outros!";
+	["1a46258588e511e8a95f3c15c2dd513c"] = "Depressa, John!\n{====}Hoje vou para a escola com Cenourinha e os outros!";
 	["1a4629ee88e511e8b0963c15c2dd513c"] = "Te esperarei na porta!";
 	["1a462de188e511e89e2d3c15c2dd513c"] = "Alerta de hora em hora em Sand Town...";
 	["1a46302688e511e897b93c15c2dd513c"] = "...Daniel me contou sobre seu pai, William, você sabe.\n{====}Ele costumava afirmar que tinha visto o mundo na superfície.\n{====}Você conhece William, John?";
-	["1a46313588e511e8916d3c15c2dd513c"] = "Ninguém acreditou nele, você sabe.\n{====}Todos o chamavam de... um \"fantasista.\"\n{====}E então ele simplesmente puf! Desaparecido.\n{====}Hunt diz que pessoas que mentem são enviadas para Charon.\n{====}Você já ouviu falar de Charon, John?";
+	["1a46313588e511e8916d3c15c2dd513c"] = "Ninguém acreditou nele, você sabe.\n{====}Todos o chamavam de... um \"fantasista.\"\n{====}E então ele simplesmente puf! Desapareceu.\n{====}Hunt diz que pessoas que mentem são enviadas para Charon.\n{====}Você já ouviu falar de Charon, John?";
 	["1a4631de88e511e882e03c15c2dd513c"] = "Ei, John.\n{====}Você não acha que sou um \"fantasista,\" acha?";
 	["1a46327588e511e8a9813c15c2dd513c"] = "Eu realmente vi o mundo na superfície. É azul e verde e...\n{====}...e enorme! É enorme, John!";
-	["1a46345c88e511e8a0243c15c2dd513c"] = "Miss Real disse que amanhã haverá visitação pública na escola.\n{====}Você tem que vir também, John!";
+	["1a46345c88e511e8a0243c15c2dd513c"] = "Srta Real disse que amanhã haverá visitação pública na escola.\n{====}Você tem que vir também, John!";
 	["1a46359e88e511e884683c15c2dd513c"] = "No dia seguinte...";
-	["1a46372388e511e8abe43c15c2dd513c"] = "Apenas alguns arranhões. Eles vão curar em breve. O problema maior é...\n{====}Eles foram para a Terra Proibida. Se o prefeito descobrir...";
+	["1a46372388e511e8abe43c15c2dd513c"] = "Apenas alguns arranhões. Eles \nvão curar em breve. O problema maior é...\n{====}Eles foram para a Terra Proibida. Se o prefeito descobrir...";
 	["1a46388c88e511e897f23c15c2dd513c"] = "{<}John...";
-	["1a4639ca88e511e8af573c15c2dd513c"] = "{<}E-... {|}O que posso fazer para ajudar?";
+	["1a4639ca88e511e8af573c15c2dd513c"] = "{<}E-... {|}E o que posso fazer para ajudar?";
 	["1a463a9c88e511e8ac703c15c2dd513c"] = "{<}Vamos ver... {|}Um pouco de gel deve resolver o problema.";
 	["1a463b4788e511e88b733c15c2dd513c"] = "Gel! Entendi!";
 	["1a463d0788e511e8bb8b3c15c2dd513c"] = "Você simplesmente tinha que ir até lá, não é??";
@@ -311,7 +311,7 @@ return {
 	["1a46433588e511e888ce3c15c2dd513c"] = "Isto é tudo culpa sua.\n{====}Se não fosse por você, John nunca teria se machucado.";
 	["1a4644b388e511e888093c15c2dd513c"] = "Mas nada disso importa agora. Guardas!";
 	["48eee451155511e9b0833c15c2dd513c"] = "Agora não é hora de cozinhar.";
-	["48eee6b5155511e9a29c3c15c2dd513c"] = "Eu posso ir para a escola amanhã!\n{====}Carota disse que na escola tem um pátio graaaande...";
+	["48eee6b5155511e9a29c3c15c2dd513c"] = "Eu posso ir para a escola \namanhã!\n{====}Cenourinha disse que na escola tem um pátio graaaande...";
 	["48eee7ae155511e9bfca3c15c2dd513c"] = "Mas, mas... não há nada azul aí, John.\n{====}E nada de verde lá também...";
 	["48eee861155511e993bd3c15c2dd513c"] = "O prefeito disse que tudo isso é falso. ";
 	["48eee90a155511e9a3353c15c2dd513c"] = "Mas, John? Eu sei que é real. Eu vi, John.";
@@ -329,19 +329,19 @@ return {
 	["46a6663d55e211e987a33c15c2dd513c"] = "{<}John...";
 	["46a6688c55e211e9a8003c15c2dd513c"] = "{<}John...";
 	["46a6695e55e211e993513c15c2dd513c"] = "Você TEM que melhorar, John!\n{====}{|}Quando você estiver melhor, nós...\n{====}Nós iremos para a escola juntos!\n{====}E... e jogar Earth Born juntos!\n{====}E então? E então, John? Nós iremos para a superfície!\n{====}Só você e eu!";
-	["46a66a3055e211e992313c15c2dd513c"] = "Fique de olho, você vai?";
+	["46a66a3055e211e992313c15c2dd513c"] = "Fique de guarda, entendeu?";
 	["46a66bae55e211e9ac143c15c2dd513c"] = "{~}John!{stop}";
-	["46a66d6355e211e99bf73c15c2dd513c"] = "Ah, {~}MEU DEUS.\n{|}Se não for a própria criança abandonada!";
-	["46a66e7055e211e9bbd83c15c2dd513c"] = "Não precisa se preocupar, meu querido.\n{====}Só estou aqui por causa do John.";
-	["46a66f8055e211e99c803c15c2dd513c"] = "Você não parece tão ruim.\n{====}E aqui eu pensei que você tivesse se machucado gravemente!";
-	["46a671e155e211e98a543c15c2dd513c"] = "Você sabe, eu sempre gostei de você, John. {.}Não mesmo!\n{====}Você é... como devo dizer...\n{====}Um burro de carga.";
+	["46a66d6355e211e99bf73c15c2dd513c"] = "Ah, {~}MEU DEUS.\n{|}Se não é a própria criança abandonada!";
+	["46a66e7055e211e9bbd83c15c2dd513c"] = "Não precisa se preocupar, minha querida.\n{====}Só estou aqui por causa do John.";
+	["46a66f8055e211e99c803c15c2dd513c"] = "Você não parece tão ruim.\n{====}E eu pensei que você tivesse se machucado gravemente!";
+	["46a671e155e211e98a543c15c2dd513c"] = "Você sabe, eu sempre gostei de você, John. {.}É sério!\n{====}Você é... como devo dizer...\n{====}Um burro de carga.";
 	["46a673a355e211e9b2ed3c15c2dd513c"] = "{<}Mas...";
 	["46a6748a55e211e9b8db3c15c2dd513c"] = "Você simplesmente TINHA que ir lá... não é??";
 	["46a6764255e211e99f603c15c2dd513c"] = "Isso leva à superfície, você sabe!{stop}";
 	["46a6788555e211e998423c15c2dd513c"] = "{~}{<}Oh meu Deus.";
-	["46a67a1e55e211e9b5433c15c2dd513c"] = "Você não é uma Cathy tagarela?";
+	["46a67a1e55e211e9b5433c15c2dd513c"] = "Você é uma tagarela?";
 	["46a67c6355e211e9b8cb3c15c2dd513c"] = "{<}Você tem alguma ideia, garota...\n{====}{|}...em que tipo de {<}POSIÇÃO isso me coloca?";
-	["46a67db855e211e9a7e93c15c2dd513c"] = "Você fez o prefeito ficar muito mal...\n{====}E quando o prefeito parece mal, isso o deixa muito irritado.\n{====}{<}Como consertar isso errado, então, hm?";
+	["46a67db855e211e9a7e93c15c2dd513c"] = "Você fez o prefeito ficar muito mal...\n{====}E quando o prefeito parece mal, isso o deixa muito irritado.\n{====}{<}Como consertar isso, então, hm?";
 	["46a67ea855e211e9a5d33c15c2dd513c"] = "{~}Nós não fizemos nada de errado!{signal:pause}\n{====}Na verdade, John se livrou de todos os monstros lá!";
 	["46a6803855e211e99b613c15c2dd513c"] = "{<}Ah, ele...\n{====}{signal:talk}{|}Impressionante, John. Muito impressionante.";
 	["46a6822b55e211e98f533c15c2dd513c"] = "Você sabe, isso realmente me lembra algo...\n{====}Sim, eu conheço o lugar PERFEITO para VOCÊS dois.";
@@ -355,12 +355,12 @@ return {
 	};
 ["Mine_SouthEast.sq"]={
 	["48f07be6155511e9ab893c15c2dd513c"] = "{~}Que-... quem é esse?!\n{====}John? É-... é você, John?";
-	["48f07ef0155511e9938d3c15c2dd513c"] = "Sem resposta...\n{====}Deve ser John.\n{====}John, não abra a porta. Essas lesmas estão minando nossa eletricidade.\n{====}{big}A menos que você cuide deles, não poderemos acender as luzes novamente.";
+	["48f07ef0155511e9938d3c15c2dd513c"] = "Sem resposta...\n{====}Deve ser John.\n{====}John, não abra a porta. Essas lesmas estão minando nossa eletricidade.\n{====}{big}A menos que você cuide delas, não poderemos acender as luzes novamente.";
 	["48f0808a155511e9b2043c15c2dd513c"] = "Essas lesmas estão minando nossa eletricidade.\n{====}{big}A menos que você tome cuidado com eles, não poderemos acender as luzes novamente.";
 	["48f0818f155511e9acbd3c15c2dd513c"] = "John!";
-	["48f0846b155511e9bb933c15c2dd513c"] = "Os ninhos, John!\n{====}Se você não bombardear seus ninhos, eles continuarão voltando!";
+	["48f0846b155511e9bb933c15c2dd513c"] = "Os ninhos, John!\n{====}Se você não bombardear seus ninhos, elas continuarão voltando!";
 	["48f088fa155511e9b7523c15c2dd513c"] = "JOOOOOOOOOHN!";
-	["48f08a8c155511e98d503c15c2dd513c"] = "LES-... S-... LESMAS!\n{====}Toda uma bagunça deles!";
+	["48f08a8c155511e98d503c15c2dd513c"] = "LES-... S-... LESMAS!\n{====}Toda uma bagunça delas!";
 	["48f08cc5155511e992e73c15c2dd513c"] = "{~}Ah!";
 	["48f08e73155511e983d23c15c2dd513c"] = "Seu grande idiota! O que você acabou de fazer?!";
 	["48f08f78155511e9acb43c15c2dd513c"] = "Huh?\n{====}Você não disse que havia lesmas dentro?";
@@ -376,7 +376,7 @@ return {
 	["48f09b26155511e987da3c15c2dd513c"] = "Bem, merda.\n{====}O turno acabou e eu não tenho nada'.\n{====}O prefeito não vai ficar feliz...";
 	["48f09c14155511e9a3d73c15c2dd513c"] = "Eu-... Eu-... Estou saindo daqui!";
 	["48f09e0a155511e9a3b13c15c2dd513c"] = "E-ei, espere!{stop}";
-	["48f0a273155511e998553c15c2dd513c"] = "Vamos, John!\n{====}Prefeito te pega e vai ser um inferno pagar.";
+	["48f0a273155511e998553c15c2dd513c"] = "Vamos, John!\n{====}O Prefeito te pega e vai ser um inferno pagar.";
 	["e3e3507a6e8111ea806f3c15c2dd513c"] = "{~}O que—?!";
 	["406fc7e4aa3f11ea8cfc3c15c2dd513c"] = "Há ainda mais deles {signal:snot}lesmas passam por aquela porta ali.";
 	};
@@ -385,10 +385,10 @@ return {
 	["eb1a6842761b11e988123c15c2dd513c"] = "Por aqui! John!";
 	};
 ["SandTown_School_Inner02.sq"]={
-	["1a61239988e511e886293c15c2dd513c"] = "Você está falando sobre Olhos Grandes?\n{====}O pai dele é aquele \"fantasista infame,\" você sabe.";
+	["1a61239988e511e886293c15c2dd513c"] = "Você está falando sobre o Olhudo?\n{====}O pai dele é aquele \"fantasista infame,\" você sabe.";
 	["1a6125ca88e511e8993b3c15c2dd513c"] = "Eu ouvi isso da minha mãe.\n{====}Ele alegou que esteve na superfície.";
 	["1a6126eb88e511e894f13c15c2dd513c"] = "Ele queria que todos se mudassem para lá com ele.\n{====}Então, o prefeito o enviou para Charon.";
-	["1a61285e88e511e890eb3c15c2dd513c"] = "De qualquer forma, provavelmente é melhor não se associar a ele...";
+	["1a61285e88e511e890eb3c15c2dd513c"] = "De qualquer forma, provavelmente é melhor \nnão se associar a ele...";
 	["1a61296188e511e897a03c15c2dd513c"] = "D-devolva!";
 	["1a612b5788e511e888373c15c2dd513c"] = "Ele realmente entrou lá.";
 	["1a612c8288e511e893ca3c15c2dd513c"] = "On-onde está?";
@@ -432,7 +432,7 @@ return {
 	["1a615be388e511e89cff3c15c2dd513c"] = "Fantasista!";
 	["1a615cb888e511e8b9303c15c2dd513c"] = "Fantasista!";
 	["1a615d8788e511e896be3c15c2dd513c"] = "Eu NÃO sou um fantasista! Eu não sou!";
-	["1a6163dc88e511e893f43c15c2dd513c"] = "Diretor Tacoma!{stop}";
+	["1a6163dc88e511e893f43c15c2dd513c"] = "Diretora Tacoma!{stop}";
 	["1a61652688e511e88e353c15c2dd513c"] = "{~}Sam!{stop}";
 	["1a61674c88e511e8a4123c15c2dd513c"] = "Saia!";
 	["1a61681c88e511e8832a3c15c2dd513c"] = "Você deve sair desta sala de aula imediatamente!";
@@ -451,22 +451,22 @@ return {
 	["1a61814588e511e8b30f3c15c2dd513c"] = "Você não vai encontrar Sam?";
 	["1a61822b88e511e88e6b3c15c2dd513c"] = "Sam saiu correndo da aula.\n{====}Espero que o diretor não descubra.";
 	["eb2eac07761b11e9854e3c15c2dd513c"] = "O-onde está m-minha m-moeda?!";
-	["48fe0338155511e995b53c15c2dd513c"] = "Qualquer que seja. Foi ele quem QUERIA entrar lá.";
+	["48fe0338155511e995b53c15c2dd513c"] = "Que seja. Foi ele quem QUERIA entrar lá.";
 	["48fe07c0155511e9a6633c15c2dd513c"] = "John? O que você está fazendo aqui?\n{====}Não importa! Precisamos ajudar Daniel!";
 	["48fe09a8155511e98e273c15c2dd513c"] = "Tá falando sério? Você está realmente entrando lá?";
 	["48fe0b4f155511e9955b3c15c2dd513c"] = "Dizem que um dragão de ferro que cospe fogo vive aqui embaixo.\n{====}Você provavelmente deveria ter cuidado. Kekeke.";
 	["ed8b092edc1811e89e433c15c2dd513c"] = "O que eles estão fazendo lá embaixo?\n{====}Você não acha que algo aconteceu, acha?";
 	["ed8b636bdc1811e8b0103c15c2dd513c"] = "Talvez eles tenham encontrado o dragão de ferro...";
 	["ed8bc7d9dc1811e8a3e73c15c2dd513c"] = "Que Deus tenha misericórdia de suas almas.";
-	["ed8c330adc1811e8a9eb3c15c2dd513c"] = "{~}Não diga coisas assim! Sam vai conseguir com certeza!\n{====}Além disso, ela está com o Velho Stache.";
+	["ed8c330adc1811e8a9eb3c15c2dd513c"] = "{~}Não diga coisas assim! Sam vai conseguir com certeza!\n{====}Além disso, ela está com o Velho Barbudo.";
 	["ed8c67c5dc1811e883353c15c2dd513c"] = "Conseguimos! Vamos lá!";
 	["ed8e2514dc1811e8a76a3c15c2dd513c"] = "{<}V-... você me salvou...\n{====}Ob-b-... obrigado...";
 	["48fe1268155511e9b9833c15c2dd513c"] = "Ta-dah!";
 	["48fe14e8155511e99cd23c15c2dd513c"] = "Sam! Você está bem!";
-	["48fe15ee155511e9946c3c15c2dd513c"] = "O que aconteceu lá embaixo?\n{====}Olhos Grandes simplesmente decolaram como uma luz.";
+	["48fe15ee155511e9946c3c15c2dd513c"] = "O que aconteceu lá embaixo?\n{====}Olhudo simplesmente decolou como uma luz.";
 	["ed8e3b4fdc1811e88dd73c15c2dd513c"] = "Vocês têm coragem de entrar naquele buraco.";
 	["ed8e49aedc1811e88f333c15c2dd513c"] = "Sam, NUNCA faça algo assim de novo, você me ouviu?";
-	["ed8e5b9edc1811e88c643c15c2dd513c"] = "Então... havia realmente um dragão de ferro lá embaixo??";
+	["ed8e5b9edc1811e88c643c15c2dd513c"] = "Então... havia realmente um \ndragão de ferro lá embaixo??";
 	["ed8ea7b5dc1811e8b0ba3c15c2dd513c"] = "E então? E então?\n{====}Você encontrou algum monstro, hein? Qualquer coisa aterrorizante?!";
 	["ed8eb499dc1811e88ad23c15c2dd513c"] = "Não havia monstros...\n{====}Mas havia um monte de canos expelindo ar quente.";
 	["ed8f0828dc1811e884373c15c2dd513c"] = "Dragão de ferro. Definitivamente deve ter sido o dragão de ferro.";
@@ -478,12 +478,12 @@ return {
 ["CH_GraveKeeper.sq"]={
 	["b92029d1868c11e8b3d93c15c2dd513c"] = "Agora, isso não é um prazer. Alguém com a carne ainda nos ossos.\n{====}Gostaria de ouvir a história de um velho espectro como eu?\n{====}{choice:story}Claro que sim!\n{choice:no}Agora não.";
 	["b92035b0868c11e8a1403c15c2dd513c"] = "Agora não é hora para histórias.\n{====}Sim, você deve ter algo muito mais importante para fazer.";
-	["b92037e1868c11e8a96a3c15c2dd513c"] = "Aqueles que não têm lugar no cemitério...\n{====}Ficará para sempre preso do outro lado do portão.\n{====}Kekeke.";
+	["b92037e1868c11e8a96a3c15c2dd513c"] = "Aqueles que não têm lugar no cemitério...\n{====}Ficarão para sempre preso do outro lado do portão.\n{====}Kekeke.";
 	["ed7c7ee1dc1811e8bcd13c15c2dd513c"] = "Que esplêndido.\n{====}Meu público normal tem estado bastante morto ultimamente.\n{====}Aham.\n{====}Há muito, muito tempo, toda a humanidade vivia em grandes casas de vidro.\n{====}E cada pessoa guardava consigo sua própria caixa misteriosa.\n{====}{big}Dentro dessas caixas existiam mundos ilimitados e inúmeras histórias.\n{====}{big}Família, amigos. Sim, mesmo aqueles que eles amavam podiam ser encontrados nessas caixas.\n{====}Um dia, porém, as caixas quebraram.\n{====}E num instante, todos aqueles mundos desapareceram.\n{====}Em pânico, todos saíram correndo de suas casas...\n{====}Querendo saber o que diabos poderia ter acontecido.\n{====}Foi então que eles notaram.\n{====}Suas casas de vidro... eram como as caixas.\n{====}Tão escuro e tão negro quanto a noite.";
 	["ed7c8099dc1811e8a42a3c15c2dd513c"] = "Acorda-acorda. O sol já procura seu túmulo no horizonte.";
 	};
 ["SandTown_Town_Farm.sq"]={
-	["1a35b52888e511e8b9c43c15c2dd513c"] = "O que você está segurando pode ser usado mais do que apenas arrancar cabeças de bandidos.\n{====}Pode ser um jantar muito bom, para começar!";
+	["1a35b52888e511e8b9c43c15c2dd513c"] = "O que você está segurando pode ser usado mais do que apenas para arrancar cabeças de \nbandidos.\n{====}Pode ser um jantar muito bom, para começar!";
 	["1a35b6f588e511e8acc83c15c2dd513c"] = "Jantar! Vamos para casa e fazer o jantar, John!\n{====}Estou FAMINTA!";
 	["1a35b82188e511e8b8293c15c2dd513c"] = "Nada mal. Nada mal!\n{====}Para alguém novo nisso, você faz um ótimo trabalho.\n{====}Aqui está o seu pagamento de hoje.";
 	["48de089e155511e9b3143c15c2dd513c"] = "{~}Brilhante! Uma verdadeira obra-prima!\n{====}Eu até aposto que este é meu melhor trabalho até agora!\n{====}...Bem. Um deles.";
@@ -519,13 +519,13 @@ return {
 	["eaf85017761b11e9b3f13c15c2dd513c"] = "Parece que cabe a mim terminar de novo!";
 	["eaf8518a761b11e99db43c15c2dd513c"] = "Você vai explodir as coisas de novo, não é?";
 	["eaf852d4761b11e9aa423c15c2dd513c"] = "Você tem certeza que é uma boa ideia aqui?";
-	["eaf853f5761b11e9bed23c15c2dd513c"] = "{big}Não se preocupe! Vou me certificar de usar APENAS a quantidade certa de pólvora!\n{====}Você encontra um lugar seguro para se esconder!";
-	["eaf85505761b11e98f7b3c15c2dd513c"] = "Multar. Acho que posso te dar outra chance.";
+	["eaf853f5761b11e9bed23c15c2dd513c"] = "{big}Não se preocupe! Vou me certificar de usar APENAS a quantidade certa de pólvora!\n{====}Encontre um lugar seguro para se esconder!";
+	["eaf85505761b11e98f7b3c15c2dd513c"] = "Ok. Acho que posso te dar outra chance.";
 	["eaf855d7761b11e9b3b33c15c2dd513c"] = "5...{ stop }";
 	["eaf85675761b11e99c573c15c2dd513c"] = "4...{ stop }";
 	["eaf8591c761b11e99f8c3c15c2dd513c"] = "3...{ stop }";
 	["eaf85bc5761b11e996273c15c2dd513c"] = "...Hehehe.\n{====}Parece que houve um LEVE erro de cálculo no cronômetro.";
-	["eaf85ce8761b11e9a61b3c15c2dd513c"] = "Como sempre, você quer dizer?";
+	["eaf85ce8761b11e9a61b3c15c2dd513c"] = "Como sempre, eu sabia que seria assim.";
 	["eaf85db8761b11e98f8e3c15c2dd513c"] = "Onde estamos...? Uma... cidade?{stop}";
 	["eaf85f54761b11e9a07b3c15c2dd513c"] = "Uau! Izzy!!\n{====}Isto é incrível! A descoberta do século!!";
 	};
@@ -543,10 +543,10 @@ return {
 	["b91a1326868c11e8b8373c15c2dd513c"] = "O prefeito está descansando!";
 	["cc6a8c75cfad11e9849f3c15c2dd513c"] = "Vocês ouviram, pessoal. Sumam!";
 	["cc6a8e5ccfad11e994203c15c2dd513c"] = "E é melhor você não chegar perto da casa do prefeito, ouviu??\n{====}Nada nem ninguém será capaz de ajudá-lo então.";
-	["cc6a9200cfad11e9987b3c15c2dd513c"] = "Vocês ouviram isso, pessoal? Você entrando agora estará apenas procurando por problemas!";
+	["cc6a9200cfad11e9987b3c15c2dd513c"] = "Vocês ouviram isso, pessoal? Você entrando agora vão estar apenas procurando por problemas!";
 	};
 ["CH_SandGearVendor.sq"]={
-	["649e9f56f80911eaac1b3c15c2dd513c"] = "Vá brincar em outro lugar, garoto.\n{====}Você vai acertar olhos com as coisas que temos aqui.";
+	["649e9f56f80911eaac1b3c15c2dd513c"] = "Vá brincar em outro lugar, criança.\n{====}Você vai acertar olhos com as coisas que temos aqui.";
 	["f92d7b36526011eba6373c15c2dd513c"] = "{big}Faz muito tempo que não vejo seu rosto por aqui, John.\n{====}Não é sempre que você faz suas compras aqui.\n{====}De qualquer forma, o que posso oferecer para você hoje?";
 	};
 ["CH_DiggerChage.sq"]={
@@ -556,11 +556,11 @@ return {
 	["b91bacfd868c11e885ce3c15c2dd513c"] = "O prefeito?\n{====}O velho idiota provavelmente ainda está em casa a esta hora.";
 	["b91badbd868c11e88fda3c15c2dd513c"] = "Bem, você não é um herói classe A?\n{====}Mas hoje é nosso dia de folga.\n{====}Não haverá ninguém no local de escavação agora.";
 	["b91bae70868c11e8a8f93c15c2dd513c"] = "Bem, olá, pequena Sammy! Dia difícil na escola?\n{====}Aposto que você gosta mais do local de escavação. Mais emocionante!";
-	["b91bafa6868c11e89d743c15c2dd513c"] = "O que? Vocês foram para a Terra Proibida?\n{====}E-... John se machucou?!";
-	["b91bb12b868c11e8909f3c15c2dd513c"] = "Não se preocupe com aquele prefeito! Seu segredo está seguro comigo.";
+	["b91bafa6868c11e89d743c15c2dd513c"] = "O que? Vocês foram para a Terra Proibida?\n{====}E... o John se machucou?!";
+	["b91bb12b868c11e8909f3c15c2dd513c"] = "Não se preocupe com o prefeito! Seu segredo está seguro comigo.";
 	["229bd39eae0d11e895e43c15c2dd513c"] = "Bom dia, John! De folga de novo hoje, hein?\n{====}Queria estar no seu lugar!";
 	["229bd617ae0d11e883d63c15c2dd513c"] = "Tenho que lidar com essas lesmas. Caso contrário, ninguém pode trabalhar. De novo!\n{====}Meu? Não posso fazer! Coisas escorregadias e viscosas me dão calafrios.";
-	["ed6e6794dc1811e8992a3c15c2dd513c"] = "Você e a pequena Sammy voltam inteiros, ouviu??";
+	["ed6e6794dc1811e8992a3c15c2dd513c"] = "Você e a pequena Sammy devem voltar em segurança, ouviu??";
 	};
 ["CH_FarmerB.sq"]={
 	["b91d779e868c11e890893c15c2dd513c"] = "Ao amanhecer. Sangre por cada moeda que você ganhar.\n{====}Deve ser difícil ser um escavador.";
@@ -582,7 +582,7 @@ return {
 	["eb08e819761b11e995713c15c2dd513c"] = "JOHN! O que há de errado, John? Você está bem?!{stop}";
 	["eb08ead4761b11e99c1a3c15c2dd513c"] = "{<}John...\n{~}{|}JOHN!{stop}";
 	["eb08eca1761b11e9b14e3c15c2dd513c"] = "T-...tem alguém aí?!{stop}";
-	["eb08ed80761b11e98f3f3c15c2dd513c"] = "A-ajude!!{stop}";
+	["eb08ed80761b11e98f3f3c15c2dd513c"] = "So-socorro!!{stop}";
 	["eb08ef02761b11e98c243c15c2dd513c"] = "{~}Que-... quem é você?";
 	["eb08f030761b11e9a2e83c15c2dd513c"] = "Eu sou você, Sam.";
 	["eb08f10a761b11e98e8e3c15c2dd513c"] = "Por favor! Por favor ajude John!";
@@ -605,13 +605,13 @@ return {
 	["1a63eacf88e511e890143c15c2dd513c"] = "Ah...!";
 	["1a63ebb588e511e8bc363c15c2dd513c"] = "{~}Guarde-me uma... *hic*... garrafa, ok?";
 	["1a63ed6388e511e89c1d3c15c2dd513c"] = "P-... Pequena Sammy!";
-	["1a63eef588e511e89fc03c15c2dd513c"] = "Huh? Onde fez...\n{====}De onde você saiu, hein?";
+	["1a63eef588e511e89fc03c15c2dd513c"] = "Huh? De onde...\n{====}De onde você saiu, hein?";
 	["1a63f05c88e511e885663c15c2dd513c"] = "Isso não pode ser bom...";
 	["1a63f27888e511e8989c3c15c2dd513c"] = "Não fique aí parado, seu idiota!";
 	["1a63f64a88e511e8b2753c15c2dd513c"] = "John. John ainda...\n{====}...está lá embaixo!";
-	["1a444c9788e511e8a48b3c15c2dd513c"] = "Era uma vez, nos confins do continente...\n{====}...ali estava um reino próspero, com uma torre elevada que alcançava acima das nuvens.\n{====}Durante muitos anos, o reino viveu em paz, até que, após a trágica morte do seu rei...\n{====}...o malvado chanceler reivindicou o reino para si, mantendo seu povo sob seu controle tirânico.\n{====}Isolando o reino do resto do mundo, ele trancou a princesa dentro da torre.\n{====}Dia após dia, a princesa chorava, olhando pela janela para o seu pobre reino abaixo..\n{====}Com o tempo, seu cabelo começou a perder a cor, ficando com um tom acinzentado..\n{====}Até que, um dia, um bravo cavaleiro veio em seu socorro.\n{====}Ele a libertou da prisão e assim começou sua grande aventura.";
+	["1a444c9788e511e8a48b3c15c2dd513c"] = "Era uma vez, nos confins do continente...\n{====}...ali estava um reino próspero, com uma torre elevada com seu topo acima das nuvens.\n{====}Durante muitos anos, o reino viveu em paz, até que, após a trágica morte do seu rei...\n{====}...o malvado chanceler reivindicou o reino para si, mantendo seu povo sob seu controle tirânico.\n{====}Isolando o reino do resto do mundo, ele trancou a princesa dentro da torre.\n{====}Dia após dia, a princesa chorava, vendo pela janela o seu pobre reino...\n{====}Com o tempo, seu cabelo começou a perder a cor, ficando com um tom acinzentado..\n{====}Até que, um dia, um bravo cavaleiro veio em seu socorro.\n{====}Ele a libertou da prisão e assim começou sua grande aventura.";
 	["1a444f7088e511e896193c15c2dd513c"] = "{~}Oh, vamos LÁ!!{stop}";
-	["1a44512188e511e8a6983c15c2dd513c"] = "Eu perdi DE NOVO?\n{====}Mas eu até tive a habilidade Full Attack desta vez!\n{====}Aquele estúpido Rei Demônio! Como você deveria vencê-lo?!";
+	["1a44512188e511e8a6983c15c2dd513c"] = "Eu perdi DE NOVO?\n{====}Mas eu até tive a aptidão Ataque Total desta vez!\n{====}Aquele estúpido Rei Demônio! Como você deveria vencê-lo?!";
 	["1a44528a88e511e895f83c15c2dd513c"] = "Acho que realmente não há como, a menos que você consiga mais membros do grupo...";
 	["1a44548588e511e8b1343c15c2dd513c"] = "Oh droga! Olha as horas!";
 	["1a44568f88e511e88c443c15c2dd513c"] = "Hora da Escola.";
@@ -619,14 +619,14 @@ return {
 	["eb354428761b11e9b6ab3c15c2dd513c"] = "Combinado. Até mais!";
 	["eb3548a6761b11e998bc3c15c2dd513c"] = "Tenho que acordar o John!";
 	["4901e69c155511e983c43c15c2dd513c"] = "Preciso de tokens da loja para jogar Earth Born.";
-	["44d6efca7e0011e98dd33c15c2dd513c"] = "Era uma vez, nos confins do continente...\n{====}...ali estava um reino próspero, com uma torre elevada que alcançava acima das nuvens.\n{====}Durante muitos anos, o reino viveu em paz, até que, após a trágica morte do seu rei...\n{====}...o Rei Demônio se disfarçou de chanceler e reivindicou o reino para si.\n{====}Isolando o castelo do resto do reino, ele trancou a princesa dentro da torre..\n{====}Dia após dia, a princesa chorava, olhando pela janela para o seu pobre reino abaixo..\n{====}Por volta dessa época, um jovem cavaleiro de uma terra distante espremia a água salgada do seu manto.\n{====}Olhando para cima de onde ele havia chegado à praia, ele viu o castelo à distância.\n{====}Esse castelo seria seu destino. E o início de sua aventura.";
+	["44d6efca7e0011e98dd33c15c2dd513c"] = "Era uma vez, nos confins do continente...\n{====}...ali estava um reino próspero, com uma torre elevada com seu topo acima das nuvens.\n{====}Durante muitos anos, o reino viveu em paz, até que, após a trágica morte do seu rei...\n{====}...o Rei Demônio se disfarçou de chanceler e reivindicou o reino para si.\n{====}Isolando o castelo do resto do reino, ele trancou a princesa dentro da torre..\n{====}Dia após dia, a princesa chorava, vendo pela janela o seu pobre reino...\n{====}Por volta dessa época, um jovem cavaleiro de uma terra distante torcia seu manto encharcado pelo mar.\n{====}Olhando para cima de onde ele havia chegado à praia, ele viu o castelo à distância.\n{====}Esse castelo seria seu destino. E o início de sua aventura.";
 	["2f304814f80a11eaac1b3c15c2dd513c"] = "Hello Grocery ainda não está aberta.\n{====}Volte quando estiver fora do trabalho.";
 	["2f3049a4f80a11eaac1b3c15c2dd513c"] = "Não consigo jogar sem um memory card.";
 	["2f304c6af80a11eaac1b3c15c2dd513c"] = "John! Precisamos de um memory card para jogar Earth Born!";
 	["2f305070f80a11eaac1b3c15c2dd513c"] = "{~}Ei pessoal!";
 	["2f3051c4f80a11eaac1b3c15c2dd513c"] = "Ah, ei, Sam. Você está fora do trabalho?";
 	["2f305408f80a11eaac1b3c15c2dd513c"] = "O Earth Born já acabou?";
-	["2f305566f80a11eaac1b3c15c2dd513c"] = "Sim, acabei de terminar.\n{====}Se você quiser assistir, terá que esperar a reprise.";
+	["2f305566f80a11eaac1b3c15c2dd513c"] = "Sim, acabou de terminar.\n{====}Se você quiser assistir, terá que esperar a reprise.";
 	["2f30569cf80a11eaac1b3c15c2dd513c"] = "Hoje, um dos Quatro Generais atacou o Castelo Snowpeak.\n{====}Então agora o cavaleiro está indo para lá para detê-lo.";
 	["2f30584af80a11eaac1b3c15c2dd513c"] = "É estranho, no entanto. não lembro dessa parte do jogo.";
 	["2f30593af80a11eaac1b3c15c2dd513c"] = "Oh, certo. Sobre isso.";
@@ -634,13 +634,13 @@ return {
 	["2f305f20f80a11eaac1b3c15c2dd513c"] = "New Game+?! ...Ainda nem temos membros no grupo...\n{====}Levaremos cinco bilhões de anos para chegar ao New Game+.";
 	["2f30609cf80a11eaac1b3c15c2dd513c"] = "Você deveria jogar Earth Born também, Sam!\n{====}{big}Quanto mais jogarmos, maiores serão as chances de derrotarmos o Rei Demônio.!";
 	["2f306146f80a11eaac1b3c15c2dd513c"] = "Mas eu não tenho um memory\ncard...";
-	["2f3061d2f80a11eaac1b3c15c2dd513c"] = "Velho Stache, você deveria comprar um para Sam.\n{====}{big}Afinal, sem um memory card, ela basicamente não consegue fazer amigos.";
+	["2f3061d2f80a11eaac1b3c15c2dd513c"] = "Velho Barbudo, você deveria comprar um para Sam.\n{====}{big}Afinal, sem um memory card, ela basicamente não consegue fazer amigos.";
 	["2f306240f80a11eaac1b3c15c2dd513c"] = "{~}Você vai comprar um para mim?!\n{====}{~}REALMENTE?!\n{====}{signal:earthborn_sam_turn}Oh Deus, oh, uau! Finalmente poderei jogar Earth Born!";
-	["2f30636cf80a11eaac1b3c15c2dd513c"] = "É hora de colocar seu dinheiro onde está sua boca, Velho Stache.";
+	["2f30636cf80a11eaac1b3c15c2dd513c"] = "Menos conversa e mais ação, Velho Barbudo.";
 	["2f306402f80a11eaac1b3c15c2dd513c"] = "Hello Grocery tem memory card à venda.";
-	["2f30657ef80a11eaac1b3c15c2dd513c"] = "Para onde você está fugindo, Velho Stache?\n{====}Pensei que você fosse comprar um memory card para Sam.";
-	["2f3066e6f80a11eaac1b3c15c2dd513c"] = "{~}Agora estamos cozinhando! Nós temos um mago!\n{====}Devemos ir para o castelo e lutar contra o Rei Demônio então?";
-	["2f3067f4f80a11eaac1b3c15c2dd513c"] = "Você nem vai mover um pouco primeiro?\n{====}Você ainda tem tempo antes que o ritual do Rei Demônio seja concluído.";
+	["2f30657ef80a11eaac1b3c15c2dd513c"] = "Para onde você está fugindo, Velho Barbudo?\n{====}Pensei que você fosse comprar um memory card para Sam.";
+	["2f3066e6f80a11eaac1b3c15c2dd513c"] = "{~}Agora estamos cozinhando! Nós temos um mago!\n{====}Devemos ir para o castelo e lutar contra o Rei Demônio \nentão?";
+	["2f3067f4f80a11eaac1b3c15c2dd513c"] = "Você nem vai subir um pouco de nível primeiro?\n{====}Você ainda tem tempo antes que o ritual do Rei Demônio seja concluído.";
 	["2f306a60f80a11eaac1b3c15c2dd513c"] = "Teleporte para... {~}O CASTELO REAL!";
 	["2f306b96f80a11eaac1b3c15c2dd513c"] = "{~}Você está ao menos me ouvindo?!";
 	["2f306e5cf80a11eaac1b3c15c2dd513c"] = "{~}Pessoal!\n{====}Eu tenho um! Eu tenho um memory card!";
@@ -649,7 +649,7 @@ return {
 	["2f3071e0f80a11eaac1b3c15c2dd513c"] = "Ok, ok, ok, meu Deus.\n{====}Quero dizer, acho que temos um mago agora.\n{====}Portanto, há uma chance de podermos vencê-lo.";
 	["2f307262f80a11eaac1b3c15c2dd513c"] = "Por que você não tenta, Sam?\n{====}Talvez você tenha sorte de principiante.";
 	["2f3072e4f80a11eaac1b3c15c2dd513c"] = "Realmente? Mas eu-... Eu nem sei como jogar.";
-	["2f30735cf80a11eaac1b3c15c2dd513c"] = "Não se preocupe. Não é como se Carota pudesse vencê-lo também.";
+	["2f30735cf80a11eaac1b3c15c2dd513c"] = "Não se preocupe. Não é como se Cenourinha pudesse vencê-lo também.";
 	["2f3073e8f80a11eaac1b3c15c2dd513c"] = "Quero dizer... o que você está esperando? Vamos colocar esse show na estrada!\n{====}{big}Já é bem tarde. Minha mãe vai me chamar para jantar em breve.";
 	["2f30744cf80a11eaac1b3c15c2dd513c"] = "Ok, ok. Vou dar uma chance.";
 	["2f3074e2f80a11eaac1b3c15c2dd513c"] = "Desculpe...\nEu acho que perdi.";
@@ -664,7 +664,7 @@ return {
 	["2f3080a4f80a11eaac1b3c15c2dd513c"] = "Hei! {wait:0.5}...Grr, tanto faz! Acho que teremos que jogar amanhã.";
 	["2f3081bcf80a11eaac1b3c15c2dd513c"] = "Oh, certo! Adivinha?\n{====}Eu também vou para a escola amanhã!";
 	["2f308266f80a11eaac1b3c15c2dd513c"] = "Está falando sério?!\n{====}Por que você não disse isso antes? Fantástico!\n{====}Agora podemos sair amanhã na escola também.\n{====}Aqui, pegue isso. Pense nisso como uma recompensa por hoje.";
-	["2f3082d4f80a11eaac1b3c15c2dd513c"] = "Isto é uma Pixball.\n{====}Você pode usá-los para obter mais itens em Earth Born.\n{====}Você os pega naquela máquina de cápsulas ali.\n{====}Basta colocar um token, puxar a manivela e BAM! Pixball.\n{====}De qualquer forma, eu deveria ir agora também. Mas vejo você amanhã.\n{====}Certifique-se de não estar atrasado!";
+	["2f3082d4f80a11eaac1b3c15c2dd513c"] = "Isto é uma Pixball.\n{====}Você pode usá-los para obter mais itens em Earth Born.\n{====}Você os pega naquela máquina de cápsulas ali.\n{====}Basta colocar um token, puxar a manivela e BAM! Pixball.\n{====}De qualquer forma, eu deveria ir agora também. Mas vejo você amanhã.\n{====}Tente não chegar atrasada!";
 	["2f308338f80a11eaac1b3c15c2dd513c"] = "Eu vou! Vou sair suuuuper cedo! Vejo você amanhã!";
 	["132d5fb42ca111eb801b3c15c2dd513c"] = "Bem, bem, bem, se não é John! Ha!\n{====}{big}Estamos querendo uma bebida tão cedo, não é? Você não é melhor que Chuck!\n{====}Não venha correndo para mim se você desmaiar bêbado.";
 	["ba7126526a9f11eba7e53c15c2dd513c"] = "{big}Quanto mais jogarmos, maiores serão as chances de derrotarmos o Rei Demônio.!";
@@ -702,7 +702,7 @@ return {
 	["eb326942761b11e9badc3c15c2dd513c"] = "Olhar! Olha, pessoal!";
 	["eb329cbd761b11e98d333c15c2dd513c"] = "John, John! Vamos! Vamos brincar de Earth Born!";
 	["a30e7deb02c811eab2b73c15c2dd513c"] = "Aqui. Pegue isso.\n{====}Se você vai ter alguma chance de se sair bem...\n{====}Você vai precisar conseguir alguns bons personagens.";
-	["64745570f80911eaac1b3c15c2dd513c"] = "Aonde você vai, John?\n{====}Este é o ÚNICO lugar onde podemos comprar um cartão de memória!";
+	["64745570f80911eaac1b3c15c2dd513c"] = "Aonde você vai, John?\n{====}Este é o ÚNICO lugar onde podemos comprar um memory card!";
 	};
 ["Mine_SouthNorth.sq"]={
 	["1a3c2b0788e511e8a9c13c15c2dd513c"] = "As lesmas estão na caverna a oeste!";
@@ -715,7 +715,7 @@ return {
 	["46a7c93355e211e9802b3c15c2dd513c"] = "Bem-vindo a bordo do trem.";
 	["46a7cab055e211e9a8dd3c15c2dd513c"] = "Este trem tem como destino: Baía Whitewhale.\n{====}Por favor, observe onde pisa enquanto o trem está em movimento.";
 	["46a7cbf055e211e9a51e3c15c2dd513c"] = "White! {.}Whale! {.}Bay!";
-	["46a7ccae55e211e980273c15c2dd513c"] = "{<}A pérola brilhante da costa! O maior porto do leste!\n{====}{signal:yaha4}{big}Com as velas desfraldadas, os navios lotam suas costas, seus mastros orgulhosos raspando o céu.\n{====}{big}Com explosões poderosas, os rugidos aquáticos das baleias juntam-se às canções dos marinheiros ágeis.\n{====}{signal:yaha1}{big}Lá fora, o vento uiva, o céu escurece e as imponentes ondas brancas se elevam.\n{====}{big}Sim, mas em Baía Whitewhale, a água permanece parada, intocada como as cuecas de uma virgem.";
+	["46a7ccae55e211e980273c15c2dd513c"] = "{<}A pérola brilhante da costa! O maior porto do leste!\n{====}{signal:yaha4}{big}Com as velas desfraldadas, os navios lotam suas costas, seus mastros orgulhosos raspando o céu.\n{====}{big}Com explosões poderosas, os rugidos aquáticos das baleias juntam-se às canções dos marinheiros ágeis.\n{====}{signal:yaha1}{big}Lá fora, o vento uiva, o céu escurece e as imponentes ondas brancas se elevam.\n{====}{big}Sim, mas em Baía Whitewhale, a água permanece parada, intocada como as cuecas de um virgem.";
 	["46a7ce0a55e211e9a2613c15c2dd513c"] = "Mas então.\n{====}Nós a estragamos.";
 	["46a7ceab55e211e9b9c23c15c2dd513c"] = "As velas mofadas dos navios como mortalhas exumadas da terra.\n{====}{big}Os fantasmas das baleias, agora patrulhando suas águas como monstruosas sentinelas.";
 	["46a7d08055e211e9bc983c15c2dd513c"] = "Amaldiçoado para sempre como...{<}a \"Terra dos Mortos.\"";
@@ -799,14 +799,14 @@ return {
 	["eb264e63761b11e99b623c15c2dd513c"] = "Ela não aceitará mais suas mentiras!\n{====}Somente as almas mais degeneradas podem passar por sua garganta!";
 	["eb264f23761b11e9be983c15c2dd513c"] = "{~}A hora das palavras chegou e se foi!\n{====}Somente Charon pode decidir seu destino!";
 	["eb26508a761b11e98ac23c15c2dd513c"] = "{~}{<}Ohhhhhhh! {~}{|}Não!!";
-	["eb2652f5761b11e9a7d73c15c2dd513c"] = "E o veredicto... {~}CULPADO!\n{====}O poderoso martelo de Charon {<}CAI!\n{====}{|}Rápida e certa sua punição {<}REINARÁ!";
+	["eb2652f5761b11e9a7d73c15c2dd513c"] = "E o veredicto... {~}CULPADO!\n{====}O poderoso martelo de Charon {<}CAI!\n{====}{|}Rápida e certa sua \npunição {<}REINARÁ!";
 	["eb265485761b11e9b81b3c15c2dd513c"] = "Terrível!\n{<}DESPREZÍVEL!\n{====}Mesmo depois que eu te dei uma chance! Uma chance de expiar seus pecados!";
 	["eb265507761b11e983503c15c2dd513c"] = "Não. É tarde demais para você.\n{====}Você não pertence mais ao mundo do outro lado daquele portão.";
 	["eb2657d7761b11e986b83c15c2dd513c"] = "S-Sr. Prefeito, a Garganta de Charon, está...\n{====}Está quebrada...";
 	["eb26594a761b11e9b5df3c15c2dd513c"] = "{~}IMPERDOÁVEL!!";
 	["eb265a4c761b11e9b81d3c15c2dd513c"] = "{big}Até o mais execrável dos criminosos sente ALGUM tipo de vergonha por seus atos imundos.\n{====}{<}Mas não você!\n{====}{>}{big}Não... avançando para a Terra Proibida... espalhando essas mentiras odiosas!\n{==}{big}Saindo da prisão! Recusando-se a se arrepender pelas atrocidades que você cometeu!\n{==}E agora... {<}travar guerra na própria Garganta de Charon!";
-	["eb265ad9761b11e9b8d43c15c2dd513c"] = "{~~}COMECE!\n{====}Eu o banirei desta terra por toda a eternidade!";
-	["eb265d14761b11e9ba4b3c15c2dd513c"] = "vÁ.\n{==}Charon está esperando por você.\n{====}Que seus últimos passos nesta terra sejam o último ato de misericórdia da Ilha Potcrock.";
+	["eb265ad9761b11e9b8d43c15c2dd513c"] = "{~~}COMECE!\n{====}Eu os banirei desta terra por toda a eternidade!";
+	["eb265d14761b11e9ba4b3c15c2dd513c"] = "vÁ.\n{==}Charon está esperando por vocês.\n{====}Que seus últimos passos nesta terra sejam o último ato de misericórdia da Ilha Potcrock.";
 	["133718922ca111eb801b3c15c2dd513c"] = "{<}De um interminável... incessante...\n{====}{<<}MIASSSSSSSSSMA!";
 	};
 ["CH_DeamonMask.sq"]={
@@ -842,7 +842,7 @@ return {
 	};
 ["CH_SandTownBlock.sq"]={
 	["ed6cee78dc1811e891a43c15c2dd513c"] = "Jooooohn! Parecendo suave hoje, como sempre!";
-	["ed6cfa6bdc1811e8aef33c15c2dd513c"] = "Com pressa novamente hoje?\n{====}Eu não esperaria menos do escavador número um da Ilha Potcrock!";
+	["ed6cfa6bdc1811e8aef33c15c2dd513c"] = "Com pressa novamente?\n{====}Eu não esperaria menos do escavador número um da Ilha Potcrock!";
 	["ed6cfb8fdc1811e88c2e3c15c2dd513c"] = "Olhe para você todo coberto de sujeira!\n{====}Não me diga, você desenterrou algum tesouro de novo, não é mesmo??";
 	["ed6d0a8cdc1811e8a2eb3c15c2dd513c"] = "É isso que eu gosto em você! O tipo forte e silencioso!";
 	["ed6d0b4cdc1811e885323c15c2dd513c"] = "Esse seu olhar penetrante e frio...\n{====}Isso realmente atinge DIRETO o meu âmago!";
@@ -869,12 +869,12 @@ return {
 	["1a3b76f388e511e8927f3c15c2dd513c"] = "Ah, é o John...\n{====}Como vocês dois entraram?!";
 	["1a3b781788e511e89e5a3c15c2dd513c"] = "Escola? Quando eu disse alguma coisa sobre ir para a escola?";
 	["1a3b791988e511e887c63c15c2dd513c"] = "Ontem! No local de escavação!";
-	["1a3b79d988e511e88f113c15c2dd513c"] = "Uma criança abandonada como você não tem lugar na escola.\n{====}Você deve estar enganado.";
+	["1a3b79d988e511e88f113c15c2dd513c"] = "Uma criança abandonada como você não tem lugar na escola.\n{====}Você deve estar enganada.";
 	["1a3b7b0f88e511e89b053c15c2dd513c"] = "Você estava procurando por mim, senhor?";
 	["1a3b7c0788e511e8b9563c15c2dd513c"] = "Oh! Pequena Sammy! O que você ainda está fazendo aqui?\n{====}Você não deveria estar na escola?";
-	["1a3b7cee88e511e883b13c15c2dd513c"] = "Ah... erm... sim. Sim claro.\n{====}Você deve sempre, hum, {|}manter sua palavra...\n{====}Corra para a escola agora, seu adorável jackanape.";
+	["1a3b7cee88e511e883b13c15c2dd513c"] = "Ah... erm... sim. Sim claro.\n{====}Você deve sempre, hum, {|}manter sua palavra...\n{====}Corra para a escola agora, sua adorável bagunceirinha.";
 	["1a3b7ea688e511e8a1903c15c2dd513c"] = "Mas eu preciso de uma carta de referência...";
-	["1a3b7fb588e511e8a6013c15c2dd513c"] = "Certo, certo. Olha Você aqui.\n{====}Não perca! Ou então você não conseguirá entrar.";
+	["1a3b7fb588e511e8a6013c15c2dd513c"] = "Certo, certo. Olha Você aqui.\n{====}Não perca! Ou então você \nnão conseguirá entrar.";
 	["46925efa55e211e9b6413c15c2dd513c"] = "Ei! Esta é a casa do prefeito!";
 	["469260ee55e211e9989e3c15c2dd513c"] = "John! Nós conseguimos voltar!";
 	["eaff4ee8761b11e98c103c15c2dd513c"] = "\"Abandone toda a esperança de voltar!\"{signal:turn}\n{====}\"Eu vim para levá-lo para o mundo acima...\"";
@@ -894,20 +894,20 @@ return {
 	["469261f055e211e9820b3c15c2dd513c"] = "Trancado.";
 	["1a3b7b0f88e511e89 nb053c15c2dd513c"] = "Você queria nos ver, Sr. Prefeito?";
 	["cc79a482cfad11e9a9553c15c2dd513c"] = "{~~}Não me diga!\n{====}Você está matando aula, {<}{~}não é?";
-	["cc79b4e3cfad11e9a01e3c15c2dd513c"] = "Você não prometeu que iria ouvir seu professor?\n{====}Não adianta quebrar promessas agora.";
+	["cc79b4e3cfad11e9a01e3c15c2dd513c"] = "Você não prometeu que iria ouvir sua professora?\n{====}Não adianta quebrar promessas agora.";
 	["cc7b555ccfad11e98f9e3c15c2dd513c"] = "Palavras mais verdadeiras nunca foram ditas, meu homem.\n{====}{big}Aqueles que quebram sua palavra são enviados direto para o velho Charon.";
 	["cc7b5959cfad11e9974e3c15c2dd513c"] = "Não é verdade, Sr. Prefeito?";
-	["2564834cbf6811ebb2f23c15c2dd513c"] = "Droga, prefeito Hoffman. Você se ouve lá atrás? {~}Arte, eu te digo!";
+	["2564834cbf6811ebb2f23c15c2dd513c"] = "Caramba, prefeito Hoffman. Que frase impactante foi essa!? {~}Isso foi uma obra prima!";
 	["256485a4bf6811ebb2f23c15c2dd513c"] = "\"Você fez o prefeito ficar muito mal...\"\n{====}\"E quando o prefeito parece mal, isso o deixa muito irritado.\"";
-	["25648630bf6811ebb2f23c15c2dd513c"] = "Nada pode abalar os ossos como o nosso prefeito Hoffman!\n{====}Eu não consigo nem parecer tão assustador... mesmo nos meus piores dias!\n{====}Aquele velho John provavelmente está chateado com suas cuecas!";
+	["25648630bf6811ebb2f23c15c2dd513c"] = "Nada pode abalar os ossos como o nosso prefeito Hoffman!\n{====}Eu não consigo nem parecer tão assustador... mesmo nos meus piores dias!\n{====}Aquele velho John provavelmente está borrando suas cuecas!";
 	["25648b3abf6811ebb2f23c15c2dd513c"] = "Basta.";
 	["25648d06bf6811ebb2f23c15c2dd513c"] = "Está quase na hora do banimento.\n{====}Vá e prepare-se.";
 	["25648d9cbf6811ebb2f23c15c2dd513c"] = "{~}Sim senhor!";
-	["25648e1ebf6811ebb2f23c15c2dd513c"] = "Eu vou sair do seu cabelo, então.";
+	["25648e1ebf6811ebb2f23c15c2dd513c"] = "Eu vou indo então.";
 	["25648e8cbf6811ebb2f23c15c2dd513c"] = "Espere.{stop}";
 	["25648f90bf6811ebb2f23c15c2dd513c"] = "Você precisa de outra coisa?";
 	["256490e4bf6811ebb2f23c15c2dd513c"] = "Eu quero... ensaiar um pouco.";
-	["25649206bf6811ebb2f23c15c2dd513c"] = "{<}Ensaie... senhor?";
+	["25649206bf6811ebb2f23c15c2dd513c"] = "{<}Ensaiar... senhor?";
 	["2564930abf6811ebb2f23c15c2dd513c"] = "Sim! {~}Ensaiar!!";
 	["256495e4bf6811ebb2f23c15c2dd513c"] = "Ah! Me poupe! POR FAVOR, me poupe, Sr. Prefeito!";
 	["25649710bf6811ebb2f23c15c2dd513c"] = "{<}Abandone toda a{|} esperança de {<}voltar!\n{====}Pois eu {.}vim para levá-lo ao mundo {<}acima.";
@@ -915,7 +915,7 @@ return {
 	["2564999abf6811ebb2f23c15c2dd513c"] = "{<}De um interminável... incessante...\n{====}{<<}MIASSSSSSSSSMA!";
 	["25649a26bf6811ebb2f23c15c2dd513c"] = "...Como foi?";
 	["25649b5cbf6811ebb2f23c15c2dd513c"] = "Era...";
-	["25649c4cbf6811ebb2f23c15c2dd513c"] = "BRILHANTE!\n{====}Maldito. Minhas pernas ainda estão tremendo'!";
+	["25649c4cbf6811ebb2f23c15c2dd513c"] = "BRILHANTE!\n{====}Maldito. Minhas pernas ainda estão tremendo!";
 	["25649cd8bf6811ebb2f23c15c2dd513c"] = "Bom...\n{====}Sim, um pouco de prática PODE ser eficaz de vez em quando.";
 	};
 ["Crypt_To_Jail.sq"]={
@@ -923,7 +923,7 @@ return {
 	["956d9fc7155511e99c8a3c15c2dd513c"] = "John! Olhe, John! Olhe!";
 	["469e736655e211e9902f3c15c2dd513c"] = "Espere por mim!";
 	["956da161155511e9989a3c15c2dd513c"] = "Onde é esse lugar, Jasper?";
-	["956da245155511e985483c15c2dd513c"] = "Aqui?{signal:turn}\n{====}Também não posso dizer que sei.{signal:jasper}\n{====}{big}Mas todas as noites, eu ouvia os mais estranhos ruídos sibilantes vindo daqui.\n{====}Ficaria tão alto que eu teria que usar meu Perseguidor Noturno para bloqueá-lo.";
+	["956da245155511e985483c15c2dd513c"] = "Aqui?{signal:turn}\n{====}Também não posso dizer que sei.{signal:jasper}\n{====}{big}Mas todas as noites, eu ouvia os mais estranhos ruídos sibilantes vindo daqui.\n{====}Ficavam tão alto que eu tinha que usar meu Perseguidor Noturno para silencia-los.";
 	["469e870055e211e99b733c15c2dd513c"] = "{<<}Ohhh... Perseguidor Noturno...";
 	["469eac0055e211e988bb3c15c2dd513c"] = "John! {signal:turn}Vamos explorar!";
 	["469ef8f355e211e99fd43c15c2dd513c"] = "Nunca se sabe! Pode levar para fora!";
@@ -933,9 +933,9 @@ return {
 	["95694c82155511e9a9a83c15c2dd513c"] = "{~}Não... não... NÃO ME COMA!!";
 	["95694eb3155511e9b79c3c15c2dd513c"] = "*sniff*...{.}*sniff*...";
 	["4671af4755e211e983713c15c2dd513c"] = "Bem, você não é um colírio para os olhos!\n{====}Eu pensei que você fosse uma daquelas criaturas carnívoras.\n{====}Sou eu! Dr. Charlatão!";
-	["eaf56421761b11e99ab23c15c2dd513c"] = "Não não não! Eu tenho que parar de me chamar assim!\n{====}Vou parar de receber pacientes!\n{====}A propósito, você sabia que essas lesmas secretam um gel muito peculiar?\n{====}Eles fazem! E pode até ser usado como uma espécie de adesivo para curar feridas.\n{====}É por isso que estou aqui, para colocar as mãos naquele gel!\n{====}{big}Mas como eu poderia saber o quão LOUCO aqueles ácaros mucilaginosos ficariam!\n{====}Eu não tive escolha a não ser me esconder aqui.";
+	["eaf56421761b11e99ab23c15c2dd513c"] = "Não não não! Eu tenho que parar de me chamar assim!\n{====}Vou parar de receber pacientes!\n{====}A propósito, você sabia que essas lesmas secretam um gel muito peculiar?\n{====}Elas fazem! E pode até ser usado como uma espécie de adesivo para curar feridas.\n{====}É por isso que estou aqui, para colocar as mãos naquele gel!\n{====}{big}Mas como eu poderia saber o quão LOUCO aqueles ácaros mucilaginosos ficariam!\n{====}Eu não tive escolha a não ser me esconder aqui.";
 	["95695299155511e98bc03c15c2dd513c"] = "{~}N-não vá! Por favor, não vá!";
-	["eaf5677d761b11e9b7a43c15c2dd513c"] = "Você é isso... aquilo...\n{====}Sim, você é aquele escavador notável, não é? John, foi?\n{====}Ouvi dizer que você foi o primeiro a desenterrar uma pessoa!";
+	["eaf5677d761b11e9b7a43c15c2dd513c"] = "Você é isso... aquilo...\n{====}Sim, você é aquele escavador notável, não é? John?\n{====}Ouvi dizer que você foi o primeiro a desenterrar uma pessoa!";
 	["b926468c868c11e8a9393c15c2dd513c"] = "Sim, sim... aqui. Pegue isso, você poderia?";
 	["eaf569c0761b11e9b6153c15c2dd513c"] = "{big}Posso não ter conseguido encontrar nenhum gel, mas isso não significa que sou inútil!\n{====}Experimente essa coisa!";
 	};
@@ -946,12 +946,12 @@ return {
 	["9fe2da92a19611eaa7f13c15c2dd513c"] = "Droga. Ainda bem que não estou aí.";
 	["9fe2dd08a19611eaa7f13c15c2dd513c"] = "Se essa não fosse a experiência mais aterrorizante que eu nunca mais quero ter.\n{====}Realmente pensei que ele iria nos matar desta vez.";
 	["9fe2de5ca19611eaa7f13c15c2dd513c"] = "Não tenho certeza do que o deixou tão irritado, no entanto. Nós não fizemos nada!";
-	["9fe2dfd8a19611eaa7f13c15c2dd513c"] = "Deve ter sido {~}você!\n{====}Provavelmente você tem ranho nojento em toda a mobília ou algo assim!";
+	["9fe2dfd8a19611eaa7f13c15c2dd513c"] = "Deve ter sido {~}você!\n{====}Provavelmente você deixa ranho nojento por toda a mobília ou algo assim!";
 	["9fe2e104a19611eaa7f13c15c2dd513c"] = "Ainda não sei o que eu disse de errado...";
 	["9fe2e190a19611eaa7f13c15c2dd513c"] = "Hoje com certeza acabou sendo um dia péssimo.";
 	};
 ["SandTown_East.sq"]={
-	["1a444c9788e511e8a48b3c15c2dd513c"] = "Era uma vez, nos confins do continente...\n{====}...havia um reino próspero, com uma torre elevada que alcançava as nuvens acima.\n{====}Por muitos anos, o reino viveu em paz, até que, após a trágica morte de seu rei...\n{====}...o malvado chanceler reivindicou o reino para si, mantendo seu povo sob seu controle tirânico.\n{====}Isolando o reino do resto do mundo, ele trancou a princesa dentro da torre.\n{====}Dia após dia, a princesa chorava, olhando pela janela para o seu pobre reino abaixo.\n{====}Com o tempo, seu cabelo começou a perder a cor, ficando com um tom acinzentado.\n{====}Até que, um dia, um bravo cavaleiro veio em seu socorro.\n{====}Ele a libertou da prisão e assim começou sua grande aventura.";
+	["1a444c9788e511e8a48b3c15c2dd513c"] = "Era uma vez, nos confins do continente...\n{====}...havia um reino próspero, com uma torre elevada com seu topo acima das nuvens.\n{====}Por muitos anos, o reino viveu em paz, até que, após a trágica morte de seu rei...\n{====}...o malvado chanceler reivindicou o reino para si, mantendo seu povo sob seu controle tirânico.\n{====}Isolando o reino do resto do mundo, ele trancou a princesa dentro da torre.\n{====}Dia após dia, a princesa chorava, olhando pela janela para o seu pobre reino abaixo.\n{====}Com o tempo, seu cabelo começou a perder a cor, ficando com um tom acinzentado.\n{====}Até que, um dia, um bravo cavaleiro veio em seu socorro.\n{====}Ele a libertou da prisão e assim começou sua grande aventura.";
 	["1a444f7088e511e896193c15c2dd513c"] = "{~}Mas como é que?!{stop}";
 	["1a44512188e511e8a6983c15c2dd513c"] = "Não vejo razão para que Thomas não queira se juntar a nós!\n{====}Afinal, somos os honrados e corajosos Rocket Knights!";
 	["1a44528a88e511e895f83c15c2dd513c"] = "Eu não estou surpreso.\n{==}{big}Sem a Prova dos Cavaleiros, ele não vai acreditar apenas na sua palavra.";
@@ -961,7 +961,7 @@ return {
 	["1a4458a188e511e8a9373c15c2dd513c"] = "Passaremos por aqui depois da escola, ok?";
 	["1a445b5188e511e8adf23c15c2dd513c"] = "Apresse-se, John!\n{==}Tenho a sensação de que algo bom vai acontecer hoje.";
 	["1a445c4288e511e8b76c3c15c2dd513c"] = "Eu vou à escola todos os dias.\n{====}Eu não sou um perdedor.\n{====}{<<}...\n{====}{|}Eu só abandonei a escola, tipo, uma vez...";
-	["1a445d2688e511e8a5c93c15c2dd513c"] = "Não adianta ser um perdedor.\n{====}Eu deveria saber. Desde que meu pai se tornou um, minha mãe chora todos os dias.";
+	["1a445d2688e511e8a5c93c15c2dd513c"] = "Não adianta ser um perdedor.\n{====}Eu deveria saber. Desde que meu pai se tornou um, minha \nmãe chora todos os dias.";
 	["1a445ea388e511e886523c15c2dd513c"] = "Você não deveria estar no trabalho ou algo assim agora?";
 	["1a445fb088e511e8a3da3c15c2dd513c"] = "Eu sabia! Você é um DESSES tipos, não é??";
 	["1a44613888e511e8b3fc3c15c2dd513c"] = "Sim! Um \"perdedor!\" Nunca consegue manter um emprego. Estou certo?";
@@ -973,13 +973,13 @@ return {
 	["1a44669188e511e89bab3c15c2dd513c"] = "Escuta é desprezível!";
 	["1a4467f888e511e8a06b3c15c2dd513c"] = "Desculpe.";
 	["1a446a2888e511e8a1283c15c2dd513c"] = "Receio não estar interessado em homens com filhos.";
-	["1a446c2888e511e881403c15c2dd513c"] = "{big}Você não tem coisas melhores para fazer do que escutar uma conversa privada?";
+	["1a446c2888e511e881403c15c2dd513c"] = "{big}Você não tem coisas melhores para fazer do que escutar a conversa alheia?";
 	["1a446e5788e511e896b33c15c2dd513c"] = "Última garrafa!";
 	["1a446f3d88e511e8b1433c15c2dd513c"] = "OK! Por hoje é isso!";
 	["1a4470c588e511e899573c15c2dd513c"] = "O jantar está pronto! Onde ESTÁ aquele garoto?";
 	["1a44731c88e511e8b98a3c15c2dd513c"] = "Onde ele ESTÁ?!\n{====}Provavelmente jogando aquele jogo estúpido de novo!";
 	["1a44741488e511e8bc233c15c2dd513c"] = "{~}Isso é tudo que ele faz!\n{====}Ele vai se tornar um desses perdedores! Eu simplesmente sei disso!";
-	["1a44754088e511e8b6e53c15c2dd513c"] = "Você deveria agradecer ao Sam, você sabe.";
+	["1a44754088e511e8b6e53c15c2dd513c"] = "Você deveria agradecer a Sam, você sabe.";
 	["1a44761188e511e8864b3c15c2dd513c"] = "Sim! Se não fosse por ela, você teria acabado como seu pai...";
 	["1a4476d188e511e8bf6e3c15c2dd513c"] = "Ei! Não diga coisas assim!";
 	["1a4477cc88e511e890cf3c15c2dd513c"] = "E-está tudo bem. Estou acostumado com isso.";
@@ -989,12 +989,12 @@ return {
 	["1a447d6388e511e88bc83c15c2dd513c"] = "John não é meu pai. Ele é apenas John.";
 	["1a447e3d88e511e8a7af3c15c2dd513c"] = "{<}Ah, uh... C-certo...\n{====}D-desculpe...";
 	["1a447f2388e511e884e63c15c2dd513c"] = "{~}{<}Querido Deus!\n{|}Isso é impossível!";
-	["1a4482cf88e511e883e93c15c2dd513c"] = "{big}O que Big Eyes está TENTANDO dizer é que ele está grato pela sua ajuda ontem.";
+	["1a4482cf88e511e883e93c15c2dd513c"] = "{big}O que o Olhudo está TENTANDO dizer é que ele está grato pela sua ajuda ontem.";
 	["1a4485b388e511e8a7353c15c2dd513c"] = "S-sim, eu, uh... obrigado...\n{====}É tudo p-por causa... daquela mentira que meu pai contou...";
 	["1a44878a88e511e88a053c15c2dd513c"] = "Seu pai não estava mentindo. O mundo acima de nós...";
 	["1a44893888e511e899203c15c2dd513c"] = "{~~}É o bastante!{stop}";
-	["1a448ca888e511e894973c15c2dd513c"] = "Você tem que me prometer que não vai falar nada sobre isso na escola!\n{====}Se a diretora ouvir, ela vai explodir.";
-	["1a448ff088e511e882693c15c2dd513c"] = "Vamos indo então. Ela também não vai gostar se chegarmos atrasados.";
+	["1a448ca888e511e894973c15c2dd513c"] = "Você tem que me prometer que \nnão vai falar nada sobre isso na escola!\n{====}Se a diretora ouvir, ela vai explodir.";
+	["1a448ff088e511e882693c15c2dd513c"] = "Vamos indo então. Ela também \nnão vai gostar se chegarmos atrasados.";
 	["1a44911c88e511e89ef33c15c2dd513c"] = "John, estou indo para a escola!";
 	["1a44936888e511e89f9d3c15c2dd513c"] = "Ah, não...";
 	["1a44951988e511e88e813c15c2dd513c"] = "A pequena Sammy está de volta...";
@@ -1009,7 +1009,7 @@ return {
 	["ed7921b5dc1811e891533c15c2dd513c"] = "Aquele bastardo astuto! Eu quero ler também...";
 	["ed79234fdc1811e8833d3c15c2dd513c"] = "Do que vocês estão falando, hein?";
 	["ed792421dc1811e8b5563c15c2dd513c"] = "O que você acha, idiota? Apenas ESSA revista - Wild Love!";
-	["ed7924d7dc1811e8974d3c15c2dd513c"] = "Não é que a revista só os adultos podem comprar?";
+	["ed7924d7dc1811e8974d3c15c2dd513c"] = "Não é aquela revista que só os adultos podem comprar?";
 	["ed7925d1dc1811e884ba3c15c2dd513c"] = "Claro que sim!\n{====}Cara, eu mataria para dar uma olhada lá dentro...";
 	["ed792d59dc1811e8815e3c15c2dd513c"] = "Isso mesmo, irmão. Mesmo.";
 	["48ed1000155511e99cd23c15c2dd513c"] = "Ei! Senhor! Você já leu isso antes, não é? Wild Love?";
@@ -1057,7 +1057,7 @@ return {
 	["48f69fa6155511e989bd3c15c2dd513c"] = "{big}Pode não parecer, mas esta fruta é outra coisa quando se trata de peso.\n{====}Especialmente aquela ali.";
 	["48f6a0b5155511e994833c15c2dd513c"] = "Somente nossos caranguejos de pernas mais fortes podem cultivar os de folhas vermelhas.";
 	["48f6a1ba155511e9a4a23c15c2dd513c"] = "{big}Depois de tudo dito e feito, enfiamos os frootie-tooties naquele buraco.";
-	["48f6a2bd155511e9be113c15c2dd513c"] = "E isso é um embrulho. É hora de encerrar o dia, rapazes!";
+	["48f6a2bd155511e9be113c15c2dd513c"] = "É isso. É hora de encerrar o dia, rapazes!";
 	["48f6a46b155511e9a8793c15c2dd513c"] = "O que acontece com os caranguejos?";
 	["48f6a5ca155511e98ded3c15c2dd513c"] = "Erm... bem... provavelmente é melhor você não saber.";
 	};
@@ -1068,8 +1068,8 @@ return {
 	["b9271314868c11e882793c15c2dd513c"] = "A aula está prestes a começar. Você está pronto para se juntar a nós?\n{choice:yes}Ok!\n{choice:no}Em um minuto.";
 	["b927154c868c11e8917f3c15c2dd513c"] = "Tudo bem...\nSó não vá muito longe.";
 	["b927175e868c11e89d8f3c15c2dd513c"] = "Você é tão persistente! Oh querido, o que devo fazer...?\n{====}O que? Sam precisa... ir para a escola?\n{====}Ah, então... é por isso que você está aqui?";
-	["b9271985868c11e8bcb63c15c2dd513c"] = "Você precisa ouvir seus professores na escola, Sam.\n{====}Posso parecer jovem, mas SOU professor.";
-	["b9271a61868c11e8b38e3c15c2dd513c"] = "Você tem que me ouvir na escola, Sam.\n{====}A partir de amanhã, serei seu professor!";
+	["b9271985868c11e8bcb63c15c2dd513c"] = "Você precisa ouvir seus professores na escola, Sam.\n{====}Posso parecer jovem, mas SOU professora.";
+	["b9271a61868c11e8b38e3c15c2dd513c"] = "Você tem que me ouvir na escola, Sam.\n{====}A partir de amanhã, serei sua professora!";
 	};
 ["CH_YocarRed.sq"]={
 	["b92eb8ee868c11e89a3e3c15c2dd513c"] = "Bem, se não é o John!\n{====}O que traz você ao Rancho Sunnyside?\n{====}{big}Se for o local de escavação que você está procurando, você foi exatamente na direção oposta.";
@@ -1083,11 +1083,11 @@ return {
 	["48fedde3155511e9a74d3c15c2dd513c"] = "{big}A habilidade artística de Mason deixará você sem palavras!\n{====}Assim como o humor, hm... \"dele.\"";
 	};
 ["CH_DiggerTutor.sq"]={
-	["b91d0ab5868c11e8be193c15c2dd513c"] = "Chamando isso de Terra Proibida... hmph.\n{====}Tudo o que vai fazer é fazer as pessoas QUEREM ir para lá.";
+	["b91d0ab5868c11e8be193c15c2dd513c"] = "Chamando isso de Terra Proibida... hmph.\n{====}Tudo o que vai fazer é fazer as pessoas QUEREREM ir para lá.";
 	["b91d0cb5868c11e8933e3c15c2dd513c"] = "Lesmas?\n{====}Isso, uh... você sabe... realmente não exige de MIM, não é??";
 	["b91d0db0868c11e897823c15c2dd513c"] = "Não que eu esteja... você sabe... com medo ou nada...";
 	["b91d0f40868c11e8b0083c15c2dd513c"] = "Escola, né...? *soluço*... Me leva de volta.\n{====}Você ouve seu... *soluço*... professor, você ouve?\n{====}Então, você pode ser um... *soluço*... grande escavador como eu quando crescer.";
-	["b91d1030868c11e8a5873c15c2dd513c"] = "Escavadores como nós...\n{====}Precisamos de armas que nos permitam fazer bom uso destas mãos..";
+	["b91d1030868c11e8a5873c15c2dd513c"] = "Escavadores como nós...\n{====}Precisamos de ferramentas que nos permitam fazer bom uso destas mãos..";
 	["b91d10e3868c11e8a0683c15c2dd513c"] = "Eu recomendo consertar essa panela.\n{====}Vá encontrar Mason na fazenda. Ele vai te dar uma mão.";
 	["b91d1359868c11e8a2f13c15c2dd513c"] = "Pequena Sammy? Ela simplesmente saiu correndo para o local de escavação.\n{====}Não foi ontem que ela disse que estava indo para a escola?\n{====}Parece que ela gosta mais de nós, escavadores, hahaha.";
 	["b91d14b8868c11e8934b3c15c2dd513c"] = "Parece que ela gosta mais de nós, escavadores, hahaha.";
@@ -1097,12 +1097,12 @@ return {
 	["22b94226ae0d11e8bf743c15c2dd513c"] = "Bem, o que você esperava indo para um lugar como esse?";
 	};
 ["CH_Yocar.sq"]={
-	["b9317f14868c11e8921c3c15c2dd513c"] = "Essas pobres linhas de energia...\n{====}As lesmas estão atacando eles novamente.\n{====}Por favor! Se você puder fazer alguma coisa para salvá-los...";
-	["b931bde6868c11e8a3c33c15c2dd513c"] = "{big}Dizem que há coisas piores do que lesmas para se preocupar na Terra Proibida.\n{====}É melhor manter os olhos na nuca.";
+	["b9317f14868c11e8921c3c15c2dd513c"] = "Essas pobres linhas de energia...\n{====}As lesmas estão atacando elas novamente.\n{====}Por favor! Se você puder fazer alguma coisa para salvá-las...";
+	["b931bde6868c11e8a3c33c15c2dd513c"] = "{big}Dizem que há coisas piores do que lesmas para se preocupar na Terra Proibida.\n{====}É melhor ter olhos na nuca.";
 	["b931e3a1868c11e885133c15c2dd513c"] = "ÉÉééé hora do jantar!\n{====}Um pouco de lubrificante de caranguejo para melhorar a caixa de voz!";
 	["b931f7a3868c11e8b3f33c15c2dd513c"] = "{~}Humm, de-licioso!";
 	["b93213de868c11e88d1a3c15c2dd513c"] = "E vocês dois, hein? Cuidar de um smackerel?";
-	["b9321d4a868c11e8b6fd3c15c2dd513c"] = "Oh, certo. Eu esqueci. Humanos não podem comer isso, ahaha.";
+	["b9321d4a868c11e8b6fd3c15c2dd513c"] = "Oh, certo. Eu esqueci. Humanos \nnão podem comer isso, ahaha.";
 	["b9326321868c11e8afd13c15c2dd513c"] = "Uma vergonha! Perdendo toda essa delícia.";
 	["b93271ab868c11e8ae8a3c15c2dd513c"] = "Deve ser difícil ser humano. Perdendo toda essa comida deliciosa.";
 	["ed94b619dc1811e893323c15c2dd513c"] = "John, velho amigo! Bom te ver de novo. Como foi a escola?";
@@ -1113,7 +1113,7 @@ return {
 ["CH_SandGrocer.sq"]={
 	["48f82685155511e9b36c3c15c2dd513c"] = "Aquela velha máquina Earth Born está logo ali na frente.";
 	["649ebb30f80911eaac1b3c15c2dd513c"] = "{big}Ora, já faz muito tempo que não vejo seu rosto por aqui, John.\n{====}Você normalmente não faz compras na minha loja.\n{====}De qualquer forma, o que posso oferecer para você hoje?";
-	["649ebc8ef80911eaac1b3c15c2dd513c"] = "{~}Obrigado, John!!\n{====}Agora finalmente tenho meu próprio cartão de memória!";
+	["649ebc8ef80911eaac1b3c15c2dd513c"] = "{~}Obrigado, John!!\n{====}Agora finalmente tenho meu próprio memory card!";
 	["649ebd1af80911eaac1b3c15c2dd513c"] = "Algo para Sam, então, foi?\n{====}{big}Pensando bem, você passou muitas horas nisso quando era jovem, não foi, John?\n{====}{big}Isso, uh... ah, como foi chamado de novo. Certo, certo Earth Born. Foi isso.";
 	};
 ["CH_RocketHead.sq"]={
@@ -1134,18 +1134,18 @@ return {
 	["b91f31ee868c11e8bd393c15c2dd513c"] = "O prefeito se foi. Scat. Vamos.\n{====}Torne-se escasso ou você sofrerá abusos.";
 	["b91f3463868c11e8bcd03c15c2dd513c"] = "Risadas de escola. Irmãos para a vida.\n{====}Memórias melancólicas através de felicidade e conflito.";
 	["b91f3657868c11e8b42a3c15c2dd513c"] = "Ida e volta. Você jogou sua mão.\n{====}Brincando na Terra Proibida.";
-	["133b1a502ca111eb801b3c15c2dd513c"] = "Vou fingir que não vi isso, você entendeu?\n{====}Vocês dois vão para o local de escavação agora.\n{====}E John?\n{====}Se você vai beber, pelo menos faça isso longe da vista da criança.";
+	["133b1a502ca111eb801b3c15c2dd513c"] = "Vou fingir que não vi isso, você entendeu?\n{====}Vocês dois vão para o local de escavação agora.\n{====}E John?\n{====}Se você vai beber, pelo menos faça isso longe da vista da menina.";
 	["133b1c802ca111eb801b3c15c2dd513c"] = "Você não deveria estar na escola, Sam?";
 	["133b1d342ca111eb801b3c15c2dd513c"] = "Esta é a propriedade do prefeito. Vocês têm negócios aqui?";
 	["133b24a02ca111eb801b3c15c2dd513c"] = "Carta de referência?\n{====}Como você pôde esquecer algo assim, hein?\n{====}Vá em frente, então. O prefeito já deveria estar acordado.\n{====}Mas tomem cuidado. Esse homem é tão irritado quanto uma mulher de tpm pela manhã.\n{====}Não que ele esteja melhor à tarde.";
-	["133b25ae2ca111eb801b3c15c2dd513c"] = "{big}O prefeito não ficará feliz em espiar vocês tão cedo. Tome cuidado.";
-	["133b27f22ca111eb801b3c15c2dd513c"] = "{big}O prefeito me agarrou como segurança assim que me formei na escola.\n{====}Meu trabalho é cumprir a vontade dele.\n{====}But sometimes...\n{====}Às vezes me pergunto o que estou protegendo...";
+	["133b25ae2ca111eb801b3c15c2dd513c"] = "{big}O prefeito não ficará feliz em ver vocês tão cedo. Tome cuidado.";
+	["133b27f22ca111eb801b3c15c2dd513c"] = "{big}O prefeito me agarrou como segurança assim que me formei na escola.\n{====}Meu trabalho é cumprir a vontade dele.\n{====}Mas às vezes...\n{====}Às vezes me pergunto o que estou protegendo...";
 	["133b29a02ca111eb801b3c15c2dd513c"] = "{~}A Terra Proibida?!";
 	["133b2a4a2ca111eb801b3c15c2dd513c"] = "Agora, ouça aqui, John.\n{====}{big}Como um dos seguranças de confiança do prefeito, tenho minhas próprias responsabilidades.\n{====}Se você vai me odiar, então me odeie o quanto quiser.\n{====}Mas como pai, você precisa fazer o que é melhor para seu filho.\n{====}Você tem que encontrá-la e trazê-la de volta, John.";
 	["133b2acc2ca111eb801b3c15c2dd513c"] = "Se você vai me odiar, então me odeie o quanto quiser.";
 	["133b2b762ca111eb801b3c15c2dd513c"] = "Outro dia sossegado... sossegado... SOSSEGADO...\n{====}Ah, não me entenda mal!\n{====}{big}Como um dos seguranças de confiança do prefeito, sonho com dias tranquilos.\n{====}{big}Na verdade, rezo quase todos os dias para que possamos chegar ao anoitecer sem sequer um peido de mosca.";
 	["133b2d2e2ca111eb801b3c15c2dd513c"] = "Oi, oi! Fora do trabalho, não é, meus amigos?\n{====}E parecendo muito animado também. Algo de bom aconteceu hoje?";
-	["133b2e822ca111eb801b3c15c2dd513c"] = "Amanhã irei para a ESCOLA, Capitão Tigre!";
+	["133b2e822ca111eb801b3c15c2dd513c"] = "Amanhã irei para a ESCOLA, \nCapitão Tigre!";
 	["133b2f182ca111eb801b3c15c2dd513c"] = "Boas notícias, de fato!\n{====}Desculpe, no entanto. Receio não poder deixar você comemorar com uma bebida, HA HA HA!";
 	["133b31522ca111eb801b3c15c2dd513c"] = "Aproveite seus dias de escola, Sam.\n{====}Eles terminarão antes que você perceba.";
 	["133b338c2ca111eb801b3c15c2dd513c"] = "O que você ainda está fazendo aqui, Sam?";
@@ -1154,7 +1154,7 @@ return {
 	};
 ["CH_SandNeighborA.sq"]={
 	["b91fd8c2868c11e8b49c3c15c2dd513c"] = "La lala... La lala lala...\n{====}O que? Eu estava cantando? Eu estava, realmente?";
-	["b91fdb38868c11e895eb3c15c2dd513c"] = "Finalmente, aquele meu filho está na escola.\n{====}Minha querida... espere por mim!";
+	["b91fdb38868c11e895eb3c15c2dd513c"] = "Finalmente, aquele meu filho está na escola.\n{====}Meu queridinho, aqui estou!";
 	["b91fdd42868c11e882253c15c2dd513c"] = "{~}Porco!\nTodos vocês, homens! Nada além de porcos!";
 	["b91fde8c868c11e89ba43c15c2dd513c"] = "Suma!";
 	["b91fdff3868c11e89f933c15c2dd513c"] = "Suma!";
@@ -1183,13 +1183,13 @@ return {
 	["b923b407868c11e883403c15c2dd513c"] = "Ah, e espere!\n{==}Leve isso com você também. Pode ser de ajude.";
 	["b923b566868c11e8870c3c15c2dd513c"] = "Vá e dê a John um grande e bom pedido de desculpas, você ouviu?";
 	["46acc96655e211e9aa923c15c2dd513c"] = "Não é hora da aula acabar?\n{====}Você deveria ir buscar a pequena Sam em seus estudos.";
-	["46acce0c55e211e9a1263c15c2dd513c"] = "Agora, você ouve aqui.\n{====}Se as crianças não cometessem erros, não seriam crianças!\n{====}Você vai e dê grande pedido de desculpas a John e tudo ficará bem.";
+	["46acce0c55e211e9a1263c15c2dd513c"] = "Agora, escute aqui.\n{====}Se as crianças não cometessem erros, não seriam crianças!\n{====}Vá e dê um grande pedido de desculpas ao John e tudo ficará bem.";
 	};
 ["Mine_SamFound_01.sq"]={
 	["1a3884f888e511e8ae503c15c2dd513c"] = "Você ouviu isso, John? É o sino!\n{====}Isso significa que o prefeito está a caminho.\n{====}Devíamos voltar!";
 	};
 ["CH_RobotBarman.sq"]={
-	["b9339c87868c11e88e103c15c2dd513c"] = "Ouvi dizer que a pequena Sam começou a escola hoje. Este direito?\n{====}Como é ser um nester vazio?\n{====}Alguma coisa para aguçar seu assobio? Tenho que comemorar!";
+	["b9339c87868c11e88e103c15c2dd513c"] = "Ouvi dizer que a pequena Sam começou a escola hoje. Estou certo?\n{====}Como é ser um pai solteiro?\n{====}Por que você não tem um copo para comemorar?";
 	["b933de8c868c11e8a2563c15c2dd513c"] = "Rise and shine!";
 	["b934ce97868c11e897c93c15c2dd513c"] = "Teve um belo sonho, bela adormecida?\n{====}Já está na hora da escola sair.";
 	["b9359205868c11e8806b3c15c2dd513c"] = "O que é a vida sem um pouco de sabor, estou certo?\n{====}Barman e enviado do sabor, reportando-se ao serviço!{stop}";
@@ -1200,18 +1200,18 @@ return {
 	["49066397155511e995b63c15c2dd513c"] = "{big}Está um lindo dia lá fora, você sabe, Mac. Sair. Tome um pouco de ar fresco.";
 	["ed965005dc1811e884e53c15c2dd513c"] = "Mm mm mmmmmm—";
 	["e40a9c526e8111ea806f3c15c2dd513c"] = "{big}Está um lindo dia lá fora, você sabe, Mac. Sair. Tome um pouco de ar fresco.";
-	["cd5f56bd256111ea816a3c15c2dd513c"] = "O que você está fazendo aqui, querido?\n{====}Boguta já fugiu do galinheiro. Saiu para encontrar John.\n{====}Não me diga que você não o viu?\n{====}Maldito idiota... Musta se perdeu de novo.\n{====}{big}Vá verificar o local de escavação. Quem sabe. Ele provavelmente está vagando por aí em algum lugar.";
+	["cd5f56bd256111ea816a3c15c2dd513c"] = "O que você está fazendo aqui, querida?\n{====}Boguta já fugiu do galinheiro. Saiu para encontrar John.\n{====}Não me diga que você não o viu?\n{====}Maldito idiota... Musta se perdeu de novo.\n{====}{big}Vá verificar o local de escavação. Quem sabe. Ele provavelmente está vagando por aí em algum lugar.";
 	["cd5f99a8256111eaabe53c15c2dd513c"] = "Se eu tivesse que adivinhar, diria que ele está em algum lugar naquele local de escavação.";
-	["649e7bacf80911eaac1b3c15c2dd513c"] = "Essa cara...\n{====}Essa é a cara de um pai rejeitado pelo filho.\n{====}Não deixe isso afetar você, John. Acontece com todo mundo.\n{====}Crianças, elas... elas crescem, você sabe?\n{====}Assim como minha Carota. Ela costumava ser uma coisinha tão doce...\n{====}Agora, ela... não quer nada comigo...";
+	["649e7bacf80911eaac1b3c15c2dd513c"] = "Essa cara...\n{====}Essa é a cara de um pai rejeitado pelo filho.\n{====}Não deixe isso afetar você, John. Acontece com todo mundo.\n{====}Crianças, elas... elas crescem, você sabe?\n{====}Assim como minha Cenourinha. Ela costumava ser uma coisinha tão doce...\n{====}Agora, ela... não quer nada comigo...";
 	["649e7e0ef80911eaac1b3c15c2dd513c"] = "{~}Ei, observe!\nVocê está sujando meu balcão com ranho!";
 	["1341bbc62ca111eb801b3c15c2dd513c"] = "{~}Maldito! Que bagunça!";
 	};
 ["Crypt_01_02.sq"]={
 	["05c162cf55e311e9b5493c15c2dd513c"] = "Parece...";
-	["05c164e355e311e9b4043c15c2dd513c"] = "Cabe a mim agora!";
+	["05c164e355e311e9b4043c15c2dd513c"] = "Deixa comigo!";
 	};
 ["Crypt_Story_01.sq"]={
-	["eb04baae761b11e9a9b73c15c2dd513c"] = "{~}Olhar! É a saída!{stop}";
+	["eb04baae761b11e9a9b73c15c2dd513c"] = "{~}Olhe! É a saída!{stop}";
 	["eb04d11c761b11e997963c15c2dd513c"] = "John, olha! A saída!\n{====}J-...ohn...?";
 	["eb04fd2b761b11e9ac983c15c2dd513c"] = "Eu não faria isso se fosse você.";
 	["eb05038a761b11e999e93c15c2dd513c"] = "{~}Você novamente!";
@@ -1229,13 +1229,13 @@ return {
 	["b929598a868c11e8a4be3c15c2dd513c"] = "Ninguém entra na MINHA escola sem uma carta de referência do prefeito!";
 	["b9295c3d868c11e8845f3c15c2dd513c"] = "Você não deveria estar aqui.";
 	["b9295e9e868c11e885c23c15c2dd513c"] = "Ninguém entra na MINHA escola sem uma carta de referência do prefeito!";
-	["b92960b0868c11e89aa43c15c2dd513c"] = "Uma luta? Oh, você quer dizer a sobrinha do prefeito.\n{====}Aquela garota é muito esperta, você sabe. Melhor aluno da escola!\n{====}Deve ser culpa daquela outra criança. Filho de Guilherme. Estou certo disso!";
+	["b92960b0868c11e89aa43c15c2dd513c"] = "Uma luta? Oh, você quer dizer a sobrinha do prefeito.\n{====}Aquela garota é muito esperta, você sabe. Melhor aluna da escola!\n{====}Deve ser culpa daquela outra criança. Filho de Guilherme. Estou certa disso!";
 	["b929618c868c11e8bfb93c15c2dd513c"] = "Eu ouvi sobre o que aconteceu ontem.\n{====}Você está em uma linha muito tênue. Estou de olho em você!";
 	};
 ["CH_Mason.sq"]={
-	["b9198897868c11e8a7953c15c2dd513c"] = "Não há nada neste mundo que eu não possa consertar.\n{====}Meu nome é Mason. Mason, o Reparador.\n{====}Você tem algo para eu consertar?\n{choice:yes}Não.";
+	["b9198897868c11e8a7953c15c2dd513c"] = "Não há nada neste mundo que eu \nnão possa consertar.\n{====}Meu nome é Mason. Mason, o Reparador.\n{====}Você tem algo para eu consertar?\n{choice:yes}Não.";
 	["b9198a82868c11e8b3da3c15c2dd513c"] = "Você tem algo para eu consertar?\n{choice:yes}Não.";
-	["b9198bae868c11e8bc3c3c15c2dd513c"] = "Não há nada neste mundo que eu não possa consertar.\n{====}Meu nome é Mason. Mason, o Reparador.\n{====}{signal:amaze}Uau-uau! Esta panela!\n{====}{big}É o mesmo que um grupo de garotas corajosas uma vez usou como arma!";
+	["b9198bae868c11e8bc3c3c15c2dd513c"] = "Não há nada neste mundo que eu \nnão possa consertar.\n{====}Meu nome é Mason. Mason, o Reparador.\n{====}{signal:amaze}Uau-uau! Esta panela!\n{====}{big}É o mesmo que um grupo de garotas corajosas uma vez usou como arma!";
 	["b9198d47868c11e88af43c15c2dd513c"] = "Também pode fazer um refogado incrível!";
 	["b9198e19868c11e8bde93c15c2dd513c"] = "Você tem minha atenção agora, garoto.\n{====}Deixe-me aumentar a aposta naquela panela para você, hein?";
 	["b9198eee868c11e88d363c15c2dd513c"] = "O que foi? Você quebrou aquela panela de novo?";
@@ -1257,11 +1257,11 @@ return {
 	["b92644fd868c11e891153c15c2dd513c"] = "{>}Finalmente, um rosto amigável! Eu pensei que ia morrer aqui.\n{====}Os monstros aqui já notaram minha presença.\n{====}Que bom que eles não têm bombas, haha.";
 	["b92645cf868c11e8ba323c15c2dd513c"] = "Não vá embora! Por favor!";
 	["b926468c868c11e8a9393c15c2dd513c"] = "Pegue isso... sim?\n{====}Encontrei-o na caverna. Tem um gosto muito bom!";
-	["48f55c42155511e9b9333c15c2dd513c"] = "Essas lesmas não são brincadeira! Um zap e eles vão te nocautear.\n{====}Eles são, no entanto, surpreendentemente deliciosos!\n{====}Um pouco doce. Um pouco picante.\n{====}Ora, alguém pode até ser capaz de transformá-los em uma espécie de remédio...";
+	["48f55c42155511e9b9333c15c2dd513c"] = "Essas lesmas não são brincadeira! Um zap e elas vão te nocautear.\n{====}Elas são, no entanto, surpreendentemente deliciosas!\n{====}Um pouco doce. Um pouco picante.\n{====}Ora, alguém pode até ser capaz de transformá-las em uma espécie de remédio...";
 	["48f55de6155511e9951c3c15c2dd513c"] = "{big}Certamente, você tem coisas melhores para fazer do que ficar com um cara chato como eu.";
-	["46ad54c555e211e9a3fc3c15c2dd513c"] = "Bem, olhe aqui! Se não for a garotinha do John!\n{====}Eu estava indo encontrar vocês dois.\n{====}Embora eu pareça ter me perdido um pouco, erm?";
-	["46ad569955e211e9b2093c15c2dd513c"] = "Huh? Gel? Coisa certa!\n{====}Aqui você vai!";
-	["46ad57e655e211e9832d3c15c2dd513c"] = "Oh. Certo. Também.\n{====}{big}Faça o que fizer, NÃO diga as palavras \"terras proibidas\" na frente do prefeito!";
+	["46ad54c555e211e9a3fc3c15c2dd513c"] = "Bem, olha só! Se não for a garotinha do John!\n{====}Eu estava indo encontrar vocês dois.\n{====}Embora eu pareça ter me perdido um pouco, erm?";
+	["46ad569955e211e9b2093c15c2dd513c"] = "Huh? o Gel? certo!\n{====}Vá rápido!";
+	["46ad57e655e211e9832d3c15c2dd513c"] = "Oh. Certo. Outra coisa...\n{====}{big}Faça o que fizer, NÃO diga as palavras \"terras proibidas\" na frente do prefeito!";
 	["46ad58f355e211e98b8b3c15c2dd513c"] = "{big}Faça o que fizer, NÃO diga as palavras \"terras proibidas\" na frente do prefeito!";
 	};
 ["Mine_Elevator.sq"]={

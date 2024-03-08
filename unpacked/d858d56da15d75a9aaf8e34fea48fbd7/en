@@ -1,23 +1,23 @@
 return {
 ["Valley_02.sq"]={
 	["d2e27f02757311e8a8827d42c60e4b84"] = "John!";
-	["d2e2836b757311e8bb0a7d42c60e4b84"] = "Look! There's someone there!";
+	["d2e2836b757311e8bb0a7d42c60e4b84"] = "Olhe!  Tem alguém aí!";
 	["d2e2889e757311e886617d42c60e4b84"] = "John!";
 	["d2e28b0a757311e89e177d42c60e4b84"] = "John.{stop}";
-	["d2e28e28757311e8a4187d42c60e4b84"] = "{big}I'm-... I'm so glad you could come to the festival...";
-	["d2e28fcc757311e8b0827d42c60e4b84"] = "Oh, but of course... You too, \nSam...\n{====}And Jasper, as well.";
-	["d2e29166757311e88e9f7d42c60e4b84"] = "I've been... wanting to tell you...\n{====}You're a truly amazing man.\n{====}{big}I've never seen a hunter in all my days quite like you.";
-	["d2e29300757311e8af777d42c60e4b84"] = "{big}Strong, and-... and talented, and... handsome...\n{====}B-but I mean, everyone says that! Not just me.";
-	["d2e29475757311e896b87d42c60e4b84"] = "I... I think I might...";
-	["d2e2978a757311e8aa427d42c60e4b84"] = "{~}My favorite!{stop}";
-	["d2e299cc757311e88ba27d42c60e4b84"] = "Huh?";
-	["d2e29c59757311e897297d42c60e4b84"] = "Blimpig chops!";
-	["d2e29e2e757311e89eda7d42c60e4b84"] = "So precious...";
-	["d2e29f45757311e8a9357d42c60e4b84"] = "If only I could have a child like her...";
-	["d2e2a04a757311e8bac67d42c60e4b84"] = "Heavens to Betsy... What's gotten into me?";
-	["d2e2a1e3757311e8b98c7d42c60e4b84"] = "D-don't forget!";
-	["d2e2a357757311e8b9bd7d42c60e4b84"] = "Tomorrow at my place. Breakfast!";
-	["d2e2a478757311e88aa47d42c60e4b84"] = "Blimpig chops...";
+	["d2e28e28757311e8a4187d42c60e4b84"] = "{big}Estou-... estou tão feliz que você tenha vindo ao festival...";
+	["d2e28fcc757311e8b0827d42c60e4b84"] = "Ah, mas é claro... Você também, \nSam...\n{====}E o Jasper, também.";
+	["d2e29166757311e88e9f7d42c60e4b84"] = "Eu queria... te dizer...\n{====}Você é um homem verdadeiramente incrível.\n{====}{big}Nunca vi um caçador como você em todos os meus dias.";
+	["d2e29300757311e8af777d42c60e4b84"] = "{big}Forte, e-... e talentoso, e... bonito...\n{====}M-mas quer dizer, todo mundo diz isso! Não só eu.";
+	["d2e29475757311e896b87d42c60e4b84"] = "Eu... Eu acho que talvez...";
+	["d2e2978a757311e8aa427d42c60e4b84"] = "{~}Meu favorito!{stop}";
+	["d2e299cc757311e88ba27d42c60e4b84"] = "Hein?";
+	["d2e29c59757311e897297d42c60e4b84"] = "Costeletas de Blimpig!";
+	["d2e29e2e757311e89eda7d42c60e4b84"] = "Tão preciosa...";
+	["d2e29f45757311e8a9357d42c60e4b84"] = "Se ao menos eu pudesse ter um filho como ela...";
+	["d2e2a04a757311e8bac67d42c60e4b84"] = "Meu Deus... O que deu em mim?";
+	["d2e2a1e3757311e8b98c7d42c60e4b84"] = "N-não esqueça!";
+	["d2e2a357757311e8b9bd7d42c60e4b84"] = "Amanhã na minha casa. Café da manhã!";
+	["d2e2a478757311e88aa47d42c60e4b84"] = "Costeletas de Blimpig...";	
 	};
 ["Forest_13.sq"]={
 	["4a71b3d7155511e9abc23c15c2dd513c"] = "Você consegue, John!";
@@ -545,7 +545,7 @@ return {
 	};
 ["SecondHall.sq"]={
 	["36f27fae88e511e8aee43c15c2dd513c"] = "{~}Uauuuuu!{stop}";
-	["36f2818f88e511e8800f3c15c2dd513c"] = "{~}Este lugar é giGANTEco!\n{====}Tem que ser a cidade!";
+	["36f2818f88e511e8800f3c15c2dd513c"] = "{~}Este lugar é giGANTEsco!\n{====}Tem que ser a cidade!";
 	["36f2825e88e511e8a1f63c15c2dd513c"] = "John, apresse-se!";
 	["36f2835188e511e8ad783c15c2dd513c"] = "Me salve! Saaaaalve-me!\n{====}\"Aquela brisa nociva! Aquele sol horrível!\"\n{====}Vou morrer! Estou certo disso!";
 	["36f2859488e511e8aea13c15c2dd513c"] = "Do que você está falando? Olhe para nós! Estamos bem!";
