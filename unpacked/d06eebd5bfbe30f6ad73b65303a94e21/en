@@ -461,7 +461,7 @@ return {
 	["Cook"] = "Cozinhar";
 	["Check"] = "Inspecionar";
 	["Listen"] = "Ouvir";
-	["GetOn"] = "Board";
+	["GetOn"] = "Embarcar";
 	["Knock"] = "Bater";
 	["buy"] = "Comprar";
 	["trigger_pachinko"] = "Jogar";
