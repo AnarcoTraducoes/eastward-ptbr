@@ -79,7 +79,7 @@ return {
 	["name::地下铁"] = "Metrô";
 	["name::「大佛风扇」"] = "O fã de Buda";
 	["name::大坝控制室"] = "Sala de Controle de Barragens";
-	["name::尤瓦的家"] = "Casa da Uva";
+	["name::尤瓦的家"] = "Casa da Yuva";
 	["name::挖掘场"] = "Local de escavação";
 	["name::波特岛"] = "Ilha Potcrock";
 	["name::人类工厂"] = "Fábrica Humana";
@@ -89,14 +89,14 @@ return {
 	["name::电气螳螂酒铺"] = "Relâmpago Mac";
 	["name::「大」站"] = "A \"Grande\" estação";
 	["name::快乐湾"] = "Baía do Prazer";
-	["name::「猪场」"] = "Rancho Blimpig";
+	["name::「猪场」"] = "Rancho Asa-Porco";
 	["name::大坝核心"] = "Núcleo Central da Barragem";
 	["name::火箭公寓"] = "Mansão Foguete";
 	["name::大坝城"] = "New Dam City";
 	["name::「铁梦丸」"] = "A carabina de ferro";
 	["name::阳光农场"] = "Rancho Sunnyside";
 	["name::力汤温泉"] = "Fontes termais";
-	["name::山道"] = "Passo da Montanha";
+	["name::山道"] = "Caminho da Montanha";
 	["name::「老爹」酒吧"] = "Lugar do Pop";
 	["name::艾娃的家"] = "Casa da Alva";
 	["name::爷爷的家"] = "Casa do vovô";
@@ -147,12 +147,12 @@ return {
 	["name::大坝中央闸门"] = "Éclusa Central";
 	["name::大坝内部"] = "Dam ( Dentro )";
 	["name::爵士妈咪"] = "Mamãe Jazz";
-	["name::「白鲸港」车站"] = "Estação Whitewhale Bay";
+	["name::「白鲸港」车站"] = "Estação Baía Whitewhale";
 	["name::向阳坡"] = "Centro da cidade";
 	["name::大坝城车站"] = "Estação New Dam City";
 	["name::龙门市场"] = "Dragon Market";
 	["name::古代遗迹"] = "Ruínas antigas";
-	["name::怪异森林"] = "Strange Forest";
+	["name::怪异森林"] = "Floresta Estranha";
 	["name::长老公馆"] = "Propriedade do Prefeito";
 	["name::「卡戎」"] = "Charon";
 	["name::学校前"] = "Frente da Escola";
@@ -333,7 +333,7 @@ return {
 	["desc::info_sam_energy"] = "Usar o poder de Sam consome sua energia. Ela irá reabastecer lentamente com o tempo.";
 	["detail::info_sam_energy"] = "Usar o poder de Sam consome sua energia. Ela irá reabastecer lentamente com o tempo.";
 	["name::info_sam_orb"] = "Bolha de Energia";
-	["desc::info_sam_orb"] = "O orbe de luz de Sam. Pode ser usado para contrair monstros.";
+	["desc::info_sam_orb"] = "O orbe de luz de Sam. Pode ser usado para esmagar monstros.";
 	["detail::info_sam_orb"] = "O orbe de luz de Sam. Não pode ser usado em humanos, mas pode ter outras finalidades.";
 	["detail::energy_stun"] = "Libera energia armazenada para atacar inimigos.";
 	["detail::energy_heal"] = "Converte energia em corações. Estranhamente, só funciona em John e Sam.";
@@ -386,18 +386,18 @@ return {
 	};
 ["quest_CH2"]={
 	["text::Greenberg"] = "Greenberg";
-	["text::OldNewHouse"] = "Uva disse que há uma cabana antiga fora da cidade onde podemos ficar.";
-	["text::PigYard"] = "Parece que o Rancho Blimpig está com poucos recursos. Podemos encontrá-lo perto da entrada da Strange Forest.";
-	["text::Dinner"] = "Uva já terminou de fazer o jantar. Vamos voltar para Greenberg.";
+	["text::OldNewHouse"] = "Yuva disse que há uma cabana antiga fora da cidade onde podemos ficar.";
+	["text::PigYard"] = "Parece que o Rancho Asa-Porco está com poucos recursos. Podemos encontrá-lo perto da entrada da Floresta Estranha.";
+	["text::Dinner"] = "Yuva já terminou de fazer o jantar. Vamos voltar para Greenberg.";
 	["text::Hunting"] = "Um convidado não convidado";
 	["text::Hunt"] = "Persiga o canalha malandro e quebrador de cercas e ensine-lhe uma lição.";
-	["text::HumanFactory"] = "Uma instalação estranha nas profundezas da Strange Forest. Vamos sair daqui rápido - esse lugar me dá arrepios!";
+	["text::HumanFactory"] = "Uma instalação estranha nas profundezas da Floresta Estranha. Vamos sair daqui rápido - esse lugar me dá arrepios!";
 	["text::Ceremony"] = "Com tudo embrulhado, só falta curtir a festa da noite!";
 	["text::Miasma"] = "MIASMA";
 	["text::Escape"] = "Vá para a estação rápido! É a única saída.";
 	["text::WhiteWhale"] = "A Baía Whitewhale não parece tão perigosa. Vamos dar uma olhada.";
-	["text::GreenbergFinish"] = "No nosso primeiro dia na superfície, descobrimos uma aldeia chamada Greenberg. O prefeito aqui é super legal. Também conhecemos uma senhora de bom coração chamada Uva. Todo mundo tem sido tão acolhedor.";
-	["text::HuntingFinish"] = "Caçamos o criminoso que quebrou a cerca do Rancho Blimpig! Parece que somos os novos protetores de Greenberg. As coisas ficaram assustadoras quando encontramos uma instalação estranha na floresta, mas a festa incrível mais do que compensou!";
+	["text::GreenbergFinish"] = "No nosso primeiro dia na superfície, descobrimos uma aldeia chamada Greenberg. O prefeito aqui é super legal. Também conhecemos uma senhora de bom coração chamada Yuva. Todo mundo tem sido tão acolhedor.";
+	["text::HuntingFinish"] = "Caçamos o criminoso que quebrou a cerca do Rancho Asa-Porco! Parece que somos os novos protetores de Greenberg. As coisas ficaram assustadoras quando encontramos uma instalação estranha na floresta, mas a festa incrível mais do que compensou!";
 	["text::MiasmaFinish"] = "O MIASMA engoliu Greenberg, deixando-nos sem escolha a não ser fugir mais uma vez...";
 	};
 ["StoryItemName"]={
@@ -406,7 +406,7 @@ return {
 	["name::book_earthborn"] = "Manga do Earth Born";
 	["desc::book_earthborn"] = "Escrito para crianças, mas amado por todos.";
 	["name::sluggel"] = "Gel";
-	["desc::sluggel"] = "Dropped from slugs in the dig site. Gross but useful.";
+	["desc::sluggel"] = "Caiu de lesmas no local de escavação. Bruto, mas útil.";
 	["name::BreedingFurnace"] = "Slime-Breeding Furnace";
 	["desc::BreedingFurnace"] = "Equipamento utilizado pelo avô de Alva. Deixado para trás na Cidade Velha durante a evacuação. Supostamente um componente importante da pesquisa do MIASMA.";
 	["name::pirateflag"] = "Bandeira pirata";
@@ -434,13 +434,13 @@ return {
 	["name::QueenOutfit"] = "Fantasia de Rainha Besouro";
 	["desc::QueenOutfit"] = "A fantasia da Rainha Besouro. Aumenta o apelo sexual de quem o usa.";
 	["name::TreasureDetector"] = "Radar do Tesouro";
-	["desc::TreasureDetector"] = "Chamado de \"Nariz do Caçador de Tesouros,\" ele pode encontrar até os tesouros mais escondidos.";
+	["desc::TreasureDetector"] = "Chamado de \"Nariz do Caçador de Tesouros\", ele pode encontrar até os tesouros mais escondidos.";
 	["name::DietPill"] = "Pílula dietética";
 	["desc::DietPill"] = "Uma misteriosa pílula dietética de Lowtown, New Dam City. Aqueles que conhecem seus ingredientes nunca iriam tomá-lo.";
 	["name::MinerContract"] = "Contrato de escavador";
 	["desc::MinerContract"] = "Contrato para escavadores da Ilha Potcrock. Injusto, \nnão importa como você olhe para isso.";
-	["name::PigYardHerdman"] = "Selo de Aprovação do Rancho Blimpig";
-	["desc::PigYardHerdman"] = "Recebido de Miller no Rancho Blimpig. Prova de disputa de blimpig superior.";
+	["name::PigYardHerdman"] = "Selo de Aprovação do Rancho Asa-Porco";
+	["desc::PigYardHerdman"] = "Recebido de Miller no Rancho Asa-Porco. Prova de disputa de asa-porco superior.";
 	["name::ResearcherBadge"] = "Distintivo de assistente de laboratório";
 	["desc::ResearcherBadge"] = "Dado por Alva aos seus assistentes de laboratório. Um símbolo de prestígio na cidade.";
 	["name::PerformanceContract"] = "Contrato de Monkollywood";
@@ -515,7 +515,7 @@ return {
 	["name::SandNeighborA"] = "Catherine";
 	["name::BaseballNan"] = "Baseball Nan";
 	["name::Bob"] = "Bob";
-	["name::Bowman"] = "Bowman";
+	["name::Bowman"] = "Arqueiro";
 	["name::Emily"] = "Emily";
 	["name::Helen"] = "Helen";
 	["name::Ingrid"] = "Ingrid";
@@ -524,7 +524,7 @@ return {
 	["name::MrsMiller"] = "Sra. Miller";
 	["name::Arne"] = "Arne";
 	["name::Selma"] = "Selma";
-	["name::Uva"] = "Uva";
+	["name::Uva"] = "Yuva";
 	["name::Abliz"] = "Abliz";
 	["name::MerchantB"] = "Masao Ayukawa";
 	["name::KeroBot"] = "Tetsuo";
@@ -763,7 +763,7 @@ return {
 	["cd274a661a3611eaa3a58c85907abf45"] = "Esses segredos que você guarda deveriam te agradecer.\n{====}Segredos só são segredos porque você os conhece.";
 	["cd274ba31a3611eaa5db8c85907abf45"] = "Quer salvar seu jogo?\nEu posso fazer isso por você. Mas ...{,,}\n{====}...você sabe, ainda estou me aquecendo.";
 	["cd274c781a3611eaac498c85907abf45"] = "{signal:open}Salvar suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
-	["666538b8f80911eaac1b3c15c2dd513c"] = "Você coloca as coisas na geladeira na esperança de que elas permaneçam boas para sempre.\n{====}{big}Mas da próxima vez que você abrir a geladeira, eles já podem estar estragados.";
+	["666538b8f80911eaac1b3c15c2dd513c"] = "Você coloca as coisas na geladeira na esperança de que elas permaneçam boas para sempre.\n{====}{big}Mas da próxima vez que você abrir a geladeira, elas já podem estar estragadas.";
 	["666539eef80911eaac1b3c15c2dd513c"] = "Como você já sabe, sou especialista em armazenar memórias.\n{====}Mas quando se trata das próprias memórias, sei muito pouco.";
 	["66653b60f80911eaac1b3c15c2dd513c"] = "Às vezes as memórias desenvolvem problemas.\n{====}Quando isso acontecia com pessoas no passado...\n{====}...eles tentavam soprar na fenda ou esfregá-la com uma borracha.";
 	["66653becf80911eaac1b3c15c2dd513c"] = "Você ficou mais forte.\n{====}Mas ficar mais forte não é o seu objetivo, não é?";
@@ -991,7 +991,7 @@ return {
 	["desc::sandfruit"] = "Uma drupa de um galinheiro.";
 	["detail::sandfruit"] = "A famosa fruta da Ilha Potcrock. Começou como uma maçã que evoluiu no solo único de Potcrock.";
 	["name::apple"] = "Maçã";
-	["desc::apple"] = "Vermelho e delicioso.";
+	["desc::apple"] = "Vermelha e deliciosa.";
 	["detail::apple"] = "Você é a menina dos meus olhos.";
 	["name::cherry"] = "Cereja";
 	["desc::cherry"] = "Doce e depois azedo.";
@@ -1215,7 +1215,7 @@ return {
 	["Recipe::bai_qie_ji"] = "Ferva, corte, coloque em um molho.";
 	["name::chips"] = "Fritas";
 	["desc::chips"] = "Um lanche frito simples.";
-	["detail::chips"] = "Desfrute das batatas fritas como lanche, acompanhando o seu prato preferido ou até como prato. Batatas fritas são a escolha certa.";
+	["detail::chips"] = "Desfrute das batatas fritas como lanche, acompanhamento ou prato principal. Batatas fritas são a escolha certa.";
 	["Recipe::chips"] = "O segredo das melhores batatas fritas é a temperatura do óleo.";
 	["name::lasagne"] = "Lasanha";
 	["desc::lasagne"] = "Delicado e rico.";

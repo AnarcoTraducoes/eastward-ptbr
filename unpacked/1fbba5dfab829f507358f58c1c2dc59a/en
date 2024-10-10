@@ -790,7 +790,7 @@ return {
 	["eb263c8a761b11e986c93c15c2dd513c"] = "Ele se moveu em minha direção, a pele vermelha de excitação.";
 	["eb264040761b11e9838c3c15c2dd513c"] = "Então, com os braços ondulantes, ele arrancou sua ca-...{<<} camisa...";
 	["eb2642c0761b11e993f73c15c2dd513c"] = "{<}Abandone toda {|} esperança de {<}voltar!\n{====}Pois eu {.}vim para levá-lo ao mundo {<}acima.";
-	["eb26452b761b11e998d93c15c2dd513c"] = "{<}Tudo o que espera por você agora... {|}é escuridão, fogo do inferno e frio escaldante.\n{====}Seus pés não pisarão mais na terra do santuário.\n{====}Não, sob seus passos não haverá nada além de veneno...\n{====}{<}E o aperto malévolo...";
+	["eb26452b761b11e998d93c15c2dd513c"] = "{<}Tudo o que espera por você agora... {|}é escuridão, fogo do inferno e frio congelante.\n{====}Seus pés não pisarão mais na terra do santuário.\n{====}Não, sob seus passos não haverá nada além de veneno...\n{====}{<}E o aperto malévolo...";
 	["eb2646e3761b11e987563c15c2dd513c"] = "{<}De um interminável... incessante...\n{====}{<<}MIASMA.";
 	["eb264840761b11e9bcfe3c15c2dd513c"] = "{~}Sr. Prefeito!{stop}";
 	["eb264a17761b11e9b2623c15c2dd513c"] = "Eu imploro que você dissipe sua raiva!\n{====}{big}Meu tempo naquela {<}cela miserável{|} abriu meus olhos para a luz.\n{====}Estou lavado! Nascido de novo e livre do {<}pecado!\n{====}{|}Este não é o porto de onde devemos embarcar!\n{====}Não, em seu coração você pode sentir nossa {<}virtude!";
@@ -911,7 +911,7 @@ return {
 	["2564930abf6811ebb2f23c15c2dd513c"] = "Sim! {~}Ensaiar!!";
 	["256495e4bf6811ebb2f23c15c2dd513c"] = "Ah! Me poupe! POR FAVOR, me poupe, Sr. Prefeito!";
 	["25649710bf6811ebb2f23c15c2dd513c"] = "{<}Abandone toda a{|} esperança de {<}voltar!\n{====}Pois eu {.}vim para levá-lo ao mundo {<}acima.";
-	["25649878bf6811ebb2f23c15c2dd513c"] = "{<}Tudo o que espera por você agora... {|}é escuridão, fogo do inferno e um frio escaldante.\n{====}Seus pés não pisarão mais na terra do santuário.\n{====}Não, sob seus passos não haverá nada além de veneno...\n{====}{<}E o aperto malévolo...";
+	["25649878bf6811ebb2f23c15c2dd513c"] = "{<}Tudo o que espera por você agora... {|}é escuridão, fogo do inferno e um frio congelante.\n{====}Seus pés não pisarão mais na terra do santuário.\n{====}Não, sob seus passos não haverá nada além de veneno...\n{====}{<}E o aperto malévolo...";
 	["2564999abf6811ebb2f23c15c2dd513c"] = "{<}De um interminável... incessante...\n{====}{<<}MIASSSSSSSSSMA!";
 	["25649a26bf6811ebb2f23c15c2dd513c"] = "...Como foi?";
 	["25649b5cbf6811ebb2f23c15c2dd513c"] = "Era...";
@@ -922,17 +922,17 @@ return {
 	["956d9d59155511e98bdc3c15c2dd513c"] = "{~}{>>}Uuaaauuuu!{stop}";
 	["956d9fc7155511e99c8a3c15c2dd513c"] = "John! Olhe, John! Olhe!";
 	["469e736655e211e9902f3c15c2dd513c"] = "Espere por mim!";
-	["956da161155511e9989a3c15c2dd513c"] = "Onde é esse lugar, Jasper?";
+	["956da161155511e9989a3c15c2dd513c"] = "Que lugar é esse, Jasper?";
 	["956da245155511e985483c15c2dd513c"] = "Aqui?{signal:turn}\n{====}Também não posso dizer que sei.{signal:jasper}\n{====}{big}Mas todas as noites, eu ouvia os mais estranhos ruídos sibilantes vindo daqui.\n{====}Ficavam tão alto que eu tinha que usar meu Perseguidor Noturno para silencia-los.";
 	["469e870055e211e99b733c15c2dd513c"] = "{<<}Ohhh... Perseguidor Noturno...";
 	["469eac0055e211e988bb3c15c2dd513c"] = "John! {signal:turn}Vamos explorar!";
-	["469ef8f355e211e99fd43c15c2dd513c"] = "Nunca se sabe! Pode levar para fora!";
+	["469ef8f355e211e99fd43c15c2dd513c"] = "Nunca se sabe! Pode nos levar para fora!";
 	["956da35e155511e9b7e83c15c2dd513c"] = "Meu... {<<}Perseguidor Noturno...";
 	};
 ["Mine_StorageCave.sq"]={
 	["95694c82155511e9a9a83c15c2dd513c"] = "{~}Não... não... NÃO ME COMA!!";
 	["95694eb3155511e9b79c3c15c2dd513c"] = "*sniff*...{.}*sniff*...";
-	["4671af4755e211e983713c15c2dd513c"] = "Bem, você não é um colírio para os olhos!\n{====}Eu pensei que você fosse uma daquelas criaturas carnívoras.\n{====}Sou eu! Dr. Charlatão!";
+	["4671af4755e211e983713c15c2dd513c"] = "Bem, você é um colírio para os olhos!\n{====}Eu pensei que você fosse uma daquelas criaturas carnívoras.\n{====}Sou eu! Dr. Charlatão!";
 	["eaf56421761b11e99ab23c15c2dd513c"] = "Não não não! Eu tenho que parar de me chamar assim!\n{====}Vou parar de receber pacientes!\n{====}A propósito, você sabia que essas lesmas secretam um gel muito peculiar?\n{====}Elas fazem! E pode até ser usado como uma espécie de adesivo para curar feridas.\n{====}É por isso que estou aqui, para colocar as mãos naquele gel!\n{====}{big}Mas como eu poderia saber o quão LOUCO aqueles ácaros mucilaginosos ficariam!\n{====}Eu não tive escolha a não ser me esconder aqui.";
 	["95695299155511e98bc03c15c2dd513c"] = "{~}N-não vá! Por favor, não vá!";
 	["eaf5677d761b11e9b7a43c15c2dd513c"] = "Você é isso... aquilo...\n{====}Sim, você é aquele escavador notável, não é? John?\n{====}Ouvi dizer que você foi o primeiro a desenterrar uma pessoa!";
@@ -1259,7 +1259,7 @@ return {
 	["b926468c868c11e8a9393c15c2dd513c"] = "Pegue isso... sim?\n{====}Encontrei-o na caverna. Tem um gosto muito bom!";
 	["48f55c42155511e9b9333c15c2dd513c"] = "Essas lesmas não são brincadeira! Um zap e elas vão te nocautear.\n{====}Elas são, no entanto, surpreendentemente deliciosas!\n{====}Um pouco doce. Um pouco picante.\n{====}Ora, alguém pode até ser capaz de transformá-las em uma espécie de remédio...";
 	["48f55de6155511e9951c3c15c2dd513c"] = "{big}Certamente, você tem coisas melhores para fazer do que ficar com um cara chato como eu.";
-	["46ad54c555e211e9a3fc3c15c2dd513c"] = "Bem, olha só! Se não for a garotinha do John!\n{====}Eu estava indo encontrar vocês dois.\n{====}Embora eu pareça ter me perdido um pouco, erm?";
+	["46ad54c555e211e9a3fc3c15c2dd513c"] = "Bem, olha só! Se não é a garotinha do John!\n{====}Eu estava indo encontrar vocês dois.\n{====}Embora eu pareça ter me perdido um pouco, erm?";
 	["46ad569955e211e9b2093c15c2dd513c"] = "Huh? o Gel? certo!\n{====}Vá rápido!";
 	["46ad57e655e211e9832d3c15c2dd513c"] = "Oh. Certo. Outra coisa...\n{====}{big}Faça o que fizer, NÃO diga as palavras \"terras proibidas\" na frente do prefeito!";
 	["46ad58f355e211e98b8b3c15c2dd513c"] = "{big}Faça o que fizer, NÃO diga as palavras \"terras proibidas\" na frente do prefeito!";

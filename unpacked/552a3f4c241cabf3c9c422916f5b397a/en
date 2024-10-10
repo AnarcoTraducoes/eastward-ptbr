@@ -221,7 +221,7 @@ return {
 	["5e5987b40e5511ed8be7663b9a689fcf"] = "Muito obrigado.";
 	["5e5987fa0e5511ed8be7663b9a689fcf"] = "Sempre podemos contar com você.";
 	["5e5988680e5511ed8be7663b9a689fcf"] = "Certo! De volta ao trabalho!";
-	["957173a2eb2611ed8d30663b9a689fd0"] = "John! Solomon me disse que tem\n{====}uma coisa super saborosa\n{====}chamada \"Crepes\"!\n{====}Vamos fazer!";
+	["957173a2eb2611ed8d30663b9a689fd0"] = "John! Salomão me disse que tem\n{====}uma coisa super saborosa\n{====}chamada \"Crepes\"!\n{====}Vamos fazer!";
 	["9571758ceb2611ed8d30663b9a689fd0"] = "O multiverso é fascinante!\n{====}Adoraria dar uma olhada no outro mundo eu mesma.";
 	["957175f0eb2611ed8d30663b9a689fd0"] = "\"Crepes\", né?\n{====}Soa delicioso.";
 	["957176aeeb2611ed8d30663b9a689fd0"] = "Ela realmente é uma prodígio.";
@@ -231,7 +231,7 @@ return {
 	};
 ["Farm_Mailbox.sq"]={
 	["630003863d6911ed95c3663b9a689fd1"] = "Sem correio.";
-	["e5cfa1b6693511ed99f1663b9a689fd0"] = "Ah, é do Solomon.";
+	["e5cfa1b6693511ed99f1663b9a689fd0"] = "Ah, é do Salomão.";
 	["e5cfa314693511ed99f1663b9a689fd0"] = "E tem uma carta.";
 	["e5cfa36e693511ed99f1663b9a689fd0"] = "\"A vida pode ser difícil na montanha,\n{====}Não é muito, mas espero que ajude.\n{====}Espero que vocês dois estejam bem.\n{====}Mal posso esperar para vê-los de novo!\"";
 	["e5cfa44a693511ed99f1663b9a689fd0"] = "Estamos ricos!\n{====}Estamos carregados de dinheiro agora, John.\n{====}Mas onde podemos gastar?";
@@ -245,7 +245,7 @@ return {
 	["e5cfac1a693511ed99f1663b9a689fd0"] = "Little Bun mandou outra carta!";
 	["e5cfaca6693511ed99f1663b9a689fd0"] = "\"Para o Chef John e seu ajudante,\n{====}Estou escrevendo esta carta em um toco velho à beira-mar.\n{====}De acordo com lendas locais,\n{====}alguém está destinado a encontrar uma mensagem em uma garrafa\n{====}contendo uma receita secreta.\n{====}Isso mesmo! Eu sou essa pessoa sortuda.\n{====}Aqui está a receita.\n{====}Agora quero ver você colocar seu chapéu de chef à prova!\"";
 	["96ce3c42b7d911edbb64663b9a689fd0"] = "\"Prezado Sr. John e Sra. Sam,\n{====}Tenho um reembolso para ambos.\n{====}Para ser honesto, houve um erro de preço na propriedade que vocês dois compraram.\n{====}Em nome da empresa, gostaria de pedir desculpas a vocês dois.\"";
-	["96ce3d28b7d911edbb64663b9a689fd0"] = "Solomon disse que gastamos muito dinheiro.";
+	["96ce3d28b7d911edbb64663b9a689fd0"] = "Salomão disse que gastamos muito dinheiro.";
 	["95790b94eb2611ed8d30663b9a689fd0"] = "É uma carta do William!";
 	["95790ca2eb2611ed8d30663b9a689fd0"] = "\"Querido John,\n{====}Ouvi dizer que vocês dois estão criando galinhas agora!\n{====}Almas bondosas como vocês certamente não vão transformá-las em jantar de frango tão cedo...\n{====}Eu tenho ração na loja se vocês quiserem dar uma olhada.\n{====}E o frango mais saboroso!\n{====}Seu vizinho amigável, William\"";
 	["95790d24eb2611ed8d30663b9a689fd0"] = "É uma carta do Daniel!";
@@ -444,12 +444,12 @@ return {
 	["5e57a6560e5511ed8be7663b9a689fcf"] = "O trem está se aproximando da estação.\n{==}Passageiros, por favor, mantenham uma distância segura da ferrovia.\n{==}Por favor, aguardem o trem de maneira organizada.";
 	["5e57a6b00e5511ed8be7663b9a689fcf"] = "Lá vem outro trem.\n{====}Eu aposto meu último dólar que não haverá ninguém.\n{====}Que tal vocês darem uma passada na loja? Recebemos um novo carregamento de sementes ontem...";
 	["5e57a7460e5511ed8be7663b9a689fcf"] = "O que uma estação está fazendo tão afastada?";
-	["5e57a7820e5511ed8be7663b9a689fcf"] = "Bem-vindo a Octopia, distinto visitante.\n{====}Eu sou Solomon. Tenho 20 anos de experiência em imóveis de primeira.\n{====}Posso ajudar com alguma coisa?";
+	["5e57a7820e5511ed8be7663b9a689fcf"] = "Bem-vindo a Octopia, distinto visitante.\n{====}Eu sou Salomão. Tenho 20 anos de experiência em imóveis de primeira.\n{====}Posso ajudar com alguma coisa?";
 	["5e57a7be0e5511ed8be7663b9a689fcf"] = "Oh! Alguém está realmente aqui!";
 	["5e57a85e0e5511ed8be7663b9a689fcf"] = "Isto não é algum tipo de golpe, é?";
 	["5e57a9120e5511ed8be7663b9a689fcf"] = "Esta pequena estação abriu hoje.\n{====}Por favor, perdoe o estado atual.";
 	["5e57a99e0e5511ed8be7663b9a689fcf"] = "Espero não me arrepender disso...";
-	["96c53cf0b7d911edbb64663b9a689fd0"] = "O Sr. Solomon veio aqui a meu pedido.\n{====}Por favor, nos honre como o novo mestre da estação.";
+	["96c53cf0b7d911edbb64663b9a689fd0"] = "O Sr. Salomão veio aqui a meu pedido.\n{====}Por favor, nos honre como o novo mestre da estação.";
 	["96c5407eb7d911edbb64663b9a689fd0"] = "A-a-alguém vindo?";
 	};
 ["FarmGarden_Stage2.sq"]={
@@ -677,7 +677,7 @@ return {
 	["5e5a92300e5511ed8be7663b9a689fcf"] = "{~}Ahhhhh—!\n{====}Linda luz do sol! Ar puro e limpo!\n{====}Acho que estou apaixonado por este lugar!";
 	["5e5a92e40e5511ed8be7663b9a689fcf"] = "Esses caras não vão nos pegar aqui... Certo?";
 	["5e5a935c0e5511ed8be7663b9a689fcf"] = "N-n-não se preocupe, mano.\n{====}Se eles f-fizerem isso,\n{====}eu v-v-vou te proteger.";
-	["5e5a93ac0e5511ed8be7663b9a689fcf"] = "Não tema, crianças.\n{====}Esta cidade fantasma nem está no mapa.\n{====}Ninguém mais estará aqui além de nós.\n{====}A menos...";
+	["5e5a93ac0e5511ed8be7663b9a689fcf"] = "Não temam, crianças.\n{====}Esta cidade fantasma nem está no mapa.\n{====}Ninguém mais estará aqui além de nós.\n{====}A menos...";
 	["5e5a946a0e5511ed8be7663b9a689fcf"] = "Certamente é plano aqui. E é perto da estação!";
 	["5e5a94b00e5511ed8be7663b9a689fcf"] = "Este lugar não é nada mal.";
 	["5e5a95140e5511ed8be7663b9a689fcf"] = "Olá! Você está aqui visitando?";
@@ -722,13 +722,13 @@ return {
 	["5e5aa5c20e5511ed8be7663b9a689fcf"] = "P-p-preparado.";
 	["5e5aa5fe0e5511ed8be7663b9a689fcf"] = "Então vamos começar!";
 	["5e5aa70c0e5511ed8be7663b9a689fcf"] = "A Trader William's{~} está oficialmente aberta para negócios!{stop}";
-	["c57eb940189211ed89de663b9a689fcf"] = "S-Solomon?{stop}";
+	["c57eb940189211ed89de663b9a689fcf"] = "S-Salomão?{stop}";
 	["5e5aa7660e5511ed8be7663b9a689fcf"] = "Não é bom. Não é bom!{stop}";
 	["c57ebb66189211ed89de663b9a689fcf"] = "Vamos dar uma olhada.";
 	["5c95d73c3d6911ed95c3663b9a689fd1"] = "Dá um tempo. Eu estou acabado...";
 	["5c95d8cc3d6911ed95c3663b9a689fd1"] = "{big}{choice:yes}Dê a ele uma \"Batata Doce Grelhada\".\n{choice:no}Deixa pra lá.";
 	["5c95d9583d6911ed95c3663b9a689fd1"] = "{<}Vinte anos de...";
-	["5c95d9d03d6911ed95c3663b9a689fd1"] = "Solomon! A esperança chegou!";
+	["5c95d9d03d6911ed95c3663b9a689fd1"] = "Salomão! A esperança chegou!";
 	["5c95da483d6911ed95c3663b9a689fd1"] = "{<}E-esperança?";
 	["5c95daac3d6911ed95c3663b9a689fd1"] = "Cheira gostoso!";
 	["5c95dafc3d6911ed95c3663b9a689fd1"] = "{~}Há esperança!\nEssa é uma batata doce muito doce!";
@@ -737,10 +737,10 @@ return {
 	["5c95dc323d6911ed95c3663b9a689fd1"] = "Nós temos um presente para você.";
 	["5c95dcaa3d6911ed95c3663b9a689fd1"] = "Daniel!";
 	["5c95dcf03d6911ed95c3663b9a689fd1"] = "D-direto por aqui. O P-p-pai está esperando por você.";
-	["5c95dd683d6911ed95c3663b9a689fd1"] = "Você está bem, Solomon?";
+	["5c95dd683d6911ed95c3663b9a689fd1"] = "Você está bem, Salomão?";
 	["5c95dda43d6911ed95c3663b9a689fd1"] = "20 anos de experiência premiada em imóveis...\n{====}Minhas propriedades...\nMeu trabalho...\n{====}{~}Estou acabado...";
 	["5c95de123d6911ed95c3663b9a689fd1"] = "Parece que ele piorou.";
-	["5c95de803d6911ed95c3663b9a689fd1"] = "William! Solomon está doente?";
+	["5c95de803d6911ed95c3663b9a689fd1"] = "William! Salomão está doente?";
 	["5c95debc3d6911ed95c3663b9a689fd1"] = "Receio que tenha chegado ao coração dele.";
 	["5c95deee3d6911ed95c3663b9a689fd1"] = "O coração dele? Você quer dizer... um ataque cardíaco?!";
 	["6cef28f858ef11ed8c3c663b9a689fd0"] = "Quero dizer, o problema está NO coração dele.";
@@ -750,7 +750,7 @@ return {
 	["5c95e5c43d6911ed95c3663b9a689fd1"] = "Você está falando sério?!";
 	["5c95e65a3d6911ed95c3663b9a689fd1"] = "Você aposta! Uma coisa dessas realmente existe!";
 	["5c95e6e63d6911ed95c3663b9a689fd1"] = "\"Batata Doce Grelhada\"...? Parece{~} saboroso!";
-	["5c95e7403d6911ed95c3663b9a689fd1"] = "Espere, Solomon!\n{====}Vamos te dar esperança!";
+	["5c95e7403d6911ed95c3663b9a689fd1"] = "Espere, Salomão!\n{====}Vamos te dar esperança!";
 	["5c95e81c3d6911ed95c3663b9a689fd1"] = "A \"Batata Doce\" está r-r-pronta?\n{====}Estranho. Será que é realmente tão mágico quanto o Pai disse?\n{====}N-n-não. Acredite no Pai.\n{====}Eu simplesmente n-n-não consigo processar a ideia de comida ter poderes mágicos.";
 	["5c95e8943d6911ed95c3663b9a689fd1"] = "Esta estação parece um pouco ultrapassada.\n{====}Pode até ser mais velha que o Pai.";
 	["5c95e9023d6911ed95c3663b9a689fd1"] = "A cidade não fica um pouco longe das montanhas?\n{====}Podemos ir se tivermos tempo...";
@@ -933,7 +933,7 @@ return {
 	["6cf1317a58ef11ed8c3c663b9a689fd0"] = "Es... Está muito frio lá fora!\n{====}Vamos pegar um resfriado antes que *hiccup* um trem chegue.";
 	["6cf131c058ef11ed8c3c663b9a689fd0"] = "Então um trem é o remédio que vocês precisam.";
 	["6cf1326058ef11ed8c3c663b9a689fd0"] = "Mano! Vamos lá! Diz alguma coisa!";
-	["6cf132d858ef11ed8c3c663b9a689fd0"] = "Relaxa. O Mung não vai fazer nada.\n{====}Ele só está tentando assustar vocês\n{====}e deixar o Solomon extravasar um pouco.";
+	["6cf132d858ef11ed8c3c663b9a689fd0"] = "Relaxa. O Mung não vai fazer nada.\n{====}Ele só está tentando assustar vocês\n{====}e deixar o Salomão extravasar um pouco.";
 	["6cf1335058ef11ed8c3c663b9a689fd0"] = "Ei, a gangue está toda aqui.\n{====}O que está acontecendo?";
 	["6cf133c858ef11ed8c3c663b9a689fd0"] = "Parece que está destruído...";
 	["6cf1342c58ef11ed8c3c663b9a689fd0"] = "{~}Alva!\n{====}Nos salve!";
@@ -949,8 +949,8 @@ return {
 	["6cf138c858ef11ed8c3c663b9a689fd0"] = "{~}Deixem conosco!";
 	["6cf1393658ef11ed8c3c663b9a689fd0"] = "Então está decidido.\n{====}Que \"Projeto: Renovação da Estação Octopia\"\n{~}comece!";
 	["6cf13a1258ef11ed8c3c663b9a689fd0"] = "O Mung estava certo.\n{====}Renovar a estação é uma empreitada e tanto.\n{====}Vai demorar um pouco para coletar todos os materiais.\n{====}Desculpe por não poder ajudar mais. Deixo o resto com vocês.";
-	["6cf13a4e58ef11ed8c3c663b9a689fd0"] = "Solomon!";
-	["6cf13abc58ef11ed8c3c663b9a689fd0"] = "Anime-se, Solomon! Vamos deixar a estação novinha em folha!";
+	["6cf13a4e58ef11ed8c3c663b9a689fd0"] = "Salomão!";
+	["6cf13abc58ef11ed8c3c663b9a689fd0"] = "Anime-se, Salomão! Vamos deixar a estação novinha em folha!";
 	["6cf13b5c58ef11ed8c3c663b9a689fd0"] = "Todos os materiais estão finalmente prontos?\n{====}Vou chamar o Mung então.";
 	["6cf13c2458ef11ed8c3c663b9a689fd0"] = "Certo! Isso servirá!";
 	["6cf13c6058ef11ed8c3c663b9a689fd0"] = "{~}Hora de trabalhar!\n{====}Vamos ter que queimar a meia-noite.";

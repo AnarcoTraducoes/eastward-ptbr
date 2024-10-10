@@ -573,7 +573,7 @@ return {
 	["5c2603aec75411ea99c93c15c2dd513c"] = "John! Ainda não entregamos a carta!";
 	["5c2604c6c75411ea99c93c15c2dd513c"] = "Uma carta?\n{====}Maldição, deve ser outra reclamação.\n{====}Dê a ela para o Smith. Não tenho tempo para isso.\n{====}Desde que nosso chefe lançou aquele joguinho dele...\n{====}...só recebemos reclamações!";
 	["5c2605fcc75411ea99c93c15c2dd513c"] = "Apenas dê a ela para o Smith, você não acha?";
-	["5c260688c75411ea99c93c15c2dd513c"] = "Sem chip de emoção? Sem operação!";
+	["5c260688c75411ea99c93c15c2dd513c"] = "Sem chip de emoção? Sem operação!"
 	["6dc35abc893d11ea97073c15c2dd513c"] = "{~}Vocês de novo!\n{====}Eu não disse?\n{====}Nenhum chip de emoção? Nenhuma operação!";
 	["6dc35b02893d11ea97073c15c2dd513c"] = "O que é isso?";	
 	["6dc35b5c893d11ea97073c15c2dd513c"] = "{~}Você encontrou?!{====}Deixe-me ver!";
@@ -1171,7 +1171,7 @@ return {
 	};
 ["TowerHall.sq"]={
 	["5c2802eec75411ea99c93c15c2dd513c"] = "John...\nVocê também não é uma ilusão, certo?";
-	["5c280410c75411ea99c93c15c2dd513c"] = "John é... é John, né?\n{====}Mestre cozinheiro John.\nMestre em combate John.\n{====}Top escavador John.\nDomador de Blimpig John.\n{====}Assistente de laboratório John.\nAstro de filmes de ação John.\n{====}Não importa o que aconteça, você é apenas... John.\n{==}Quase deixei o Solomon me enganar por um segundo ali.";
+	["5c280410c75411ea99c93c15c2dd513c"] = "John é... é John, né?\n{====}Mestre cozinheiro John.\nMestre em combate John.\n{====}Top escavador John.\nDomador de asa-porcos John.\n{====}Assistente de laboratório John.\nAstro de filmes de ação John.\n{====}Não importa o que aconteça, você é apenas... John.\n{==}Quase deixei o Solomon me enganar por um segundo ali.";
 	["5c280578c75411ea99c93c15c2dd513c"] = "Vamos lá, Alva e Isabel estão nos esperando.";	
 	};
 ["Ester_Hall.sq"]={

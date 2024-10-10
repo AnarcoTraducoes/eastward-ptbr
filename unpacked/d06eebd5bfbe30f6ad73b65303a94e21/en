@@ -14,7 +14,7 @@ return {
 	["language"] = "Idioma";
 	["ffb_strength"] = "Vibração";
 	["fullscreen"] = "Tela cheia";
-	["render_quality"] = "Qualidade de renderização";
+	["render_quality"] = "Renderização";
 	["vsync"] = "VSync";
 	["AUDIO"] = "SOM";
 	["GAME"] = "SISTEMA";
@@ -23,7 +23,7 @@ return {
 	["Off"] = "Off";
 	["Weak"] = "Fraca";
 	["Strong"] = "Forte";
-	["Low"] = "Baixo";
+	["Low"] = "Baixa";
 	["Normal"] = "normal";
 	["Apply"] = "Aplicar";
 	["Cancel"] = "Cancelar";
@@ -202,7 +202,7 @@ return {
 	["no_teleport_indoor"] = "A viagem rápida não é permitida aqui.";
 	["teleport"] = "Viagem rápida";
 	["scale_mode"] = "Ampliar o modo";
-	["scale_clear"] = "Limpar";
+	["scale_clear"] = "Original";
 	["scale_smooth"] = "Suave";
 	["scale_crt"] = "CRT";
 	["rightstick_func"] = "Alavanca da direita";
@@ -364,7 +364,7 @@ return {
 	["energy_out"] = "Energia não suficiente!";
 	["ammo_out"] = "Munição insuficiente!";
 	["bomb_out"] = "Não há bombas suficientes!";
-	["pouch_levelup"] = "A capacidade de mochila aumentou!";
+	["pouch_levelup"] = "A mochila aumentou!";
 	["energy_levelup"] = "A energia máxima aumentou!";
 	["weapon_levelup"] = "$(name) subiu de nível!";
 	["ammo_cap_upgrade"] = "Box de munição subiu de nível!";
@@ -472,7 +472,7 @@ return {
 	["Get"] = "Pegar";
 	["Ring"] = "Anel";
 	["Light"] = "Luz";
-	["Press"] = "Imprensa";
+	["Press"] = "Aperte";
 	["Extinguish"] = "Extinguir";
 	["Pray"] = "Rezar";
 	["BuyTicket"] = "Comprar bilhete";
@@ -508,7 +508,7 @@ return {
 ["popup"]={
 	["game_saved"] = "Jogo Salvo!";
 	["first_dungeon_enter"] = "Cuidadoso! Você acabou de entrar em uma área perigosa.";
-	["pouch_full"] = "Mochila está cheia.";
+	["pouch_full"] = "A mochila está cheia.";
 	["no_money"] = "Sem sal suficiente!";
 	["item_purchased"] = "\"$(name)\" adquirido!\nVerifique na sua bolsa.";
 	["item_get_chest"] = "Encontrado $(name)!\nConfira na sua mochila.";
