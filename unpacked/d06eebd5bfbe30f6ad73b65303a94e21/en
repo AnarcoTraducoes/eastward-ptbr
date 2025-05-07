@@ -85,7 +85,7 @@ return {
 	["unknown_spicy_description"] = "Você ainda precisa descobrir este tempero.";
 	["unknown_item"] = "Item desconhecido";
 	["unknown_item_description"] = "Você ainda precisa descobrir este item.";
-	["out_of_stock"] = "Fora de estoque";
+	["out_of_stock"] = "Esgotado";
 	["key_config"] = "Teclado/Mouse";
 	["gamepad_config"] = "Gamepad";
 	["movement"] = "Movimento";
@@ -267,7 +267,7 @@ return {
 	["name::SaltBug"] = "Salgado fedorento rico";
 	["desc::SaltBug"] = "Obtenha 1.000 sal de um Salt Bug.";
 	["name::SideQuests"] = "Uma pessoa com coração";
-	["desc::SideQuests"] = "Obtenha um \"coração\" do povo de New Dam City..";
+	["desc::SideQuests"] = "Obtenha um \"coração\" do povo da Cidade de New Dam..";
 	["name::NPC50"] = "Credor da orelha";
 	["desc::NPC50"] = "Interagir com 50 NPCs diferentes.";
 	["name::NPC100"] = "Borboleta social";
@@ -461,7 +461,7 @@ return {
 	["Cook"] = "Cozinhar";
 	["Check"] = "Inspecionar";
 	["Listen"] = "Ouvir";
-	["GetOn"] = "Embarcar";
+	["GetOn"] = "Board";
 	["Knock"] = "Bater";
 	["buy"] = "Comprar";
 	["trigger_pachinko"] = "Jogar";
@@ -477,7 +477,7 @@ return {
 	["Pray"] = "Rezar";
 	["BuyTicket"] = "Comprar bilhete";
 	["Ride"] = "Passear";
-	["Handover"] = "Dê uma chave inglesa";
+	["Handover"] = "Dê a chave inglesa";
 	["PickUp"] = "Escolher";
 	["Close Door"] = "Fechar";
 	["Open Door"] = "Abrir";

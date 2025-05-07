@@ -19,7 +19,7 @@ return {
 	["1b8ba44a2ca111eb801b3c15c2dd513c"] = "{~}Quem é?!";
 	["ab70451c309211eb84b63c15c2dd513c"] = "O Professor Ivan nos disse para encontrar você.\n{====}Ele disse que você pode saber algo sobre a Isabel.";
 	["ab7048aa309211eb84b63c15c2dd513c"] = ".......Você não se importaria... de dizer mais um pouco, se importaria?\n{====}É que... faz muito tempo desde que ouço essa voz.";
-	["ab7049fe309211eb84b63c15c2dd513c"] = "Essa voz? O que você quer dizer?\n{====}Acabamos de vir de New Dam City.\n{====}Estamos procurando por nossos amigos Alva e Isabel.\n{====}O Professor Ivan disse que você pode saber algo sobre eles?";
+	["ab7049fe309211eb84b63c15c2dd513c"] = "Essa voz? O que você quer dizer?\n{====}Acabamos de vir de New Dam.\n{====}Estamos procurando por nossos amigos Alva e Isabel.\n{====}O Professor Ivan disse que você pode saber algo sobre eles?";
 	["ab704a9e309211eb84b63c15c2dd513c"] = "Um... olá...?";
 	["ab704b20309211eb84b63c15c2dd513c"] = "Hein? Ah. Desculpe.\n{====}{big}Apenas ouvir você falar está me dando uma sobrecarga sensorial completa agora.\n{====}De qualquer forma, não posso dizer que sei alguma coisa sobre esses seus amigos.\n{====}Mas algo me diz que eu... não... "nós" poderemos ajudar você.\n{====}Espere aqui um segundo.";
 	["ab704c2e309211eb84b63c15c2dd513c"] = "Mas antes de eu ir, deixe-me te dar algo.\n{====}Não será fácil na volta.";
@@ -1187,7 +1187,7 @@ return {
 	["5bf044e4c75411ea99c93c15c2dd513c"] = "Eu sei. Vou s-s-ser cuidadoso.";
 	["5bf04674c75411ea99c93c15c2dd513c"] = "...William?";
 	["5bf046f6c75411ea99c93c15c2dd513c"] = "Sim, Daniel?";
-	["5bf04822c75411ea99c93c15c2dd513c"] = "Vamos voltar para a C-C-Cidade de Nova Barragem?";
+	["5bf04822c75411ea99c93c15c2dd513c"] = "Vamos voltar para a C-C-Cidade de New Dam?";
 	["5bf049c6c75411ea99c93c15c2dd513c"] = "...A princípio, sim.\n{==}Eu gostaria de pegar a Sra. Tayama.";
 	["5bf04a70c75411ea99c93c15c2dd513c"] = "E depois d-disso?";
 	["5bf04c0ac75411ea99c93c15c2dd513c"] = "Que tal a Ilha de Potcrock, hm?";

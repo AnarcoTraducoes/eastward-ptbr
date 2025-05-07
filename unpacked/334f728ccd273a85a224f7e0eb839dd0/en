@@ -30,7 +30,7 @@ return {
 	["name::scene/design/env/Dam/Dungeon/OldTown/10.scene"] = "Terra dos Espinhos";
 	["name::scene/design/env/Dam/Dungeon/OldTown/HumanFactory.scene"] = "Fábrica Humana";
 	["name::scene/design/env/Dam/Dungeon/OldTown/OldAbode.scene"] = "Casa do vovô";
-	["name::scene/design/env/Dam/Dungeon/OldTown"] = "A Cidade Velha";
+	["name::scene/design/env/Dam/Dungeon/OldTown"] = "Oldtown";
 	["name::scene/design/env/Dam/Dungeon/FanArea/ToOutField.scene"] = "Dam ( Dentro )";
 	["name::scene/design/env/Dam/Dungeon/FanArea/02.scene"] = "Portão Central da Água";
 	["name::scene/design/env/Dam/Dungeon/FanArea/32.scene"] = "Dam ( Baixo )";
@@ -92,7 +92,7 @@ return {
 	["name::「猪场」"] = "Rancho Asa-Porco";
 	["name::大坝核心"] = "Núcleo Central da Barragem";
 	["name::火箭公寓"] = "Mansão Foguete";
-	["name::大坝城"] = "New Dam City";
+	["name::大坝城"] = "Cidade de New Dam";
 	["name::「铁梦丸」"] = "A carabina de ferro";
 	["name::阳光农场"] = "Rancho Sunnyside";
 	["name::力汤温泉"] = "Fontes termais";
@@ -142,14 +142,14 @@ return {
 	["name::化妆一科"] = "Camarim 1";
 	["name::道具车厢"] = "Carro de armazenamento";
 	["name::田山商店"] = "Tayama";
-	["name::旧大坝城"] = "Cidade Velha";
+	["name::旧大坝城"] = "Oldtown";
 	["name::大坝下层"] = "Dam ( Inferior )";
 	["name::大坝中央闸门"] = "Éclusa Central";
 	["name::大坝内部"] = "Dam ( Dentro )";
 	["name::爵士妈咪"] = "Mamãe Jazz";
 	["name::「白鲸港」车站"] = "Estação Baía Whitewhale";
 	["name::向阳坡"] = "Centro da cidade";
-	["name::大坝城车站"] = "Estação New Dam City";
+	["name::大坝城车站"] = "Estação de New Dam";
 	["name::龙门市场"] = "Dragon Market";
 	["name::古代遗迹"] = "Ruínas antigas";
 	["name::怪异森林"] = "Floresta Estranha";
@@ -170,11 +170,11 @@ return {
 	["name::小狗开开"] = "Cachorro do Karanguejo Rei";
 	};
 ["quest_CH3"]={
-	["text::Damhill"] = "New Dam City";
+	["text::Damhill"] = "Cidade de New Dam";
 	["text::Metropolis"] = "Nunca vi uma cidade tão grande! Provavelmente está cheio de todos os tipos de desafios e oportunidades.";
 	["text::Alva"] = "Parece que o Laboratório da Alva está procurando assistentes de laboratório. Por que não dar uma olhada?";
 	["text::Experiment"] = "O Laboratório da Princesa";
-	["text::Mission"] = "Nossa primeira missão em Alva: recuperar uma fornalha de produção de limo na Cidade Velha.";
+	["text::Mission"] = "Nossa primeira missão de Alva: recuperar uma fornalha de produção de limo em Oldtown.";
 	["text::BroCons"] = "A estação fora da cidade está repleta de monstros. Leve-os para fora!";
 	["text::MissionCompleat"] = "Missão cumprida! Reporte-se a Alva com a fornalha de criação de limo.";
 	["text::Casino"] = "O Palácio da Moeda";
@@ -196,13 +196,13 @@ return {
 	["text::LastChance"] = "Esta é a nossa última chance! De volta à Rocket Mansion para enfrentar Lee.";
 	["text::Yokujo"] = "Para as fontes termais";
 	["text::Ch3end"] = "Se não temos mais nada para fazer, vamos nos encontrar com \nAlva e Isabel nas fontes termais \nfora da cidade.";
-	["text::MissionNext"] = "O caminho para Cidade Velha foi aberto. É hora de encontrar aquela fornalha de criação de limo.";
-	["text::ExperimentFinish"] = "Assim que chegamos a New Dam City, encontramos o emprego perfeito: assistentes de laboratório no Alva's Lab! Melhor ainda? Alva me deu um par de sapatos e eles estão incríveis!";
+	["text::MissionNext"] = "O caminho para Oldtown foi aberto. É hora de encontrar aquela fornalha de criação de limo.";
+	["text::ExperimentFinish"] = "Assim que chegamos a Cidade de New Dam, encontramos o emprego perfeito: assistentes de laboratório no Alva's Lab! Melhor ainda? Alva me deu um par de sapatos e eles estão incríveis!";
 	["text::CasinoFinish"] = "Me diverti muito no Palácio da Moeda hoje. Então, conhecemos Lee. Ele parece muito legal. Não sei por que todo mundo tem tanto medo dele.";
 	["text::Food01Finish"] = "Podemos ter falhado com as frutas cristalizadas, mas isso não significa que acabou. Da próxima vez, definitivamente faremos Lee engolir suas palavras!";
 	["text::Food02Finish"] = "Como decidimos ajudar a trupe, acabamos falhando muito com nosso pote de caranguejo. Só temos mais uma chance de vencer.";
 	["text::Food03Finish"] = "Lee disse que a refeição tinha gosto de amizade. Tão profundo! Eu sinto que... meio que entendo o que ele quer dizer.";
-	["text::YokujoFinish"] = "Todos os dias têm sido uma aventura desde que chegamos a New Dam City, desde nos tornarmos assistentes de laboratório de Alva até ganhar uma aposta contra Lee. Eu gostaria de poder contar tudo isso aos meus amigos da Ilha Potcrock! Mas ainda mais, espero que possamos ficar em New Dam City para sempre.";
+	["text::YokujoFinish"] = "Todos os dias têm sido uma aventura desde que chegamos a Cidade de New Dam, desde nos tornarmos assistentes de laboratório de Alva até ganhar uma aposta contra Lee. Eu gostaria de poder contar tudo isso aos meus amigos da Ilha Potcrock! Mas ainda mais, espero que possamos ficar em New Dam para sempre.";
 	};
 ["CH_Fridge_mini.sq"]={
 	["cd27917d1a3611ea86ac8c85907abf45"] = "Você pode refrigerar suas memórias aqui.\n{====}Mas quando você as retira novamente...\n{====}...o novo você, ainda será você?";
@@ -408,7 +408,7 @@ return {
 	["name::sluggel"] = "Gel";
 	["desc::sluggel"] = "Caiu de lesmas no local de escavação. Bruto, mas útil.";
 	["name::BreedingFurnace"] = "Slime-Breeding Furnace";
-	["desc::BreedingFurnace"] = "Equipamento utilizado pelo avô de Alva. Deixado para trás na Cidade Velha durante a evacuação. Supostamente um componente importante da pesquisa do MIASMA.";
+	["desc::BreedingFurnace"] = "Equipamento utilizado pelo avô de Alva. Deixado para trás em Oldtown durante a evacuação. Supostamente um componente importante da pesquisa do MIASMA.";
 	["name::pirateflag"] = "Bandeira pirata";
 	["desc::pirateflag"] = "A bandeira dos Piratas Lumpy. O capitão mantém isso próximo e querido em seu coração.";
 	["name::tinder"] = "Chama do Tempo";
@@ -418,7 +418,7 @@ return {
 	["name::ValleyPearl"] = "Pérola do Vale";
 	["desc::ValleyPearl"] = "Pérola rara e linda. Garantido para obter o amor que você precisa.";
 	["name::CasinoClubCard"] = "Cartão de membro do Palácio da Moeda";
-	["desc::CasinoClubCard"] = "Somente membros podem entrar no local de entretenimento mais badalado de New Dam City.";
+	["desc::CasinoClubCard"] = "Somente membros podem entrar no local de entretenimento mais badalado da Cidade de New Dam.";
 	["name::EmotionChip"] = "Chip de Emoção";
 	["desc::EmotionChip"] = "Use para melhorar as emoções de um robô. Robôs com este chip instalado podem até chorar, embora ninguém saiba por quê.";
 	["name::goldenfish"] = "Pargo de Golden Valley";
@@ -430,13 +430,13 @@ return {
 	["name::SubwayTicket"] = "Passe de metrô";
 	["desc::SubwayTicket"] = "Um presente de Mung. Permite que você ande de metrô quantas vezes quiser.";
 	["name::DamCrab"] = "Karanguejo Rei";
-	["desc::DamCrab"] = "O famoso caranguejo de New Dam City. Requintado e delicioso.";
+	["desc::DamCrab"] = "O famoso caranguejo de New Dam. Requintado e delicioso.";
 	["name::QueenOutfit"] = "Fantasia de Rainha Besouro";
 	["desc::QueenOutfit"] = "A fantasia da Rainha Besouro. Aumenta o apelo sexual de quem o usa.";
 	["name::TreasureDetector"] = "Radar do Tesouro";
 	["desc::TreasureDetector"] = "Chamado de \"Nariz do Caçador de Tesouros\", ele pode encontrar até os tesouros mais escondidos.";
 	["name::DietPill"] = "Pílula dietética";
-	["desc::DietPill"] = "Uma misteriosa pílula dietética de Lowtown, New Dam City. Aqueles que conhecem seus ingredientes nunca iriam tomá-lo.";
+	["desc::DietPill"] = "Uma misteriosa pílula dietética de Lowtown da Cidade de New Dam. Aqueles que conhecem seus ingredientes nunca iriam tomá-lo.";
 	["name::MinerContract"] = "Contrato de escavador";
 	["desc::MinerContract"] = "Contrato para escavadores da Ilha Potcrock. Injusto, \nnão importa como você olhe para isso.";
 	["name::PigYardHerdman"] = "Selo de Aprovação do Rancho Asa-Porco";
@@ -761,7 +761,7 @@ return {
 	["cd2746871a3611eaa8cb8c85907abf45"] = "Já vi alguns filmes antes. Alguns foram ótimos. Mas a maioria era horrível.\n{====}Suponho que os filmes aqui constituem principalmente o último.";
 	["cd2749c51a3611eab5448c85907abf45"] = "Você realmente precisa ir desta vez? Vou sentir sua falta.\n{====}{box_size:big}Nos próximos dias, serei como uma partícula, uma onda, viajando pelo universo.\n{====}O universo chamado John.";
 	["cd274a661a3611eaa3a58c85907abf45"] = "Esses segredos que você guarda deveriam te agradecer.\n{====}Segredos só são segredos porque você os conhece.";
-	["cd274ba31a3611eaa5db8c85907abf45"] = "Quer salvar seu jogo?\nEu posso fazer isso por você. Mas ...\n{,,}{====}...você sabe, ainda estou me aquecendo.";
+	["cd274ba31a3611eaa5db8c85907abf45"] = "Quer salvar seu jogo?\nEu posso fazer isso por você. Mas ...{,,}\n{====}...você sabe, ainda estou me aquecendo.";
 	["cd274c781a3611eaac498c85907abf45"] = "{signal:open}Salvar suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
 	["666538b8f80911eaac1b3c15c2dd513c"] = "Você coloca as coisas na geladeira na esperança de que elas permaneçam boas para sempre.\n{====}{big}Mas da próxima vez que você abrir a geladeira, elas já podem estar estragadas.";
 	["666539eef80911eaac1b3c15c2dd513c"] = "Como você já sabe, sou especialista em armazenar memórias.\n{====}Mas quando se trata das próprias memórias, sei muito pouco.";
@@ -814,7 +814,7 @@ return {
 	["desc::gasha_devila"] = "Os cérebros do Rei Demônio e do líder dos Quatro Generais.\nOs Quatro Generais carregam cristais de energia que são a chave para salvar a princesa.";
 	["name::gasha_darkknigt"] = "Cavaleiro das Trevas";
 	["desc::gasha_darkknigt"] = "O guarda quieto da Cidade do Rei Demônio, ele é incapaz de entender a linguagem dos monstros.\nTrabalhar na oficina nada mais é do que um trabalho árduo e monótono. Minha única alegria é criar esses monstros.";
-	["name::gasha_fatdragon"] = "Dragão Gordo";
+	["name::gasha_fatdragon"] = "Fat Dragon";
 	["desc::gasha_fatdragon"] = "Um dragão voraz ocupando um pico desolado, ele consome tudo o que vê.\nEmbora eu não tivesse planos de fazer uma sequência, lancei um pacote de expansão para agradar os jogadores..";
 	["name::gasha_skeletondragon"] = "Dragão de osso";
 	["desc::gasha_skeletondragon"] = "Um dragão gigante e antigo enterrado sob a areia nos confins do deserto.\nUm novo Pixball para você enfrentar perigos maiores.";
@@ -874,7 +874,7 @@ return {
 	["name::ratatouille"] = "Ratatouille";
 	["detail::ratatouille"] = "De cores vivas e sabor rico, este prato é perfeito para o verão.";
 	["name::book_bubbleTea"] = "Chá de bolhas";
-	["detail::book_bubbleTea"] = "A mais nova moda em New Dam City, esta guloseima leitosa é adorada por adolescentes.";
+	["detail::book_bubbleTea"] = "A mais nova moda em New Dam, esta guloseima leitosa é adorada por adolescentes.";
 	["name::naan"] = "Naan";
 	["detail::naan"] = "Fácil de transportar, este saboroso alimento básico é ótimo para um dia chuvoso.";
 	["name::chinese_hamburger"] = "Hambúrguer Chinês";
@@ -886,13 +886,13 @@ return {
 	["name::pudding"] = "Pudim";
 	["detail::pudding"] = "Perigosamente doce, é conhecido por causar inúmeras discussões familiares.";
 	["name::plum_jam"] = "Geléia de frutas cristalizadas";
-	["detail::plum_jam"] = "Outrora um dos favoritos dos habitantes de New Dam City, não é mais tão comum.";
+	["detail::plum_jam"] = "Outrora um dos favoritos dos habitantes de New Dam, não é mais tão comum.";
 	["name::apple_jam"] = "Geléia de frutas cristalizadas falsas";
 	["detail::apple_jam"] = "Embora a embalagem possa ter enganado você, isso é apenas geléia normal.";
 	["name::rice_roll"] = "Onigiri";
 	["detail::rice_roll"] = "Paixão (e um pouco de calor manual) dão sabor a esta bola de arroz.";
 	["name::dam_sushi"] = "Dam Sushi";
-	["detail::dam_sushi"] = "O sushi exclusivo do chefe do Jazz 21 de New Dam City.";
+	["detail::dam_sushi"] = "O sushi exclusivo do chefe do Jazz 21 de New Dam.";
 	["name::strawberry_milk"] = "Leite de morango";
 	["detail::strawberry_milk"] = "A embalagem fofa e a cor fazem com que seja difícil acreditar que esta seja a bebida preferida da Isabel.";
 	["name::banana_milk"] = "Leite de banana";
@@ -959,7 +959,7 @@ return {
 	["detail::lobster"] = "Passe trinta minutos quebrando cascas para obter uma mordida de carne.";
 	["name::fish"] = "Peixe";
 	["desc::fish"] = "É um peixe.";
-	["detail::fish"] = "O ingrediente mais comum de New Dam City. Básico mas bom.";
+	["detail::fish"] = "O ingrediente mais comum de New Dam. Básico mas bom.";
 	["name::carrot"] = "Cenoura";
 	["desc::carrot"] = "A cenoura comum.";
 	["detail::carrot"] = "A joia laranja da terra. Ótimo para dar à sua pele aquele brilho laranja.";
@@ -1124,7 +1124,7 @@ return {
 	["Recipe::fish_sandwich"] = "Coloque um peixe entre duas fatias de pão e coloque-o na boca.";
 	["name::salad_sea"] = "Peixe no vapor";
 	["desc::salad_sea"] = "Este peixe está furioso!";
-	["detail::salad_sea"] = "Os gourmets de New Dam City adoram este prato. O peixe leva o sabor da fruta. A fruta leva o sabor do peixe!";
+	["detail::salad_sea"] = "Os gourmets de New Dam adoram este prato. O peixe leva o sabor da fruta. A fruta leva o sabor do peixe!";
 	["Recipe::salad_sea"] = "Recheie um peixe com sua fruta favorita e jogue-o no vaporizador. Cuidado com o calor!";
 	["Recipe::salad_fruit"] = "Fatie e corte em cubos suas frutas e vegetais favoritos e jogue-os em uma tigela. A alma está no curativo!";
 	["name::salad_mix"] = "Ovo Vegetal Frito";
@@ -1210,7 +1210,7 @@ return {
 	["detail::sand_fruit_pasta"] = "O sandrupe duro como prego fica macio como uma sopa depois de cozido. Despeje tudo sobre um pouco de macarrão - humm!";
 	["Recipe::sand_fruit_pasta"] = "Cozinhar um sandrupe requer habilidade e calor. MUITO calor.";
 	["name::bai_qie_ji"] = "Frango Corte Branco";
-	["desc::bai_qie_ji"] = "Somente em New Dam City você encontrará um prato como este.";
+	["desc::bai_qie_ji"] = "Somente na Cidade de New Dam você encontrará um prato como este.";
 	["detail::bai_qie_ji"] = "Sabor intenso de frango. Pode ser servido com uma variedade de molhos saborosos.";
 	["Recipe::bai_qie_ji"] = "Ferva, corte, coloque em um molho.";
 	["name::chips"] = "Fritas";
@@ -1246,23 +1246,23 @@ return {
 	["detail::chowder"] = "Tão delicioso que você não pode deixar de pegar uma segunda tigela.";
 	["Recipe::chowder"] = "Troque os temperos por uma miscelânea de sabores.";
 	["name::dam_crab_pot"] = "Pote De Caranguejo Big Dam";
-	["desc::dam_crab_pot"] = "Cozinha tradicional bem conhecida em New Dam City.";
+	["desc::dam_crab_pot"] = "Cozinha tradicional bem conhecida na Cidade de New Dam.";
 	["detail::dam_crab_pot"] = "O sabor extraordinário,A culinária feita de caranguejo mas tem um sabor além do caranguejo.";
 	["Recipe::dam_crab_pot"] = "Não use apenas o caranguejo bom, mas o calor também é muito importante para cozinhar a Panela de Caranguejo Big Dam perfeita.";
 	};
 ["quest_CH4"]={
 	["text::FirstWave"] = "O Deus do Vento";
-	["text::Miasma"] = "O MIASMA está atacando New Dam City! Alva precisa da nossa ajuda na sala de controle.";
-	["text::Casino"] = "O Deus do Vento está prestes a ser ativado! Nossa missão é garantir que todos em New Dam City sejam evacuados para o Palácio da Moeda. Vamos lá para mais informações.";
+	["text::Miasma"] = "O MIASMA está atacando a Cidade de New Dam! Alva precisa da nossa ajuda na sala de controle.";
+	["text::Casino"] = "O Deus do Vento está prestes a ser ativado! Nossa missão é garantir que todos na Cidade de New Dam sejam evacuados para o Palácio da Moeda. Vamos lá para mais informações.";
 	["text::Jasper"] = "Há pessoas desaparecidas no Palácio da Moeda. Jasper ainda está no parque!";
-	["text::Casino1"] = "Vá ao Palácio da Moeda para pedir informações aos cidadãos de New Dam City.";
+	["text::Casino1"] = "Vá ao Palácio da Moeda para pedir informações aos cidadãos da Cidade de New Dam.";
 	["text::Arms"] = "Alguém viu os dois irmãos no Dragon Market. Vá dar uma olhada!";
 	["text::FanStart"] = "O Deus do Vento será ativado em breve. Volte rapidamente para a sala de controle.";
 	["text::BackToDaily"] = "O olho da tempestade";
 	["text::Curry"] = "John preparou um pouco de curry para o almoço. Vá entregar para Alva e Isabel na sala de controle.";
 	["text::SecondWave"] = "Segunda Onda";
 	["text::MiasmaBack"] = "O MIASMA voltou! Corra para a sala de controle.";
-	["text::FirstWaveFinish"] = "O MIASMA não foi nada assustador. Juntamente com Alva, Isabel, Lee e o Deus do Vento, John e eu conseguimos proteger New Dam City.";
+	["text::FirstWaveFinish"] = "O MIASMA não foi nada assustador. Juntamente com Alva, Isabel, Lee e o Deus do Vento, John e eu conseguimos proteger a Cidade de New Dam.";
 	["text::DamRush"] = "O MIASMA está de volta! E Alva precisa da nossa ajuda. Vamos para a sala de controle.";
 	["text::SecondWaveFinish"] = "Salomão quebrou o Deus do Vento. Embora Alva tenha conseguido recomeçar... ela...";
 	};

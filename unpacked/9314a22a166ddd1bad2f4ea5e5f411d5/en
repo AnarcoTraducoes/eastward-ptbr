@@ -433,7 +433,7 @@ return {
 	["name::Octopus"] = "Polvo";
 	["name::Long"] = "Dragão Azul";
 	["name::SkeletonDragon"] = "Dragão Ósseo";
-	["name::FatDragon"] = "Dragão Gordo";
+	["name::FatDragon"] = "Fat Dragon";
 	["name::SeaDragon"] = "Dragão do Mar";
 	["name::DarkKnight"] = "Cavaleiro das Trevas";
 	["name::DevilGuard"] = "Guardião Demoníaco";

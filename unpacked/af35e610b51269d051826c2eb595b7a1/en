@@ -109,7 +109,7 @@ return {
 	["19af2fd42ca111eb801b3c15c2dd513c"] = "Cogumelo?";
 	["19af31642ca111eb801b3c15c2dd513c"] = "{big}Meu, meu. Isso é um cogumelo considerável. Um cogumelo desse tamanho, por que...";
 	["19af32902ca111eb801b3c15c2dd513c"] = "Você nunca viu algo assim antes, William?";
-	["19af336c2ca111eb801b3c15c2dd513c"] = "{big}Certamente renderia uma boa quantia em New Dam City, com certeza.";
+	["19af336c2ca111eb801b3c15c2dd513c"] = "{big}Certamente renderia uma boa quantia em Cidade de New Dam, com certeza.";
 	["19af36aa2ca111eb801b3c15c2dd513c"] = "Tem uma n-n-neblina se formando à frente.\n{====}Devo reduzir a v-velocidade?";
 	["19af384e2ca111eb801b3c15c2dd513c"] = "Interessante. Muito bem. Segurança em primeiro lugar, como dizem.";
 	["19af3b322ca111eb801b3c15c2dd513c"] = "{<}Embora o que é isso... atrás \nde nós...?";
@@ -399,7 +399,7 @@ return {
 	["239acf99174a11ea8b393c15c2dd513c"] = "Tempo maravilhoso hoje, não é mesmo?\n{====}Parece que escolhemos o dia certo para a partida.";
 	["239afaf3174a11eabf173c15c2dd513c"] = "Vire esse rosto para cima, milady!\n{====}Não há com o que se preocupar.\n{====}Se você já está tão nervosa...\n{====}Por que, vai ficar sem nervos antes mesmo de chegarmos a Ester City.";
 	["d2673d2b256111ea95b83c15c2dd513c"] = "Ah, não. Estamos tão no escuro sobre a boa cidade quanto você.\n{====}Mas... se as lendas estiverem corretas...\n{====}Então, enquanto continuarmos a leste ao longo da Linha Principal...\n{====}... vamos chegar lá com certeza.";
-	["239b25cc174a11ea870e3c15c2dd513c"] = "Ah, já perdemos de vista New Dam City.";
+	["239b25cc174a11ea870e3c15c2dd513c"] = "Ah, já perdemos de vista a Cidade de New Dam.";
 	["239b358c174a11ea80e93c15c2dd513c"] = "Daniel!\n{wait:0.5}Estabilize aqui.";
 	["239b63de174a11eaa8653c15c2dd513c"] = "Sim, s-senhor!";
 	["239bdae6174a11eab3993c15c2dd513c"] = "Não é por mesquinhez, é claro.\n{====}Simplesmente não queremos ficar sem combustível.\n{====}{big}Ficar preso no meio de sei lá onde normalmente não é minha praia.";
@@ -554,7 +554,7 @@ return {
 	["0abe3090b0c511ea96e23c15c2dd513c"] = "Temo que isso foi antes do meu tempo. Antes MESMO de eu nascer, na verdade.\n{====}Mas vi o nome dela antes nos roteiros antigos.";
 	["0abe30d6b0c511ea96e23c15c2dd513c"] = "Deixe para Bella lembrar de um detalhe assim.\n{====}Talento puro, incontestável!";
 	["0abe3112b0c511ea96e23c15c2dd513c"] = "Sim, sim... eu lembro agora, lembro. Eeek!\n{====}Isso foi nos meus dias de juventude como uma estrela de rosto fresco.\n{====}Ela bateu aquele foguete dela bem no lado do nosso trem.\n{====}Bem parecido com o seu pequeno motor, eu devo dizer.\n{====}Agora, então. O que você precisa dela, hein? Eeeek!";
-	["0abe316cb0c511ea96e23c15c2dd513c"] = "Mas... espera... isso não pode estar certo.\n{====}Ela saiu de New Dam City apenas alguns dias atrás.";
+	["0abe316cb0c511ea96e23c15c2dd513c"] = "Mas... espera... isso não pode estar certo.\n{====}Ela saiu da Cidade de New Dam apenas alguns dias atrás.";
 	["0abe32a2b0c511ea96e23c15c2dd513c"] = "Temo que você é quem está enganada, minha querida.\n{====}{big}O tempo se move... de maneira diferente dentro dessa névoa. Imprevisivelmente, você poderia dizer.\n{====}Uma hora aqui poderia durar tão pouco quanto um minuto no mundo exterior...\n{====}...ou tanto quanto um ano.";
 	["0abe3388b0c511ea96e23c15c2dd513c"] = "Isso... então... onde está Isabel agora?";
 	["0abe3400b0c511ea96e23c15c2dd513c"] = "Ook-ook! Se a memória me serve corretamente, ela não ficou muito tempo...\n{====}Não, ela foi embora quase assim que chegou. Eeeeek!";

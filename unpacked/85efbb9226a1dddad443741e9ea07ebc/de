@@ -1,0 +1,44 @@
+return {
+["CH_William.sq"]={
+	["75a389f2f80d11ea8f7c3c15c2dd513c"] = "So sieht man sich wieder, werte Mitreisende.\n{====}Ihr wisst nicht so recht, wo ihr hingehen sollt?\n{====}{big}Dann empfehle ich die Prinzessinnenallee. Da ist immer was los.";
+	["75a38aecf80d11ea8f7c3c15c2dd513c"] = "{big}Besucht die Prinzessinnenallee. Da ist immer was los.";
+	["75a38baaf80d11ea8f7c3c15c2dd513c"] = "So trifft man sich wieder, werte Mitreisende.";
+	["75a38d6cf80d11ea8f7c3c15c2dd513c"] = "Habe ich euch schon meine Werkstatt gezeigt?";
+	["75a38e66f80d11ea8f7c3c15c2dd513c"] = "{~}Deine Werkstatt?!\n{====}Ich habe diesen Raum an dich vermietet, damit du darin SCHLAFEN kannst!\n{====}Wenn du da Unfug treibst, wirft Oma dich raus!";
+	["75a38f42f80d11ea8f7c3c15c2dd513c"] = "Haha. Wie ihr seht, handelt es sich lediglich um ein, äh, Provisorium.";
+	["75a39000f80d11ea8f7c3c15c2dd513c"] = "Immer noch ganz schön energisch, die alte Dame.\n{====}Bei dieser Stimme fühle ich mich irgendwie wie zu Hause.";
+	["75a39334f80d11ea8f7c3c15c2dd513c"] = "Anscheinend kommt ihr zwei in Neudamm gut zurecht.\n{====}Ich fürchte nur, dass wir uns in Zukunft weniger oft sehen werden.\n{====}Wir sind nämlich kurz davor, unsere Reise fortzusetzen.";
+	};
+["CH_Alva.sq"]={
+	["75a2ffb4f80d11ea8f7c3c15c2dd513c"] = "Izzy, reichst du mir mal bitte den Schraubenschlüssel auf der Werkbank da?";
+	["75a30126f80d11ea8f7c3c15c2dd513c"] = "In Altstadt gibt es einige ... merkwürdige Lebensformen.";
+	["75a303ecf80d11ea8f7c3c15c2dd513c"] = "{big}Aber keine Sorge! Ein Held steht bereit, um bei Bedarf zu helfen!";
+	["75a30662f80d11ea8f7c3c15c2dd513c"] = "Intelligente Affen ...\nDas müssen wir uns näher ansehen!";
+	["75a307acf80d11ea8f7c3c15c2dd513c"] = "Keine Sorge! Der Windgott kann unmöglich verlieren!";
+	["75a30838f80d11ea8f7c3c15c2dd513c"] = "{<}Puh!\n{====}Endlich ist es vorbei.\n{====}Meine Hände zittern immer noch ...\n{====}Ich habe mich wohl immer noch nicht daran gewöhnt.";
+	["75a308b0f80d11ea8f7c3c15c2dd513c"] = "Du solltest keine Probleme haben, den Ort zu finden.\n{====}Dieser alte Mann dagegen ...";
+	["75a309dcf80d11ea8f7c3c15c2dd513c"] = "Man sollte niemals eine Krabbe unterschätzen!\n{====}Die können so groß werden wie ... wie eine Rakete!";
+	["75a30a68f80d11ea8f7c3c15c2dd513c"] = "So eine Krabbe haben wir gesehen!";
+	["75a30accf80d11ea8f7c3c15c2dd513c"] = "Wirklich?";
+	["75a30bbcf80d11ea8f7c3c15c2dd513c"] = "Ja! John musste mit ihr kämpfen.";
+	["75a30c48f80d11ea8f7c3c15c2dd513c"] = "Mensch, eine derart große Krabbe würde ich auch mal gerne sehen ...";
+	};
+["CH_Li.sq"]={
+	["75a36062f80d11ea8f7c3c15c2dd513c"] = "Dann überlasse ich Alva und Isabel euch.\n{====}Sobald die Stromversorgung steht, versuche ich mit euch in Kontakt zu treten.";
+	["75a361def80d11ea8f7c3c15c2dd513c"] = "{<}Und nun der Windgott ... Es ist genau so, wie die Prophezeiung es vorhergesagt hat ...";
+	["75a36288f80d11ea8f7c3c15c2dd513c"] = "Hört auf, hier Zeit zu verschwenden.\n{====}Ich schalte das Ding erst ein, wenn alle evakuiert sind.";
+	["75a363faf80d11ea8f7c3c15c2dd513c"] = "Seid vorsichtig, ihr zwei.\n{====}{big}Nach allem, was passiert ist ... können wir uns keine weiteren Verluste erlauben.";
+	};
+["CH_Isabel.sq"]={
+	["75a33d08f80d11ea8f7c3c15c2dd513c"] = "{big}Jetzt ist nicht der richtige Zeitpunkt, um Fragen zu stellen. Du musst zur Station!";
+	["75a33e16f80d11ea8f7c3c15c2dd513c"] = "Das ist das MIASMA!\n{====}Du darfst nicht zulassen, dass es dich berührt. Dann ist das Spiel nämlich aus - im wahrsten Sinne des Wortes!";
+	["95764a80889011ebb8f93c15c2dd513c"] = "Ich ... entschuldige mich. Ich war nicht ganz ehrlich.\n{====}Als ich dich fand, war das Dorf bereits ...";
+	["75a33edef80d11ea8f7c3c15c2dd513c"] = "Altstadt wird mit Sicherheit kein Spaziergang.\n{====}Ihr solltet gut vorbereitet sein, bevor ihr euch auf den Weg macht.";
+	["75a34154f80d11ea8f7c3c15c2dd513c"] = "Du hast den Schallomat getroffen?\n{====}Ah, richtig ... Das ist, äh ... tja ...";
+	["75a342e4f80d11ea8f7c3c15c2dd513c"] = "Es ist nicht meine Schuld.\n{====}Wenn man an einem solchen Ort Proben sammelt, muss so etwas ja passieren ...";
+	["75a3438ef80d11ea8f7c3c15c2dd513c"] = "Königskrabben kannst du im Laden \"Die Königskrabbe\" kaufen.";
+	["75a3442ef80d11ea8f7c3c15c2dd513c"] = "Die Kreaturen im Erdbebental können etwas ... explosiv sein. Seid vorsichtig.";
+	["75a34550f80d11ea8f7c3c15c2dd513c"] = "Da seid ihr ja! Dann mal los!\n{====}Zu den Thermalquellen!\n{choice:go}Auf geht's!\n{choice:wait}Noch nicht.";
+	["75a34762f80d11ea8f7c3c15c2dd513c"] = "Ihr müsst noch etwas erledigen? Dann warten wir hier auf euch.";
+	};
+}

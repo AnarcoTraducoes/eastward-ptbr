@@ -741,7 +741,7 @@ return {
 	["46a7f1d455e211e992a93c15c2dd513c"] = "Já estamos lá? Huh? Quanto tempo mais?";
 	["eb131091761b11e987d93c15c2dd513c"] = "Hum? John, o que há de errado? Algo aconteceu?";
 	["46a7f2ae55e211e9977e3c15c2dd513c"] = "Até eu devo admitir...\n{====}Eu nunca pensei que a \"Terra dos Mortos\" poderia ser tão deslumbrante.";
-	["46a7f3e655e211e9b1a33c15c2dd513c"] = "{<}Foi tudo culpa minha... Foi tudo culpa minha... Se ao menos\nEu-... \n{====}Se ao menos eu não tivesse corrido. Se ao menos \nEu-... Eu tivesse voltado... \n{====}Voltei para salvar a todos...";
+	["46a7f3e655e211e9b1a33c15c2dd513c"] = "{<}Foi tudo culpa minha... Foi tudo culpa minha... Se ao menos\nEu-... \n{====}Se ao menos eu não tivesse corrido. Se ao menos \nEu-... Eu tivesse voltado... \n{====}Voltaria para salvar a todos...";
 	["eb1312ae761b11e99e933c15c2dd513c"] = "Você esta bem?\n{====}{big}Quando vi vocês dois, E-... eu pensei que já era tarde demais. Que isso tinha chegado até você também.\n{====}{big}Eu não teria... nenhum motivo para continuar, então pensei em ficar em Greenberg...";
 	["eb13138a761b11e9b6f53c15c2dd513c"] = "Parece que Sam não se lembra do que aconteceu.\n{====}É o melhor, eu suponho.\n{====}Uma criança como ela não deveria ser obrigada a experimentar essas coisas.{signal:turn}";
 	["eb131447761b11e9a1b93c15c2dd513c"] = "Parece que ela não se lembra de nada.\n{====}Melhor não mencionar Greenberg, então.";
@@ -761,8 +761,8 @@ return {
 	["eb131ee6761b11e9b7303c15c2dd513c"] = "{<}É assim mesmo...\n{====}{|}Bem, certamente parece que seria um lugar muito seguro para se viver.";
 	["eb131f87761b11e99f913c15c2dd513c"] = "Ah. \"Seguro.\"";
 	["eb132014761b11e9b7363c15c2dd513c"] = "A salvo do MIASMA é tudo.";
-	["eb1320fa761b11e9b3123c15c2dd513c"] = "Às vezes, isso é o suficiente.\n{====}{big}Porém, o MIASMA é algo com que você não terá que se preocupar em New Dam City.";
-	["eb1321de761b11e9b27f3c15c2dd513c"] = "{<}New Dam City?\n{====}{|}Achei que íamos para a Baía Whitewhale?";
+	["eb1320fa761b11e9b3123c15c2dd513c"] = "Às vezes, isso é o suficiente.\n{====}{big}Porém, o MIASMA é algo com que você não terá que se preocupar na Cidade de New Dam.";
+	["eb1321de761b11e9b27f3c15c2dd513c"] = "{<}Cidade de New Dam?\n{====}{|}Achei que íamos para a Baía Whitewhale?";
 	["eb1322d1761b11e9b5843c15c2dd513c"] = "Baía Whitewhale? Onde diabos é isso?\n{====}Você já ouviu falar disso, Daniel?";
 	["eb132370761b11e9be1f3c15c2dd513c"] = "{<}Ah... n-não posso dizer que tenho.\n{====}Mas I-I-Ilha Potcrock, por outro la-lado...{stop}";
 	["eb13246b761b11e9a0b33c15c2dd513c"] = "{~}Espere! eu entendi!\n{====}{big}Estes seus anúncios de trem não são atualizados há algum tempo.\n{====}Como suficiente, a maioria dos nomes das paradas não estão mais corretos.";
@@ -770,12 +770,12 @@ return {
 	["eb13273a761b11e9b6263c15c2dd513c"] = "Próxima parada, Crystal Lake Dam.";
 	["eb132870761b11e9bd2c3c15c2dd513c"] = "Bem então.";
 	["eb132991761b11e9b8f83c15c2dd513c"] = "Receio que devemos nos separar aqui.";
-	["eb132aab761b11e990933c15c2dd513c"] = "Esta é New Dam City?";
-	["eb132bd7761b11e99cf83c15c2dd513c"] = "Sim! New Dam City foi construída sobre Crystal Lake D-Dam.";
+	["eb132aab761b11e990933c15c2dd513c"] = "Esta é a Cidade de New Dam?";
+	["eb132bd7761b11e99cf83c15c2dd513c"] = "Sim! A Cidade de New Dam foi construída sobre a Crystal Lake Dam.";
 	["eb132ce3761b11e9b9bd3c15c2dd513c"] = "Até que nossos caminhos se cruzem, meus amigos.";
 	["46a7e99e55e211e9a7a23c15c2dd513c9"] = "Baía Whitewhale!\n{====}Ah, eu sabia. Eu simplesmente sabia disso! Terminamos com certeza!";
 	["cc8abb78cfad11e986ee3c15c2dd513c"] = "Ah! Estamos em outro túnel!";
-	["2f96b49e7a4e11ea89d43c15c2dd513c"] = "A aldeia estava tão quieta ontem à noite. Mortalmente quieto.\n{====}E ainda assim, eu não conseguia dormir. Não, nem uma piscadela...\n{====}Então deixei minha residência para uma caminhada refrescante no ar fresco da noite.\n{====}Foi quando... foi quando as nuvens escuras se aproximaram.\n{====}Eu corri e corri. Corri como se minha vida dependesse disso...\n{====}E a próxima coisa que percebi foi que estava no topo da montanha.\n{====}Uma jovem de cabelos dourados me trouxe até lá.\n{====}E abaixo de mim, até onde a vista alcançava, não havia nada além de preto.\n{====}Negro como a noite... negro como a \nmorte...\n{====}Foi quando a jovem falou comigo...\n{====}\"Não sobrou ninguém\"...";
+	["2f96b49e7a4e11ea89d43c15c2dd513c"] = "A aldeia estava tão quieta ontem à noite. Mortalmente quieta.\n{====}E ainda assim, eu não conseguia dormir. Não, nenhuma piscadela...\n{====}Então deixei minha residência para uma caminhada refrescante no ar fresco da noite.\n{====}Foi quando... foi quando as nuvens escuras se aproximaram.\n{====}Eu corri e corri. Corri como se minha vida dependesse disso...\n{====}E a próxima coisa que percebi foi que estava no topo da montanha.\n{====}Uma jovem de cabelos dourados me levou até lá.\n{====}E abaixo de mim, até onde a vista alcançava, não havia nada além de preto.\n{====}Negro como a noite... negro como a \nmorte...\n{====}Foi quando a jovem falou comigo...\n{====}\"Não sobrou ninguém\"...";
 	["2f96b6ce7a4e11ea89d43c15c2dd513c"] = "Eu deveria ter morrido com eles. Foi o que pensei comigo mesmo.\n{====}Mas então... então eu vi vocês dois.";
 	["2f96b7e67a4e11ea89d43c15c2dd513c"] = "Vocês dois também devem ter sofrido muito.\n{====}Quando te vi na estação de trem, você...\n{====}...parecia ter acabado de voltar de uma grande batalha.";
 	["64695436f80911eaac1b3c15c2dd513c"] = "Bem-vindo a bordo do trem.";

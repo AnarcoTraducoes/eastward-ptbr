@@ -1,17 +1,17 @@
 return {
 ["CH_William.sq"]={
-	["75a389f2f80d11ea8f7c3c15c2dd513c"] = "Olá novamente, companheiros de viagem de trem.\n{====}Se perguntando para onde ir, estão?\n{====}{big}Podem tentar a Avenida da Princesa. Sempre algo acontecendo por lá.";
-	["75a38aecf80d11ea8f7c3c15c2dd513c"] = "{big}Podem tentar a Avenida da Princesa. Sempre algo acontecendo por lá.";
+	["75a389f2f80d11ea8f7c3c15c2dd513c"] = "Olá novamente, companheiros de viagem de trem.\n{====}Estão se perguntando para onde ir?\n{====}{big}Podem tentar a Avenida da Princesa. Sempre tem algo acontecendo por lá.";
+	["75a38aecf80d11ea8f7c3c15c2dd513c"] = "{big}Podem tentar a Avenida da Princesa. Sempre tem algo acontecendo por lá.";
 	["75a38baaf80d11ea8f7c3c15c2dd513c"] = "Nos encontramos novamente, colegas viajantes da ferrovia.";
 	["75a38d6cf80d11ea8f7c3c15c2dd513c"] = "Já apresentei a vocês minha oficina?";
 	["75a38e66f80d11ea8f7c3c15c2dd513c"] = "{~}Sua oficina?!\n{====}Eu aluguei aquele quarto para você DORMIR!\n{====}Se tentar algo engraçado lá dentro, a vovó vai te expulsar!";
 	["75a38f42f80d11ea8f7c3c15c2dd513c"] = "Haha. Como podem ver, isso é apenas uma, hrm, disposição temporária.";
-	["75a39000f80d11ea8f7c3c15c2dd513c"] = "Bastante zelo deixado na velha mulher, não é mesmo?\n{====}Algo naquela voz me faz sentir em casa.";
+	["75a39000f80d11ea8f7c3c15c2dd513c"] = "Bastante zelo dessa senhora, não é mesmo?\n{====}Algo naquela voz me faz sentir em casa.";
 	["75a39334f80d11ea8f7c3c15c2dd513c"] = "Parece que vocês dois estão se dando bem aqui em Nova Dam City.\n{====}Embora em breve nos verão menos, temo.\n{====}Pois estaremos partindo para continuar nossas viagens.";
 	};
 ["CH_Alva.sq"]={
 	["75a2ffb4f80d11ea8f7c3c15c2dd513c"] = "Izzy, você pode pegar a chave inglesa na bancada de trabalho?";
-	["75a30126f80d11ea8f7c3c15c2dd513c"] = "A Cidade Velha é lar de algumas... formas de vida estranhas.";
+	["75a30126f80d11ea8f7c3c15c2dd513c"] = "Oldtown é lar de algumas... formas de vida estranhas.";
 	["75a303ecf80d11ea8f7c3c15c2dd513c"] = "{big}Mas não se preocupe! Um herói estará de prontidão para entrar em ação e ajudar no último minuto!";
 	["75a30662f80d11ea8f7c3c15c2dd513c"] = "Macacos inteligentes...\nVamos ter que investigar isso!";
 	["75a307acf80d11ea8f7c3c15c2dd513c"] = "Não se preocupe! Não há como o Deus do Vento perder!";
@@ -39,6 +39,6 @@ return {
 	["75a3442ef80d11ea8f7c3c15c2dd513c"] = "As criaturas no Vale do Terremoto podem ser um pouco... voláteis. Tenha cuidado.";
 	["75a34550f80d11ea8f7c3c15c2dd513c"] = "Você está aqui! Então, vamos lá!\n{====}Para as fontes termais!\n{choice:go}Vamos!\n{choice:wait}Espera aí.";
 	["75a34762f80d11ea8f7c3c15c2dd513c"] = "Você ainda tem algo para fazer? Nós vamos esperar por você aqui então.";
-	["95764a80889011ebb8f93c15c2dd513c"] = "Peço desculpas. Eu não fui exatamente sincero.\n{====}Na época em que te encontrei, a vila, já estava...";
+	["95764a80889011ebb8f93c15c2dd513c"] = "Peço desculpas. Eu não fui exatamente sincera.\n{====}Na época em que te encontrei, a vila, já estava...";
 	};
 }
