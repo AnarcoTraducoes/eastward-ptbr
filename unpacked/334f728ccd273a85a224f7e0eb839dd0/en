@@ -761,7 +761,7 @@ return {
 	["cd2746871a3611eaa8cb8c85907abf45"] = "Já vi alguns filmes antes. Alguns foram ótimos. Mas a maioria era horrível.\n{====}Suponho que os filmes aqui constituem principalmente o último.";
 	["cd2749c51a3611eab5448c85907abf45"] = "Você realmente precisa ir desta vez? Vou sentir sua falta.\n{====}{box_size:big}Nos próximos dias, serei como uma partícula, uma onda, viajando pelo universo.\n{====}O universo chamado John.";
 	["cd274a661a3611eaa3a58c85907abf45"] = "Esses segredos que você guarda deveriam te agradecer.\n{====}Segredos só são segredos porque você os conhece.";
-	["cd274ba31a3611eaa5db8c85907abf45"] = "Quer salvar seu jogo?\nEu posso fazer isso por você. Mas ...{,,}\n{====}...você sabe, ainda estou me aquecendo.";
+	["cd274ba31a3611eaa5db8c85907abf45"] = "Quer salvar seu jogo?\nEu posso fazer isso por você. Mas ...\n{,,}{====}...você sabe, ainda estou me aquecendo.";
 	["cd274c781a3611eaac498c85907abf45"] = "{signal:open}Salvar suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
 	["666538b8f80911eaac1b3c15c2dd513c"] = "Você coloca as coisas na geladeira na esperança de que elas permaneçam boas para sempre.\n{====}{big}Mas da próxima vez que você abrir a geladeira, elas já podem estar estragadas.";
 	["666539eef80911eaac1b3c15c2dd513c"] = "Como você já sabe, sou especialista em armazenar memórias.\n{====}Mas quando se trata das próprias memórias, sei muito pouco.";

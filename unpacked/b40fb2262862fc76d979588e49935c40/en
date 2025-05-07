@@ -274,14 +274,14 @@ return {
 	["68638836f80911eaac1b3c15c2dd513c"] = "Se Chevis não trazer o bacon para casa...\n{====}...o bacon vai trazer Chevis! Je serai viré!";
 	};
 ["CH_Juggler.sq"]={
-	["4e844559d2ac11e9aa423c15c2dd513c"] = "Não gosto daquele sujeito chamado Jasper.\n{====}Quem ele pensa que é para ficar dando ordens para todo mundo, hein?\n{====}Ele acabou de chegar!"
+	["4e844559d2ac11e9aa423c15c2dd513c"] = "Não gosto daquele sujeito chamado Jasper.\n{====}Quem ele pensa que é para ficar dando ordens para todo mundo, hein?\n{====}Ele acabou de chegar!";
 	};
 ["CH_LiuJiang.sq"]={
 	["4e8a4b59d2ac11e9b1c83c15c2dd513c"] = "Nem sempre foi assim, sabe.\n{====}Antigamente, este lugar estaria cheio de gente até transbordar.\n{====}Não haveria nem lugar para ficar em pé!";
 	["4e8a4ce6d2ac11e988cc3c15c2dd513c"] = "Não tenho certeza de como as coisas chegaram a esse ponto.";
 	["4e8a4dcfd2ac11e9b4963c15c2dd513c"] = "Pode ser finalmente hora de eu fazer minhas malas...";
 	["4e8a4f40d2ac11e9a5203c15c2dd513c"] = "Acho que não vou precisar daquela roupa antiga por muito mais tempo...";
-	["4e8a5199d2ac11e99f6f3c15c2dd513c"] = "Vocês realmente salvaram este lugar, sabia?\n{====}Se precisarem de algo, é só pedir.\n{====}Tenho certeza de que todos nós faríamos o que pudéssemos para ajudar."
+	["4e8a5199d2ac11e99f6f3c15c2dd513c"] = "Vocês realmente salvaram este lugar, sabia?\n{====}Se precisarem de algo, é só pedir.\n{====}Tenho certeza de que todos nós faríamos o que pudéssemos para ajudar.";
 	};
 ["CH_Lili.sq"]={
 	["4e8cd4c2d2ac11e995d33c15c2dd513c"] = "Não posso dizer que tenho interesse em alguém como você.\n{====}Quer brincar? Vai procurar aquele robô.";
@@ -432,7 +432,7 @@ return {
 ["CH_CitizenA.sq"]={
 	["4e893485d2ac11e992dc3c15c2dd513c"] = "Ohhhh... vocês estão indo para a Cidade Velha?";
 	["233c8a7ad3b311ea9a2f3c15c2dd513c"] = "Tão ASSUSTADOR!\n{====}Aquele lugar está CHEIO de monstros!\n{====}{big}Mas vocês... vocês parecem ser uma dupla de aventureiros que podem cuidar de si mesmos. Que coragem!";
-	["233c8dfed3b311ea9a2f3c15c2dd513c"] = "Você ouviu? O metrô foi consertado!\n{====}Finalmente, posso mergulhar meus dedos nos \n{signal:quentes}banhos termais novamente!";
+	["233c8dfed3b311ea9a2f3c15c2dd513c"] = "Você ouviu? O metrô foi consertado!\n{====}Finalmente, posso mergulhar meus dedos nos \n{signal:tidy}banhos termais novamente!";
 	["233c8f34d3b311ea9a2f3c15c2dd513c"] = "As bagas Glazy eram uma DELÍCIA quando eu era jovem.\n{====}Só de pensar nisso me leva de volta no tempo. Mesmo!\n{====}{big}Mas depois que o metrô parou de funcionar,\n não havia mais como chegar à Fazenda do Hillman.";
 	["4e8939b8d2ac11e994ac3c15c2dd513c"] = "Oh, meu Deus, como é MARAvilhoso!\n{====}{big}Pensar que, depois de todo esse tempo,\n o Mercado do Dragão finalmente reabriria.\n{====}Estou absolutamente emocionado!";
 	["4e893accd2ac11e99b6b3c15c2dd513c"] = "Sabe, eu nunca fui ver o circo no parque. Nem uma vez!\n{====}E ainda assim, ouvindo que eles têm que sair...\n{====}Acho que isso deixa uma pessoa triste. Talvez eu devesse ter ido...";
@@ -888,7 +888,7 @@ return {
 	["4e87d7d7d2ac11e9bd573c15c2dd513c"] = "Princesa, ha! Cavaleiro? Ha!\n{====}{big}Não consegue nem cuidar daquele MIASMA para nós sem deitar no serviço.\n{====}E agora NOSSO Lee foi deixado para limpar a bagunça deles.\n{====}{big}Hmph. Ambos deveriam ter ficado enclausurados naquela casa desde o início.";
 	};
 ["CH_FakeMonk.sq"]={
-	["4e8fe838d2ac11e99b713c15c2dd513c"] = "Os tempos estão difíceis. Posso te incomodar por um pouco de troco?\n{choice:sim}Dê a ele 10.\n{choice:não}Não dê nada.";
+	["4e8fe838d2ac11e99b713c15c2dd513c"] = "Os tempos estão difíceis. Posso te incomodar por um pouco de troco?\n{choice:yes}Dê a ele 10.\n{choice:no}Não dê nada.";
 	["3d963380dc4211e993c23c15c2dd513c"] = "Gentil e generoso! Verdadeiramente uma raridade neste mundo.\n{====}Por favor, pegue este talismã.";
 	["3d96363adc4211e9b6ff3c15c2dd513c"] = "Que seus dias sejam cheios de fortuna e saúde, meu amigo.";
 	["fcba4d24526011eba6373c15c2dd513c"] = "Então, suma!\n{====}{big}Eu não teria pensado pela sua aparência que você seria ainda mais pobre do que esses mendigos.";
@@ -983,5 +983,4 @@ return {
 	["4e84b44ad2ac11e9ae9d3c15c2dd513c"] = "Vocês não são tão ruins assim.\n{====}Ouvi dizer que salvaram um monte de gente do MIASMA.\n{====}Vocês devem ter cuidado da próxima vez, porém!\n{====}Não é certo que terão a mesma sorte.";
 	["4e84b507d2ac11e989fe3c15c2dd513c"] = "Quase pensei que tínhamos chegado ao fim da linha por um segundo lá.\n{====}Enquanto eu viver, nunca vi o MIASMA tão ruim.";
 	};
-}
-	
+}	

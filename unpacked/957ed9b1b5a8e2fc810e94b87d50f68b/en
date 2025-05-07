@@ -30,7 +30,7 @@ return {
 ["TownMid_Demo.sq"]={
 	["01f59f3daaca11e8bc7d3c15c2dd513c"] = "Não seja tão duro com ele, chefe!{====}Cletus não sabia que isso ia acontecer.";
 	["01f5a0a3aaca11e88c103c15c2dd513c"] = "E-eu não tinha ideia de que haveria monstros lá!";
-	["01f5a194aaca11e886323c15c2dd513c"] = "{~}QUIETO!\n{====}{box-size:L}E isso significa que você pode simplesmente abandonar o equipamento e fugir com o rabo entre as pernas?\n{====}{box-size:N}Escutem, ingratos!\n{====}A Brotherhood Construction é imparável!{====}Ninguém pode nos parar!";
+	["01f5a194aaca11e886323c15c2dd513c"] = "{~}QUIETO!\n{====}E isso significa que você pode simplesmente abandonar o equipamento e fugir com o rabo entre as pernas?\n{====}{box-size:N}Escutem, ingratos!\n{====}A Brotherhood Construction é imparável!{====}Ninguém pode nos parar!";
 	["01f5a285aaca11e8a9213c15c2dd513c"] = "{box-size:big}Não há ninguém que não conheça o nome Brotherhood Construction!";
 	["01f5a319aaca11e8bc083c15c2dd513c"] = "M-mas os monstros! Eles são ferozes!\n{====}Você tem que ter cuidado!";
 	["01f5a3c2aaca11e88d7c3c15c2dd513c"] = "E-eu não quis dizer isso...";

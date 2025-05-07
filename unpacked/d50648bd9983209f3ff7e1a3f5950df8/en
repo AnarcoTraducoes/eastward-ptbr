@@ -59,13 +59,13 @@ return {
 ["CH_Solomon_Farm.sq"]={
 	["5f1601820e5511ed8be7663b9a689fcf"] = "Vou trabalhar muito para retribuir a você!";
 	["6d8c722058ef11ed8c3c663b9a689fd0"] = "Ouvi dizer que os dois cientistas estão na cidade.\n{====}Eles devem ser velhos e sábios, não?\n{====}Mal posso esperar para conhecê-los.";
-	["6d8c72c058ef11ed8c3c663b9a689fd0"] = "Convidar Solomon para jantar?\n{====}{choice:sim}Sim.\n{choice:não}Deixa pra lá.";
+	["6d8c72c058ef11ed8c3c663b9a689fd0"] = "Convidar Solomon para jantar?\n{====}{choice:yes}Sim.\n{choice:no}Deixa pra lá.";
 	["6d8c735658ef11ed8c3c663b9a689fd0"] = "Está tudo pronto?\n{====}Então adoraria ver sua casa, se tudo bem para você, Sam.\n{====}Ainda preciso terminar o trabalho.\n{====}Vai indo.\n{====}Vou para lá assim que o último trem chegar.";
 	["6d8c73f658ef11ed8c3c663b9a689fd0"] = "Você está me convidando para comer?\n{====}Maravilhoso! Já faz um tempo desde que comi a comida do John.\n{====}Sinto falta disso!";
 	["6d8c74be58ef11ed8c3c663b9a689fd0"] = "Antes de vir para \"Octopia\",\n{====}nunca pensei que seria um mestre de estação.\n{====}Eu devo a você e ao William os meus agradecimentos.";
 	["6d8c755458ef11ed8c3c663b9a689fd0"] = "É uma enxada para cavar a terra.{====}Vocês podem ficar com ela.\n{====}Tenho certeza de que vão dar um bom uso.";
 	["5f1602f40e5511ed8be7663b9a689fcf"] = "Você pode voltar.\n{====}Preciso de um descanso, mas vou alcançá-los mais tarde.";
-	["978460e4b7d911edbb64663b9a689fd0"] = "Convidar Solomon para jantar?\n{====}{choice:sim}Sim.\n{choice:não}Espera.";
+	["978460e4b7d911edbb64663b9a689fd0"] = "Convidar Solomon para jantar?\n{====}{choice:yes}Sim.\n{choice:no}Espera.";
 	["978461a2b7d911edbb64663b9a689fd0"] = "Com certeza vou comparecer!\n{====}Mas preciso terminar o trabalho primeiro.";
 	["9784627eb7d911edbb64663b9a689fd0"] = "Contanto que todos trabalhem duro,\n{====}tenho certeza de que faremos \"Octopia\" tão boa quanto nova.";
 	["9784630ab7d911edbb64663b9a689fd0"] = "Eu sabia que todos, incluindo vocês dois,{====}podiam dar nova vida a \"Octopia\".\n{====}Nossa cidade é o destino turístico mais quente no jornal da cidade.";

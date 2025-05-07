@@ -434,7 +434,7 @@ return {
 	["96d271fd155511e9ba6d3c15c2dd513c"] = "Tudo o que você precisa saber sobre uma pessoa...\n{====}...pode ser lido DIRETO em seus pequenos rostos deliciosos.";
 	["2b03f707168011e9862b3c15c2dd513c"] = "Sozinha, milady? Onde está aquele cérbero robusto seu?";
 	["2b03f905168011e99caf3c15c2dd513c"] = "{big}Você é bastante c-c-corajosa entrando em um lugar assim sozinha.\n{====}Eu nunca teria c-c-coragem!";
-	["96d27345155511e985f83c15c2dd513c"] = "{choice:sim}Dê uma chance.\n{choice:não}Agora não.";
+	["96d27345155511e985f83c15c2dd513c"] = "{choice:yes}Dê uma chance.\n{choice:no}Agora não.";
 	["96d27526155511e99ced3c15c2dd513c"] = "Maldição. Não tenho sorte hoje.";
 	["96d276c7155511e9a4a63c15c2dd513c"] = "Bem, eu vou ser! Ted! Venha dar uma olhada!";
 	["96d277cc155511e9a8823c15c2dd513c"] = "Sim? O que foi?";
@@ -869,7 +869,7 @@ return {
 	["96f76226155511e985053c15c2dd513c"] = "Esta é uma das MELHORES do John—...";
 	["96f762f0155511e9b8983c15c2dd513c"] = "Acabei de me lembrar de algo de EXTREMA importância!";
 	["96f764b3155511e9ad0b3c15c2dd513c"] = "Sam, isso é para você!";
-	["96f765d4155511e9a7593c15c2dd513c"] = "{~}Oh, WOW!{signal:virar}\n{====}ENTÃO esses são sapatos?! Eles são tão MACIOS!";
+	["96f765d4155511e9a7593c15c2dd513c"] = "{~}Oh, WOW!{signal:turn}\n{====}ENTÃO esses são sapatos?! Eles são tão MACIOS!";
 	["96f76794155511e991623c15c2dd513c"] = "{~}John! John, olhe!";
 	["96f768a6155511e980653c15c2dd513c"] = "Obrigado, Alva! Eu amei!";
 	["96f76d21155511e99e383c15c2dd513c"] = "Você não é o Cavaleiro do Foguete!";
