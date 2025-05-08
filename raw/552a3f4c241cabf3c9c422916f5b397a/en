@@ -139,7 +139,7 @@ return {
 	["5c981a9c3d6911ed95c3663b9a689fd1"] = "Vou deixar \"Aquela Coisa\" com vocês.";
 	["5c981b003d6911ed95c3663b9a689fd1"] = "Tenho certeza de que vai surpreender a Alva.\n{====}Quem imaginaria que você beberia um \"Sex on the Beach\" aqui.";
 	["5c981b503d6911ed95c3663b9a689fd1"] = "Este deve ser o \"Sex on the Beach\" mais bonito.";
-	["95773b16eb2611edbb64663b9a689fd0"] = "O que poderia ter dado errado...?";
+	["95773b16eb2611ed8d30663b9a689fd0"] = "O que poderia ter dado errado...?";
 	["95773cceeb2611ed8d30663b9a689fd0"] = "{big}{choice:yes}Dê a ela um \"Milkshake de Morango\".\n{choice:no}Deixa pra lá.";
 	["95773d78eb2611ed8d30663b9a689fd0"] = "Este tem que ser o \"Milkshake de Morango\" mais saboroso que já bebi!\n{====}Obrigada pessoal!";
 	["95773e36eb2611ed8d30663b9a689fd0"] = "Agora que o suco de morango está fervendo...\n{====}A próxima etapa... Leite!";

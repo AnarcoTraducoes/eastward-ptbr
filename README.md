@@ -7,7 +7,7 @@ Este repositório é dedicado à tradução do jogo Eastward para uma língua n�
 
 ### Como instalar a tradução
 
-1. Baixe o arquivo locale.g na seção Releases (aqui do ladinho ->)
+1. Baixe o arquivo locale.g na seção Releases (aqui do ladinho ->) ou na pasta `build/` dentro do projeto.
 2. Copie o arquivo locale.g (substituindo o original) para o diretório:
 ```
 ...\Eastward\content\game\
@@ -21,7 +21,7 @@ Se você possuir a dcl do game, também copie o arquivo locale.g (substituindo o
 ### Como Contribuir
 
 #### Tradução
-1. **Encontre os Arquivos**: Os arquivos para tradução estão localizados em `unpacked/<HASH DO MODULO>/en`.
+1. **Encontre os Arquivos**: Os arquivos para tradução estão localizados em **`raw/<HASH DO MODULO>/en`.**
 2. **Traduza o Texto**: Escolha um arquivo e faça a tradução as hashs, tags e formatação, por exemplo:
 ```
 -- Linha original:
@@ -31,7 +31,8 @@ Se você possuir a dcl do game, também copie o arquivo locale.g (substituindo o
 
 Obs: Esse é uma linha teste com diversas tags, mas não se preocupe, pois normalmente são poucas ou nenhuma tag por linha.
 ```
-3. **Faça um Pull Request**: Após traduzir, crie um pull request com suas alterações. Certifique-se de descrever as mudanças feitas e o arquivo que foi traduzido.
+3. **Compacte o arquivo usando as ferramentas (Opcional)**: Veja as [instruções](./tools/README.md) usando python.
+4. **Faça um Pull Request**: Após traduzir, crie um pull request com suas alterações. Certifique-se de descrever as mudanças feitas e o arquivo que foi traduzido.
 
 #### Criando Issues
 - Se você encontrar algum problema ou tiver uma sugestão, por favor, crie uma issue!
