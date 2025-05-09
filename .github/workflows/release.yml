@@ -32,7 +32,7 @@ jobs:
         uses: softprops/action-gh-release@v1
         if: github.event.pull_request.merged == true
         with:
-          tag_name: "v0.0.${{ github.run_number }}"
+          tag_name: "v0.1.${{ github.run_number }}"
           name: "Tradução PT-BR - PR #${{ github.event.pull_request.number }}"
           body: ${{ github.event.pull_request.body }}
           files: build/locale.g
