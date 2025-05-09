@@ -1,0 +1,40 @@
+name: Criar Release
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  build-and-release:
+    if: github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'master'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Instalar Pipenv
+        run: pip install pipenv
+
+      - name: Instalar dependências
+        run: pipenv install --dev --ignore-pipfile
+
+      - name: Gerar locale.g final
+        run: pipenv run python tools/script.py --pack build/locale.g raw
+
+      - name: Criar release automático
+        uses: softprops/action-gh-release@v1
+        if: github.event.pull_request.merged == true
+        with:
+          tag_name: "v0.0.${{ github.run_number }}"
+          name: "Tradução PT-BR - PR #${{ github.event.pull_request.number }}"
+          body: ${{ github.event.pull_request.body }}
+          files: build/locale.g
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
