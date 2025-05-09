@@ -21,21 +21,21 @@ def main():
 
     if args.unpack:
         original_file, dest_folder = args.unpack
-        print(f"[+] Desempacotando: {original_file} -> {dest_folder}")
+        print(f"[+] Unpacking: {original_file} -> {dest_folder}")
         packer.unpack_file(original_file, dest_folder)
 
     if args.pack:
         output_file, source_folder = args.pack
-        print(f"[+] Empacotando: {source_folder} -> {output_file}")
+        print(f"[+] Packing: {source_folder} -> {output_file}")
         packer.pack_file(output_file, source_folder)
 
     if args.validate:
         original_file, raw_folder = args.validate
-        print(f"[+] Validando: {raw_folder} com base em {original_file} ")
+        print(f"[+] Validating: {raw_folder} based on {original_file} ")
         errors = check_errors(original_file, raw_folder)
 
         if not errors:
-            print("[+] Os Arquivos não contem erros")
+            print("[+] No issues found")
             sys.exit(0)
         
         for file in errors:
