@@ -9,4 +9,4 @@ zstandard = "*"
 [dev-packages]
 
 [requires]
-python_version = ">=3.9,<4.0"
+python_version = "3.9"
