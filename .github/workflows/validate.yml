@@ -34,5 +34,4 @@ jobs:
         working-directory: tools
 
       - name: Rodar validação
-        run: pipenv run python script.py --validate ./files/original.g ./raw
-        working-directory: tools
+        run: pipenv run python script.py --validate ./tools/files/original.g ./raw
