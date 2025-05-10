@@ -47,10 +47,9 @@ jobs:
 
       - name: Criar nova tag
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git tag ${{ steps.version.outputs.next_tag }}
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_PUSH_TOKEN }}@github.com/${{ github.repository }}
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git tag -a "${{ steps.version.outputs.next_tag }}" -m "Release ${{ steps.version.outputs.next_tag }}"
           git push origin ${{ steps.version.outputs.next_tag }}
     
       - name: Criar release
