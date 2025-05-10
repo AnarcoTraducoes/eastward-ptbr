@@ -1,0 +1,37 @@
+name: Validate Translations
+
+on:
+  pull_request:
+    paths:
+      - 'raw/**'
+      - 'tools/**'
+      - 'translations/**'
+      - 'script.py'
+      - 'validator.py'
+      - 'Pipfile*'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v3
+
+      - name: Instalar dependências do sistema
+        run: sudo apt-get update && sudo apt-get install -y libglib2.0-0
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Instalar Pipenv
+        run: pip install pipenv
+
+      - name: Instalar dependências do projeto
+        run: pipenv install --dev --ignore-pipfile
+        working-directory: tools
+
+      - name: Rodar validação
+        run: pipenv run python ./tools/script.py --validate ./tools/files/original.g ./raw

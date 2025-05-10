@@ -1,0 +1,4 @@
+**/temp
+.vscode
+.tool-versions
+*.lock

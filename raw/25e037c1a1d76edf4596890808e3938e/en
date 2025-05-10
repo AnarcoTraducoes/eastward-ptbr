@@ -776,7 +776,7 @@ return {
 	["96fe0bc7155511e9b5453c15c2dd513c"] = "Finalmente conseguimos encontrá-lo!";
 	["96fe0d11155511e9871f3c15c2dd513c"] = "O Sonic Punk! Oh, wow, ele foi tão MANEIRO!";
 	["96fe0e8c155511e9a23c3c15c2dd513c"] = "Não é mesmo?!";
-	["96fe124f155511e99ee03c15c2dd513c"] = "Me conte TUDO sobre isso!";
+	["96fe124f155511e9abcf3c15c2dd513c"] = "Me conte TUDO sobre isso!";
 	["96fe14ba155511e99ee03c15c2dd513c"] = "E então! E então! BANG!\n{====}Ele largou esta CAIXA GIGANTE!";
 	["96fe1670155511e9a1dd3c15c2dd513c"] = "Mm-hmm! Mm-hmm!";
 	["96fe17b3155511e9a3733c15c2dd513c"] = "Para que serve a caixa, hein?";
@@ -1093,7 +1093,7 @@ return {
 	["e634a6806e8111ea806f3c15c2dd513c"] = "Tão profundo!\n{====}O que significa, hein?";
 	["e634a70c6e8111ea806f3c15c2dd513c"] = "Não posso dizer com certeza. Mas se eu tiver que arriscar um palpite...\n{====}Tivemos sorte.\n{====}Mas {<}quem sabe quando essa sorte vai finalmente se esgotar...";
 	["cf0e9557cfad11e9b06c3c15c2dd513c"] = "Houston, nós, uh... {signal:turn}temos um problema?";
-	["cf0ed002cfad11e988693c15c2dd513c"] = "Por que eu sabia que isso ia acontecer...?";
+	["cf0ed002cfad11e98a083c15c2dd513c"] = "Por que eu sabia que isso ia acontecer...?";
 	["e634a8c46e8111ea806f3c15c2dd513c"] = "John!{stop}";
 	["e634a9506e8111ea806f3c15c2dd513c"] = "Vamos eu e você fazer o jantar!";
 	["e634aa866e8111ea806f3c15c2dd513c"] = "Vamos fazer o seu famoso curry!";
@@ -1119,7 +1119,7 @@ return {
 	["48e6b93855e211e9a78e3c15c2dd513c"] = "Vamos, John! {~}Vamos!";
 	["cf124a0ccfad11e984433c15c2dd513c"] = "O que foi isso, Alva?";
 	["cf124b38cfad11e996b83c15c2dd513c"] = "Hm? Ah, nada, nada.\n{====}Apenas, uh, você sabe. Mantenham-se seguros. Vigilância constante e tudo mais.";
-	["cf129638cfad11e9b1bc3c15c2dd513c"] = "{~}Entendi! Voltaremos com as boas notícias!";
+	["cf129638cfad11e991173c15c2dd513c"] = "{~}Entendi! Voltaremos com as boas notícias!";
 	["cf14c070cfad11e987a93c15c2dd513c"] = "Aquele velho provavelmente vai ser um problema...";
 	["cf14d880cfad11e98c063c15c2dd513c"] = "Fanboy?";
 	["cf14e230cfad11e9ac883c15c2dd513c"] = "Ah, certo. Você não conhece essa palavra, não é?\n{====}Apenas significa que alguém é tipo, um fã ABSOLUTO de algo.\n{====}Ao ponto de ser um pouquinho maluco, hahaha.\n{====}É uma daquelas palavras dos tempos antigos.";
@@ -1424,7 +1424,7 @@ return {
 	["6a1a0d8e893d11ea97073c15c2dd513c"] = "{<}Heheh! {|}Somos meio que especialistas quando se trata de lidar com monstros.";
 	["6a1a0ee2893d11ea97073c15c2dd513c"] = "Perito ou não, é melhor ter olhos na nuca!\n{====}Vamos esperar por vocês aqui.\n{====}{big}Quando terminarem, haverá um conjunto novinho em folha de trilhas para levá-los para casa!";
 	["a0a0015a8ad311eabd6b3c15c2dd513c"] = "Você já viu uma dessas geladeiras falantes antes?\n{====}Essas coisas são uma relíquia fascinante do passado antigo.\n{====}{big}Não só podem manter seus alimentos na temperatura perfeita e consistente...\n{====}{big}...eles também podem explodir sua mente com algum estímulo verbal altamente intelectual.\n{====}Infelizmente, como a maioria das relíquias enigmáticas do passado...\n{====}{big}...elas têm o hábito de simplesmente te confundir completamente.";
-	["0704d95e55e311e98a543c15c2dd513c"] = "Vocês não são os primeiros mangustos imprudentes a se aventurarem em Oldtown.\n{====}Mas vou avisar agora - mal uma alma sequer volta!\n{====}Agora, eu não sei o que vocês planejam fazer...\n{====}...mas é melhor não irem muito longe, entenderam?";
+	["0704d95e55e311e98a543c15c2dd513c "] = "Vocês não são os primeiros mangustos imprudentes a se aventurarem em Oldtown.\n{====}Mas vou avisar agora - mal uma alma sequer volta!\n{====}Agora, eu não sei o que vocês planejam fazer...\n{====}...mas é melhor não irem muito longe, entenderam?";
 	["6a1a0ffa893d11ea97073c15c2dd513c"] = "Esses trilhos amaldiçoados.\n{====}Devem ser substituídos todos.";
 	["0704db0f55e311e9901d3c15c2dd513c"] = "Só vire à esquerda no topo das escadas para chegar a Oldtown.\n{====}Mantenha distância à direita, porém!\n{====}Isso é Rancho Hillman.\n{====}E acredite em mim - o velho lá é mais assustador do que qualquer monstro!";
 	["0704dc2655e311e985383c15c2dd513c"] = "Th-thank the maker! This old thing is still... still... still working.";

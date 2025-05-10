@@ -54,7 +54,7 @@ return {
 	["2394bed1174a11ea9cf83c15c2dd513c"] = "{<}Ahhh! Que deliciosamente reFRESCante!";
 	["2394c12b174a11ea9e083c15c2dd513c"] = "Um chuveiro em um trem! Estamos verdadeiramente vivendo no colo do luxo.";
 	["2394c42b174a11eaa12d3c15c2dd513c"] = "O que é isso? Uma cena de prisão? Como ousado!";
-	["2394c70f174a11eaeeff3c15c2dd513c"] = "William!\n{====}Nos ajude!";
+	["2394c70f174a11eaaeff3c15c2dd513c"] = "William!\n{====}Nos ajude!";
 	["2394c905174a11eaae883c15c2dd513c"] = "Eu adoraria te ajudar, verdadeiramente...";
 	["2394cb0c174a11eab42f3c15c2dd513c"] = "...mas eu simplesmente não sei o que mais posso fazer por você nessa situação.";
 	["2394ccf5174a11eab0c53c15c2dd513c"] = "{~}CORTA!";
@@ -363,7 +363,7 @@ return {
 	["239020e8174a11eaadc73c15c2dd513c"] = "{~}Silêncio, tolo!";
 	["23902445174a11eaa1f83c15c2dd513c"] = "Vamos ver como você se sente sobre esses cretinos agora!";
 	["2390264c174a11ea84933c15c2dd513c"] = "Reiniciando o sistema...";
-	["23902907174a11ea8d0e3c15c2dd513c"] = "Comandante Solomon! Aguardando ordens, senhor!";
+	["23902907174a11eaa8e23c15c2dd513c"] = "Comandante Solomon! Aguardando ordens, senhor!";
 	["23902afd174a11ea94193c15c2dd513c"] = "Hoho. Isso é mais como isso.";
 	["23902d40174a11eab6993c15c2dd513c"] = "Relatando para o dever, chefe!";
 	["23902fb5174a11ea8c333c15c2dd513c"] = "{~}Chefe? Quem é esse chefe?\n{====}Eu sou o seu COMANDANTE, seus babuínos confusos!";
@@ -421,7 +421,7 @@ return {
 	["239f15a8174a11ea84353c15c2dd513c"] = "{~~}Pare o trem!{>>}{stop}";
 	["239f530f174a11ea90d23c15c2dd513c"] = "E o que foi ISSO?";
 	["23a04535174a11eaa2623c15c2dd513c"] = "E-e-ele disse..{stop}";
-	["23a06ade174a11ea98423c15c2dd513c"] = "Sam!";
+	["23a06ade174a11eabcde3c15c2dd513c"] = "Sam!";
 	["d267501c256111eabe363c15c2dd513c"] = "Acelerador carregado!";
 	["d2675140256111eaaee83c15c2dd513c"] = "Vamos ver se nosso amigo Sr. Luz decide aparecer.";
 	["23a0a80a174a11eab6773c15c2dd513c"] = "A névoa está de volta.";
@@ -686,7 +686,7 @@ return {
 	["23960c23174a11eaab073c15c2dd513c"] = "{~}John!";
 	["23960e54174a11eaa5373c15c2dd513c"] = "Então finalmente chegou a hora, não é? A despedida destinada.\n{====}Eu pensei muito nisso, sabe...\n{====}E eu acredito que devo ficar aqui. É aqui que eu pertenço.";
 	["23960f75174a11eaa8143c15c2dd513c"] = "Hm? Para onde foi a Rainha Besouro?\n{====}Ela estava aqui há apenas um segundo.";
-	["2396117d174a11ea9bee3c15c2dd513c"] = "Sua Alteza!";
+	["2396117d174a11eabeeb3c15c2dd513c"] = "Sua Alteza!";
 	["23961354174a11ea9b363c15c2dd513c"] = "Sua Alteza!";
 	["2396158f174a11ea98e33c15c2dd513c"] = "Se permitir!";
 	["23961821174a11ea9be53c15c2dd513c"] = "O caminho para o leste é cheio de perigos.\n{====}Nem mesmo nossa trupe ousa viajar por esse caminho amaldiçoado.";
@@ -970,7 +970,7 @@ return {
 	["23864dde174a11eaaf6b3c15c2dd513c"] = "Eles devem ter ido para a fábrica!";
 	["23864fd1174a11ea87363c15c2dd513c"] = "{~}Atrás deles!";
 	["23865445174a11eab29b3c15c2dd513c"] = "Parece que eles se foram.";
-	["23865675174a11ea6d33c15c2dd513c"] = "{big}Eu deveria saber que John seria capaz de nos tirar dessa confusão!{stop}";
+	["23865675174a11eaa6d33c15c2dd513c"] = "{big}Eu deveria saber que John seria capaz de nos tirar dessa confusão!{stop}";
 	["d24de7cf256111ea99b63c15c2dd513c"] = "Espera, onde está a Ma? Eeek!";
 	["d24dea59256111ea94cf3c15c2dd513c"] = "Esses malandros devem tê-la levado!";
 	["d24debfd256111eaae9f3c15c2dd513c"] = "EEEK! Parece que eles finalmente decidiram mostrar suas verdadeiras cores...";
@@ -986,10 +986,10 @@ return {
 	["238664c0174a11eaa1cc3c15c2dd513c"] = "Arma bastante impressionante que você obteve aí, John.\n{====}Será que você me permitiria dar uma olhada mais tarde?";
 	["23866580174a11ea8d9c3c15c2dd513c"] = "C-c-cuidado, ok?\nQ-quem sabe que tipo de c-criatura t-t-terrível...\n{====}...a-a-a-a-terrorífica...\n{====}{big}...in-in-inenarrável pode estar lá fora esperando para m-m-matar você!";
 	["d24e009e256111eaaa843c15c2dd513c"] = "Hahahahaha!";
-	["d24e01ab256111ea97ec3c15c2dd513c"] = "John! Olha, John! Tão engraçado!";
+	["d24e01ab256111ea8c6b3c15c2dd513c"] = "John! Olha, John! Tão engraçado!";
 	["d24e0287256111ea97ec3c15c2dd513c"] = "Temos que mostrar isso para Alva e Isabel assim que os encontrarmos!";
 	["d24e0382256111eab9db3c15c2dd513c"] = "Pergunto-me se Daniel e William estão prontos ainda...";
-	["238663fa174a11ea58d3c15c2dd513c"] = "Não por esse caminho! AQUELE caminho! Eeeek!";
+	["238663fa174a11eaa58d3c15c2dd513c"] = "Não por esse caminho! AQUELE caminho! Eeeek!";
 	["d24e0507256111ea83713c15c2dd513c"] = "John! O Rifle de Ferro é por aqui!";
 	["23864000174a11ea95ce3c15c2dd513c"] = "Muahahaha! Que incrivelmente engraçado!";	
 	};
@@ -1065,7 +1065,7 @@ return {
 	["d2506302256111eaa4f13c15c2dd513c"] = "V-v-vermes? Isso não é muito \nbom...";
 	["d25066b8256111eabaac3c15c2dd513c"] = "{~}Quão notavelmente persPIcaz de sua parte, Sr. Socialmente Maládruito.";
 	["d2506866256111eabb503c15c2dd513c"] = "O foguete que você está procurando está localizado em algum lugar desta sala.\n{====}Vamos ver se vocês conseguem encontrar!\n{====}Sua dica é: 3.";
-	["d2506a1c256111eaa1273c15c2dd513c"] = "D-d-dica...?";
+	["d2506a1c256111ea926d3c15c2dd513c"] = "D-d-dica...?";
 	["d2506b99256111eaa1273c15c2dd513c"] = "Você não acha que ele está falando \nnisso, está...?";
 	["d2506e38256111eabbd03c15c2dd513c"] = "John! O foguete definitivamente está em algum lugar deste vagão!";
 	["d2506f33256111ea88a13c15c2dd513c"] = "Um enigma... Eu sou HORRÍVEL com enigmas!\n{====}{big}Por que isso não pode ser apenas \num Maravilhoso Jogo de Braço?!";
