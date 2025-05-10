@@ -50,8 +50,9 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git tag ${{ steps.version.outputs.next_tag }}
-          git push https://x-access-token:${{ secrets.PAT_PUSH_TOKEN }}@github.com/${{ github.repository }} ${{ steps.version.outputs.next_tag }}
-
+          git remote set-url origin https://x-access-token:${{ secrets.PAT_PUSH_TOKEN }}@github.com/${{ github.repository }}
+          git push origin ${{ steps.version.outputs.next_tag }}
+    
       - name: Criar release
         uses: softprops/action-gh-release@v1
         with:
