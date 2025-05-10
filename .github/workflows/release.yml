@@ -2,16 +2,15 @@ name: Criar Release
 
 on:
   pull_request:
-    types:
-      - closed
+    types: [closed]
 
 jobs:
-  build-and-release:
+  release:
     if: github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'master'
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout código
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Setup Python
@@ -19,21 +18,45 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Instalar Pipenv
+      - name: Install pipenv
         run: pip install pipenv
 
-      - name: Instalar dependências
+      - name: Install dependencies
         run: pipenv install --dev --ignore-pipfile
 
-      - name: Gerar locale.g final
+      - name: Gerar locale.g
         run: pipenv run python tools/script.py --pack build/locale.g raw
 
-      - name: Criar release automático
+      - name: Calcular próxima versão
+        id: version
+        run: |
+          last_tag=$(git tag --sort=-v:refname | grep -E '^v[0-9]+\.[0-9]+\.[0-9]+$' | head -n1)
+          echo "Última tag: $last_tag"
+
+          if [ -z "$last_tag" ]; then
+            next_tag="v0.0.1"
+          else
+            major=$(echo $last_tag | cut -d. -f1 | sed 's/v//')
+            minor=$(echo $last_tag | cut -d. -f2)
+            patch=$(echo $last_tag | cut -d. -f3)
+            next_tag="v$major.$minor.$((patch + 1))"
+          fi
+
+          echo "Nova tag: $next_tag"
+          echo "next_tag=$next_tag" >> $GITHUB_OUTPUT
+
+      - name: Criar nova tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag ${{ steps.version.outputs.next_tag }}
+          git push origin ${{ steps.version.outputs.next_tag }}
+
+      - name: Criar release
         uses: softprops/action-gh-release@v1
-        if: github.event.pull_request.merged == true
         with:
-          tag_name: "v0.1.${{ github.run_number }}"
-          name: "Tradução PT-BR - PR #${{ github.event.pull_request.number }}"
+          tag_name: ${{ steps.version.outputs.next_tag }}
+          name: "Tradução PT-BR - ${{ steps.version.outputs.next_tag }}"
           body: ${{ github.event.pull_request.body }}
           files: build/locale.g
         env:
