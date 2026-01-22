@@ -7,7 +7,7 @@ return {
 	["75a38e66f80d11ea8f7c3c15c2dd513c"] = "{~}Sua oficina?!\n{====}Eu aluguei aquele quarto para você DORMIR!\n{====}Se tentar algo engraçado lá dentro, a vovó vai te expulsar!";
 	["75a38f42f80d11ea8f7c3c15c2dd513c"] = "Haha. Como podem ver, isso é apenas uma, hrm, disposição temporária.";
 	["75a39000f80d11ea8f7c3c15c2dd513c"] = "Bastante zelo dessa senhora, não é mesmo?\n{====}Algo naquela voz me faz sentir em casa.";
-	["75a39334f80d11ea8f7c3c15c2dd513c"] = "Parece que vocês dois estão se dando bem aqui em Nova Dam City.\n{====}Embora em breve nos verão menos, temo.\n{====}Pois estaremos partindo para continuar nossas viagens.";
+	["75a39334f80d11ea8f7c3c15c2dd513c"] = "Parece que vocês dois estão se dando bem aqui na cidade de New Dam.\n{====}Embora em breve nos verão menos, temo.\n{====}Pois estaremos partindo para continuar nossas viagens.";
 	};
 ["CH_Alva.sq"]={
 	["75a2ffb4f80d11ea8f7c3c15c2dd513c"] = "Izzy, você pode pegar a chave inglesa na bancada de trabalho?";

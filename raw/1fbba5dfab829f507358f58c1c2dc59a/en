@@ -697,7 +697,7 @@ return {
 	["1a626b5788e511e896583c15c2dd513c"] = "Você precisa de personagens incríveis se quiser arrasar.\n{====}Experimente a máquina de brinquedo cápsula lá fora.";
 	["1a626cdc88e511e883713c15c2dd513c"] = "Que buzzkill! Bem, de qualquer forma, vamos continuar.";
 	["1a625d6e88e511e885273c15c2dd513c"] = "Passar pela primeira aldeia é muito bom para um novato.";
-	["1a6260a188e511e8a4ec3c15c2dd513c"] = "Cuidado com aquele canalha de Salomão.\n{====}Ele vai te dar problemas com certeza.";
+	["1a6260a188e511e8a4ec3c15c2dd513c"] = "Cuidado com aquele canalha de Solomon.\n{====}Ele vai te dar problemas com certeza.";
 	["1a62629488e511e883a13c15c2dd513c"] = "É tudo sobre os personagens!\n{====}{big}Sem bons personagens, você pode jogar pela janela sua chance de vencer.";
 	["eb326942761b11e9badc3c15c2dd513c"] = "Olhar! Olha, pessoal!";
 	["eb329cbd761b11e98d333c15c2dd513c"] = "John, John! Vamos! Vamos brincar de Earth Born!";
@@ -761,7 +761,7 @@ return {
 	["eb131ee6761b11e9b7303c15c2dd513c"] = "{<}É assim mesmo...\n{====}{|}Bem, certamente parece que seria um lugar muito seguro para se viver.";
 	["eb131f87761b11e99f913c15c2dd513c"] = "Ah. \"Seguro.\"";
 	["eb132014761b11e9b7363c15c2dd513c"] = "A salvo do MIASMA é tudo.";
-	["eb1320fa761b11e9b3123c15c2dd513c"] = "Às vezes, isso é o suficiente.\n{====}{big}Porém, o MIASMA é algo com que você não terá que se preocupar na Cidade de New Dam.";
+	["eb1320fa761b11e9b3123c15c2dd513c"] = "Às vezes, isso é o suficiente.\n{====}{big}Porém, o MIASMA é algo com que você não terá que se preocupar na cidade de New Dam.";
 	["eb1321de761b11e9b27f3c15c2dd513c"] = "{<}Cidade de New Dam?\n{====}{|}Achei que íamos para a Baía Whitewhale?";
 	["eb1322d1761b11e9b5843c15c2dd513c"] = "Baía Whitewhale? Onde diabos é isso?\n{====}Você já ouviu falar disso, Daniel?";
 	["eb132370761b11e9be1f3c15c2dd513c"] = "{<}Ah... n-não posso dizer que tenho.\n{====}Mas I-I-Ilha Potcrock, por outro la-lado...{stop}";
@@ -770,8 +770,8 @@ return {
 	["eb13273a761b11e9b6263c15c2dd513c"] = "Próxima parada, Crystal Lake Dam.";
 	["eb132870761b11e9bd2c3c15c2dd513c"] = "Bem então.";
 	["eb132991761b11e9b8f83c15c2dd513c"] = "Receio que devemos nos separar aqui.";
-	["eb132aab761b11e990933c15c2dd513c"] = "Esta é a Cidade de New Dam?";
-	["eb132bd7761b11e99cf83c15c2dd513c"] = "Sim! A Cidade de New Dam foi construída sobre a Crystal Lake Dam.";
+	["eb132aab761b11e990933c15c2dd513c"] = "Esta é a cidade de New Dam?";
+	["eb132bd7761b11e99cf83c15c2dd513c"] = "Sim! A cidade de New Dam foi construída sobre a Crystal Lake Dam.";
 	["eb132ce3761b11e9b9bd3c15c2dd513c"] = "Até que nossos caminhos se cruzem, meus amigos.";
 	["46a7e99e55e211e9a7a23c15c2dd513c9"] = "Baía Whitewhale!\n{====}Ah, eu sabia. Eu simplesmente sabia disso! Terminamos com certeza!";
 	["cc8abb78cfad11e986ee3c15c2dd513c"] = "Ah! Estamos em outro túnel!";

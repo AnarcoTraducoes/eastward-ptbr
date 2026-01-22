@@ -15,7 +15,7 @@ return {
 ["IsabelBoss_Ch8.sq"]={
 	["156d2472ee9d11eaa8553c15c2dd513c"] = "Fofa, não é?\n{====}Ainda tão fofa... como no dia em que a conheci.";
 	["156d2620ee9d11eaa8553c15c2dd513c"] = "Ela sempre te invejou, sabe.\n{====}{signal:walk}Viajando por todo lugar. Indo em suas aventuras.\n{====}Esse sempre foi o sonho dela.";
-	["156d27ceee9d11eaa8553c15c2dd513c"] = "Mas o destino tinha planos diferentes para ela.\n{====}Ela não teve escolha...  a não ser se tornar a guardiã da Cidade de New Dam.";
+	["156d27ceee9d11eaa8553c15c2dd513c"] = "Mas o destino tinha planos diferentes para ela.\n{====}Ela não teve escolha...  a não ser se tornar a guardiã da cidade de New Dam.";
 	["156d2918ee9d11eaa8553c15c2dd513c"] = "Agora, no entanto...\n{====}...ela finalmente está livre.\n{====}Ela e o trem já se fundiram.";
 	["156d2a26ee9d11eaa8553c15c2dd513c"] = "E em breve, o MIASMA limpará toda a humanidade.\n{====}Os filhos dela surgirão novamente das fábricas.\n{====}E eles... eles realizarão os sonhos dela por ela.";
 	["156d2b7aee9d11eaa8553c15c2dd513c"] = "{big}Quanto a mim, ficarei aqui. Cuidando dela. Protegendo-a até o fim dos tempos.\n{====}Então você já consegue ver...";
@@ -91,7 +91,7 @@ return {
 	["156e726eee9d11eaa8553c15c2dd513c"] = "Eu não sou a \"Mãe\" de ninguém!\n{====}Agora me deixe encontrar o John!";
 	["156e7386ee9d11eaa8553c15c2dd513c"] = "Você ainda não entende, não é?\n{====}Esses humanos... não valem a pena se importar!";
 	["156e7480ee9d11eaa8553c15c2dd513c"] = "Permita-me purificar este mundo, hein?\n{====}Assim como antes...";
-	["156e74f8ee9d11eaa8553c15c2dd513c"] = "Eu não estou te ouvindo!{signal:fakesamturn}\n{====}Eu não sou como você! Eu sou o Sam!\n{====}E o John e eu vamos impedir vocês!";
+	["156e74f8ee9d11eaa8553c15c2dd513c"] = "Eu não estou te ouvindo!{signal:fakesamturn}\n{====}Eu não sou como você! Eu sou a Sam!\n{====}E o John e eu vamos impedir vocês!";
 	["156e755cee9d11eaa8553c15c2dd513c"] = "Tudo bem, então.\n{====}Fique aqui.\n{====}Fique aqui pelo resto da eternidade!\n{====}Onde nenhuma alma virá te salvar.";
 	["156e75c0ee9d11eaa8553c15c2dd513c"] = "{~}Ei!\n{==}Volte!";
 	["156e769cee9d11eaa8553c15c2dd513c"] = "Me solte!";
@@ -175,8 +175,8 @@ return {
 	["ff7b8d02526011eba6373c15c2dd513c"] = "Mas, heh, confie em mim.\n{====}Tenho algumas mercadorias de alta qualidade que certamente serão úteis.";
 	["ff7bbcaa526011eba6373c15c2dd513c"] = "Tem certeza de que não vai comprar mais?\n{====}Você não terá mais oportunidades de fazer compras depois disso.";
 	["ff7bc006526011eba6373c15c2dd513c"] = "Bem-vindos, bem-vindos.\n{====}Tenho algumas mercadorias de alta qualidade que certamente serão úteis.";
-	["c3e43868654611eb85da3c15c2dd513c"] = "{choice:yes}Usar Chave de Salomão (Coragem)";
-	["c3e43c0a654611eb85da3c15c2dd513c"] = "{choice:yes}Usar Chave de Salomão (Sabedoria)";
-	["c3e43ffc654611eb85da3c15c2dd513c"] = "{choice:yes}Usar Chave de Salomão (Força)";	
+	["c3e43868654611eb85da3c15c2dd513c"] = "{choice:yes}Usar Chave de Solomon (Coragem)";
+	["c3e43c0a654611eb85da3c15c2dd513c"] = "{choice:yes}Usar Chave de Solomon (Sabedoria)";
+	["c3e43ffc654611eb85da3c15c2dd513c"] = "{choice:yes}Usar Chave de Solomon (Força)";	
 	};
 }

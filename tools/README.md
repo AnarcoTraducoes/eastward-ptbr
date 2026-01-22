@@ -81,3 +81,4 @@ python tools/script.py --help
 * Rode `pipenv shell` para entrar no ambiente virtual interativo.
 * Use `pipenv install <pacote>` para adicionar novas dependências.
 
+* Para entrar no ambiente virtual após tudo configurado, pode ser utilizado o comando `python -m pipenv shell`

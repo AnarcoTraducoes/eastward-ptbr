@@ -50,7 +50,7 @@ return {
 	["fec8def0526011eba6373c15c2dd513c"] = "Deixe-me contar um segredo.\n{====}Há uma troca de fichas de Pixball aqui em Ester City.\n{====}Você pode comprar mais fichas para Pixballs lá!";	
 	};
 ["ShipBuilding.sq"]={
-	["5c26805ec75411ea99c93c15c2dd513c"] = "Har har har har! Sipak, meu velho amigo.\n{====}Trouxe alguns trabalhadores para você, tenho.\n{====}Este pequenino é o Sam, e aquele com o grande bigode é—";
+	["5c26805ec75411ea99c93c15c2dd513c"] = "Har har har har! Sipak, meu velho amigo.\n{====}Trouxe alguns trabalhadores para você, tenho.\n{====}Esta pequenina é a Sam, e aquele com o grande bigode é—";
 	["5c268180c75411ea99c93c15c2dd513c"] = "John!";
 	["5c26828ec75411ea99c93c15c2dd513c"] = "Isso mesmo, seu anãozinho. Meu rapaz, John!\n{====}{big}Um par de trabalhadores prontos e dispostos, de olhos brilhantes e caudas peludas se já vi alguns.";
 	["5c268392c75411ea99c93c15c2dd513c"] = "Vocês dois escutem o Sipak, agora, ouviram?\n{====}Ele é o especialista por aqui.";
@@ -103,7 +103,7 @@ return {
 	["1b63dcee2ca111eb801b3c15c2dd513c"] = "{~}Não, não, não!\nVocê acabou de passar por uma operação!\n{====}Certamente, algo tão pequeno assim, eu posso cuidar sozinho.\n{====}Seu trabalho é apenas descansar, entendeu?";
 	["1b63dd8e2ca111eb801b3c15c2dd513c"] = "Agora para encontrar aquele lubrificante...";
 	["1b63dfdc2ca111eb801b3c15c2dd513c"] = "Daniel!";
-	["1b63e1762ca111eb801b3c15c2dd513c"] = "Hein? Ah, são o Sam e o J-John.\n{====}D-desculpe. William disse que não devo m-m-mexer.";
+	["1b63e1762ca111eb801b3c15c2dd513c"] = "Hein? Ah, são a Sam e o J-John.\n{====}D-desculpe. William disse que não devo m-m-mexer.";
 	["1b63e2522ca111eb801b3c15c2dd513c"] = "{~}AÍ está!";
 	["1b63e3e22ca111eb801b3c15c2dd513c"] = "Ah, são vocês dois.\n{====}Eu realmente devo te agradecer novamente.";
 	["1b63e5722ca111eb801b3c15c2dd513c"] = "O Mestre Guy disse que a operação foi um sucesso, sabe.\n{====}Considere a viagem de volta gratuita como minha forma de agradecer, sim?";
@@ -354,7 +354,7 @@ return {
 	};
 ["East.sq"]={
 	["6da8e9f2893d11ea97073c15c2dd513c"] = "Mas, SENHOR! Eu realmente devo insistir que você reconsidere!{stop}";
-	["6da8eb46893d11ea97073c15c2dd513c"] = "O-Olhe! É o John e o Sam!";
+	["6da8eb46893d11ea97073c15c2dd513c"] = "O-Olhe! É o John e a Sam!";
 	["6da8ecea893d11ea97073c15c2dd513c"] = "O que vocês estão fazendo aqui?";
 	["6da8ef56893d11ea97073c15c2dd513c"] = "Ah? Não contamos a vocês ontem?\n{====}Hoje é o dia da operação do Daniel.";
 	["6da8f1c2893d11ea97073c15c2dd513c"] = "Mas... mas... não estávamos no topo daquela torre há pouco tempo?";
@@ -362,7 +362,7 @@ return {
 	["6da8f4ce893d11ea97073c15c2dd513c"] = "Mas... John...{break}";
 	["6da8f5be893d11ea97073c15c2dd513c"] = "Dito isso...\n{====}{big}Estou tendo dificuldade em conVENCER o responsável pela operação a realmente realizá-la.\n{====}Você não acha que poderia me ajudar a {.}persuadi-lo, John?";
 	["6da8f8e8893d11ea97073c15c2dd513c"] = "Mas, SENHOR! Eu realmente devo insistir que você reconsidere!{stop}";
-	["6da8f9f6893d11ea97073c15c2dd513c"] = "O-Olhe! É o John e o Sam!";
+	["6da8f9f6893d11ea97073c15c2dd513c"] = "O-Olhe! É o John e a Sam!";
 	["6da8fac8893d11ea97073c15c2dd513c"] = "Pessoal, encontramos!";
 	["6da8fb68893d11ea97073c15c2dd513c"] = "Encontramos o quê?";
 	["6da8fbd6893d11ea97073c15c2dd513c"] = "O chip de emoção! Olhe, olhe!";
@@ -1187,7 +1187,7 @@ return {
 	["5bf044e4c75411ea99c93c15c2dd513c"] = "Eu sei. Vou s-s-ser cuidadoso.";
 	["5bf04674c75411ea99c93c15c2dd513c"] = "...William?";
 	["5bf046f6c75411ea99c93c15c2dd513c"] = "Sim, Daniel?";
-	["5bf04822c75411ea99c93c15c2dd513c"] = "Vamos voltar para a C-C-Cidade de New Dam?";
+	["5bf04822c75411ea99c93c15c2dd513c"] = "Vamos voltar para a c-c-cidade de New Dam?";
 	["5bf049c6c75411ea99c93c15c2dd513c"] = "...A princípio, sim.\n{==}Eu gostaria de pegar a Sra. Tayama.";
 	["5bf04a70c75411ea99c93c15c2dd513c"] = "E depois d-disso?";
 	["5bf04c0ac75411ea99c93c15c2dd513c"] = "Que tal a Ilha de Potcrock, hm?";
@@ -1251,7 +1251,7 @@ return {
 	["6dc20de2893d11ea97073c15c2dd513c"] = "{big}Está CONGELANTE aqui fora! Alguém se importa se eu esperar na cabine até resolvermos isso?";
 	["6dc20e82893d11ea97073c15c2dd513c"] = "{~}Todos vocês, calem a boca por cinco segundos, pelo amor de Deus!\n{====}Diabos. Onde está o Thomas quando você precisa dele?";
 	["6dc20fb8893d11ea97073c15c2dd513c"] = "Capitão!";
-	["6dc21080893d11ea97073c15c2dd513c"] = "Ei! Se não é o Sammie, o pequeno pestinha.\n{====}Mas receio que o navio está um pouco... fora de serviço, como dizem.\n{====}Vocês dois não estariam dispostos a procurar o velho Thomas para nós, hein?\n{====}{big}Ele deve estar no farol no lado leste da ilha.";
+	["6dc21080893d11ea97073c15c2dd513c"] = "Ei! Se não é a Sammie, a pequena pestinha.\n{====}Mas receio que o navio está um pouco... fora de serviço, como dizem.\n{====}Vocês dois não estariam dispostos a procurar o velho Thomas para nós, hein?\n{====}{big}Ele deve estar no farol no lado leste da ilha.";
 	["6dc210da893d11ea97073c15c2dd513c"] = "O velho Thomas?";
 	["6dc21120893d11ea97073c15c2dd513c"] = "Sim, uma maravilha de mecânico.\n{====}Trens, balsas — o que você imaginar, esse velho sujeito pode consertar.";
 	["6dc2180a893d11ea97073c15c2dd513c"] = "Nós o encontraremos, então!";

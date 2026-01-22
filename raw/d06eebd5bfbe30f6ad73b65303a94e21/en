@@ -267,7 +267,7 @@ return {
 	["name::SaltBug"] = "Salgado fedorento rico";
 	["desc::SaltBug"] = "Obtenha 1.000 sal de um Salt Bug.";
 	["name::SideQuests"] = "Uma pessoa com coração";
-	["desc::SideQuests"] = "Obtenha um \"coração\" do povo da Cidade de New Dam..";
+	["desc::SideQuests"] = "Obtenha um \"coração\" do povo da cidade de New Dam..";
 	["name::NPC50"] = "Credor da orelha";
 	["desc::NPC50"] = "Interagir com 50 NPCs diferentes.";
 	["name::NPC100"] = "Borboleta social";
@@ -306,7 +306,7 @@ return {
 	["extra"] = "Extra";
 	["setting"] = "Configurações";
 	["exit"] = "Sair";
-	["copyright_PXP"] = "© 2024 Anarco Traduções";
+	["copyright_PXP"] = "© 2024/2025/2026 Anarco Traduções";
 	["copyright_CF"] = "© 2021 Chucklefish Ltd";
 	["copyright_XD"] = "© 2021 Pixpil";
 	["press_any_key"] = "Aperte algum botão";
@@ -367,7 +367,7 @@ return {
 	["pouch_levelup"] = "A mochila aumentou!";
 	["energy_levelup"] = "A energia máxima aumentou!";
 	["weapon_levelup"] = "$(name) subiu de nível!";
-	["ammo_cap_upgrade"] = "Box de munição subiu de nível!";
+	["ammo_cap_upgrade"] = "Caixa de munições subiu de nível!";
 	["ammo_bomb_upgrade"] = "Caixa de bombas subiu de nível!";
 	["no_coin"] = "Sem tokens suficientes!";
 	["megaboy_not_ready"] = "Sonic punk ainda não está pronto!";

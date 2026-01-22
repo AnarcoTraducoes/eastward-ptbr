@@ -35,9 +35,9 @@ return {
 	["a2af36bca19611eaa7f13c15c2dd513c"] = "Você disse que ainda tem alguém lá fora?";
 	["a2af3766a19611eaa7f13c15c2dd513c"] = "Isso mesmo. E, bem, isso é um pouco constrangedor, mas...\n{====}Eles acontecem de serem aqueles dois aprendizes idiotas meus.";
 	["a2af398ca19611eaa7f13c15c2dd513c"] = "Você quer dizer aqueles dois caras que saíram da sua equipe?";
-	["a2af3a90a19611eaa7f13c15c2dd513c"] = "É eles, com certeza! Um duo de cabeças-duras, eles são.\n{====}Todo mundo na cidade os conhece agora!\n{====}Mas nada disso importa. O que importa é que eles ainda estão lá fora!\n{====}A última vez que alguém os viu foi no Mercado do Dragão.";
+	["a2af3a90a19611eaa7f13c15c2dd513c"] = "É eles, com certeza! Um duo de cabeças-duras, eles são.\n{====}Todo mundo na cidade os conhece agora!\n{====}Mas nada disso importa. O que importa é que eles ainda estão lá fora!\n{====}A última vez que alguém os viu foi no Dragon Market.";
 	["a2af3d7ea19611eaa7f13c15c2dd513c"] = "Deixe conosco!";
-	["a2af3e32a19611eaa7f13c15c2dd513c"] = "John! Vamos lá! Vamos verificar o Mercado do Dragão!";
+	["a2af3e32a19611eaa7f13c15c2dd513c"] = "John! Vamos lá! Vamos verificar o Dragon Market!";
 	["a2af3edca19611eaa7f13c15c2dd513c"] = "{~}Cuidem-se!";
 	["a2af3fcca19611eaa7f13c15c2dd513c"] = "Esses monstros... há algo sobre eles.\n{====}Apenas tenham cuidado, ouviram?";
 	["a2af40c6a19611eaa7f13c15c2dd513c"] = "Proteja a princesa, certo?";
@@ -184,7 +184,7 @@ return {
 	["a2b0f538a19611eaa7f13c15c2dd513c"] = "{~}{>}Algum te-... -moto-... ci-dade in-... tremendo...\n{====}Você t-...! Or-... nando ev-... -ção im-...!";
 	["a2b0f65aa19611eaa7f13c15c2dd513c"] = "Th-...{~} -IASMA!\n{==}O MI-... -ack, chefe!";
 	["a2b0f6f0a19611eaa7f13c15c2dd513c"] = "{~}Al-...! Precisamos... -eus do Vento! ...-epetindo, pre-... -eus do Vento!{stop}";
-	["a2b0f77ca19611eaa7f13c15c2dd513c"] = "Cidadãos da Cidade de New Dam, aqui é Alva falando!\n{====}O MIASMA voltou e está a caminho da Cidade de New Dam!\n{====}Você deve evacuar para o Coin Palace imediatamente!\n{====}Pare o que está fazendo e vá para o Coin Palace! AGORA!";
+	["a2b0f77ca19611eaa7f13c15c2dd513c"] = "Cidadãos da cidade de New Dam, aqui é Alva falando!\n{====}O MIASMA voltou e está a caminho da cidade de New Dam!\n{====}Você deve evacuar para o Coin Palace imediatamente!\n{====}Pare o que está fazendo e vá para o Coin Palace! AGORA!";
 	["a2b0f7f4a19611eaa7f13c15c2dd513c"] = "{~}Izzy!\n{~}Qual é o nosso cronograma?";
 	["a2b0f862a19611eaa7f13c15c2dd513c"] = "Trinta minutos. Espera, não. Vinte minutos!";
 	["a2b0f8eea19611eaa7f13c15c2dd513c"] = "Isso é muito LONGO...{stop}";
@@ -364,7 +364,7 @@ return {
 	["06763282309311eb84b63c15c2dd513c"] = "Caronte? Do que você está falando?";
 	["067633cc309311eb84b63c15c2dd513c"] = "Tudo a seu tempo...";
 	["067635f2309311eb84b63c15c2dd513c"] = "Parece que a escuridão já tomou bastante conta do seu coração.";
-	["06763750309311eb84b63c15c2dd513c"] = "A-isso não sou eu! Eu não sei do que você está falando!\n{====}Eu sou o SAM!";
+	["06763750309311eb84b63c15c2dd513c"] = "A-isso não sou eu! Eu não sei do que você está falando!\n{====}Eu sou a SAM!";
 	["0676389a309311eb84b63c15c2dd513c"] = "Você é?\n{====}E quanto àquela velha capela?\n{====}A vila na montanha, engolida inteira.\n{====}E seu amigo, sim... em breve deixará de viver.";
 	["067639ee309311eb84b63c15c2dd513c"] = "{~}Isso foi VOCÊ!\n{====}Você chamou o MIASMA! Não eu!";
 	["06763aa2309311eb84b63c15c2dd513c"] = "FOI eu... e pelo mesmo motivo, você.";
@@ -545,7 +545,7 @@ return {
 	["3743aa0692a111ea9a513c15c2dd513c"] = "{~~}{<}WUUUAAAAAAAAAAH!";
 	["3743aba092a111ea9a513c15c2dd513c"] = "{~}Afaste-se!\n{==}Eu tenho que salvar meu irmão, e... e... você não vai me impedir!";
 	["3743acf492a111ea9a513c15c2dd513c"] = "{~}Vocês me salvaram!";
-	["3743ada892a111ea9a513c15c2dd513c"] = "{big}Vocês têm que chegar ao Palácio da Moeda! Eles vão iniciar o Deus do Vento em breve!";
+	["3743ada892a111ea9a513c15c2dd513c"] = "{big}Vocês têm que chegar ao Coin Palace! Eles vão iniciar o Deus do Vento em breve!";
 	["3743adf892a111ea9a513c15c2dd513c"] = "Não posso fazer isso.\n{====}Meu irmão Silva ainda está lá fora. Ele foi para a \"Big\" Estação.\n{====}Eu tenho que salvá-lo!";
 	["3743aee892a111ea9a513c15c2dd513c"] = "\"Big\" Estação? Deixe isso conosco!\n{====}Deveríamos conseguir chegar lá rapidinho de metrô!";
 	["3743b05092a111ea9a513c15c2dd513c"] = "Vocês vão me ajudar?\n{====}Ótimo! Vamos juntos então.";
@@ -568,14 +568,14 @@ return {
 	["a2b77f52a19611eaa7f13c15c2dd513c"] = "Uau! Então, este caminho também leva à barragem, né?";
 	["a2b78240a19611eaa7f13c15c2dd513c"] = "É como um... um passageiro ultrassecreto!\n{====}Assim como o da casa do prefeito!";
 	["a2b78330a19611eaa7f13c15c2dd513c"] = "O que foi isso? O que está acontecendo?";
-	["a2b784caa19611eaa7f13c15c2dd513c"] = "Cidadãos da Cidade de New Dam, aqui é a Alva falando!\n{====}O MIASMA voltou e está a caminho da Cidade de New Dam!\n{====}Você deve evacuar para o Palácio da Moeda imediatamente!\n{====}Pare o que está fazendo e vá para o Palácio da Moeda! AGORA!";
+	["a2b784caa19611eaa7f13c15c2dd513c"] = "Cidadãos da cidade de New Dam, aqui é a Alva falando!\n{====}O MIASMA voltou e está a caminho da cidade de New Dam!\n{====}Você deve evacuar para o Coin Palace imediatamente!\n{====}Pare o que está fazendo e vá para o Coin Palace! AGORA!";
 	["a2b786aaa19611eaa7f13c15c2dd513c"] = "É a Alva!";
 	["a2b787cca19611eaa7f13c15c2dd513c"] = "John! Temos que chegar à sala de controle rápido!\n{====}Eles devem precisar da nossa ajuda!";
 	["a2b78916a19611eaa7f13c15c2dd513c"] = "John!";
 	["a2b78b46a19611eaa7f13c15c2dd513c"] = "Precisamos chegar à sala de controle e ajudar a Alva!";	
 	};
 ["TownUp_Ch5.sq"]={
-	["a2bd85faa19611eaa7f13c15c2dd513c"] = "Você ouviu as notícias?\n{====}Parece que não vamos mais voltar para o Mercado do Dragão.";
+	["a2bd85faa19611eaa7f13c15c2dd513c"] = "Você ouviu as notícias?\n{====}Parece que não vamos mais voltar para o Dragon Market.";
 	["a2bd87a8a19611eaa7f13c15c2dd513c"] = "O que diabos aconteceu?";
 	["a2bd88caa19611eaa7f13c15c2dd513c"] = "{big}O que ouvi é que um bando de monstros ficou para trás depois que o MIASMA se foi.\n{====}Os homens de Lee estão tentando lidar com eles agora, mas...";
 	["a2bd8a64a19611eaa7f13c15c2dd513c"] = "Que horrível...";

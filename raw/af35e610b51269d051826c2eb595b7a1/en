@@ -94,7 +94,7 @@ return {
 	["19af113e2ca111eb801b3c15c2dd513c"] = "Vire esse sorriso do avesso, milady!\n{====}Não há com o que se preocupar.\n{====}Se você já está tão nervosa...\n{====}Por que não vai ficar sem nervos antes mesmo de chegarmos a Ester City?";
 	["19af13aa2ca111eb801b3c15c2dd513c"] = "Você já esteve em Ester City, William?";
 	["19af16a22ca111eb801b3c15c2dd513c"] = "Infelizmente, não. Estamos no escuro sobre essa boa cidade tanto quanto você.\n{====}Mas... se as lendas estiverem corretas...\n{====}Então, enquanto continuarmos para leste pela Linha Principal...\n{====}...com certeza chegaremos lá.";
-	["19af1a1c2ca111eb801b3c15c2dd513c"] = "Ah... {.}já perdemos de vista a Cidade de New Dam.";
+	["19af1a1c2ca111eb801b3c15c2dd513c"] = "Ah... {.}já perdemos de vista a cidade de New Dam.";
 	["19af1bac2ca111eb801b3c15c2dd513c"] = "Daniel!\n{wait:0.5}Mantenha-se nessa altura.";
 	["19af1e9a2ca111eb801b3c15c2dd513c"] = "Sim, s-senhor!";
 	["19af21242ca111eb801b3c15c2dd513c"] = "Não é por ser mesquinho, é claro.\n{====}Simplesmente não queremos ficar sem combustível.\n{====}{big}Ficar preso no meio de sei lá onde normalmente não é do meu feitio.";
@@ -109,7 +109,7 @@ return {
 	["19af2fd42ca111eb801b3c15c2dd513c"] = "Cogumelo?";
 	["19af31642ca111eb801b3c15c2dd513c"] = "{big}Meu, meu. Isso é um cogumelo considerável. Um cogumelo desse tamanho, por que...";
 	["19af32902ca111eb801b3c15c2dd513c"] = "Você nunca viu algo assim antes, William?";
-	["19af336c2ca111eb801b3c15c2dd513c"] = "{big}Certamente renderia uma boa quantia em Cidade de New Dam, com certeza.";
+	["19af336c2ca111eb801b3c15c2dd513c"] = "{big}Certamente renderia uma boa quantia em cidade de New Dam, com certeza.";
 	["19af36aa2ca111eb801b3c15c2dd513c"] = "Tem uma n-n-neblina se formando à frente.\n{====}Devo reduzir a v-velocidade?";
 	["19af384e2ca111eb801b3c15c2dd513c"] = "Interessante. Muito bem. Segurança em primeiro lugar, como dizem.";
 	["19af3b322ca111eb801b3c15c2dd513c"] = "{<}Embora o que é isso... atrás \nde nós...?";
@@ -220,7 +220,7 @@ return {
 	["238e3561174a11eaa1893c15c2dd513c"] = "{~}Sim, sim, {.}{~}SIM!!! EEEEK!\n{====}Esses ombros semelhantes a cadáveres... {.}essa expressão vazia!{.}\n{====}{>}Aquelas palmas tão calosas quanto seixos cobertos de areia.\n{==}Essa barba tão desgrenhada quanto um bosque desidratado.\n{==}{|}Você, senhor... é tudo o que sempre procurei em um homem.\n{====}Diga-me, querido. Você já quis ser uma ESTRELA? EEEEK!";
 	["238e37ba174a11ea81663c15c2dd513c"] = "Erm... só estamos aqui para ajudar o Rotondo...?{stop}";
 	["238e3970174a11ea81e93c15c2dd513c"] = "Rotondo? HA!\n{====}Ele é notícia antiga. A manchete desta semana é vocês, vocês, VOCÊS!\n{====}{big}Eu sou o diretor deste grupo. Gostariam de encantar meus ouvidos com seus nomes? EEEK!";
-	["238e3bf3174a11ea9bbc3c15c2dd513c"] = "Eu sou o Sam! E este é o John.";
+	["238e3bf3174a11ea9bbc3c15c2dd513c"] = "Eu sou a Sam! E este é o John.";
 	["238e3dbd174a11eab8433c15c2dd513c"] = "Um nome tão sem vida quanto seus olhos frios e mortos. PERFEITO! EEEK!\n{====}Estamos prontos aqui! Sigam-me para o próximo vagão, queridos?";
 	["238e3f23174a11ea91bd3c15c2dd513c"] = "Vamos lá! De volta ao trabalho, seus ralés! EEEK!";
 	["238e4070174a11ea9ea13c15c2dd513c"] = "Ook-ook. Estamos indo.";
@@ -243,7 +243,7 @@ return {
 	["e96a46026e8111ea806f3c15c2dd513c"] = "{~}Sim, sim, {.}{~}SIM!!! EEEEK!\n{====}Esses ombros semelhantes a cadáveres... {.}essa expressão vazia!{.}\n{====}{>}Aquelas palmas tão calosas quanto seixos cobertos de areia.\n{==}Essa barba tão desgrenhada quanto um bosque desidratado.\n{==}{|}Você, senhor... é tudo o que sempre procurei em um homem.\n{====}Diga-me, querido. Você já quis ser uma ESTRELA? EEEEK!";
 	["e96a472e6e8111ea806f3c15c2dd513c"] = "Erm... estamos só procurando um foguete?{break}";
 	["e96a486e6e8111ea806f3c15c2dd513c"] = "{big}Eu sou o diretor deste grupo. E você é?";
-	["e96a49a46e8111ea806f3c15c2dd513c"] = "Eu sou o Sam! E este é o John.\n{====}O produtor nos mandou aqui pa—{break}";
+	["e96a49a46e8111ea806f3c15c2dd513c"] = "Eu sou a Sam! E este é o John.\n{====}O produtor nos mandou aqui pa—{break}";
 	["e96a4ada6e8111ea806f3c15c2dd513c"] = "Um nome tão sem vida quanto seus olhos frios e mortos. PERFEITO! EEEK!\n{====}Não me importa quem os recomendou.\n{====}Só eu vou decidir quem será a estrela por aqui.\n{====}Então venham, queridos. Mostrem-me o que têm! Eeek!";
 	["0ac32816b0c511ea96e23c15c2dd513c"] = "{big}Bem, tire meus olhos para fora da minha cabeça e me bata com eles! Se isso não foi um espetáculo!\n{====}Uma tentativa e você já pegou a pontuação máxima! Eeeek!\n{====}Nunca vi um homem tão ágil com sua frigideira antes.\n{====}{big}Eu absolutamente devo tê-lo como meu protagonista — e não aceitarei um não como resposta!\n{====}Me encontre no vagão de efeitos especiais, querido.\n{====}A manchete de hoje será você, você, VOCÊ! EEEEK!";
 	["0ac32988b0c511ea96e23c15c2dd513c"] = "Vou ser honesto, querido... aquela performance foi...\n{====}...medíocre.\n{====}Na verdade, se mediocridade fosse um combustível e você seu condutor, então...\n{====}...você estaria a meio caminho da Cidade de Ester agora!\n{====}Mas não se preocupe! É para isso que ESTAMOS aqui, querido. EEEK!\n{====}Vamos transformar toda essa mediocridade acumulada em algo tão sensual...\n{====}...tão corajoso... tão pingando com charme necrótico...\n{====}...que as pessoas vão querer te colocar no prato e te comer no jantar!\n{====}Está decidido então! Me encontre no vagão de efeitos especiais, querido.\n{====}{big}Eu vou transformá-lo na estrela mais medíocre que já medíocreou! EEEK!";
@@ -319,7 +319,7 @@ return {
 	["e2d7c926af7811eaa4ed3c15c2dd513c"] = "Se você quer jogar tanto assim, compre a máquina e a leve você mesmo.";
 	["e2d7c9bcaf7811eaa4ed3c15c2dd513c"] = "Você acha que estaríamos aqui se tivéssemos esse tipo de dinheiro?";
 	["e2d7ca98af7811eaa4ed3c15c2dd513c"] = "Essa maldita chuva NUNCA vai parar...";
-	["e2d7cb4caf7811eaa4ed3c15c2dd513c"] = "Ah, ei. É o Sam.{stop}";
+	["e2d7cb4caf7811eaa4ed3c15c2dd513c"] = "Ah, ei. É a Sam.{stop}";
 	["e2d7cbd8af7811eaa4ed3c15c2dd513c"] = "Ouvimos dizer que a princesa fugiu. Isso é verdade, Sam?";
 	["e2d7cd04af7811eaa4ed3c15c2dd513c"] = "Como se! A princesa é um cavalheiro de boa índole!";
 	["e2d7cf98af7811eaa4ed3c15c2dd513c"] = "Foi a Isabel. Ela levou Alva e foi para Ester City.";
@@ -399,7 +399,7 @@ return {
 	["239acf99174a11ea8b393c15c2dd513c"] = "Tempo maravilhoso hoje, não é mesmo?\n{====}Parece que escolhemos o dia certo para a partida.";
 	["239afaf3174a11eabf173c15c2dd513c"] = "Vire esse rosto para cima, milady!\n{====}Não há com o que se preocupar.\n{====}Se você já está tão nervosa...\n{====}Por que, vai ficar sem nervos antes mesmo de chegarmos a Ester City.";
 	["d2673d2b256111ea95b83c15c2dd513c"] = "Ah, não. Estamos tão no escuro sobre a boa cidade quanto você.\n{====}Mas... se as lendas estiverem corretas...\n{====}Então, enquanto continuarmos a leste ao longo da Linha Principal...\n{====}... vamos chegar lá com certeza.";
-	["239b25cc174a11ea870e3c15c2dd513c"] = "Ah, já perdemos de vista a Cidade de New Dam.";
+	["239b25cc174a11ea870e3c15c2dd513c"] = "Ah, já perdemos de vista a cidade de New Dam.";
 	["239b358c174a11ea80e93c15c2dd513c"] = "Daniel!\n{wait:0.5}Estabilize aqui.";
 	["239b63de174a11eaa8653c15c2dd513c"] = "Sim, s-senhor!";
 	["239bdae6174a11eab3993c15c2dd513c"] = "Não é por mesquinhez, é claro.\n{====}Simplesmente não queremos ficar sem combustível.\n{====}{big}Ficar preso no meio de sei lá onde normalmente não é minha praia.";
@@ -554,7 +554,7 @@ return {
 	["0abe3090b0c511ea96e23c15c2dd513c"] = "Temo que isso foi antes do meu tempo. Antes MESMO de eu nascer, na verdade.\n{====}Mas vi o nome dela antes nos roteiros antigos.";
 	["0abe30d6b0c511ea96e23c15c2dd513c"] = "Deixe para Bella lembrar de um detalhe assim.\n{====}Talento puro, incontestável!";
 	["0abe3112b0c511ea96e23c15c2dd513c"] = "Sim, sim... eu lembro agora, lembro. Eeek!\n{====}Isso foi nos meus dias de juventude como uma estrela de rosto fresco.\n{====}Ela bateu aquele foguete dela bem no lado do nosso trem.\n{====}Bem parecido com o seu pequeno motor, eu devo dizer.\n{====}Agora, então. O que você precisa dela, hein? Eeeek!";
-	["0abe316cb0c511ea96e23c15c2dd513c"] = "Mas... espera... isso não pode estar certo.\n{====}Ela saiu da Cidade de New Dam apenas alguns dias atrás.";
+	["0abe316cb0c511ea96e23c15c2dd513c"] = "Mas... espera... isso não pode estar certo.\n{====}Ela saiu da cidade de New Dam apenas alguns dias atrás.";
 	["0abe32a2b0c511ea96e23c15c2dd513c"] = "Temo que você é quem está enganada, minha querida.\n{====}{big}O tempo se move... de maneira diferente dentro dessa névoa. Imprevisivelmente, você poderia dizer.\n{====}Uma hora aqui poderia durar tão pouco quanto um minuto no mundo exterior...\n{====}...ou tanto quanto um ano.";
 	["0abe3388b0c511ea96e23c15c2dd513c"] = "Isso... então... onde está Isabel agora?";
 	["0abe3400b0c511ea96e23c15c2dd513c"] = "Ook-ook! Se a memória me serve corretamente, ela não ficou muito tempo...\n{====}Não, ela foi embora quase assim que chegou. Eeeeek!";
@@ -685,7 +685,7 @@ return {
 	["d263bdb3256111eabc2e3c15c2dd513c"] = "Vocês simplesmente têm que voltar!\n{====}E quando voltarem, vamos tocar Earth Born de novo!";
 	["23960c23174a11eaab073c15c2dd513c"] = "{~}John!";
 	["23960e54174a11eaa5373c15c2dd513c"] = "Então finalmente chegou a hora, não é? A despedida destinada.\n{====}Eu pensei muito nisso, sabe...\n{====}E eu acredito que devo ficar aqui. É aqui que eu pertenço.";
-	["23960f75174a11eaa8143c15c2dd513c"] = "Hm? Para onde foi a Rainha Besouro?\n{====}Ela estava aqui há apenas um segundo.";
+	["23960f75174a11eaa8143c15c2dd513c"] = "Hm? Para onde foi a Beetle Queen?\n{====}Ela estava aqui há apenas um segundo.";
 	["2396117d174a11eabeeb3c15c2dd513c"] = "Sua Alteza!";
 	["23961354174a11ea9b363c15c2dd513c"] = "Sua Alteza!";
 	["2396158f174a11ea98e33c15c2dd513c"] = "Se permitir!";
@@ -923,13 +923,13 @@ return {
 	["4a2ac735287611ea8ca23c15c2dd513c"] = "John!";
 	["4a2ac963287611ea9fef3c15c2dd513c"] = "É nosso velho camarada John!\n{====}Você ouviu isso, John? Estamos mantendo nossas armas dessa vez!\n{====}De volta com o velhote!";
 	["4a2acca3287611ea97e33c15c2dd513c"] = "De volta com o velhote!";
-	["4a2ad02e287611eaace63c15c2dd513c"] = "{~}D-de jeito nenhum!\n{====}Você... está... saindo de Nova Dam City?!\n{====}Bem, eu não sei os detalhes...\n{====}{big}Mas deve ser algo bastante ruim se você tem que correr para fora daqui.";
+	["4a2ad02e287611eaace63c15c2dd513c"] = "{~}D-de jeito nenhum!\n{====}Você... está... saindo da cidade de New Dam?!\n{====}Bem, eu não sei os detalhes...\n{====}{big}Mas deve ser algo bastante ruim se você tem que correr para fora daqui.";
 	["4a2aebd7287611eabfbb3c15c2dd513c"] = "Vamos sentir sua falta, John!";
-	["4a2af7c2287611eaadaa3c15c2dd513c"] = "Mas não se preocupe!\n{====}Nova Dam City está em boas mãos enquanto estivermos aqui!";
+	["4a2af7c2287611eaadaa3c15c2dd513c"] = "Mas não se preocupe!\n{====}A cidade de New Dam está em boas mãos enquanto estivermos aqui!";
 	["4a2b0280287611eab29c3c15c2dd513c"] = "Eu pensei que com certeza o velhote ia nos dar uma surra.\n{====}Nunca pensei que ele nos aceitaria de volta assim.";
 	["4a2b1aa3287611eab2a03c15c2dd513c"] = "Acho que nós dois realmente ÉRAMOS indispensáveis!\n{====}Hora de acelerar!";
 	["4a2b1bba287611ea93f23c15c2dd513c"] = "Sempre teve uma estátua de Jizo aqui?\n{====}Juro que não me lembro disso estar aqui antes.";
-	["4a2be235287611ea81823c15c2dd513c"] = "Você não reconsideraria, amigo?\n{====}Eu... eu posso fazer qualquer coisa que você me mandar! Honra de escoteiro!";
+	["4a2be235287611ea81823c15c2dd513c"] = "Você não reconsideraria, amigo?\n{====}Eu... eu posso fazer qualquer coisa que você me mandar! Palavra de escoteiro!";
 	["4a2c1ede287611eabe833c15c2dd513c"] = "Sente-se antes de se machucar, velho!\n{====}Te contratar seria como... ei... risco instantâneo!";
 	["4a2c6d45287611ea87893c15c2dd513c"] = "{big}Gui. Este homem ainda não atingiu 100 anos desde sua data de fabricação.\n{====}Ele é verdadeiramente tão velho?";
 	["4a2cd3c5287611ea96c63c15c2dd513c"] = "Nós não somos como você, Tater!\n{====}Nós, humanos, temos sorte de ainda estar VIVOS com a idade dele!";
@@ -1118,7 +1118,7 @@ return {
 	["0f3ced9aabd511ea8f943c15c2dd513c"] = "Eu já consigo sentir seus pequenos dedos se retorcendo de desejo.\n{====}Então, vamos começar... este 560º episódio...\n{====}{big}...DO MARAVILHOSO JOGO DE CONHECIMENTO DO SOLOMON e oh, é muito longo para dizer o resto.";
 	["0f3cf54cabd511ea8f943c15c2dd513c"] = "PRIMEIRA PERGUNTA!\n{====}{big}O maior porto do leste, conhecido como a \"pérola brilhante da costa,\" fica onde?\n{====}É A. Baía da Baleia Branca?\nOu B. Porto da Cidade de Ester?";
 	["0f3cf704abd511ea8f943c15c2dd513c"] = "Baía da Baleia Branca... um dos nomes do passado, sim?\n{====}O que você acha, Daniel?";
-	["0f3cf8e4abd511ea8f943c15c2dd513c"] = "Lembro-me da Baía da Baleia Branca da primeira vez que conhecemos o Sam...";
+	["0f3cf8e4abd511ea8f943c15c2dd513c"] = "Lembro-me da Baía da Baleia Branca da primeira vez que conhecemos a Sam...";
 	["0f3cf9fcabd511ea8f943c15c2dd513c"] = "Que velocidade!";
 	["0f3cfb1eabd511ea8f943c15c2dd513c"] = "Deveríamos escolher A também?";
 	["0f3cfcaeabd511ea8f943c15c2dd513c"] = "Espere, espere. Eu não consigo deixar de sentir... que isso pode ser uma armadilha.\n{====}{big}Embora tenha sido um porto, essa região agora é uma extensão florestal de montanhas.\n{====}Não, eu acredito que o Porto da Cidade de Ester pode ser a resposta que procuramos...";
@@ -1184,6 +1184,6 @@ return {
 	["238bad73174a11ea8d5a3c15c2dd513c"] = "Procurando por Alva...\n{====}Não encontrado.\n{====}Último sinal conhecido: Leste. Leste. Leste...";
 	["238bafe8174a11eaa94b3c15c2dd513c"] = "Procurando por Isabel...\n{====}Não encontrado.\n{====}Último sinal conhecido: Leste. Leste. Leste...";
 	["238bb20f174a11ea80ff3c15c2dd513c"] = "{choice:east}Leste?";
-	["238bb2f5174a11eabc623c15c2dd513c"] = "Cautela é aconselhada para aqueles que viajam a leste da Cidade de New Dam.\n{====}A única rota disponível é via Trilho Principal.\n{====}De acordo com uma fonte não verificada...\n{====}{big}A imortal \"Ester City\" fica na extremidade leste do continente.\n{====}Dados do mapa estão incompletos. Nenhuma informação adicional disponível.";
+	["238bb2f5174a11eabc623c15c2dd513c"] = "Cautela é aconselhada para aqueles que viajam a leste da cidade de New Dam.\n{====}A única rota disponível é via Trilho Principal.\n{====}De acordo com uma fonte não verificada...\n{====}{big}A imortal \"Ester City\" fica na extremidade leste do continente.\n{====}Dados do mapa estão incompletos. Nenhuma informação adicional disponível.";
 	};
 }
