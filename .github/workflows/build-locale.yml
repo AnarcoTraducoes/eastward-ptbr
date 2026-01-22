@@ -2,8 +2,10 @@ name: Build locale.g
 
 on:
   pull_request:
-    branches:
-      - '**'
+    paths:
+      - 'raw/**'
+      - 'tools/**'
+      - 'Pipfile*'
 
 jobs:
   build-locale:
