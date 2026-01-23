@@ -217,10 +217,10 @@ return {
 	["cd27969c1a3611eab4758c85907abf45"] = "{signal:open}Salvar suas memórias?\n{choice:yes}Salvar\n{choice:no}Cancelar";
 	};
 ["quest_CH7"]={
-	["text::EsterCity"] = "Um segundo, estamos em Ester City. E o próximo? Fomos levados para a Ilha do Tempo!";
+	["text::EsterCity"] = "Um segundo, estamos em Eternia. E o próximo? Fomos levados para a Ilha do Tempo!";
 	["text::Daniel"] = "Daniel não pode ser operado sem o chip emocional. Floyd, de volta à Ilha do Tempo, deveria ficar com ele. Vamos buscá-lo.";
 	["text::Flag"] = "A bandeira do capitão desapareceu! Encontre-o para que os piratas possam navegar.";
-	["text::Express"] = "De alguma forma, nos tornamos entregadores do Capitão Pam e agora precisamos entregar cartas para pessoas em Ester City.";
+	["text::Express"] = "De alguma forma, nos tornamos entregadores do Capitão Pam e agora precisamos entregar cartas para pessoas em Eternia.";
 	["text::Delivery"] = "Terminamos de fazer todas as entregas! Vamos voltar para o cais para receber nossa recompensa.";
 	["text::TinderOfTime"] = "Use a Chama do Tempo para entrar na Torre Eterna.";
 	["text::EmoChip"] = "Estamos de volta à Ilha do Tempo novamente! De qualquer forma, vamos ver se conseguimos que Floyd nos dê aquele chip de emoção.";
@@ -232,9 +232,9 @@ return {
 	["text::EsterTower"] = "A Torre Eterna";
 	["text::Grave"] = "A Chama do Tempo só precisa estar no túmulo de Solomon.";
 	["text::Tower"] = "Alva e Isabel devem estar no topo da torre. Vamos!";
-	["text::TimeLoop1st"] = "Ester City";
+	["text::TimeLoop1st"] = "Eternia";
 	["text::ExpressNext"] = "Parece que ainda há uma última carta para entregar, desta vez para Ivan, no Hotel Ester.";
-	["text::EsterCityFinish"] = "Finalmente chegamos em Ester City! E viraram... entregadores? Mas o mais importante é que descobrimos que Daniel não poderia ser operado. Devíamos ajudá-lo antes de procurar Isabel.";
+	["text::EsterCityFinish"] = "Finalmente chegamos em Eternia! E viraram... entregadores? Mas o mais importante é que descobrimos que Daniel não poderia ser operado. Devíamos ajudá-lo antes de procurar Isabel.";
 	["text::TimeLoop2nd"] = "Daniel";
 	["text::Megaboy"] = "Thomas nos diz para encontrá-lo no Cemitério de Trem depois que a operação de Daniel terminar.";
 	["text::Megaboy01"] = "Rápido! Siga o Sonic Punk! Ele deve ter encontrado algo!";
@@ -242,19 +242,19 @@ return {
 	["text::TimeLoop3rd"] = "Um olhar para o passado";
 	["text::IsabelFinish"] = "Graças às pistas de Isabel, conseguimos encontrar a Chama do Tempo. Tudo o que resta agora é entrar na Torre Eterna.";
 	["text::TimeLoop4th"] = "A Torre Eterna";
-	["text::Alva"] = "O campo do tempo foi desativado, revelando a verdadeira Ester City... Ainda precisamos chegar ao topo da Torre Eterna.";
+	["text::Alva"] = "O campo do tempo foi desativado, revelando a verdadeira Eternia... Ainda precisamos chegar ao topo da Torre Eterna.";
 	["text::EsterTowerFinish"] = "Alva não estava aqui. Isabel também não estava aqui. A única coisa que encontramos foi Charon. Daniel foi destruído. E agora ELA assumiu o controle de mim novamente...";
-	["text::Ester"] = "Ester City";
+	["text::Ester"] = "Eternia";
 	["text::Loop"] = "Procurando pistas";
 	["text::EsterCity01"] = "Voltamos para a Ilha do Tempo. Desta vez, definitivamente vamos descobrir o que está acontecendo!";
-	["text::Express01"] = "Parece que estamos em algum tipo de ciclo ainda precisamos entregar as mesmas cartas às mesmas pessoas de Ester City.";
+	["text::Express01"] = "Parece que estamos em algum tipo de ciclo ainda precisamos entregar as mesmas cartas às mesmas pessoas de Eternia.";
 	["text::Delivery01"] = "Parece que Floyd no cemitério tem o chip emocional que Daniel precisa para sua operação. Esperamos que o Capitão Pam nos leve de volta à Ilha do Tempo!";
-	["text::EsterCityFinish01"] = "Definitivamente há algo acontecendo com Ester City mas ainda não descobrimos o quê. Pelo menos sabemos o que fazer com a operação de Daniel!";
+	["text::EsterCityFinish01"] = "Definitivamente há algo acontecendo com Eternia mas ainda não descobrimos o quê. Pelo menos sabemos o que fazer com a operação de Daniel!";
 	["text::Stage_Daniel"] = "Daniel";
 	["text::Express02"] = "A operação do Daniel acabou, mas ainda temos outras entregas para fazer antes de terminarmos.";
 	["text::Delivery02"] = "Tudo parece estar feito por enquanto, então vamos voltar para o cais. Capitão Pam parecia ter outra coisa para fazermos.";
 	["text::Stage_Tomas"] = "Explosão do passado";
-	["text::TomasBack"] = "Thomas nos esperará no cais. Então, voltamos para Ester City!";
+	["text::TomasBack"] = "Thomas nos esperará no cais. Então, voltamos para Eternia!";
 	["text::TomasExpress"] = "Mais cartas para entregar! Esperançosamente, depois que terminarmos, finalmente aprenderemos algo sobre Isabel.";
 	["text::TomasDelivery"] = "Vamos voltar para o cais e encontrar Thomas.";
 	["text::TowerBottom"] = "Parece que o Capitão Pam e Thomas já partiram para a Torre Eterna. Eles devem ter encontrado algo!";
@@ -370,7 +370,7 @@ return {
 	};
 ["quest_CH6"]={
 	["text::Eastward"] = "Eastward Bound";
-	["text::Home"] = "Decidi procurar Alva e encontrar uma maneira de destruir o MIASMA! Porém, primeiro preciso encontrar uma maneira de chegar à Ester City.";
+	["text::Home"] = "Decidi procurar Alva e encontrar uma maneira de destruir o MIASMA! Porém, primeiro preciso encontrar uma maneira de chegar à Eternia.";
 	["text::MonkeyTrain"] = "Monkollywood";
 	["text::Monkeys"] = "A Carabina de Ferro ficou presa em alguma neblina. Talvez haja uma pista sobre como embarcar neste trem. É melhor dar uma olhada enquanto a Carabina de Ferro está sendo consertada.";
 	["text::Movie"] = "Os macacos convidam John para participar do filme. Como pagamento, eles se ofereceram para nos dar o foguete.";
@@ -380,9 +380,9 @@ return {
 	["text::Stealth"] = "Outro Solomon apareceu e nos trancou com os macacos. Antes de podermos enfrentá-lo, precisaremos encontrar nossas armas.";
 	["text::SolomonShow"] = "É hora de derrubar Solomon!";
 	["text::EastwardFinish"] = "Finalmente estamos na estrada novamente, desta vez com William e Daniel. Só sei que encontraremos Alva e Isabel. Eu sei!";
-	["text::MonkeyTrainFinish"] = "Ficamos presos em uma neblina estranha e acabamos em um trem cheio de macacos! A pista para sair e chegar a Ester City deve estar escondida aqui em algum lugar.";
+	["text::MonkeyTrainFinish"] = "Ficamos presos em uma neblina estranha e acabamos em um trem cheio de macacos! A pista para sair e chegar a Eternia deve estar escondida aqui em algum lugar.";
 	["text::Rocket"] = "O foguete da Isabel está em algum lugar aqui em Monkollywood. Se o encontrarmos, poderemos atravessar a neblina.";
-	["text::SolomonFinish"] = "Daniel anexou o foguete de Isabel à Carabina de Ferro. Ester City parece mais próxima do que nunca. Estamos tão perto de encontrar Alva e Isabel!";
+	["text::SolomonFinish"] = "Daniel anexou o foguete de Isabel à Carabina de Ferro. Eternia parece mais próxima do que nunca. Estamos tão perto de encontrar Alva e Isabel!";
 	};
 ["quest_CH2"]={
 	["text::Greenberg"] = "Greenberg";
@@ -445,8 +445,8 @@ return {
 	["desc::ResearcherBadge"] = "Dado por Alva aos seus assistentes de laboratório. Um símbolo de prestígio na cidade.";
 	["name::PerformanceContract"] = "Contrato de Monkollywood";
 	["desc::PerformanceContract"] = "Prova oficial de atuação em uma produção de Monkollywood.";
-	["name::EsterLogistics"] = "Logística de Ester City";
-	["desc::EsterLogistics"] = "Lançada pelos Lumpy Pirates, esta empresa de entrega se tornou o serviço de entrega de encomendas em Ester City.";
+	["name::EsterLogistics"] = "Logística de Eternia";
+	["desc::EsterLogistics"] = "Lançada pelos Lumpy Pirates, esta empresa de entrega se tornou o serviço de entrega de encomendas em Eternia.";
 	["name::EsterPacks"] = "Pacote";
 	["desc::EsterPacks"] = "Um pacote que deve ser entregue \"hoje.\"";
 	["name::CurryBento"] = "Caixa de Curry Bento";
@@ -637,7 +637,7 @@ return {
 	["name::Hanaken"] = "Hanaken";
 	["name::Jidoro"] = "Produtor Padrino";
 	["name::Oriro"] = "Bandiero";
-	["name::Robbutler"] = "Mãe Macaco";
+	["name::Robbutler"] = "Mamãe Macaco";
 	["name::Fool_12"] = "Link";
 	["name::Alva"] = "Alva";
 	["name::Isabel"] = "Isabel";
@@ -793,7 +793,7 @@ return {
 	["name::gasha_goblin"] = "Goblin";
 	["desc::gasha_goblin"] = "Um trapaceiro ganancioso que não é apenas covarde, mas também fraco.\nÉ um milagre que tenha sido capturado dentro de um Pixball.";
 	["name::gasha_magea"] = "Mago Maligno";
-	["desc::gasha_magea"] = "Um sujeito enigmático. Olhar para ele faz você se sentir como se estivesse sendo sugado para um vazio.\nMais uma cidade foi engolida pelo MIASMA. Felizmente, Ester City está segura.";
+	["desc::gasha_magea"] = "Um sujeito enigmático. Olhar para ele faz você se sentir como se estivesse sendo sugado para um vazio.\nMais uma cidade foi engolida pelo MIASMA. Felizmente, Eternia está segura.";
 	["name::gasha_flame"] = "Fada do Fogo";
 	["desc::gasha_flame"] = "Irritada facilmente, esta fada com cabelo de fogo é quente, quente, quente!\nEu queria criar alguns monstros fofos que as crianças gostassem.";
 	["name::gasha_mushroom"] = "Cogumelo";
@@ -823,14 +823,14 @@ return {
 	["name::gasha_long"] = "Dragão Azul";
 	["desc::gasha_long"] = "Este ser indescritível é o antigo guardião da montanha nevada.\nQuanto mais raro o Pixball, melhores serão os resultados.";
 	["name::gasha_devilkinga"] = "Rei demônio";
-	["desc::gasha_devilkinga"] = "O Rei Demônio reside no alto de seu castelo, assim como aquele Solomon.\nTem havido cada vez mais MIASMA ultimamente. Não posso deixar de pensar que até Ester City não é mais segura.";
+	["desc::gasha_devilkinga"] = "O Rei Demônio reside no alto de seu castelo, assim como aquele Solomon.\nTem havido cada vez mais MIASMA ultimamente. Não posso deixar de pensar que até Eternia não é mais segura.";
 	["name::gasha_devilkingb"] = "Verdadeiro Rei Demônio";
 	["desc::gasha_devilkingb"] = "A forma final do Rei Demônio.\nA experiência começa amanhã. Felizmente, com um pouco de dificuldade, consegui terminar este jogo primeiro.";
 	["name::gasha_samuraip"] = "Rei dos Pixels";
 	["desc::gasha_samuraip"] = "O Pixball definitivo. Tão poderoso que pode mudar o rumo da batalha em um instante.\nTive a ideia para este aqui das gaivotas no porto. Que ele voe para muito, muito longe desta cidade amaldiçoada... onde eu não poderia.";
 	["detail::gasha_eye"] = "O primeiro Pixball.\nOriginalmente um protótipo de brinquedo infantil, tornou-se tão popular que foi adicionado ao jogo.";
 	["detail::gasha_goblin"] = "Um trapaceiro ganancioso que não é apenas covarde, mas também fraco.\nÉ um milagre que tenha sido capturado dentro de um Pixball.";
-	["detail::gasha_magea"] = "Um sujeito enigmático. Olhar para ele faz você se sentir como se estivesse sendo sugado para um vazio.\nMais uma cidade foi engolida pelo MIASMA. Felizmente, Ester City está segura.";
+	["detail::gasha_magea"] = "Um sujeito enigmático. Olhar para ele faz você se sentir como se estivesse sendo sugado para um vazio.\nMais uma cidade foi engolida pelo MIASMA. Felizmente, Eternia está segura.";
 	["detail::gasha_flame"] = "Irritada facilmente, esta fada com cabelo de fogo é quente, quente, quente!\nEu queria criar alguns monstros fofos que as crianças gostassem.";
 	["detail::gasha_mushroom"] = "Diz a lenda que você pode encontrar criaturas como essas na Terra do Vento.\nEstá nevando agora. E no verão também. Talvez resultado do MIASMA?";
 	["detail::gasha_mummy"] = "Cuidado com os monstros na areia.\nHá alguns experimentos estranhos acontecendo na Torre Eterna. Alguns até afirmam ter visto criaturas envoltas em bandagens.";
@@ -845,7 +845,7 @@ return {
 	["detail::gasha_skeletondragon"] = "Um dragão gigante e antigo enterrado sob a areia nos confins do deserto.\nUm novo Pixball para você enfrentar perigos maiores.";
 	["detail::gasha_seadragon"] = "Este jovem dragão do pântano é sábio além da idade.\nPerigos maiores lhe renderão recompensas maiores.";
 	["detail::gasha_long"] = "Este ser indescritível é o antigo guardião da montanha nevada.\nQuanto mais raro o Pixball, melhores serão os resultados.";
-	["detail::gasha_devilkinga"] = "O Rei Demônio reside no alto de seu castelo, assim como aquele Solomon.\nTem havido cada vez mais MIASMA ultimamente. Não posso deixar de pensar que até Ester City não é mais segura.";
+	["detail::gasha_devilkinga"] = "O Rei Demônio reside no alto de seu castelo, assim como aquele Solomon.\nTem havido cada vez mais MIASMA ultimamente. Não posso deixar de pensar que até Eternia não é mais segura.";
 	["detail::gasha_devilkingb"] = "A forma final do Rei Demônio.\nA experiência começa amanhã. Felizmente, com um pouco de dificuldade, consegui terminar este jogo primeiro.";
 	["detail::gasha_samuraip"] = "O Pixball definitivo. Tão poderoso que pode mudar o rumo da batalha em um instante.\nTive a ideia para este aqui das gaivotas no porto. Que ele voe para muito, muito longe desta cidade amaldiçoada... onde eu não poderia.";
 	["name::gasha_rat"] = "Rato Louco";
@@ -1175,7 +1175,7 @@ return {
 	["desc::sushi"] = "Ninguém consegue resistir ao fascínio do peixe cru.";
 	["detail::sushi"] = "As possibilidades são infinitas quando se trata de peixe e arroz.";
 	["Recipe::sushi"] = "Corte um pouco de peixe e cubra com arroz. Ou apenas enrole tudo!";
-	["name::toufu"] = "Ovas de Caranguejo Tofu";
+	["name::toufu"] = "Tofu com Ovas de Caranguejo";
 	["desc::toufu"] = "Um prato que dizem trazer boa sorte.";
 	["detail::toufu"] = "Um prato gourmet para os ricos e famosos. Ovas de caranguejo não são baratas!";
 	["Recipe::toufu"] = "Extraia cuidadosamente as ovas do caranguejo e cozinhe com tofu.";

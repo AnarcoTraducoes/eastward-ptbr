@@ -47,7 +47,7 @@ return {
 	["5c292f84c75411ea99c93c15c2dd513c"] = "O que? Você não acredita em mim?\n{====}Bem, escute aqui, seus jovens atrevidos.\n{====}Eu estou aqui desde que Earth Born foi criado pela primeira vez.\n{====}{big}E vi inúmeras pessoas fazendo o melhor para entender esse jogo.\n{====}{big}Mas... hur hur hur... nem uma delas entende Earth Born como eu entendo.";
 	["5c29304cc75411ea99c93c15c2dd513c"] = "Já venci? \n{====}Hur hur hur. Claro que não. Eu nem joguei.\n{====}{~}Mas isso não significa que eu não o entenda em um nível pessoal profundo!";
 	["5c293100c75411ea99c93c15c2dd513c"] = "Eu não joguei Earth Born. Nem uma vez, estou te dizendo.\n{====}E definitivamente não fui derrotado pelo duende na taverna!";
-	["fec8def0526011eba6373c15c2dd513c"] = "Deixe-me contar um segredo.\n{====}Há uma troca de fichas de Pixball aqui em Ester City.\n{====}Você pode comprar mais fichas para Pixballs lá!";	
+	["fec8def0526011eba6373c15c2dd513c"] = "Deixe-me contar um segredo.\n{====}Há uma troca de fichas de Pixball aqui em Eternia.\n{====}Você pode comprar mais fichas para Pixballs lá!";	
 	};
 ["ShipBuilding.sq"]={
 	["5c26805ec75411ea99c93c15c2dd513c"] = "Har har har har! Sipak, meu velho amigo.\n{====}Trouxe alguns trabalhadores para você, tenho.\n{====}Esta pequenina é a Sam, e aquele com o grande bigode é—";
@@ -278,13 +278,13 @@ return {
 	["5bf39f0ec75411ea99c93c15c2dd513c"] = "Vocês nem sabem disso, né?\n{====}Apenas o que vocês pensam que estão fazendo aqui, afinal?";
 	["5bf39f86c75411ea99c93c15c2dd513c"] = "Ehhh... Eu acho que realmente não sabemos disso também.";
 	["5bf39ff4c75411ea99c93c15c2dd513c"] = "{big}Humanos. Ha! Sempre com as promessas e os juramentos. Mas nenhum deles vale a pena, afinal.";
-	["5bf3a0f8c75411ea99c93c15c2dd513c"] = "Agora, vocês escutem direito, ossos.\n{====}Este adormecido aqui não é outro senão o meu grande e poderoso mestre.{.}\n{==}Um inventor onisciente, ele era.\n{==}O maior pensador em Ester City!\n{==}Este cara era a personificação da sabedoria, entenderam?\n{==}Vocês não vão encontrar um cientista mais distinto em todo o mundo.{.}\n{====}O único e verdadeiro—{.}So{.}lo{.}mon{>}.{|}";
+	["5bf3a0f8c75411ea99c93c15c2dd513c"] = "Agora, vocês escutem direito, ossos.\n{====}Este adormecido aqui não é outro senão o meu grande e poderoso mestre.{.}\n{==}Um inventor onisciente, ele era.\n{==}O maior pensador em Eternia!\n{==}Este cara era a personificação da sabedoria, entenderam?\n{==}Vocês não vão encontrar um cientista mais distinto em todo o mundo.{.}\n{====}O único e verdadeiro—{.}So{.}lo{.}mon{>}.{|}";
 	["5bf3a238c75411ea99c93c15c2dd513c"] = "Não o Solomon de novo!";
 	["5bf3a2bac75411ea99c93c15c2dd513c"] = "De novo? Ha!\n{====}Se já houve uma alma compartilhando o nome do meu mestre, bem...\n{====}...vamos apenas dizer que é melhor eles serem bastante apreciativos!";
-	["5bf3a47cc75411ea99c93c15c2dd513c"] = "Você mencionou Ester City antes.\n{====}É esta Ester City?";
-	["5bf3a594c75411ea99c93c15c2dd513c"] = "{big}Isto? Isto aqui é a Ilha do Tempo. Localizada no final do mundo, está.\n{====}Cada último dos maiores mentes de Ester City está enterrado aqui.";
-	["5bf3a7b0c75411ea99c93c15c2dd513c"] = "Eu sei que você deve se sentir bastante triste agora...\n{====}Mas nós realmente precisamos chegar a Ester City.";
-	["5bf3a9aec75411ea99c93c15c2dd513c"] = "Vocês ouviram essa. Nem uma palavra de simpatia.\n{====}Apenas direto com o pedir e o exigir.\n{====}Tudo bem. Vocês sabem o quê? Eu nem me importo.\n{====}Ao sul daqui vocês encontrarão um cais.{====}O barco lá os levará para Ester City.";
+	["5bf3a47cc75411ea99c93c15c2dd513c"] = "Você mencionou Eternia antes.\n{====}É esta Eternia?";
+	["5bf3a594c75411ea99c93c15c2dd513c"] = "{big}Isto? Isto aqui é a Ilha do Tempo. Localizada no final do mundo, está.\n{====}Cada último dos maiores mentes de Eternia está enterrado aqui.";
+	["5bf3a7b0c75411ea99c93c15c2dd513c"] = "Eu sei que você deve se sentir bastante triste agora...\n{====}Mas nós realmente precisamos chegar a Eternia.";
+	["5bf3a9aec75411ea99c93c15c2dd513c"] = "Vocês ouviram essa. Nem uma palavra de simpatia.\n{====}Apenas direto com o pedir e o exigir.\n{====}Tudo bem. Vocês sabem o quê? Eu nem me importo.\n{====}Ao sul daqui vocês encontrarão um cais.{====}O barco lá os levará para Eternia.";
 	["5bf3ac24c75411ea99c93c15c2dd513c"] = "Muito obrigado. Posso perguntar o seu nome?";
 	["5bf3acecc75411ea99c93c15c2dd513c"] = "Ha! Finalmente um pouco de educação.\n{====}O nome é Floyd. Servo eterno do grande Solomon.";
 	["5bf3af4ec75411ea99c93c15c2dd513c"] = "Obrigado, Sr. Floyd.";
@@ -407,7 +407,7 @@ return {
 	["1b6a5cf42ca111eb801b3c15c2dd513c"] = "Pediu um chip...? Ah!";
 	["1b6a669a2ca111eb801b3c15c2dd513c"] = "{big}John! Você não acha que poderia ser este pacote que estamos supostos a entregar, não acha?";
 	["1b6a67e42ca111eb801b3c15c2dd513c"] = "O que vocês ainda estão fazendo aqui?\n{====}A operação já terminou?";
-	["1b6a6eec2ca111eb801b3c15c2dd513c"] = "O frio úmido chegou à cabeça, querido?\n{====}Nós chegamos a Ester City ontem.";
+	["1b6a6eec2ca111eb801b3c15c2dd513c"] = "O frio úmido chegou à cabeça, querido?\n{====}Nós chegamos a Eternia ontem.";
 	["1b6a7a182ca111eb801b3c15c2dd513c"] = "Isso é estranho. Como se nem se lembrassem do que aconteceu.";
 	["1b6a7ba82ca111eb801b3c15c2dd513c"] = "M-mas ainda estamos esperando o ch-chip chegar...";
 	["1b6a7c662ca111eb801b3c15c2dd513c"] = "Ah, o chip. Deve estar bem aqui, então, eu acho.";
@@ -427,7 +427,7 @@ return {
 	["1b6a91ba2ca111eb801b3c15c2dd513c"] = "Venha, Daniel!";
 	["1b6a92322ca111eb801b3c15c2dd513c"] = "{~}E-estou indo!{stop}";
 	["1b6a94582ca111eb801b3c15c2dd513c"] = "{~}Ei! O que VOCÊ está olhando, hein?\n{====}A operação acabou! Vamos voltar para a Iron Carbine!";
-	["1b6a97462ca111eb801b3c15c2dd513c"] = "Haha! É você, Sam? Pensei que você fosse um boneco de neve por um segundo!\n{====}O que vocês estão fazendo aqui, hein?\n{====}Pensando bem, está bem frio aqui em Ester City, hein?";
+	["1b6a97462ca111eb801b3c15c2dd513c"] = "Haha! É você, Sam? Pensei que você fosse um boneco de neve por um segundo!\n{====}O que vocês estão fazendo aqui, hein?\n{====}Pensando bem, está bem frio aqui em Eternia, hein?";
 	["1b6a99802ca111eb801b3c15c2dd513c"] = "Uh... então a... operação foi bem?";
 	["1b6a9a522ca111eb801b3c15c2dd513c"] = "Haha! Bem? Foi MAIS do que bem!\n{====}Eu me sinto elétrico! Caramba! Sinto como se pudesse levantar um cavalo!";
 	["1b6a9aca2ca111eb801b3c15c2dd513c"] = "{~}Hey! William! Rápido, rápido!\n{====}Vou deixar você para trás se não se apressar!";
@@ -487,7 +487,7 @@ return {
 ["Megaboy_Messages.sq"]={
 	["5bfc90aac75411ea99c93c15c2dd513c"] = "Isabel!";
 	["5bfc9294c75411ea99c93c15c2dd513c"] = "Que estranho.\n{====}{big}Ontem, disseram-me que Charon chegaria à Torre Eterna esta noite.\n{====}Então hoje, novamente, dizem-me que tenho que esperar até amanhã...\n{====}Na verdade, TUDO hoje tem sido exatamente igual ao ontem.\n{====}Quase como se ontem... nem tivesse acontecido.\n{====}Você não acha...\n{====}...que o tempo aqui é o mesmo que estava naquela neblina?";
-	["5bfc933ec75411ea99c93c15c2dd513c"] = "Já se passaram 13... não, 15 dias desde que cheguei em Ester City...\n{====}Minha memória está piorando cada vez mais.\n{====}Se a pesquisa daquele sujeito Ivan estiver correta...\n{====}{big}...então hoje será sempre o dia APÓS a ativação do campo temporal.\n{====}E também o dia antes de Charon chegar à Torre Eterna.\n{====}Exceto que amanhã nunca chega em Ester City.\n{====}Então, a chave...\n{==}...Maldição, não posso esquecer!{.}\n{==}A Chama do Tempo!\n{====}Sim, a chave para aquela torre... é a Chama do Tempo.\n{====}Eu vou encontrá-la, Alva. Eu vou. Então apenas... espere por mim.";
+	["5bfc933ec75411ea99c93c15c2dd513c"] = "Já se passaram 13... não, 15 dias desde que cheguei em Eternia...\n{====}Minha memória está piorando cada vez mais.\n{====}Se a pesquisa daquele sujeito Ivan estiver correta...\n{====}{big}...então hoje será sempre o dia APÓS a ativação do campo temporal.\n{====}E também o dia antes de Charon chegar à Torre Eterna.\n{====}Exceto que amanhã nunca chega em Eternia.\n{====}Então, a chave...\n{==}...Maldição, não posso esquecer!{.}\n{==}A Chama do Tempo!\n{====}Sim, a chave para aquela torre... é a Chama do Tempo.\n{====}Eu vou encontrá-la, Alva. Eu vou. Então apenas... espere por mim.";
 	["5bfc9438c75411ea99c93c15c2dd513c"] = "A única pessoa a morrer na \"Cidade que Nunca Morre...\"\n{====}A única pessoa a morrer na \"Cidade que Nunca Morre...\"\n{====}Ugh, o que isso significa?\n{====}Você não acha que eu já resolvi isso uma vez, não é?\n{====}{big}Minha memória está... cada vez mais confusa. Se eu não conseguir encontrar aquela chama, então...\n{====}...vamos acabar nos perdendo completamente neste lugar.";
 	["5bfc9564c75411ea99c93c15c2dd513c"] = "Isabel...\n{====}Isso deve ter sido antes dela encontrar...\n{====}...o que quer que a tenha levado a Solomon.\n{====}Vamos procurar em outro lugar, Sr. Sonic Punk! Deve haver mais pistas para nós encontrarmos.";
 	["5bfc9668c75411ea99c93c15c2dd513c"] = "Procurando por: Isabel.";
@@ -500,7 +500,7 @@ return {
 	["5bfc9ceec75411ea99c93c15c2dd513c"] = "Saia, seu monstro de dois olhos. Eu sei que você não está realmente morto!";
 	["5bfc9d66c75411ea99c93c15c2dd513c"] = "Sim, você é TÃO inteligente, não é?\n{====}Mas há momentos em que a ignorância teria sido mais adequada a você.";
 	["5bfc9dcac75411ea99c93c15c2dd513c"] = "Aí está você...\n{====}Entregue a Chama do Tempo—AGORA.\n{====}Ou você vai me forçar a pegá-la eu mesma?";
-	["5bfc9e7ec75411ea99c93c15c2dd513c"] = "O que você quer, garota?\n{====}Riquezas? Poder? Ou talvez, viver para sempre?\n{====}{big}Agora que você está em Ester City, tem tudo o que precisa.\n{====}Nem mesmo a morte tem influência sobre você aqui.\n{====}Sim... por quê, então? Por que se dar todo esse trabalho para entrar naquela torre?";
+	["5bfc9e7ec75411ea99c93c15c2dd513c"] = "O que você quer, garota?\n{====}Riquezas? Poder? Ou talvez, viver para sempre?\n{====}{big}Agora que você está em Eternia, tem tudo o que precisa.\n{====}Nem mesmo a morte tem influência sobre você aqui.\n{====}Sim... por quê, então? Por que se dar todo esse trabalho para entrar naquela torre?";
 	["5bfc9faac75411ea99c93c15c2dd513c"] = "Não me menospreze, velho.";
 	["5bfca144c75411ea99c93c15c2dd513c"] = "Hohoho... então parece que você já entende.\n{====}No entanto... isso significa que você está totalmente preparado?";
 	["5bfca1bcc75411ea99c93c15c2dd513c"] = "Eu farei qualquer coisa para salvar Alva.";
@@ -672,17 +672,17 @@ return {
 	["5bf6e380c75411ea99c93c15c2dd513c"] = "Estamos procurando por Isabel.";
 	["5bf6e588c75411ea99c93c15c2dd513c"] = "Isabel? Hm. Conheço um número considerável de pessoas por aqui.\n{====}Quando você é uma dançarina, isso faz parte do território.\n{====}Mas devo admitir que nunca ouvi falar dessa pessoa chamada Isabel.";
 	["5bf6e600c75411ea99c93c15c2dd513c"] = "Sério?";
-	["5bf6e65ac75411ea99c93c15c2dd513c"] = "Não desanimem.\n{====}Se sua amiga ainda estiver aqui em Ester City...\n{====}...tenho certeza de que a encontrarão.";
+	["5bf6e65ac75411ea99c93c15c2dd513c"] = "Não desanimem.\n{====}Se sua amiga ainda estiver aqui em Eternia...\n{====}...tenho certeza de que a encontrarão.";
 	["5bf6e6fac75411ea99c93c15c2dd513c"] = "Espero sinceramente que nada tenha acontecido com o velho Ivan.";
 	["5bf6e8d0c75411ea99c93c15c2dd513c"] = "{big}Se tiverem algum tempo livre, deveriam passar na Mama Jazz para me ver dançar.";
-	["5bf6e934c75411ea99c93c15c2dd513c"] = "Não desanimem.\n{====}Se sua amiga ainda estiver aqui em Ester City...\n{====}...tenho certeza de que a encontrarão.";
+	["5bf6e934c75411ea99c93c15c2dd513c"] = "Não desanimem.\n{====}Se sua amiga ainda estiver aqui em Eternia...\n{====}...tenho certeza de que a encontrarão.";
 	["5bf6eb46c75411ea99c93c15c2dd513c"] = "Quando as coisas vão melhorar para nós?\n{====}Já se passou um mês agora...\n{====}E o dinheiro que trouxe de casa está quase acabando.";
 	["5bf6ec40c75411ea99c93c15c2dd513c"] = "Vocês... estão procurando pelo fantasma?\n{====}Eu vi no quarto do Ivan! Eu vi!\n{====}Com os meus próprios olhos!";
 	["5bf6ecaec75411ea99c93c15c2dd513c"] = "E-eu realmente vi! Está no quarto do Ivan{>}!{|}{break}";
 	["5bf6ee84c75411ea99c93c15c2dd513c"] = "{~}Rand!";	
 	["5bf6ef88c75411ea99c93c15c2dd513c"] = "D-... desculpe...";
 	["5bf6f03cc75411ea99c93c15c2dd513c"] = "Eu-... eu vou proteger minha irmã, não importa o que aconteça!";
-	["5bf6f0f0c75411ea99c93c15c2dd513c"] = "Meu nome é Lassie, e este é meu irmão, Rand.\n{====}Nossa vila foi destruída pelo MIASMA.\n{====}Isso foi cerca de um mês atrás agora...\n{====}Todo mundo continua nos dizendo que Ester City é o lugar mais seguro.\n{====}Mas eu... eu simplesmente não consigo relaxar aqui...";
+	["5bf6f0f0c75411ea99c93c15c2dd513c"] = "Meu nome é Lassie, e este é meu irmão, Rand.\n{====}Nossa vila foi destruída pelo MIASMA.\n{====}Isso foi cerca de um mês atrás agora...\n{====}Todo mundo continua nos dizendo que Eternia é o lugar mais seguro.\n{====}Mas eu... eu simplesmente não consigo relaxar aqui...";
 	["5bf6f38ec75411ea99c93c15c2dd513c"] = "Eu-... eu vou te proteger, irmã!";
 	["5bf6f71cc75411ea99c93c15c2dd513c"] = "Raio da Justiça!!";
 	["5bf6f85cc75411ea99c93c15c2dd513c"] = "Vocês dois estão aqui para ver aquele professor ao lado, não é?\n{====}Ele tem um temperamento difícil, mas lá no fundo... ele é um bom homem.";
@@ -724,9 +724,9 @@ return {
 	["5bf730a6c75411ea99c93c15c2dd513c"] = "Hmm... o que é isso?";
 	["5bf73100c75411ea99c93c15c2dd513c"] = "Não toque nisso!\n{==}Maldita projeção!";
 	["5bf732d6c75411ea99c93c15c2dd513c"] = "Diário de Ivan...?";
-	["5bf73344c75411ea99c93c15c2dd513c"] = "\"O campo temporal foi ativado. E assim escreverei este diário.\"\n{====}\"Para não me perder neste único dia interminável.\"\n{====}Interessante... pode haver algo útil aqui ainda.\n{====}\"Caronte chegará amanhã. O campo temporal será suspenso.\"\n{====}\"Mas temo que o MIASMA engula Ester City por inteiro.\"\n{====}\"A única maneira de derrotar Solomon é subir a Torre Eterna.\"\n{====}\"Parece que a Nikita gosta do pudim do supermercado...\"\n{====}E mais lixo inútil.";
+	["5bf73344c75411ea99c93c15c2dd513c"] = "\"O campo temporal foi ativado. E assim escreverei este diário.\"\n{====}\"Para não me perder neste único dia interminável.\"\n{====}Interessante... pode haver algo útil aqui ainda.\n{====}\"Caronte chegará amanhã. O campo temporal será suspenso.\"\n{====}\"Mas temo que o MIASMA engula Eternia por inteiro.\"\n{====}\"A única maneira de derrotar Solomon é subir a Torre Eterna.\"\n{====}\"Parece que a Nikita gosta do pudim do supermercado...\"\n{====}E mais lixo inútil.";
 	["5bf733dac75411ea99c93c15c2dd513c"] = "Maldita projeção!";	
-	["5bf73448c75411ea99c93c15c2dd513c"] = "\"Eu busquei por toda Ester City.\"\n{====}\"Solomon escondeu a chama.\"\n{====}\"Tudo o que resta é...\"";
+	["5bf73448c75411ea99c93c15c2dd513c"] = "\"Eu busquei por toda Eternia.\"\n{====}\"Solomon escondeu a chama.\"\n{====}\"Tudo o que resta é...\"";
 	["5bf7356ac75411ea99c93c15c2dd513c"] = "{~}O que você está fazendo?!\n{====}Você não está lendo meu diário, entendeu?!";
 	["5bf736aac75411ea99c93c15c2dd513c"] = "Preciso saber onde está a chama.";
 	["5bf73bfac75411ea99c93c15c2dd513c"] = "Este é o meu quarto, e minhas coisas, e EU vou pegar para você!";
@@ -749,13 +749,13 @@ return {
 	["ab6c7b44309211eb84b63c15c2dd513c"] = "Entregando correspondências para o capitão hoje?";
 	["1b7ae0ba2ca111eb801b3c15c2dd513c"] = "{~}Isabel?!\n{====}Você disse Isabel? Onde ela está? Você sabe?!";
 	["1b7ae2cc2ca111eb801b3c15c2dd513c"] = "Vocês dois conhecem essa mulher?";
-	["1b7ae38a2ca111eb801b3c15c2dd513c"] = "Viemos para Ester City para encontrá-la!";
+	["1b7ae38a2ca111eb801b3c15c2dd513c"] = "Viemos para Eternia para encontrá-la!";
 	["1b7ae4202ca111eb801b3c15c2dd513c"] = "Forasteiros, huh...\n{====}O que significa que ELA também deve ser de fora do campo temporal...\n{====}Mas o que ela esperava encontrar vindo aqui...?";
 	["1b7ae5242ca111eb801b3c15c2dd513c"] = "Com licença, senhor, mas você sabe onde está Isabel?";
 	["1b7ae6c82ca111eb801b3c15c2dd513c"] = "Primeiramente—eu NÃO CONHEÇO a Isabel, ok?\n{====}Mas eu sei disso. Ela veio até mim.\n{====}Se ela não estava atrás da minha pesquisa...\n{====}... então ela deve ter sido... aprisionada... por algo...";
 	["1b7aea242ca111eb801b3c15c2dd513c"] = "Aprisionada? Por quê?";
 	["1b7aeb962ca111eb801b3c15c2dd513c"] = "Como diabos eu vou saber?!";
-	["1b7aee022ca111eb801b3c15c2dd513c"] = "Escute aqui! Eu sou o maior cientista de Ester City!\n{====}...Bem, um deles.\n{====}De qualquer forma, se eu disser que não sei de algo—então eu não sei!\n{====}{big}Mas se EXISTE alguma pista por aí, com certeza Thomas saberia...";
+	["1b7aee022ca111eb801b3c15c2dd513c"] = "Escute aqui! Eu sou o maior cientista de Eternia!\n{====}...Bem, um deles.\n{====}De qualquer forma, se eu disser que não sei de algo—então eu não sei!\n{====}{big}Mas se EXISTE alguma pista por aí, com certeza Thomas saberia...";
 	["1b7aef9c2ca111eb801b3c15c2dd513c"] = "Maldição! Lá vem de novo!";
 	["1b7af0f02ca111eb801b3c15c2dd513c"] = "Hein? O que está vindo?";
 	["1b7af2f82ca111eb801b3c15c2dd513c"] = "Ah! Apenas pegue isso! Pegue!";
@@ -807,7 +807,7 @@ return {
 	["6dc48658893d11ea97073c15c2dd513c"] = "John, estamos aqui. Conseguimos.";
 	["fec4a07e526011eba6373c15c2dd513c"] = "{big}Sim, foi quando aquele capitão tolo te sequestrou bem debaixo do meu nariz.\n{====}Como está esse bastardo navegante?\n{====}{big}Ah, pensando bem, foram vocês dois que quebraram o campo temporal, não foram?";
 	["fec4a1c8526011eba6373c15c2dd513c"] = "BWAHAHAHA!\n{==}{big}Então, aquele espinho no meu lado certamente se transformou em cinzas—junto com todos os seus pequenos AMIGUINHOS!";
-	["fec4a452526011eba6373c15c2dd513c"] = "Então isso me faria o quê? Hein? Um HOMEM ruim, é isso?\n{====}O homem ruim que acendeu as esperanças da humanidade em meio ao MIASMA.\n{====}{big}O homem ruim que protegeu esta cidade... esta Ester City... da destruição total!";
+	["fec4a452526011eba6373c15c2dd513c"] = "Então isso me faria o quê? Hein? Um HOMEM ruim, é isso?\n{====}O homem ruim que acendeu as esperanças da humanidade em meio ao MIASMA.\n{====}{big}O homem ruim que protegeu esta cidade... esta Eternia... da destruição total!";
 	["fec4a5d8526011eba6373c15c2dd513c"] = "Mas um dia... sim... se pudéssemos apenas aportar.\n{====}Poderíamos brotar. Brotar. Crescer raízes fortes que cavam sob a terra.\n{====}{big}Até que um dia, uma onda poderosa vem se chocando, nos engolindo mais uma vez.\n{====}{big}E então ainda mais folhas partem, procurando sua própria terra para florescer.";
 	["fec4a92a526011eba6373c15c2dd513c"] = "Mas você. Você é diferente. Você que viverá para sempre...\n{====}{big}...nunca seria capaz de entender o fluxo e refluxo de nós meras ilusões.";
 	["fec4abaa526011eba6373c15c2dd513c"] = "Haha... {~~}BWAHAHAHAHAHA!\n{==}Você não pode... REALMENTE acreditar... que VOCÊ poderia derrotá-LA?";
@@ -825,7 +825,7 @@ return {
 	["6dca0358893d11ea97073c15c2dd513c"] = "O sabor do verão!";	
 	};
 ["TrainHome.sq"]={
-	["5c285686c75411ea99c93c15c2dd513c"] = "Eu tenho gelo em articulações que eu nem sabia que tinha...{.}\n{====}{big}Juro, o inverno aqui em Ester City é como correr em círculos em uma ferrovia loooonga sem fim à vista.";
+	["5c285686c75411ea99c93c15c2dd513c"] = "Eu tenho gelo em articulações que eu nem sabia que tinha...{.}\n{====}{big}Juro, o inverno aqui em Eternia é como correr em círculos em uma ferrovia loooonga sem fim à vista.";
 	["5c28576cc75411ea99c93c15c2dd513c"] = "Vocês robôs têm tudo feito.\n{====}Eu não consigo sentir absolutamente nada.";
 	["5c2857d0c75411ea99c93c15c2dd513c"] = "Você fala sobre isso como se fosse uma coisa ruim.";
 	["5c28582ac75411ea99c93c15c2dd513c"] = "Não é? Eu adoraria sentir o frio pelo menos uma vez...";
@@ -870,7 +870,7 @@ return {
 	["5c2887bec75411ea99c93c15c2dd513c"] = "Vocês dois precisam ir para a Torre Eterna!";
 	["5c288818c75411ea99c93c15c2dd513c"] = "Sim, mas, sem a Chama do Tempo, como eles vão entrar?";
 	["5c288868c75411ea99c93c15c2dd513c"] = "Graças às pistas que aquela amiga de vocês deixou para trás...\n{====}...estamos mais perto da chama do que nunca.\n{====}Se ela não tivesse espalhado aquelas páginas do meu diário...";
-	["5c288962c75411ea99c93c15c2dd513c"] = "{big}Nós já procuramos cada centímetro de Ester City e ainda não sabemos onde está a chama...";
+	["5c288962c75411ea99c93c15c2dd513c"] = "{big}Nós já procuramos cada centímetro de Eternia e ainda não sabemos onde está a chama...";
 	["5c2889e4c75411ea99c93c15c2dd513c"] = "Vocês não estão considerando todos os lugares possíveis.";
 	["5c288a48c75411ea99c93c15c2dd513c"] = "Ah, olhe para você, Sr. Sabe-Tudo. E como você saberia?\n{====}{big}Você nem mora aqui! Ficou naquela ilha todos esses anos...\n{====}Espere... aquela ilha. Não era a Ilha do Tempo, era?";
 	["5c288b06c75411ea99c93c15c2dd513c"] = "Era.";
@@ -891,7 +891,7 @@ return {
 	["5c289f10c75411ea99c93c15c2dd513c"] = "Nós sabemos.";
 	["5c28a050c75411ea99c93c15c2dd513c"] = "O tempo está voltando ao normal.";
 	["5c28a0e6c75411ea99c93c15c2dd513c"] = "E então... então voltamos para o fundo da torre.";
-	["5c28a140c75411ea99c93c15c2dd513c"] = "O que você vê agora é a verdadeira Ester City. E a verdadeira Torre Eterna.";
+	["5c28a140c75411ea99c93c15c2dd513c"] = "O que você vê agora é a verdadeira Eternia. E a verdadeira Torre Eterna.";
 	["5c28a19ac75411ea99c93c15c2dd513c"] = "O que você viu antes era apenas uma ilusão.";
 	["5c28bc16c75411ea99c93c15c2dd513c"] = "Não esteja com tanta pressa, não é...?{wait:0.5}\n{====}{<}Deixe-nos pelo menos dar uma boa olhada em você.";
 	["5c28bd38c75411ea99c93c15c2dd513c"] = "{<}Ela foi bem cuidada.";
@@ -938,7 +938,7 @@ return {
 	["f2af16a4e44f11ea901f3c15c2dd513c"] = "Ela é Sam agora.";
 	["f2af17bce44f11ea901f3c15c2dd513c"] = "Realmente. E parece que ela foi bem cuidada também.";
 	["f2af18e8e44f11ea901f3c15c2dd513c"] = "Esse tal de John. Ele é um cara legal.";
-	["f2af1a14e44f11ea901f3c15c2dd513c"] = "A verdadeira... Ester City?";
+	["f2af1a14e44f11ea901f3c15c2dd513c"] = "A verdadeira... Eternia?";
 	["f2af1d52e44f11ea901f3c15c2dd513c"] = "Então... espera... Isabel...\n{====}Está no topo da VERDADEIRA Torre Eterna?";
 	["f2af1f00e44f11ea901f3c15c2dd513c"] = "Seu amigo, quer dizer?\n{====}Suponho que você não saberá a menos que vá conferir.";
 	["f2af200ee44f11ea901f3c15c2dd513c"] = "Então, vamos! C'mon, John! Vamos para o topo da torre!";
@@ -954,8 +954,8 @@ return {
 	["1b92d90e2ca111eb801b3c15c2dd513c"] = "{~}O Sonic Punk!";
 	["1b92daa82ca111eb801b3c15c2dd513c"] = "Saudações, Assistentes de Laboratório Sam e John.\n{====}O Sonic Punk, se apresentando para o dever.";
 	["1b92de7c2ca111eb801b3c15c2dd513c"] = "Sr. Sonic Punk!\n{====}Onde você foi?";
-	["1b92e0522ca111eb801b3c15c2dd513c"] = "Fui danificado devido a interferência em Ester City.\n{====}Mas o Mestre Guy me consertou.";
-	["1b92e1562ca111eb801b3c15c2dd513c"] = "Não foi nenhum problema, na verdade.\n{====}{big}Embora eu tenha que dizer, adoraria ver quem criou esse pequeno cara.\n{====}Não sei se você encontraria talento assim mesmo aqui em Ester City.\n{====}Ah, certo. Eu talvez tenha adicionado algumas novas funcionalidades a ele...";
+	["1b92e0522ca111eb801b3c15c2dd513c"] = "Fui danificado devido a interferência em Eternia.\n{====}Mas o Mestre Guy me consertou.";
+	["1b92e1562ca111eb801b3c15c2dd513c"] = "Não foi nenhum problema, na verdade.\n{====}{big}Embora eu tenha que dizer, adoraria ver quem criou esse pequeno cara.\n{====}Não sei se você encontraria talento assim mesmo aqui em Eternia.\n{====}Ah, certo. Eu talvez tenha adicionado algumas novas funcionalidades a ele...";
 	["1b92e4c62ca111eb801b3c15c2dd513c"] = "Novas funcionalidades?";
 	["1b92f0062ca111eb801b3c15c2dd513c"] = "Procurando por: Isabel...\n{====}Sinal encontrado!\n{==}Sinal encontrado!";
 	["1b92f20e2ca111eb801b3c15c2dd513c"] = "Isso mesmo! Confira!";
@@ -967,7 +967,7 @@ return {
 	["1b9301ae2ca111eb801b3c15c2dd513c"] = "Falando nisso. John, meu garoto. Me dê aquela velha frigideira, o que acha?\n{====}Gostaria de dar uma olhada com meus olhos velhos.";
 	["1b93033e2ca111eb801b3c15c2dd513c"] = "Sim...\n{====}Uma boa frigideira, esta, para ainda estar em boa forma depois de tanto tempo...";
 	["1b9304b02ca111eb801b3c15c2dd513c"] = "Pegue, John. Considere isso nosso presente final.\n{====}E que isso proteja ambos.";
-	["fec88874526011eba6373c15c2dd513c"] = "Eu sofri danos devido à interferência em Ester City.\n{====}Mas o Mestre Guy me consertou.";	
+	["fec88874526011eba6373c15c2dd513c"] = "Eu sofri danos devido à interferência em Eternia.\n{====}Mas o Mestre Guy me consertou.";	
 	};
 ["CH_Smith.sq"]={
 	["6dcb1e96893d11ea97073c15c2dd513c"] = "Se estiver indo para o mar, procure o Capitão Pam no Cais #5.\n{====}O navio dele é a única maneira de chegar à Ilha do Tempo.";
@@ -1030,8 +1030,8 @@ return {
 	["5bec7526c75411ea99c93c15c2dd513c"] = "Erm... você é meu professor?";
 	["5bec758ac75411ea99c93c15c2dd513c"] = "Não, não. Antes disso.";
 	["5bec767ac75411ea99c93c15c2dd513c"] = "Eu gostaria... muito, erm... de casar com você?";
-	["5bec76e8c75411ea99c93c15c2dd513c"] = "{~}HAHA! {~}HAHAHAHAHA!\n{====}Então eu não preciso mais me preocupar!\n{====}Meu coração está claro como o céu de Ester City!\n{====}Não posso agradecer o suficiente, vocês dois almas gentis!";
-	["5bec7742c75411ea99c93c15c2dd513c"] = "O céu de Ester City...?";
+	["5bec76e8c75411ea99c93c15c2dd513c"] = "{~}HAHA! {~}HAHAHAHAHA!\n{====}Então eu não preciso mais me preocupar!\n{====}Meu coração está claro como o céu de Eternia!\n{====}Não posso agradecer o suficiente, vocês dois almas gentis!";
+	["5bec7742c75411ea99c93c15c2dd513c"] = "O céu de Eternia...?";
 	["5bec78fac75411ea99c93c15c2dd513c"] = "Você realmente é um anjo, meu querido jovem amigo.\n{====}É o que dizem em todas as antigas lendas, sabe.\n{====}{big}Que os anjos descerão ao mundo durante a temporada branca.\n{====}HAHAHAHA!!";
 	["5bec7a30c75411ea99c93c15c2dd513c"] = "Talvez... Buchan estava certo.\n{====}Eu realmente estou me preocupando demais com o que os outros pensam.";	
 	};
@@ -1084,7 +1084,7 @@ return {
 	["5be8577ac75411ea99c93c15c2dd513c"] = "Um amigo, é?\n{====}Bem, nada é mais importante do que um amigo.\n{====}Mas vocês devem saber que entrar na Torre Eterna... não será fácil.";
 	["5be857d4c75411ea99c93c15c2dd513c"] = "Sabemos que Isabel usou a Chama do Tempo para abrir a porta!\n{====}Você não saberia onde podemos encontrá-la, Cap'n?";
 	["5be859dcc75411ea99c93c15c2dd513c"] = "Já tão longe, estão...?";
-	["5be85aeac75411ea99c93c15c2dd513c"] = "Receio que não tenho conhecimento sobre a localização da chama.\n{====}No entanto, se essa amiga sua conseguiu entrar na torre...\n{====}...deve estar em algum lugar aqui em Ester City.\n{====}Algum lugar onde não vão tropeçar nela.";
+	["5be85aeac75411ea99c93c15c2dd513c"] = "Receio que não tenho conhecimento sobre a localização da chama.\n{====}No entanto, se essa amiga sua conseguiu entrar na torre...\n{====}...deve estar em algum lugar aqui em Eternia.\n{====}Algum lugar onde não vão tropeçar nela.";
 	["5be85c0cc75411ea99c93c15c2dd513c"] = "Espere, eu sei! Podemos usar o Sonic Punk!";
 	["5be85ca2c75411ea99c93c15c2dd513c"] = "Por favor, nos leve até Isabel, Sr. Sonic Punk!";
 	["5be85cfcc75411ea99c93c15c2dd513c"] = "Comando recebido.\n{====}Procurando por: Isabel...";
@@ -1274,7 +1274,7 @@ return {
 	["6dc228ea893d11ea97073c15c2dd513c"] = "{~}Todos a bordo, seus {~}cachorros sarnentos!";
 	["6dc22a52893d11ea97073c15c2dd513c"] = "{big}Certifiquem-se de fechar bem a porta, sua velha cabeça de panela. Ou o vento vai levá-la embora!\n{====}{~}Har har har har har!";
 	["6dc22bc4893d11ea97073c15c2dd513c"] = "Nada como um pouco de rum depois de um longo dia no mar.\n{====}{~}Har har har har har!";
-	["6dc2212e893d11ea97073c15c2dd513c"] = "Pronto para zarpar, meu rapaz?\n{choice:yes}Voltar para Ester City\n{choice:no}Ainda não";
+	["6dc2212e893d11ea97073c15c2dd513c"] = "Pronto para zarpar, meu rapaz?\n{choice:yes}Voltar para Eternia\n{choice:no}Ainda não";
 	["6dc2220a893d11ea97073c15c2dd513c"] = "{big}Certifiquem-se de fechar bem a porta, sua velha cabeça de panela. Ou o vento vai levá-la embora!\n{====}{~}Har har har har har!";
 	["6dc22322893d11ea97073c15c2dd513c"] = "A neblina está terrivelmente densa hoje. Tenha cuidado, Capitão!\n{====}{~}Hyuck hyuck hyuck!";
 	["6dc22ef8893d11ea97073c15c2dd513c"] = "Bastante neblina lá fora hoje.";
@@ -1286,12 +1286,12 @@ return {
 	["1b8aaed22ca111eb801b3c15c2dd513c"] = "Esta é a borda do campo temporal.\n{====}Os ventos são os piores aqui fora.";
 	["1b8aafe02ca111eb801b3c15c2dd513c"] = "Todo mundo aqui, então?";
 	["1b8ab0802ca111eb801b3c15c2dd513c"] = "Não é hora de reclamar sobre o tempo, rapazes!\n{====}Acordem agora. Depois de mim!";
-	["1b8ab22e2ca111eb801b3c15c2dd513c"] = "Capitão Pam! Encontramos a chama!\n{====}Vamos voltar para Ester City!";
+	["1b8ab22e2ca111eb801b3c15c2dd513c"] = "Capitão Pam! Encontramos a chama!\n{====}Vamos voltar para Eternia!";
 	["1b8ab4222ca111eb801b3c15c2dd513c"] = "Parece que estamos prontos para levantar âncora então. Har har har!";	
 	};
 ["CH_Nicky.sq"]={
-	["6dc96fba893d11ea97073c15c2dd513c"] = "O inverno sempre parece durar para sempre aqui em Ester City.\n{====}Mas o calor das pessoas aqui certamente compensa.\n{====}Particularmente depois que eles tomaram uma bebida ou duas!";
-	["5c2c2ccac75411ea99c93c15c2dd513c"] = "O inverno sempre parece durar para sempre aqui em... Ester City...\n{====}Huh. Eu acabei de ter uma sensação estranha de déjà vu.\n{====}Quase como se já tivéssemos tido essa conversa antes.";
+	["6dc96fba893d11ea97073c15c2dd513c"] = "O inverno sempre parece durar para sempre aqui em Eternia.\n{====}Mas o calor das pessoas aqui certamente compensa.\n{====}Particularmente depois que eles tomaram uma bebida ou duas!";
+	["5c2c2ccac75411ea99c93c15c2dd513c"] = "O inverno sempre parece durar para sempre aqui em... Eternia...\n{====}Huh. Eu acabei de ter uma sensação estranha de déjà vu.\n{====}Quase como se já tivéssemos tido essa conversa antes.";
 	["5c2c2e3cc75411ea99c93c15c2dd513c"] = "Por que sinto que já tivemos essa conversa antes...?";	
 	};
 }

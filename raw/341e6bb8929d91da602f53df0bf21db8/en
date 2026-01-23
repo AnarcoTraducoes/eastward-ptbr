@@ -116,8 +116,8 @@ return {
 ["Casino_Ch5.sq"]={
 	["a2bb0708a19611eaa7f13c15c2dd513c"] = "{big}Você acha que eu fui o único responsável por isso? Eu não poderia ter feito isso sozinho!\n{====}Não sem a ordem da Mãe, é claro.";
 	["a2bb091aa19611eaa7f13c15c2dd513c"] = "E essa \"Mãe\" à qual você se refere... é a Sam?";
-	["a2bb0b22a19611eaa7f13c15c2dd513c"] = "Eu não sou cego! É ela, eu te digo. Ela!\n{====}Mas parece que ela não está... completa...\n{====}{signal:SolomonIdle}\"A semente ainda não encontrou a luz do sol...\" por assim dizer.\n{====}Ou talvez, suas memórias de Ester City já tenham...";
-	["a2bb0d8ea19611eaa7f13c15c2dd513c"] = "Ester City? Você quer dizer que esse lugar realmente existe?";
+	["a2bb0b22a19611eaa7f13c15c2dd513c"] = "Eu não sou cego! É ela, eu te digo. Ela!\n{====}Mas parece que ela não está... completa...\n{====}{signal:SolomonIdle}\"A semente ainda não encontrou a luz do sol...\" por assim dizer.\n{====}Ou talvez, suas memórias de Eternia já tenham...";
+	["a2bb0d8ea19611eaa7f13c15c2dd513c"] = "Eternia? Você quer dizer que esse lugar realmente existe?";
 	["a2bb0e2ea19611eaa7f13c15c2dd513c"] = "{~}Claro que existe, seu tolo!\n{====}Mas espere, você não está realmente pensando em IR para lá, está?\n{====}{big}Você está um pouco demais... VIVO... para ter alguma chance de chegar lá.";
 	["a2bb0e9ca19611eaa7f13c15c2dd513c"] = "Talvez... talvez não...";
 	["a2bb0ef6a19611eaa7f13c15c2dd513c"] = "Esse cheiro em você. Isso me lembra das fábricas.\n{====}Não me diga que você está-...";
@@ -344,7 +344,7 @@ return {
 	["67f799dcf80911eaac1b3c15c2dd513c"] = "Não basta saber disso para estimular sua mão?";
 	["67f79b1cf80911eaac1b3c15c2dd513c"] = "Não? {...}Porque você é apenas humano, afinal.";
 	["67f79c2af80911eaac1b3c15c2dd513c"] = "Então só há um caminho restante.";
-	["67f79d10f80911eaac1b3c15c2dd513c"] = "{<}Ester City...";	
+	["67f79d10f80911eaac1b3c15c2dd513c"] = "{<}Eternia...";	
 	};
 ["FanArea43.sq"]={
 	["25ccb638d2ac11e99fa13c15c2dd513c"] = "Não pode operar enquanto John estiver lá.";
@@ -367,7 +367,7 @@ return {
 	["06763750309311eb84b63c15c2dd513c"] = "A-isso não sou eu! Eu não sei do que você está falando!\n{====}Eu sou a SAM!";
 	["0676389a309311eb84b63c15c2dd513c"] = "Você é?\n{====}E quanto àquela velha capela?\n{====}A vila na montanha, engolida inteira.\n{====}E seu amigo, sim... em breve deixará de viver.";
 	["067639ee309311eb84b63c15c2dd513c"] = "{~}Isso foi VOCÊ!\n{====}Você chamou o MIASMA! Não eu!";
-	["06763aa2309311eb84b63c15c2dd513c"] = "FOI eu... e pelo mesmo motivo, você.";
+	["06763aa2309311eb84b63c15c2dd513c"] = "FUI eu... e pelo mesmo motivo, você.";
 	["06763b60309311eb84b63c15c2dd513c"] = "{~}Por que você faria algo assim?!";
 	["06763c1e309311eb84b63c15c2dd513c"] = "Tudo a seu tempo...";	
 	};
