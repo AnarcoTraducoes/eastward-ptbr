@@ -5,7 +5,7 @@ return {
 	["a2bd45c2a19611eaa7f13c15c2dd513c"] = "Não se mexa!\n{====}Deixe isso com os outros por enquanto.";
 	["a2bd4766a19611eaa7f13c15c2dd513c"] = "John.{signal:li_turn}\n{====}Como está-...";
 	["a2bd484ca19611eaa7f13c15c2dd513c"] = "Não, não. Isso é prioridade agora.";
-	["a2bd4928a19611eaa7f13c15c2dd513c"] = "C-Chefe!\n{====}{big}Não dá. Tem muitos deles! Nem conseguimos chegar perto da entrada de Lowtown.";
+	["a2bd4928a19611eaa7f13c15c2dd513c"] = "C-Chefe!\n{====}{big}Não dá. Tem muitos deles! Nem conseguimos chegar perto da entrada da Parte Baixa.";
 	["a2bd4a5ea19611eaa7f13c15c2dd513c"] = "{~}Nããããão!\n{====}Meu Fang-Fang está lá dentro!";
 	["a2bd4c98a19611eaa7f13c15c2dd513c"] = "Há algo que você pode fazer, John?";
 	["a2bd4de2a19611eaa7f13c15c2dd513c"] = "Aqui, pegue isso. É... o mínimo que posso fazer para ajudar.";
@@ -66,7 +66,7 @@ return {
 	["374665d492a111ea9a513c15c2dd513c"] = "Armstrong, você não sabe dirigir isso, sabe?";
 	["3746662e92a111ea9a513c15c2dd513c"] = "Duhhh... nosso pai nos ensinou a dirigir um carro uma vez.\n{====}Acho que um metrô não vai ser muito diferente.\n{====}Mas você precisa ter um trem primeiro.\n{====}E nós nem temos isso!";
 	["374666b092a111ea9a513c15c2dd513c"] = "Hmm... talvez devêssemos seguir o caminho mais longo?";
-	["374667c892a111ea9a513c15c2dd513c"] = "{~}De jeito nenhum! Tem muitos monstros lá fora!\n{====}Na hora em que chegarmos à \"Big\" Station...\n{====}... não vai sobrar nada do meu irmão!";
+	["374667c892a111ea9a513c15c2dd513c"] = "{~}De jeito nenhum! Tem muitos monstros lá fora!\n{====}Na hora em que chegarmos à Estação \"Big\"...\n{====}... não vai sobrar nada do meu irmão!";
 	["3746686892a111ea9a513c15c2dd513c"] = "{~}{<}ARMSTRONG!";
 	["374668ea92a111ea9a513c15c2dd513c"] = "Papai...";
 	["374669ee92a111ea9a513c15c2dd513c"] = "Eu já sei de tudo.\n{====}Subam a bordo. Eu vou levá-los até a estação!";
@@ -87,7 +87,7 @@ return {
 	["0822f41c55e311e9ae4a3c15c2dd513c"] = "{<}Eu... eu só estava...";
 	["0822f61955e311e99b033c15c2dd513c"] = "{<<}...Ei{signal:pose}. {<}Izzy?";
 	["0822f8ae55e311e98d513c15c2dd513c"] = "Hm?";
-	["082302cc55e311e9a7493c15c2dd513c"] = "{<}Já faz um... {wait:0.5}um bom tempo, desde que... {|}bebemos assim juntos.";
+	["082302cc55e311e9a7493c15c2dd513c"] = "{<}Já faz um... {wait:0.5}um bom tempo, desde que... {|}bebemos assim juntas.";
 	["0823058055e311e997b63c15c2dd513c"] = "É verdade...";
 	["0823072b55e311e9a64d3c15c2dd513c"] = "Quando tudo isso acabar... {signal:pose}vamos a algum lugar, ok?";
 	["08230b6355e311e9a6cb3c15c2dd513c"] = "Claro.";
@@ -107,7 +107,7 @@ return {
 	["25da60c7d2ac11e989423c15c2dd513c"] = "{~}Aí está você!";
 	["25da638cd2ac11e988c93c15c2dd513c"] = "Sr. Sonic Punk!\n{====}Nós parecemos nos encontrar bastante hoje, não é?";
 	["25da6491d2ac11e990883c15c2dd513c"] = "Lembrei de algo que queria te dar!";
-	["25da65b0d2ac11e9920c3c15c2dd513c"] = "Isto é uma Floater Bomb!\n{====}É um balão cheio de pólvora combustível...\n{====}{big}Que automaticamente busca inimigos e alvos nas proximidades.\n{====}Embora não seja tão poderoso quanto uma bomba normal, ainda pode iluminar as coisas.\n{====}{big}Que tal experimentar em aquele gerador ali?";
+	["25da65b0d2ac11e9920c3c15c2dd513c"] = "Isto é uma bomba flutuante!\n{====}É um balão cheio de pólvora combustível...\n{====}{big}Que automaticamente busca inimigos e alvos nas proximidades.\n{====}Embora não seja tão poderoso quanto uma bomba normal, ainda pode iluminar as coisas.\n{====}{big}Que tal experimentar em aquele gerador ali?";
 	["25da6705d2ac11e9aa353c15c2dd513c"] = "Se você queimar aquelas vinhas, ele deve voltar a funcionar bem.";
 	["25da688ad2ac11e997a43c15c2dd513c"] = "Cuidado para não queimar VOCÊ mesmo!\n{====}Essas coisas não são brincadeira!";
 	["b9178b17182011eaa3658c85907abf45"] = "John! Para onde você está indo?";
@@ -137,12 +137,12 @@ return {
 	};
 ["Control.sq"]={
 	["0838d30c55e311e993e13c15c2dd513c"] = "Inimigo se aproximando da entrada 17.";
-	["0838d58255e311e987dc3c15c2dd513c"] = "Três horas e cinquenta e cinco minutos antes de atingir a represa.";
+	["0838d58255e311e987dc3c15c2dd513c"] = "Três horas e cinquenta e cinco minutos antes de atingir a cidade.";
 	["0838d77855e311e9a3a13c15c2dd513c"] = "Sistema central do transformador, todos os sistemas operacionais.";
 	["0838d8d755e311e999693c15c2dd513c"] = "Execute testes nos sistemas de refrigeração, agora!";
-	["0838da4755e311e9a7213c15c2dd513c"] = "Eficiência de carregamento de Midtown diminuindo.\n{====}{big}Temos um circuito fora no metrô. Repetindo, circuito fora no metrô.";
+	["0838da4755e311e9a7213c15c2dd513c"] = "Eficiência de carregamento da Parte do Meio diminuindo.\n{====}{big}Temos um circuito fora no metrô. Repetindo, circuito fora no metrô.";
 	["0838db9155e311e99d323c15c2dd513c"] = "Vamos conseguir?";
-	["0838dd8f55e311e9bf803c15c2dd513c"] = "Não subestime o poder do Deus do Vento, Lee-Lee!";
+	["0838dd8f55e311e9bf803c15c2dd513c"] = "Não subestime o poder do Wind God, Lee-Lee!";
 	["0838df2855e311e989743c15c2dd513c"] = "Evacuação civil concluída.\n{====}Não, espere! Temos três desaparecidos!";
 	["a2b0eb56a19611eaa7f13c15c2dd513c"] = "Eficiência de carregamento continua caindo!";
 	["0838e07d55e311e9a1263c15c2dd513c"] = "{~}Izzy!";
@@ -151,7 +151,7 @@ return {
 	["0838e5eb55e311e99a053c15c2dd513c"] = "Quanto tempo isso vai levar?";
 	["0838e70f55e311e9ae593c15c2dd513c"] = "Paciência, Lee-Lee. Paciência!";
 	["0838e81155e311e98d9b3c15c2dd513c"] = "{~}Me solte, seu tolo!\n{====}Minha pele nunca deveria ser tocada por sujeira como você!";
-	["0838e94755e311e9bcdc3c15c2dd513c"] = "Se acalme, baixinha.";
+	["0838e94755e311e9bcdc3c15c2dd513c"] = "Se acalme, criança.";
 	["0838ea7555e311e9815a3c15c2dd513c"] = "Subestação da Princess Avenue... potência aumentando.";
 	["0838ebe655e311e9bd7e3c15c2dd513c"] = "A energia foi restaurada no metrô.";
 	["0838edc555e311e98b723c15c2dd513c"] = "Alva! Estamos de volta!";
@@ -178,13 +178,13 @@ return {
 	["a2b0f07ea19611eaa7f13c15c2dd513c"] = "Caramba, mal posso esperar para comer esse curry!";
 	["a2b0f132a19611eaa7f13c15c2dd513c"] = "Izzy! Como está o acelerador secundário?";
 	["a2b0f1d2a19611eaa7f13c15c2dd513c"] = "Eu o deixei em ordem por enquanto.\n{====}Mas é estranho. O dano,\nfoi... não parece um acidente.\n{====}É quase como se fosse deliberado. Alguém realmente queimou.";
-	["a2b0f2e0a19611eaa7f13c15c2dd513c"] = "Alguém queimou...? {signal:alva_think}\n{====}Mas... o Joe comum nem consegue ENTRAR lá.";
+	["a2b0f2e0a19611eaa7f13c15c2dd513c"] = "Alguém queimou...? {signal:alva_think}\n{====}Mas... uma pessoa comum não conseguiria ENTRAR lá.";
 	["a2b0f36ca19611eaa7f13c15c2dd513c"] = "{~}O-que foi isso?!{stop}";
 	["a2b0f3d0a19611eaa7f13c15c2dd513c"] = "{~}Lee-Lee! {~}Relatório de status!";
 	["a2b0f538a19611eaa7f13c15c2dd513c"] = "{~}{>}Algum te-... -moto-... ci-dade in-... tremendo...\n{====}Você t-...! Or-... nando ev-... -ção im-...!";
-	["a2b0f65aa19611eaa7f13c15c2dd513c"] = "Th-...{~} -IASMA!\n{==}O MI-... -ack, chefe!";
-	["a2b0f6f0a19611eaa7f13c15c2dd513c"] = "{~}Al-...! Precisamos... -eus do Vento! ...-epetindo, pre-... -eus do Vento!{stop}";
-	["a2b0f77ca19611eaa7f13c15c2dd513c"] = "Cidadãos da cidade de New Dam, aqui é Alva falando!\n{====}O MIASMA voltou e está a caminho da cidade de New Dam!\n{====}Você deve evacuar para o Coin Palace imediatamente!\n{====}Pare o que está fazendo e vá para o Coin Palace! AGORA!";
+	["a2b0f65aa19611eaa7f13c15c2dd513c"] = "O-...{~} -IASMA!\n{==}O MI-... -taque, chefe!";
+	["a2b0f6f0a19611eaa7f13c15c2dd513c"] = "{~}Al-...! Precisamos... -Wind God! ...-epetindo, pre-... -Wind God!{stop}";
+	["a2b0f77ca19611eaa7f13c15c2dd513c"] = "Cidadãos da cidade de New Dam, aqui é Alva falando!\n{====}O MIASMA voltou e está a caminho da cidade de New Dam!\n{====}Vocês devem evacuar para o Coin Palace imediatamente!\n{====}Pare o que está fazendo e vá para o Coin Palace! AGORA!";
 	["a2b0f7f4a19611eaa7f13c15c2dd513c"] = "{~}Izzy!\n{~}Qual é o nosso cronograma?";
 	["a2b0f862a19611eaa7f13c15c2dd513c"] = "Trinta minutos. Espera, não. Vinte minutos!";
 	["a2b0f8eea19611eaa7f13c15c2dd513c"] = "Isso é muito LONGO...{stop}";
@@ -214,9 +214,9 @@ return {
 	["2c0903787ebd11e987473c15c2dd513c"] = "Para onde ela foi?";
 	["0839189755e311e998823c15c2dd513c"] = "Alva!";
 	["0839199955e311e9a36c3c15c2dd513c"] = "{~~}FIQUE LONGE!{stop}";
-	["17f1a9f62ca111eb801b3c15c2dd513c"] = "Alva! O Deus do Vento! Começou!";
+	["17f1a9f62ca111eb801b3c15c2dd513c"] = "Alva! O Wind God! Começou!";
 	["17f1ac8a2ca111eb801b3c15c2dd513c"] = "Alva...";
-	["17f1adca2ca111eb801b3c15c2dd513c"] = "Alva não está aqui.\n{====}Então quem foi que começou o Deus do Vento?";
+	["17f1adca2ca111eb801b3c15c2dd513c"] = "Alva não está aqui.\n{====}Então quem foi que começou o Wind God?";
 	["17f1afe62ca111eb801b3c15c2dd513c"] = "Ei! A porta aqui está aberta!";
 	};
 ["TownMid_Ch4.sq"]={
@@ -311,8 +311,8 @@ return {
 	["a2bcd8f8a19611eaa7f13c15c2dd513c"] = "Princesa! Você tem que ajudar!";
 	["a2bcdb5aa19611eaa7f13c15c2dd513c"] = "Você tem que salvar minha esposa!";
 	["a2bcdc54a19611eaa7f13c15c2dd513c"] = "John, por favor! Nos ouça!";
-	["a2bcdcfea19611eaa7f13c15c2dd513c"] = "Por favor! Estou te pedindo como... como um colega procurador de emprego!\n{====}Você só precisa ajudar! Eu estou implorando!\n{====}Minha esposa! Minha esposa ainda está em Lowtown!";
-	["a2bcddc6a19611eaa7f13c15c2dd513c"] = "{big}Depois que o MIASMA se foi, todos esses monstros saíram do Dragon Market.\n{====}Agora, eles estão causando tumulto em Lowtown. Estão por toda parte!\n{====}Nós, habitantes de Lowtown... não temos para onde ir! Não temos uma casa para voltar!";
+	["a2bcdcfea19611eaa7f13c15c2dd513c"] = "Por favor! Estou te pedindo como... como um colega trabalhador!\n{====}Você só precisa ajudar! Eu estou implorando!\n{====}Minha esposa! Minha esposa ainda está na Parte Baixa!";
+	["a2bcddc6a19611eaa7f13c15c2dd513c"] = "{big}Depois que o MIASMA se foi, todos esses monstros saíram do Dragon Market.\n{====}Agora, eles estão causando tumulto na Parte Baixa. Estão por toda parte!\n{====}Nós, habitantes da Parte Baixa... não temos para onde ir! Não temos uma casa para voltar!";
 	["a2bce14aa19611eaa7f13c15c2dd513c"] = "Ela ficará bem agora, acredite em minhas palavras!\n{====}Agora que John está no trabalho e tudo mais. Vamos!";
 	["a2bce302a19611eaa7f13c15c2dd513c"] = "Sabia que podíamos contar com o velho John!";
 	["a2bce406a19611eaa7f13c15c2dd513c"] = "Sim, não como a Isabel. Ela não dá a mínima para nós, pobres.";
@@ -396,11 +396,11 @@ return {
 	["082867d955e311e9a2e53c15c2dd513c"] = "Você precisa olhar através da chuva para ver o arco-íris.";
 	["08286a1455e311e9aa413c15c2dd513c"] = "Uma conclusão meritória, senhor!\n{====}Suas palavras são sempre exemplares. Vou anotar imediatamente!";
 	["d157a5f0cfad11e988543c15c2dd513c"] = "John, você precisa chegar à sala de controle.";
-	["d157db23cfad11e98be83c15c2dd513c"] = "{~}Seu tolo! O que você fez?!{stop}";
+	["d157db23cfad11e98be83c15c2dd513c"] = "{~}Sua tola! O que você fez?!{stop}";
 	["d157e311cfad11e999df3c15c2dd513c"] = "{big}O que você ainda está fazendo aqui, seu punk de cabelo azul? Vá para a sala de controle!";
 	["a2b88000a19611eaa7f13c15c2dd513c"] = "{~}Não você de novo, monstruosidade grosseira.";
 	["a2b88140a19611eaa7f13c15c2dd513c"] = "Maldito pirralho! Já tive o bastante das suas brincadeiras.\n{====}Você vem comigo!";
-	["a2b8824ea19611eaa7f13c15c2dd513c"] = "Você também, John. O ventilador vai começar em breve. Você deveria se apressar!";
+	["a2b8824ea19611eaa7f13c15c2dd513c"] = "Você também, John. O Wind God vai agir em breve. Você deveria se apressar!";
 	["d157ab7dcfad11e9aa2e3c15c2dd513c"] = "CARONTE! OUÇA O MEU CHAMADO!{stop}";	
 	};
 ["Temple_Inner.sq"]={
@@ -411,7 +411,7 @@ return {
 	["a2b6b5cca19611eaa7f13c15c2dd513c"] = "Alva, o que você acha?";
 	["a2b6b734a19611eaa7f13c15c2dd513c"] = "Na verdade, não parece ser um problema tão grande.";
 	["a2b6b8cea19611eaa7f13c15c2dd513c"] = "Mas minhas mãos estão um pouco, uh, ocupadas agora.";
-	["a2b6ba04a19611eaa7f13c15c2dd513c"] = "Lee!\n{====}{~}Oh! E Sr. The Sonic Punk! Nos encontramos novamente!";
+	["a2b6ba04a19611eaa7f13c15c2dd513c"] = "Lee!\n{====}{~}Oh! E Sr. Sonic Punk! Nos encontramos novamente!";
 	["a2b6bc16a19611eaa7f13c15c2dd513c"] = "Sonic o quê?";
 	["a2b6bd60a19611eaa7f13c15c2dd513c"] = "{~}OH! Haha. Hahaha. Que coi-... que coincidência!{stop}";
 	["a2b6bebea19611eaa7f13c15c2dd513c"] = "Parece que o elevador do santuário quebrou.\n{====}A única maneira de descer aqui-... erm, quer dizer, até a sala de controle...\n{====}...é dar a volta por fora da cidade.\n{====}Tem um túnel de manutenção que você pode pegar.\n{====}Se você sair pela saída do Centro da Cidade, não tem como errar.";
@@ -433,7 +433,7 @@ return {
 	["a2b24316a19611eaa7f13c15c2dd513c"] = "Finalmente! AÍ estão vocês!";
 	["a2b2444ca19611eaa7f13c15c2dd513c"] = "Sr. Sonic Punk!\n{====}Há tantos caminhos diferentes aqui!\n{====}Como vamos chegar à sala de controle?";
 	["a2b245bea19611eaa7f13c15c2dd513c"] = "Nunca tema - eu sei exatamente o que fazer!\n{====}Você vê, dentro deste túnel está a Comporta Central da barragem.";
-	["a2b246cca19611eaa7f13c15c2dd513c"] = "{big}Se você abrir isso, teremos energia suficiente para reiniciar o Deus do Vento novamente.";
+	["a2b246cca19611eaa7f13c15c2dd513c"] = "{big}Se você abrir isso, teremos energia suficiente para reiniciar o Wind God novamente.";
 	["a2b24884a19611eaa7f13c15c2dd513c"] = "Mesmo? Vamos encontrá-lo agora mesmo!";
 	["a2b2492ea19611eaa7f13c15c2dd513c"] = "{~}{big}Espera, espera! Antes de sair correndo, você primeiro precisa abrir as comportas do esgoto.\n{====}Senão, toda a barragem pode desmoronar devido à pressão.\n{====}{big}O esgoto tem um nível superior e um nível inferior. E você precisa abrir ambas as comportas.\n{====}{signal:megaboy_turn}Você pode alcançá-las pelos elevadores à direita e à esquerda.";
 	["a2b24992a19611eaa7f13c15c2dd513c"] = "{big}Supostamente, podemos operar as comportas a partir da sala de controle, mas...\n{====}Bem, alguém foi mexer nos circuitos de controle.\n{====}Por esse motivo, vamos ter que confiar em vocês para abri-los.";
@@ -445,8 +445,8 @@ return {
 	["a2b250d6a19611eaa7f13c15c2dd513c"] = "Talvez ele já tenha entrado lá dentro?\n{====}Vamos verificar, John!";
 	["c0d932ae654611eb85da3c15c2dd513c"] = "Finalmente! AÍ estão vocês!";
 	["c0d93556654611eb85da3c15c2dd513c"] = "Nunca tema - eu sei exatamente o que fazer!\n{====}Você vê, dentro deste túnel está a Comporta Central da barragem.";
-	["c0d93a24654611eb85da3c15c2dd513c"] = "{big}Se você abrir isso, teremos energia suficiente para reiniciar o Deus do Vento novamente.";
-	["c0d93b64654611eb85da3c15c2dd513c"] = "{~}{big}Wait, wait! Antes de sair correndo, você primeiro precisa abrir as comportas do esgoto.\n{====}Senão, toda a barragem pode desmoronar devido à pressão.\n{====}{big}O esgoto tem um nível superior e um nível inferior. E você precisa abrir ambas as comportas.\n{====}{signal:megaboy_turn}Você pode alcançá-las pelos elevadores à direita e à esquerda.";
+	["c0d93a24654611eb85da3c15c2dd513c"] = "{big}Se você abrir isso, teremos energia suficiente para reiniciar o Wind God novamente.";
+	["c0d93b64654611eb85da3c15c2dd513c"] = "{~}{big}Calma, calma! Antes de sair correndo, você primeiro precisa abrir as comportas do esgoto.\n{====}Senão, toda a barragem pode desmoronar devido à pressão.\n{====}{big}O esgoto tem um nível superior e um nível inferior. E você precisa abrir ambas as comportas.\n{====}{signal:megaboy_turn}Você pode alcançá-las pelos elevadores à direita e à esquerda.";
 	["c0d93bf0654611eb85da3c15c2dd513c"] = "{big}Supostamente, podemos operar as comportas a partir da sala de controle, mas...\n{====}Bem, alguém foi mexer nos circuitos de controle.\n{====}Por esse motivo, vamos ter que confiar em vocês para abri-los.";
 	};
 ["Troupe_Ch4.sq"]={
@@ -495,7 +495,7 @@ return {
 	["d163fa75cfad11e99aa03c15c2dd513c"] = "John! É perigoso ficar aí!";
 	["d163fc9ccfad11e9bad53c15c2dd513c"] = "Não bata ainda! Eu ainda estou aqui!";
 	["d16400b5cfad11e9a17c3c15c2dd513c"] = "John?{signal:turn}\n{====}É vocês?";
-	["d16402b3cfad11e982633c15c2dd513c"] = "Sem resposta...\n{====}Deve ser o John! {wait:0.5}{~}Ótimo!\n{====}Este é o Escoadouro Central.\n{====}Há um painel de controle no nível superior.\n{====}Abra para liberar a água.\n{====}Faça isso para todos os escoadouros de segurança.\n{====}Assim que estiverem abertos, poderemos ligar o Deus do Vento!";
+	["d16402b3cfad11e982633c15c2dd513c"] = "Sem resposta...\n{====}Deve ser o John! {wait:0.5}{~}Ótimo!\n{====}Este é o Escoadouro Central.\n{====}Há um painel de controle no nível superior.\n{====}Abra para liberar a água.\n{====}Faça isso para todos os escoadouros de segurança.\n{====}Assim que estiverem abertos, poderemos ligar o Wind God!";
 	["d16406b0cfad11e98c893c15c2dd513c"] = "John?{signal:turn}\n{====}É vocês?";
 	["d1640868cfad11e9ae763c15c2dd513c"] = "Sem resposta...\n{====}Deve ser o John! {wait:0.5}{~}Ótimo!";
 	["d1640980cfad11e984033c15c2dd513c"] = "{~}Vocês conseguiram!\n{====}O Escoadouro Central está aberto!\n{====}Eu sabia que vocês dariam conta das coisas com estilo!";
@@ -512,42 +512,42 @@ return {
 	["3748cc9892a111ea9a513c15c2dd513c"] = "Você tem que ir para o Santuário do Vento, John.\n{====}O chefe e a princesa já estão lá esperando por você.";
 	["efb80670761b11e987a43c15c2dd513c"] = "Nós estamos em casa...{stop}";
 	["efb80aa8761b11e9a8223c15c2dd513c"] = "Está tão silencioso...";
-	["b909e740182011eaa3f28c85907abf45"] = "Eu não tenho medo de nenhum velho \nMIASMA...";
+	["b909e740182011eaa3f28c85907abf45"] = "Eu não tenho medo de nenhum velho MIASMA...";
 	["a2b4e5a8a19611eaa7f13c15c2dd513c"] = "Eu posso sentir. Eu posso sentir!\n{====}A mana está convergindo. O tempo perdido está retornando ao meu corpo!";
 	["a2b4e6e8a19611eaa7f13c15c2dd513c"] = "Eu pensei que você deveria ficar mais jovem...";
 	["a2b4e77ea19611eaa7f13c15c2dd513c"] = "Mas eu estou! Você não pode sentir?\n{====}Estou dois séculos mais jovem! Por que, eu me sinto tão ágil quanto... como uma cabra!";
 	["a2b4e7f6a19611eaa7f13c15c2dd513c"] = "{~}Alva voltou!{stop}";
 	["a2b4e92ca19611eaa7f13c15c2dd513c"] = "BOM DIAAAA, meu querido Assistente de Laboratório Sam!";
-	["a2b4ea1ca19611eaa7f13c15c2dd513c"] = "Sr. The Sonic Punk!";
+	["a2b4ea1ca19611eaa7f13c15c2dd513c"] = "Sr. Sonic Punk!";
 	["a2b4ea9ea19611eaa7f13c15c2dd513c"] = "John! John, olhe! O Sonic Punk está aqui!";
 	["a2b4ec1aa19611eaa7f13c15c2dd513c"] = "Módulo \"Cheiro\" ativado.\n{====}Analisando o odor...";
 	["a2b4ed96a19611eaa7f13c15c2dd513c"] = "Hein? O que foi isso?";
 	["a2b4eecca19611eaa7f13c15c2dd513c"] = "Hohoho! É {~}curry! Apenas o meu ABSOLUTO favorito!";
-	["a2b4f098a19611eaa7f13c15c2dd513c"] = "Você gosta de curry também, Sr. The Sonic Punk?\n{====}Alva também gosta! Ela AMA o curry do John!";
+	["a2b4f098a19611eaa7f13c15c2dd513c"] = "Você gosta de curry também, Sr. Sonic Punk?\n{====}Alva também gosta! Ela AMA o curry do John!";
 	["a2b4f296a19611eaa7f13c15c2dd513c"] = "Izzy! Izzy, ele está fazendo CURRY!";
 	["a2b4f3c2a19611eaa7f13c15c2dd513c"] = "Hein? Izzy?";
 	["a2b4f476a19611eaa7f13c15c2dd513c"] = "Isabel também está aqui?";
 	["a2b4f7bea19611eaa7f13c15c2dd513c"] = "{~}Ah! Erm. O que eu quis dizer foi...\n{====}Isabel falou tanto sobre o curry do John...\n{====}Que eu estava morrendo de vontade de experimentar!";
-	["a2b4f8fea19611eaa7f13c15c2dd513c"] = "Oh! Você quer comer conosco, Sr. The Sonic Punk?";
+	["a2b4f8fea19611eaa7f13c15c2dd513c"] = "Oh! Você quer comer conosco, Sr. Sonic Punk?";
 	["a2b4fb38a19611eaa7f13c15c2dd513c"] = "{big}Peço desculpas, mas estou infelizmente bem no meio de uma missão de grande importância.\n{====}Você vê, Alva e Isabel ainda estão na sala de controle.\n{====}E os estômagos delas estão roncando com fervor cada vez maior!\n{====}Elas estavam esperando que seus fiéis assistentes de laboratório fossem tão gentis...\n{====}...em lhes entregar um pouquinho de comida.";
 	["a2b4fd0ea19611eaa7f13c15c2dd513c"] = "Entendido! Missão aceita!";
 	["a2b4fe1ca19611eaa7f13c15c2dd513c"] = "Excelente, excelente. Então, eu me despeço.\n{====}{big}Embora, se vocês encontrarem algum problema, não hesitem em me chamar.\n{====}Eu estarei lá na velocidade do som. Pois eu sou—";
 	["a2b4fed0a19611eaa7f13c15c2dd513c"] = "{~}O Sonic Punk!";
-	["a2b50038a19611eaa7f13c15c2dd513c"] = "Até mais, Sr. The Sonic Punk!{stop}";
+	["a2b50038a19611eaa7f13c15c2dd513c"] = "Até mais, Sr. Sonic Punk!{stop}";
 	["a2b501d2a19611eaa7f13c15c2dd513c"] = "John! Rápido, John! Rápido!";
 	["a2b50312a19611eaa7f13c15c2dd513c"] = "{<}Curry... VERIFICADO!{stop}";
 	["a2b50448a19611eaa7f13c15c2dd513c"] = "{<}Arroz... VERIFICADO!{stop}";
 	["a2b505b0a19611eaa7f13c15c2dd513c"] = "Operação almoço... {~}INICIAR!";
-	["a2b506aaa19611eaa7f13c15c2dd513c"] = "Nosso alvo? A Sala de Controle da Grande Barragem!";	
+	["a2b506aaa19611eaa7f13c15c2dd513c"] = "Nosso alvo? A Sala de Controle de New Dam!";	
 	};
 ["Bazar_Ch4.sq"]={
 	["3743a83092a111ea9a513c15c2dd513c"] = "{~}Ali!";
 	["3743aa0692a111ea9a513c15c2dd513c"] = "{~~}{<}WUUUAAAAAAAAAAH!";
 	["3743aba092a111ea9a513c15c2dd513c"] = "{~}Afaste-se!\n{==}Eu tenho que salvar meu irmão, e... e... você não vai me impedir!";
 	["3743acf492a111ea9a513c15c2dd513c"] = "{~}Vocês me salvaram!";
-	["3743ada892a111ea9a513c15c2dd513c"] = "{big}Vocês têm que chegar ao Coin Palace! Eles vão iniciar o Deus do Vento em breve!";
-	["3743adf892a111ea9a513c15c2dd513c"] = "Não posso fazer isso.\n{====}Meu irmão Silva ainda está lá fora. Ele foi para a \"Big\" Estação.\n{====}Eu tenho que salvá-lo!";
-	["3743aee892a111ea9a513c15c2dd513c"] = "\"Big\" Estação? Deixe isso conosco!\n{====}Deveríamos conseguir chegar lá rapidinho de metrô!";
+	["3743ada892a111ea9a513c15c2dd513c"] = "{big}Vocês têm que chegar ao Coin Palace! Eles vão iniciar o Wind God em breve!";
+	["3743adf892a111ea9a513c15c2dd513c"] = "Não posso fazer isso.\n{====}Meu irmão Silva ainda está lá fora. Ele foi para a Estação \"Big\".\n{====}Eu tenho que salvá-lo!";
+	["3743aee892a111ea9a513c15c2dd513c"] = "Estação \"Big\"? Deixe isso conosco!\n{====}Deveríamos conseguir chegar lá rapidinho de metrô!";
 	["3743b05092a111ea9a513c15c2dd513c"] = "Vocês vão me ajudar?\n{====}Ótimo! Vamos juntos então.";
 	["d8ab4e30cb3111eabc143c15c2dd513c"] = "Você ouviu falar?\n{====}Aqueles dois cabeças de vento foram caçar tesouros na barragem.";
 	["d8ab4ff2cb3111eabc143c15c2dd513c"] = "Hur hur hur. Parece muito com algo que eles fariam.";
@@ -568,7 +568,7 @@ return {
 	["a2b77f52a19611eaa7f13c15c2dd513c"] = "Uau! Então, este caminho também leva à barragem, né?";
 	["a2b78240a19611eaa7f13c15c2dd513c"] = "É como um... um passageiro ultrassecreto!\n{====}Assim como o da casa do prefeito!";
 	["a2b78330a19611eaa7f13c15c2dd513c"] = "O que foi isso? O que está acontecendo?";
-	["a2b784caa19611eaa7f13c15c2dd513c"] = "Cidadãos da cidade de New Dam, aqui é a Alva falando!\n{====}O MIASMA voltou e está a caminho da cidade de New Dam!\n{====}Você deve evacuar para o Coin Palace imediatamente!\n{====}Pare o que está fazendo e vá para o Coin Palace! AGORA!";
+	["a2b784caa19611eaa7f13c15c2dd513c"] = "Cidadãos da cidade de New Dam, aqui é a Alva falando!\n{====}O MIASMA voltou e está a caminho da cidade de New Dam!\n{====}Vocês devem evacuar para o Coin Palace imediatamente!\n{====}Pare o que está fazendo e vá para o Coin Palace! AGORA!";
 	["a2b786aaa19611eaa7f13c15c2dd513c"] = "É a Alva!";
 	["a2b787cca19611eaa7f13c15c2dd513c"] = "John! Temos que chegar à sala de controle rápido!\n{====}Eles devem precisar da nossa ajuda!";
 	["a2b78916a19611eaa7f13c15c2dd513c"] = "John!";
@@ -598,8 +598,8 @@ return {
 	["25d1f561d2ac11e996153c15c2dd513c"] = "{>}V-você{>>}...{.}{|}!\n{====}Por que você... como você poderia...?!";
 	["25d1f635d2ac11e98a213c15c2dd513c"] = "Eu vejo....\nAgora tudo faz sentido!\n{====}{~}Você! Você é a Mãe!\n{====}Isso... isso explica tudo!";
 	["25d1f7a6d2ac11e989583c15c2dd513c"] = "Isso é o que você quis dizer com \"destino\", não é, velho?";
-	["25d1f8a1d2ac11e98e5d3c15c2dd513c"] = "Então me permita... {.}despedaçar esse destino em mil pedaços{|}!";
-	["25d1fae3d2ac11e997263c15c2dd513c"] = "O martelo cai agora!";
+	["25d1f8a1d2ac11e98e5d3c15c2dd513c"] = "Então me permita... {.}despedaçar esse destino em {<}{signal:camera_zoom}mil pedaços{|} !";
+	["25d1fae3d2ac11e997263c15c2dd513c"] = "Chegou a hora do julgamento!";
 	["25d1fd82d2ac11e9ba173c15c2dd513c"] = "Não importa... o que você faz comigo...\n{====}Esse seu ventilador está acabado.\n{====}E em breve, o MIASMA engolirá toda esta cidade.";
 	["25d1fe8fd2ac11e99f6a3c15c2dd513c"] = "Alva? Alva está aqui?";
 	["25d1ffbad2ac11e99a4f3c15c2dd513c"] = "Lee?";
@@ -607,7 +607,7 @@ return {
 	["25d20168d2ac11e9ab203c15c2dd513c"] = "...";
 	["17f51f6e2ca111eb801b3c15c2dd513c"] = "{~}Quem está aí?!";
 	["17f521762ca111eb801b3c15c2dd513c"] = "Volte aqui! O ventilador está prestes a ligar!";
-	["17f5252c2ca111eb801b3c15c2dd513c"] = "Espere um minuto. Você... essa \ndisfarce... igual ao da Mãe...";
+	["17f5252c2ca111eb801b3c15c2dd513c"] = "Espere um minuto. Você... esse \ndisfarce... igual ao da Mãe...";
 	["17f5272a2ca111eb801b3c15c2dd513c"] = "E se for...";
 	["17f5293c2ca111eb801b3c15c2dd513c"] = "Eu deveria esperar nada menos de você, Mãe...\n{====}Eu concedo minha... derrota.";
 	["17f52bb22ca111eb801b3c15c2dd513c"] = "{~}O que você fez?!\n{====}O Wind God! Você vai destruí-lo!";

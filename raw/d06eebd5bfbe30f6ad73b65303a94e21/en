@@ -527,8 +527,8 @@ return {
 	["pop_get_shotgun"] = "Ótimo! Você tem a arma Bang-Bang! Você pode encontrá-la no seu menu de armas.";
 	["pop_get_flame"] = "Ótimo! Você tem o cetro de chama! Você pode encontrá-lo no seu menu de armas.";
 	["pop_get_cog"] = "Ótimo! Você tem o atirador de engrenagem! Você pode encontrá-lo no seu menu de armas.";
-	["pop_get_bomb_float"] = "Ótimo! Você tem uma bomba flutuante! Você \npode encontrá-lo no \nseu menu de armas.";
-	["pop_get_bomb_remote"] = "Ótimo! Você tem uma bomba remota! Você pode encontrá-lo no menu Armas.";
+	["pop_get_bomb_float"] = "Ótimo! Você tem uma bomba flutuante! Você \npode encontrá-la no \nseu menu de armas.";
+	["pop_get_bomb_remote"] = "Ótimo! Você tem uma bomba remota! Você pode encontrá-la no menu Armas.";
 	["pop_get_part_bomb"] = "Caixa de bombas melhorada! Agora você pode carregar mais bombas!";
 	["money_get_chest"] = "$(count) sais encontrados. Que salgado!";
 	["hint_switch_group"] = "Mova um ou ambos os personagens.";

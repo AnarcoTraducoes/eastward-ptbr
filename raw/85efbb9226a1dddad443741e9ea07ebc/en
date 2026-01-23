@@ -14,7 +14,7 @@ return {
 	["75a30126f80d11ea8f7c3c15c2dd513c"] = "Oldtown é lar de algumas... formas de vida estranhas.";
 	["75a303ecf80d11ea8f7c3c15c2dd513c"] = "{big}Mas não se preocupe! Um herói estará de prontidão para entrar em ação e ajudar no último minuto!";
 	["75a30662f80d11ea8f7c3c15c2dd513c"] = "Macacos inteligentes...\nVamos ter que investigar isso!";
-	["75a307acf80d11ea8f7c3c15c2dd513c"] = "Não se preocupe! Não há como o Deus do Vento perder!";
+	["75a307acf80d11ea8f7c3c15c2dd513c"] = "Não se preocupe! Não há como o Wind God perder!";
 	["75a30838f80d11ea8f7c3c15c2dd513c"] = "{<}Ufa!\n{====}Finalmente acabou.\n{====}Minhas mãos ainda estão tremendo...\n{====}Acho que ainda não estou acostumado com esse tipo de coisa.";
 	["75a308b0f80d11ea8f7c3c15c2dd513c"] = "Você não terá problemas para encontrar o lugar.\n{====}Mas aquele velho, por outro lado...";
 	["75a309dcf80d11ea8f7c3c15c2dd513c"] = "Nunca subestime o caranguejo!\n{====}Deixados por conta própria, eles podem crescer tanto quanto um... um foguete!";
@@ -25,7 +25,7 @@ return {
 	};
 ["CH_Li.sq"]={
 	["75a36062f80d11ea8f7c3c15c2dd513c"] = "Deixo Alva e Isabel com você, então.\n{====}Assim que o poder estiver pronto, tentarei entrar em contato com você.";
-	["75a361def80d11ea8f7c3c15c2dd513c"] = "{<}E agora o Deus do Vento... é exatamente como a profecia previu...";
+	["75a361def80d11ea8f7c3c15c2dd513c"] = "{<}E agora o Wind God... é exatamente como a profecia previu...";
 	["75a36288f80d11ea8f7c3c15c2dd513c"] = "Não perca tempo por aqui.\n{====}Não quero ligar aquilo até que todos sejam evacuados.";
 	["75a363faf80d11ea8f7c3c15c2dd513c"] = "Tenham cuidado. Ambos.\n{====}{big}Depois de tudo o que aconteceu... não podemos nos dar ao luxo de perder mais ninguém.";
 	};

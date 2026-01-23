@@ -31,7 +31,7 @@ return {
 	["96cf44e6155511e98c9d3c15c2dd513c"] = "Se eu pudesse colocar minhas mãos em uma daquelas pérolas gigantes!\n{====}{big}Não há como Jennifer recusar minha proposta com AQUILO no dedo dela!";
 	["69e34862893d11ea97073c15c2dd513c"] = "Uau! Outra estação!";
 	["69e34b5a893d11ea97073c15c2dd513c"] = "Estamos de volta à Cidade do Novo Dique?";
-	["69e34cea893d11ea97073c15c2dd513c"] = "Isso mesmo, Senhorita Caixinhos.\n{====}{big}Basta subir essas escadas com os grampos e você estará de volta à Avenida Princesa.\n{====}Ah! Antes que eu me esqueça! Pegue isso.";
+	["69e34cea893d11ea97073c15c2dd513c"] = "Isso mesmo, Senhorita Caixinhos.\n{====}{big}Basta subir essas escadas com os grampos e você estará de volta à Princess Avenue.\n{====}Ah! Antes que eu me esqueça! Pegue isso.";
 	["69e34dda893d11ea97073c15c2dd513c"] = "{big}É um passe de metrô. Permitirá que você ande nos trilhos sempre que quiser - de graça!\n{====}Sempre. Onde quer que seja. Você e o metrô foram feitos um para o outro!\n{====}Mas chega disso! Tenho outros trabalhos para fazer!\n{====}Então, receio que seja aqui que nos despedimos.\n{====}Se vocês planejam ficar por esta cidade do dique, bem.\n{====}Vamos dizer que vamos nos ver muito! Adeus!";	
 	};
 ["TownMid_Ch3.sq"]={
@@ -566,10 +566,10 @@ return {
 	["69dc32f2893d11ea97073c15c2dd513c"] = "Chefe!";
 	["48d0ec6655e211e984fe3c15c2dd513c"] = "{<}Moeda, moeda, moeda...\n{====}Pensar que uma mera moeda...";
 	["69dc3450893d11ea97073c15c2dd513c"] = "Do que você está falando?";
-	["48d0ed9c55e211e9b99b3c15c2dd513c"] = "Me diga. Você já ouviu falar da \"Profecia do Deus do Vento\"?";
-	["48d0eeae55e211e9a5823c15c2dd513c"] = "Profecia do Deus do Vento?";
-	["48d0f06e55e211e987053c15c2dd513c"] = "Uma vez que o destino tenha seguido seu curso...\n{====}A máquina cobiçosa encontrará seu fim.\n{====}É quando o bem e o mal descerão.\n{====}Junto com o Deus do Vento, os heróis assumirão sua luta...\n{====}...para salvar a cidade de New Dam de seu infortúnio.";
-	["69dc35a4893d11ea97073c15c2dd513c"] = "O que isso significa?\n{====}Isso é algo do Earth Born?\n{====}Eu nunca ouvi falar do Deus do Vento.";
+	["48d0ed9c55e211e9b99b3c15c2dd513c"] = "Me diga. Você já ouviu falar da \"Profecia do Wind God\"?";
+	["48d0eeae55e211e9a5823c15c2dd513c"] = "Profecia do Wind God?";
+	["48d0f06e55e211e987053c15c2dd513c"] = "Uma vez que o destino tenha seguido seu curso...\n{====}A máquina cobiçosa encontrará seu fim.\n{====}É quando o bem e o mal descerão.\n{====}Junto com o Wind God, os heróis assumirão sua luta...\n{====}...para salvar a cidade de New Dam de seu infortúnio.";
+	["69dc35a4893d11ea97073c15c2dd513c"] = "O que isso significa?\n{====}Isso é algo do Earth Born?\n{====}Eu nunca ouvi falar do Wind God.";
 	["cef27917cfad11e9ac6a3c15c2dd513c"] = "Você não tem medo de perder, garota?";
 	["48d0f32855e211e9b82a3c15c2dd513c"] = "Não dá para saber a menos que eu tente!";
 	["48d0f8c055e211e98be73c15c2dd513c"] = "Você acha que eles são... os heróis da lenda?";
@@ -619,7 +619,7 @@ return {
 ["FanArea11.sq"]={
 	["66b101d0f80911eaac1b3c15c2dd513c"] = "Isso está se tornando uma grande dor de cabeça... UGH!";
 	["66b1cf98f80911eaac1b3c15c2dd513c"] = "Quem em sã consciência instalaria algo assim na barragem?!";
-	["66b29a9af80911eaac1b3c15c2dd513c"] = "{big}Sr. The Sonic Punk! O que há de errado? Algum oponente astuto está te dando trabalho?";
+	["66b29a9af80911eaac1b3c15c2dd513c"] = "{big}Sr. Sonic Punk! O que há de errado? Algum oponente astuto está te dando trabalho?";
 	["66b37992f80911eaac1b3c15c2dd513c"] = "Oh, são vocês dois.";
 	["66b44adef80911eaac1b3c15c2dd513c"] = "Bem, de repente, há muitos monstros aqui embaixo.\n{====}Além disso, eu não sei quem... mas ALGUÉM instalou algum tipo de dispositivo estranho... uma engenhoca!";
 	["66b44c6ef80911eaac1b3c15c2dd513c"] = "Ataques normais parecem não fazer nada contra eles!\n{====}Há algo sobre suas carapaças negras...\n{====}{big}Se ao menos houvesse uma maneira de injetar algum tipo de energia de alta densidade neles...";
@@ -1885,7 +1885,7 @@ return {
 	["edd4eaa6761b11e9bff83c15c2dd513c"] = "Oláááá, cavalheiros! E deem uma olhada neste anúncio de qualidade!\n{====}\"Aguce seu apetite no Wet 'n Wonder Waterpark dos pântanos!\"\n{====}\"Equipe de construção do parque aquático procura guarda-costas capazes para afastar criaturas travessas.\"\n{====}\"Candidate-se hoje e faça do mundo um lugar mais molhado!\"";
 	["edd4ec57761b11e9bedb3c15c2dd513c"] = "Guarda-costas? Criaturas travessas...?";
 	["edd4ed14761b11e99b233c15c2dd513c"] = "Uhhh... parece ser um trabalho para, \nhã... VOCÊ! Sim, melhor \naceitar este.";
-	["edd4edb3761b11e9a3a23c15c2dd513c"] = "Os pântanos estão a leste da \"Estação Grande\".\n{====}Mas você não vai me ver lá, com certeza! Aquele lugar é uma armadilha mortal!";
+	["edd4edb3761b11e9a3a23c15c2dd513c"] = "Os pântanos estão a leste da \"Estação Big\".\n{====}Mas você não vai me ver lá, com certeza! Aquele lugar é uma armadilha mortal!";
 	["edd4f317761b11e9bb653c15c2dd513c"] = "Guarda-costas. Ha! Parecemos guarda-costas para você?";
 	["edd4f411761b11e982023c15c2dd513c"] = "Trabalhando duro ou mal trabalhando, né? Haha... ha...";
 	["edd4f4b0761b11e9979d3c15c2dd513c"] = "Não consigo imaginar a espécie de prato que você deve ter cozinhado para vencer o velho Lee.";

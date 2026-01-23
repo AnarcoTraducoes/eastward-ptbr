@@ -6,10 +6,10 @@ return {
 	["name::scene/design/env/Dam/Town/OutterCasino.scene"] = "Parte alta de Dam";
 	["name::scene/design/env/Dam/Town/Suburb.scene"] = "Onsei";
 	["name::scene/design/env/Dam/Town/ThirdStation.scene"] = "Damhill";
-	["name::scene/design/env/Dam/Town/TownBottom.scene"] = "Centro da Cidade";
-	["name::scene/design/env/Dam/Town/TownMid.scene"] = "Cidade Média";
-	["name::scene/design/env/Dam/Town/TownTop.scene"] = "Cidade alta";
-	["name::scene/design/env/Dam/Town/TownUp.scene"] = "Avenida Princesa";
+	["name::scene/design/env/Dam/Town/TownBottom.scene"] = "Parte Baixa";
+	["name::scene/design/env/Dam/Town/TownMid.scene"] = "Parte do Meio";
+	["name::scene/design/env/Dam/Town/TownTop.scene"] = "Parte Alta";
+	["name::scene/design/env/Dam/Town/TownUp.scene"] = "Princess Avenue";
 	["name::scene/design/env/Dam/Town/Troupe.scene"] = "Parque da Cidade";
 	["name::scene/design/env/Dam/Room/Bar.scene"] = "Jazz 21";
 	["name::scene/design/env/Dam/Room/Casino.scene"] = "\"Qian Wu\"";
@@ -74,12 +74,12 @@ return {
 	["name::scene/demo/Town/Shop.scene"] = "Casa Tayama";
 	["name::scene/demo/Town/Gear.scene"] = "do Jonny";
 	["name::「卡戎」博物馆"] = "Museu Charon";
-	["name::下水道"] = "Lowtown";
+	["name::下水道"] = "Parte Baixa";
 	["name::荆棘花园"] = "Jardim de espinheiros";
 	["name::地下铁"] = "Metrô";
 	["name::「大佛风扇」"] = "O fã de Buda";
 	["name::大坝控制室"] = "Sala de Controle de Barragens";
-	["name::尤瓦的家"] = "Casa da Yuva";
+	["name::尤瓦的家"] = "Casa da Uva";
 	["name::挖掘场"] = "Local de escavação";
 	["name::波特岛"] = "Ilha Potcrock";
 	["name::人类工厂"] = "Fábrica Humana";
@@ -138,7 +138,7 @@ return {
 	["name::「未来」"] = "Cidade de Ester";
 	["name::大坝公园"] = "Parque Central";
 	["name::特摄车厢"] = "Carro de efeitos especiais";
-	["name::公主街"] = "Avenida Princesa";
+	["name::公主街"] = "Princess Avenue";
 	["name::化妆一科"] = "Camarim 1";
 	["name::道具车厢"] = "Carro de armazenamento";
 	["name::田山商店"] = "Tayama";
@@ -386,9 +386,9 @@ return {
 	};
 ["quest_CH2"]={
 	["text::Greenberg"] = "Greenberg";
-	["text::OldNewHouse"] = "Yuva disse que há uma cabana antiga fora da cidade onde podemos ficar.";
+	["text::OldNewHouse"] = "Uva disse que há uma cabana antiga fora da cidade onde podemos ficar.";
 	["text::PigYard"] = "Parece que o Rancho Asa-Porco está com poucos recursos. Podemos encontrá-lo perto da entrada da Floresta Estranha.";
-	["text::Dinner"] = "Yuva já terminou de fazer o jantar. Vamos voltar para Greenberg.";
+	["text::Dinner"] = "Uva já terminou de fazer o jantar. Vamos voltar para Greenberg.";
 	["text::Hunting"] = "Um convidado não convidado";
 	["text::Hunt"] = "Persiga o canalha malandro e quebrador de cercas e ensine-lhe uma lição.";
 	["text::HumanFactory"] = "Uma instalação estranha nas profundezas da Floresta Estranha. Vamos sair daqui rápido - esse lugar me dá arrepios!";
@@ -396,7 +396,7 @@ return {
 	["text::Miasma"] = "MIASMA";
 	["text::Escape"] = "Vá para a estação rápido! É a única saída.";
 	["text::WhiteWhale"] = "A Baía Whitewhale não parece tão perigosa. Vamos dar uma olhada.";
-	["text::GreenbergFinish"] = "No nosso primeiro dia na superfície, descobrimos uma aldeia chamada Greenberg. O prefeito aqui é super legal. Também conhecemos uma senhora de bom coração chamada Yuva. Todo mundo tem sido tão acolhedor.";
+	["text::GreenbergFinish"] = "No nosso primeiro dia na superfície, descobrimos uma aldeia chamada Greenberg. O prefeito aqui é super legal. Também conhecemos uma senhora de bom coração chamada Uva. Todo mundo tem sido tão acolhedor.";
 	["text::HuntingFinish"] = "Caçamos o criminoso que quebrou a cerca do Rancho Asa-Porco! Parece que somos os novos protetores de Greenberg. As coisas ficaram assustadoras quando encontramos uma instalação estranha na floresta, mas a festa incrível mais do que compensou!";
 	["text::MiasmaFinish"] = "O MIASMA engoliu Greenberg, deixando-nos sem escolha a não ser fugir mais uma vez...";
 	};
@@ -436,7 +436,7 @@ return {
 	["name::TreasureDetector"] = "Radar do Tesouro";
 	["desc::TreasureDetector"] = "Chamado de \"Nariz do Caçador de Tesouros\", ele pode encontrar até os tesouros mais escondidos.";
 	["name::DietPill"] = "Pílula dietética";
-	["desc::DietPill"] = "Uma misteriosa pílula dietética de Lowtown da cidade de New Dam. Aqueles que conhecem seus ingredientes nunca iriam tomá-lo.";
+	["desc::DietPill"] = "Uma misteriosa pílula dietética da Parte Baixa em New Dam. Aqueles que conhecem seus ingredientes nunca iriam tomá-lo.";
 	["name::MinerContract"] = "Contrato de escavador";
 	["desc::MinerContract"] = "Contrato para escavadores da Ilha Potcrock. Injusto, \nnão importa como você olhe para isso.";
 	["name::PigYardHerdman"] = "Selo de Aprovação do Rancho Asa-Porco";
@@ -524,7 +524,7 @@ return {
 	["name::MrsMiller"] = "Sra. Miller";
 	["name::Arne"] = "Arne";
 	["name::Selma"] = "Selma";
-	["name::Uva"] = "Yuva";
+	["name::Uva"] = "Uva";
 	["name::Abliz"] = "Abliz";
 	["name::MerchantB"] = "Masao Ayukawa";
 	["name::KeroBot"] = "Tetsuo";
@@ -1026,7 +1026,7 @@ return {
 	};
 ["quest_CH5"]={
 	["text::AfterMiasma"] = "As consequências";
-	["text::Bazar"] = "O MIASMA pode ter ido embora, mas os monstros permanecem. Alguém está preso em Lowtown.";
+	["text::Bazar"] = "O MIASMA pode ter ido embora, mas os monstros permanecem. Alguém está preso na Parte Baixa.";
 	["text::Sam"] = "Como pude dormir tanto tempo?! John já foi embora! Ele provavelmente precisa da minha ajuda.";
 	["text::BottomTown"] = "Esses dois irmãos se meteram em problemas novamente. Desta vez, eles estão presos dentro da barragem.";
 	["text::AfterMiasmaFinish"] = "Essa pessoa disse que tudo isso é culpa minha. Eu os venci, mas nada mudou. E agora Alva e Isabel também se foram...";
@@ -1251,19 +1251,19 @@ return {
 	["Recipe::dam_crab_pot"] = "Não use apenas o caranguejo bom, mas o calor também é muito importante para cozinhar a Panela de Caranguejo Big Dam perfeita.";
 	};
 ["quest_CH4"]={
-	["text::FirstWave"] = "O Deus do Vento";
+	["text::FirstWave"] = "O Wind God";
 	["text::Miasma"] = "O MIASMA está atacando a cidade de New Dam! Alva precisa da nossa ajuda na sala de controle.";
-	["text::Casino"] = "O Deus do Vento está prestes a ser ativado! Nossa missão é garantir que todos na cidade de New Dam sejam evacuados para o Coin Palace. Vamos lá para mais informações.";
+	["text::Casino"] = "O Wind God está prestes a ser ativado! Nossa missão é garantir que todos na cidade de New Dam sejam evacuados para o Coin Palace. Vamos lá para mais informações.";
 	["text::Jasper"] = "Há pessoas desaparecidas no Coin Palace. Jasper ainda está no parque!";
 	["text::Casino1"] = "Vá ao Coin Palace para pedir informações aos cidadãos da cidade de New Dam.";
 	["text::Arms"] = "Alguém viu os dois irmãos no Dragon Market. Vá dar uma olhada!";
-	["text::FanStart"] = "O Deus do Vento será ativado em breve. Volte rapidamente para a sala de controle.";
+	["text::FanStart"] = "O Wind God será ativado em breve. Volte rapidamente para a sala de controle.";
 	["text::BackToDaily"] = "O olho da tempestade";
 	["text::Curry"] = "John preparou um pouco de curry para o almoço. Vá entregar para Alva e Isabel na sala de controle.";
 	["text::SecondWave"] = "Segunda Onda";
 	["text::MiasmaBack"] = "O MIASMA voltou! Corra para a sala de controle.";
-	["text::FirstWaveFinish"] = "O MIASMA não foi nada assustador. Juntamente com Alva, Isabel, Lee e o Deus do Vento, John e eu conseguimos proteger a cidade de New Dam.";
+	["text::FirstWaveFinish"] = "O MIASMA não foi nada assustador. Juntamente com Alva, Isabel, Lee e o Wind God, John e eu conseguimos proteger a cidade de New Dam.";
 	["text::DamRush"] = "O MIASMA está de volta! E Alva precisa da nossa ajuda. Vamos para a sala de controle.";
-	["text::SecondWaveFinish"] = "Solomon quebrou o Deus do Vento. Embora Alva tenha conseguido recomeçar... ela...";
+	["text::SecondWaveFinish"] = "Solomon quebrou o Wind God. Embora Alva tenha conseguido recomeçar... ela...";
 	};
 }

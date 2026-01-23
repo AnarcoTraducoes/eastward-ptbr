@@ -139,8 +139,8 @@ return {
 	["6dc552fe893d11ea97073c15c2dd513c"] = "Chama da esperança.";
 	["6dc553da893d11ea97073c15c2dd513c"] = "Abra o caminho do desespero.";
 	["6dc55470893d11ea97073c15c2dd513c"] = "Vamos, John! Vamos!";
-	["5c27b9bac75411ea99c93c15c2dd513c"] = "{~}Sr. The Sonic Punk!";
-	["5c27bac8c75411ea99c93c15c2dd513c"] = "{~}Sr. The Sonic Puuuuunk!{.}\n{====}Onde é isso?\nA Torre Eterna...?";
+	["5c27b9bac75411ea99c93c15c2dd513c"] = "{~}Sr. Sonic Punk!";
+	["5c27bac8c75411ea99c93c15c2dd513c"] = "{~}Sr. Sonic Puuuuunk!{.}\n{====}Onde é isso?\nA Torre Eterna...?";
 	["5c27bcd0c75411ea99c93c15c2dd513c"] = "Isso mesmo!{stop}";
 	["5c27bde8c75411ea99c93c15c2dd513c"] = "A Torre Eterna... a raiz de todo mal.";
 	["5c27bff0c75411ea99c93c15c2dd513c"] = "A sombra profunda na gaiola vazia engole toda luz.";
@@ -270,7 +270,7 @@ return {
 	["6db30536893d11ea97073c15c2dd513c"] = "John! Floyd está ali!\n{====}Precisamos pegar o chip de emoção dele!";
 	["5bf39252c75411ea99c93c15c2dd513c"] = "Espere, eu sei! Vamos tentar chamar o Sonic Punk!";
 	["5bf393c4c75411ea99c93c15c2dd513c"] = "...Sem resposta...\n{====}Não me diga que o Sonic Punk também se foi?";
-	["5bf39662c75411ea99c93c15c2dd513c"] = "EI! VOCÊS PODEM ME OUVIR?!{.}\n{==}SR. THE SONIC PUUUUUUUUUUUUNK!!";
+	["5bf39662c75411ea99c93c15c2dd513c"] = "EI! VOCÊS PODEM ME OUVIR?!{.}\n{==}SR. SONIC PUUUUUUUUUUUUNK!!";
 	["5bf39856c75411ea99c93c15c2dd513c"] = "{big}Oy, com os gritos e os berros. Num funeral, ainda por cima!\n{====}{big}Vocês humanos! Vocês pensariam que teriam pelo menos um pouco de dignidade em um momento como esse.";
 	["5bf39afec75411ea99c93c15c2dd513c"] = "Nem mesmo uma flor para o velho.{.}\n{==}Isso é o que vocês chamam de sacrilégio, realmente.";
 	["5bf39d6ac75411ea99c93c15c2dd513c"] = "Então é assim que vocês humanos são, é?";
@@ -489,7 +489,7 @@ return {
 	["5bfc9294c75411ea99c93c15c2dd513c"] = "Que estranho.\n{====}{big}Ontem, disseram-me que Charon chegaria à Torre Eterna esta noite.\n{====}Então hoje, novamente, dizem-me que tenho que esperar até amanhã...\n{====}Na verdade, TUDO hoje tem sido exatamente igual ao ontem.\n{====}Quase como se ontem... nem tivesse acontecido.\n{====}Você não acha...\n{====}...que o tempo aqui é o mesmo que estava naquela neblina?";
 	["5bfc933ec75411ea99c93c15c2dd513c"] = "Já se passaram 13... não, 15 dias desde que cheguei em Ester City...\n{====}Minha memória está piorando cada vez mais.\n{====}Se a pesquisa daquele sujeito Ivan estiver correta...\n{====}{big}...então hoje será sempre o dia APÓS a ativação do campo temporal.\n{====}E também o dia antes de Charon chegar à Torre Eterna.\n{====}Exceto que amanhã nunca chega em Ester City.\n{====}Então, a chave...\n{==}...Maldição, não posso esquecer!{.}\n{==}A Chama do Tempo!\n{====}Sim, a chave para aquela torre... é a Chama do Tempo.\n{====}Eu vou encontrá-la, Alva. Eu vou. Então apenas... espere por mim.";
 	["5bfc9438c75411ea99c93c15c2dd513c"] = "A única pessoa a morrer na \"Cidade que Nunca Morre...\"\n{====}A única pessoa a morrer na \"Cidade que Nunca Morre...\"\n{====}Ugh, o que isso significa?\n{====}Você não acha que eu já resolvi isso uma vez, não é?\n{====}{big}Minha memória está... cada vez mais confusa. Se eu não conseguir encontrar aquela chama, então...\n{====}...vamos acabar nos perdendo completamente neste lugar.";
-	["5bfc9564c75411ea99c93c15c2dd513c"] = "Isabel...\n{====}Isso deve ter sido antes dela encontrar...\n{====}...o que quer que a tenha levado a Solomon.\n{====}Vamos procurar em outro lugar, Sr. The Sonic Punk! Deve haver mais pistas para nós encontrarmos.";
+	["5bfc9564c75411ea99c93c15c2dd513c"] = "Isabel...\n{====}Isso deve ter sido antes dela encontrar...\n{====}...o que quer que a tenha levado a Solomon.\n{====}Vamos procurar em outro lugar, Sr. Sonic Punk! Deve haver mais pistas para nós encontrarmos.";
 	["5bfc9668c75411ea99c93c15c2dd513c"] = "Procurando por: Isabel.";
 	["5bfc9802c75411ea99c93c15c2dd513c"] = "John! Vamos encontrar Thomas!\n{====}Ele deve saber mais alguma coisa!";
 	["5bfc9992c75411ea99c93c15c2dd513c"] = "Cansando dessa maldita frieza daqui.";
@@ -953,7 +953,7 @@ return {
 	["1b92d6c02ca111eb801b3c15c2dd513c"] = "Se me permitem, Frank!";
 	["1b92d90e2ca111eb801b3c15c2dd513c"] = "{~}O Sonic Punk!";
 	["1b92daa82ca111eb801b3c15c2dd513c"] = "Saudações, Assistentes de Laboratório Sam e John.\n{====}O Sonic Punk, se apresentando para o dever.";
-	["1b92de7c2ca111eb801b3c15c2dd513c"] = "Sr. The Sonic Punk!\n{====}Onde você foi?";
+	["1b92de7c2ca111eb801b3c15c2dd513c"] = "Sr. Sonic Punk!\n{====}Onde você foi?";
 	["1b92e0522ca111eb801b3c15c2dd513c"] = "Fui danificado devido a interferência em Ester City.\n{====}Mas o Mestre Guy me consertou.";
 	["1b92e1562ca111eb801b3c15c2dd513c"] = "Não foi nenhum problema, na verdade.\n{====}{big}Embora eu tenha que dizer, adoraria ver quem criou esse pequeno cara.\n{====}Não sei se você encontraria talento assim mesmo aqui em Ester City.\n{====}Ah, certo. Eu talvez tenha adicionado algumas novas funcionalidades a ele...";
 	["1b92e4c62ca111eb801b3c15c2dd513c"] = "Novas funcionalidades?";
@@ -1086,7 +1086,7 @@ return {
 	["5be859dcc75411ea99c93c15c2dd513c"] = "Já tão longe, estão...?";
 	["5be85aeac75411ea99c93c15c2dd513c"] = "Receio que não tenho conhecimento sobre a localização da chama.\n{====}No entanto, se essa amiga sua conseguiu entrar na torre...\n{====}...deve estar em algum lugar aqui em Ester City.\n{====}Algum lugar onde não vão tropeçar nela.";
 	["5be85c0cc75411ea99c93c15c2dd513c"] = "Espere, eu sei! Podemos usar o Sonic Punk!";
-	["5be85ca2c75411ea99c93c15c2dd513c"] = "Por favor, nos leve até Isabel, Sr. The Sonic Punk!";
+	["5be85ca2c75411ea99c93c15c2dd513c"] = "Por favor, nos leve até Isabel, Sr. Sonic Punk!";
 	["5be85cfcc75411ea99c93c15c2dd513c"] = "Comando recebido.\n{====}Procurando por: Isabel...";
 	["5be85e00c75411ea99c93c15c2dd513c"] = "Se vocês encontrarem algum problema, chamem o velho Thomas.\n{====}Vocês o encontrarão no Cemitério de Trens.";
 	["5be85e8cc75411ea99c93c15c2dd513c"] = "Cemitério de Trens, entendido!\n{====}Obrigado, Cap'n Pam!";
