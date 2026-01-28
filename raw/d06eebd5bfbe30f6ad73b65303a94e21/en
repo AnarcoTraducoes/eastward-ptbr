@@ -167,7 +167,7 @@ return {
 	["sam"] = "Sam";
 	["chroma_filter"] = "Filtro Chroma";
 	["resume_game"] = "Retomar o jogo";
-	["ingredient_need"] = "Ingredientes necessários";
+	["ingredient_need"] = "Ingredientes";
 	["wheel_func"] = "Roda do mouse";
 	["cook_book"] = "Receita";
 	["mrpg_manual_next"] = "Próxima";
@@ -526,7 +526,7 @@ return {
 	["pop_get_bomb"] = "Ótimo! Você tem uma bomba! Você pode encontrá-la no seu menu de armas.";
 	["pop_get_shotgun"] = "Ótimo! Você tem a arma Bang-Bang! Você pode encontrá-la no seu menu de armas.";
 	["pop_get_flame"] = "Ótimo! Você tem o cetro de chama! Você pode encontrá-lo no seu menu de armas.";
-	["pop_get_cog"] = "Ótimo! Você tem o atirador de engrenagem! Você pode encontrá-lo no seu menu de armas.";
+	["pop_get_cog"] = "Ótimo! Você tem o Atira serras! Você pode encontrá-lo no seu menu de armas.";
 	["pop_get_bomb_float"] = "Ótimo! Você tem uma bomba flutuante! Você \npode encontrá-la no \nseu menu de armas.";
 	["pop_get_bomb_remote"] = "Ótimo! Você tem uma bomba remota! Você pode encontrá-la no menu Armas.";
 	["pop_get_part_bomb"] = "Caixa de bombas melhorada! Agora você pode carregar mais bombas!";
@@ -543,7 +543,7 @@ return {
 	["pop_levelup_bomb"] = "Bombas melhoradas! Elas agora são mais poderosas!";
 	["pop_levelup_shotgun"] = "Arma Bang-Bang melhorada! Agora é mais poderosa!";
 	["pop_levelup_flame"] = "Cetro de Chama melhorado! Agora é mais poderoso!";
-	["pop_levelup_cog"] = "Cog Shooter melhorado! Agora é mais poderoso!";
+	["pop_levelup_cog"] = "Atira serras melhorado! Agora é mais poderoso!";
 	["pop_levelup_bomb_float"] = "Bombas flutuantes melhoradas! Elas agora são mais poderosas!";
 	["pop_levelup_bomb_remote"] = "Bombas remotas melhoradas! Elas agora são mais poderosos!";
 	["no_coin"] = "Você não tem nenhum token!";

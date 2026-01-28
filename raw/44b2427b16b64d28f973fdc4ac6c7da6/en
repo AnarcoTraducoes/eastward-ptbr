@@ -659,7 +659,7 @@ return {
 	["farm_alva_research_exchange_sidemessage"] = "“$(name)” já foi colocado no inventário.";
 	["farm_alva_research_upgrade_sidemessage"] = "“$(name)” completo.";
 	["farm_alva_research_sidemessage"] = "“$(name)” ativado.";
-	["pop_tool_upgraded"] = "“$(name)” atualizado!";
+	["pop_tool_upgraded"] = "“$(name)” subiu de nível";
 	["tutorial_backhomecook"] = "Voltar para casa e cozinhar";
 	["pop_cowshed_full"] = "O celeiro não tem espaço suficiente.";
 	};
@@ -1044,7 +1044,7 @@ return {
 	["tour_seed"] = "Plante sementes selecionadas com a Sam.";
 	["tour_water"] = "As plantas precisam de água todos os dias para crescer. A boa notícia é que a Regadora se enche magicamente!";
 	["tour_glove"] = "Equipe as Luvas de Colheita para colher as safras sem danificá-las.";
-	["tour_rob"] = "Use a Vara de Pescar perto da água para pescar.";
+	["tour_rob"] = "Use a Vara de Pesca perto da água para pescar.";
 	["tour_cook"] = "Cozinhe na Mesa de Culinária.";
 	["tour_quest_clear_field"] = "Limpe gravetos e pedras da área designada para começar a construção.";
 	["tour_charge"] = "Levante a enxada para carregar e plantar sementes em uma área grande.";

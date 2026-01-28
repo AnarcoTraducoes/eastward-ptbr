@@ -30,7 +30,7 @@ return {
 	["156d3acaee9d11eaa8553c15c2dd513c"] = "Mas eles...";
 	["156d3c1eee9d11eaa8553c15c2dd513c"] = "Eu-... eu conseguia me ver!";
 	["156d3ebcee9d11eaa8553c15c2dd513c"] = "Isabel!\n{~}Alva!";
-	["156d3fdeee9d11eaa8553c15c2dd513c"] = "{<}Sinto muito...\nQue... essa outra eu...\n{====}{big}Não. Ela É eu. E eu tenho feito todas essas... coisas horríveis.";
+	["156d3fdeee9d11eaa8553c15c2dd513c"] = "{<}Sinto muito...\nQue... essa outra eu...\n{====}{big}Não. Ela SOU eu. E eu tenho feito todas essas... coisas horríveis.";
 	["156d41b4ee9d11eaa8553c15c2dd513c"] = "Você é tão doce como sempre, \nSam...";
 	["156d42feee9d11eaa8553c15c2dd513c"] = "{<}Alva...";
 	["156d439eee9d11eaa8553c15c2dd513c"] = "Ali!";
@@ -46,7 +46,7 @@ return {
 	["ff7fe24e526011eba6373c15c2dd513c"] = "Argh! Venha, então! Isso decidirá o vencedor de uma vez por todas!";
 	["ff7fe352526011eba6373c15c2dd513c"] = "Então, chegou a isso...";
 	["ff7fe42e526011eba6373c15c2dd513c"] = "Até você sabe que aquelas \ncoisas... elas não sou eu.\n{====}Baixe sua espada, meu doce cavaleiro.\n{====}E deixe o resto com eles.";
-	["ff7fe582526011eba6373c15c2dd513c"] = "Totalmente carregado!";
+	["ff7fe582526011eba6373c15c2dd513c"] = "Totalmente carregada!";
 	};
 ["PostFinalBoss_Ch8.sq"]={
 	["1cafa45c2ca111eb801b3c15c2dd513c"] = "{~}Por quê?!\n{====}Por que você insiste teimosamente em ficar do lado desses humanos?!";
@@ -98,7 +98,7 @@ return {
 	["156e7836ee9d11eaa8553c15c2dd513c"] = "{<}Me solte...";
 	["156e793aee9d11eaa8553c15c2dd513c"] = "{<}John...";
 	["156e7a0cee9d11eaa8553c15c2dd513c"] = "{~}John!";
-	["156e7a84ee9d11eaa8553c15c2dd513c"] = "{~}John!\nVocê tem que me salvar!\n{====}Ela me tem preso aqui! A outra eu!";
+	["156e7a84ee9d11eaa8553c15c2dd513c"] = "{~}John!\nVocê tem que me salvar!\n{====}Ela me aprisionou aqui! A outra eu!";
 	["95f6a842ef4d11eab0123c15c2dd513c"] = "Hahahaha... {~}HAHAHAHAHA!\n{====}Que delícia!\n{====}Os humanos são tão absolutamente deliciosos!";
 	["95f6acb6ef4d11eab0123c15c2dd513c"] = "O que é isso? Você não viu o suficiente?\n{====}Então que tal isso?";
 	["95f6b0bcef4d11eab0123c15c2dd513c"] = "John vai dar um jeito em você!\n{====}Porque somos assistentes de laboratório de alto nível!";
@@ -132,18 +132,18 @@ return {
 ["FinalStation.sq"]={
 	["156ef55eee9d11eaa8553c15c2dd513c"] = "Trem sentido leste...\n{<}Trem sentido leste...{stop}";
 	["156ef6c6ee9d11eaa8553c15c2dd513c"] = "Ah. Ali.\n{==}{<}No três... três...{stop}";
-	["156ef842ee9d11eaa8553c15c2dd513c"] = "{~}Três O QUÊ?!\nEu não consigo ler isso!\n{==}{big}Está desbotado além do reconhecimento! Ninguém cuida deste lugar?{stop}";
+	["156ef842ee9d11eaa8553c15c2dd513c"] = "{~}Três O QUÊ?!\nEu não consigo ler isso!\n{==}{big}Está desbotado demais! Ninguém cuida deste lugar?{stop}";
 	["156ef95aee9d11eaa8553c15c2dd513c"] = "{<}Tão quente...{stop}";
 	["156ef9dcee9d11eaa8553c15c2dd513c"] = "Se eu tivesse trazido meu\nmaiô...{stop}";
 	["156efb44ee9d11eaa8553c15c2dd513c"] = "Hm?\nTem alguém lá.\n{==}Bom que eu não fui nadar.{stop}";
 	["156efd1aee9d11eaa8553c15c2dd513c"] = "Você está esperando o trem?{stop}";
 	["156efe46ee9d11eaa8553c15c2dd513c"] = "Meu nome é Sam. Estou pegando o trem sentido leste.{stop}";
-	["156eff40ee9d11eaa8553c15c2dd513c"] = "{<}Você não acontece de saber... {<<}quando o próximo trem vai passar...{stop}";
+	["156eff40ee9d11eaa8553c15c2dd513c"] = "{<}Você não saberia... {<<}quando o próximo trem vai passar...{stop}";
 	["156efffeee9d11eaa8553c15c2dd513c"] = "Olá...? Você pode me ouvir?{stop}";
 	["156f0288ee9d11eaa8553c15c2dd513c"] = "Que pessoa estranha.{stop}";
 	["156f0490ee9d11eaa8553c15c2dd513c"] = "Você está bem?\n{==}Você parece que viu um fantasma.{stop}";
 	["156f083cee9d11eaa8553c15c2dd513c"] = "Ah!";
-	["156f0a62ee9d11eaa8553c15c2dd513c"] = "{<}Ahh...\nIsso é verdadeiramente infeliz...{stop}";
+	["156f0a62ee9d11eaa8553c15c2dd513c"] = "{<}Ahh...\nIsso é tão triste...{stop}";
 	["156f0d1eee9d11eaa8553c15c2dd513c"] = "{<<}Por que o trem ainda não chegou...{stop}";
 	["156f0eeaee9d11eaa8553c15c2dd513c"] = "{<<}Está tão quente...{stop}";
 	};

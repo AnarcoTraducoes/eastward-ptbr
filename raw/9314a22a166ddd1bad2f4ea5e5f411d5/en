@@ -720,7 +720,7 @@ return {
 	["name::potion_crit_max"] = "Poção Crítica";
 	["desc::potion_crit_max"] = "Garante um acerto crítico no próximo ataque normal ou habilidade causadora de dano.";
 	["name::damage_absorb"] = "Escala Curadora";
-	["desc::damage_absorb"] = "Toda a dor recebida no turno atual é transformada em HP.";
+	["desc::damage_absorb"] = "Todo dano recebido no turno atual é transformado em HP.";
 	["name::random"] = "Fruta Misteriosa";
 	["desc::random"] = "Fruta misteriosa com efeitos imprevisíveis.";
 	["name::dizzy"] = "Granada Atordoante";

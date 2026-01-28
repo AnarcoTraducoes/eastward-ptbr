@@ -63,7 +63,7 @@ return {
 	["name::scene/design/env/Green/Town/SecondStation.scene"] = "A estação";
 	["name::scene/design/env/Monkey/Human"] = "Fábrica Humana";
 	["name::scene/design/env/Monkey/East/Bedroom.scene"] = "do Solomon";
-	["name::scene/design/env/Ester/Tower/Boss.scene"] = "Cidade de Ester";
+	["name::scene/design/env/Ester/Tower/Boss.scene"] = "Cidade de Eternia";
 	["name::scene/design/env/Sand/Dungeon/Mall"] = "Ruína Antiga";
 	["name::scene/design/env/Sand/Dungeon/SandTown_Jail_Behind_Maze.scene"] = "Túnel Quente";
 	["name::scene/demo/Town/RoomHut.scene"] = "Cabana do Caçador";
@@ -88,7 +88,7 @@ return {
 	["name::猎人小屋"] = "Cabana do Caçador";
 	["name::电气螳螂酒铺"] = "Relâmpago Mac";
 	["name::「大」站"] = "A estação \"Big\"";
-	["name::快乐湾"] = "Baía do Prazer";
+	["name::快乐湾"] = "Baía dos Prazeres";
 	["name::「猪场」"] = "Rancho Asa-Porco";
 	["name::大坝核心"] = "Núcleo Central da Barragem";
 	["name::火箭公寓"] = "Mansão Foguete";
@@ -113,7 +113,7 @@ return {
 	["name::大坝维修通道"] = "Túnel de Manutenção";
 	["name::时间岛"] = "Ilha do Tempo";
 	["name::艾娃实验室"] = "Laboratório da Alva";
-	["name::「未来」旅馆"] = "Hotel Ester";
+	["name::「未来」旅馆"] = "Hotel Eternia";
 	["name::「鲶鱼」巢穴"] = "Ninho de Tremor";
 	["name::蜜蜂狗超级市场"] = "Mercearia DogBee";
 	["name::列车墓地"] = "Cemitério de trens";
@@ -132,10 +132,10 @@ return {
 	["name::波特岛小学"] = "Escola Potcrock";
 	["name::强尼商店"] = "Empório do Johnny";
 	["name::智慧大街"] = "Rua da Sabedoria";
-	["name::废弃铁路"] = "Trilhas abandonadas";
+	["name::废弃铁路"] = "Trilhos abandonados";
 	["name::无限大厦二号平台"] = "Plataforma da Torre Eterna #2";
 	["name::五号码头"] = "Doca #5";
-	["name::「未来」"] = "Cidade de Ester";
+	["name::「未来」"] = "Cidade de Eternia";
 	["name::大坝公园"] = "Parque Central";
 	["name::特摄车厢"] = "Carro de efeitos especiais";
 	["name::公主街"] = "Princess Avenue";
@@ -146,7 +146,7 @@ return {
 	["name::大坝下层"] = "Dam ( Inferior )";
 	["name::大坝中央闸门"] = "Éclusa Central";
 	["name::大坝内部"] = "Dam ( Dentro )";
-	["name::爵士妈咪"] = "Mamãe Jazz";
+	["name::爵士妈咪"] = "Mother Jazz";
 	["name::「白鲸港」车站"] = "Estação Baía Whitewhale";
 	["name::向阳坡"] = "Centro da cidade";
 	["name::大坝城车站"] = "Estação de New Dam";
@@ -227,13 +227,13 @@ return {
 	["text::Tomas"] = "Para saber mais sobre Isabel, parece que precisaremos encontrar um homem chamado Thomas na Ilha do Tempo.";
 	["text::Operation"] = "Vamos levar esse chip de emoção para o Red Rocket Repair para que Daniel possa fazer sua operação.";
 	["text::Isabel"] = "Isabel";
-	["text::Message"] = "Isabel deve ter deixado outras mensagens pela cidade de Ester. Vamos usar o Sonic Punk para encontrá-los!";
+	["text::Message"] = "Isabel deve ter deixado outras mensagens pela cidade de Eternia. Vamos usar o Sonic Punk para encontrá-los!";
 	["text::LastTinder"] = "De volta à Ilha do Tempo! Onde a pista final o aguarda!";
-	["text::EsterTower"] = "A Torre Eterna";
+	["text::EsterTower"] = "A Torre Eternia";
 	["text::Grave"] = "A Chama do Tempo só precisa estar no túmulo de Solomon.";
 	["text::Tower"] = "Alva e Isabel devem estar no topo da torre. Vamos!";
 	["text::TimeLoop1st"] = "Eternia";
-	["text::ExpressNext"] = "Parece que ainda há uma última carta para entregar, desta vez para Ivan, no Hotel Ester.";
+	["text::ExpressNext"] = "Parece que ainda há uma última carta para entregar, desta vez para Ivan, no Hotel Eternia.";
 	["text::EsterCityFinish"] = "Finalmente chegamos em Eternia! E viraram... entregadores? Mas o mais importante é que descobrimos que Daniel não poderia ser operado. Devíamos ajudá-lo antes de procurar Isabel.";
 	["text::TimeLoop2nd"] = "Daniel";
 	["text::Megaboy"] = "Thomas nos diz para encontrá-lo no Cemitério de Trem depois que a operação de Daniel terminar.";
@@ -273,8 +273,8 @@ return {
 	["desc::stick"] = "Uma arma básica. Também um dos utensílios de cozinha favoritos de John.";
 	["name::flame"] = "Cetro de chama";
 	["desc::flame"] = "Uma arma do tipo lança-chamas. Cuidado com sua munição!";
-	["name::cog"] = "Atirador de engrenagens";
-	["desc::cog"] = "As engrenagens que este atirador dispara ricocheteiam entre os inimigos.";
+	["name::cog"] = "Atira serra";
+	["desc::cog"] = "As serras que este atirador dispara ricocheteiam entre os inimigos.";
 	["name::energy_stun"] = "Explosão de Energia";
 	["desc::energy_stun"] = "Atordoa todos os monstros à vista.";
 	["name::energy_heal"] = "Cura Energética";
@@ -299,8 +299,8 @@ return {
 	["desc::service_upgrade_shotgun"] = "Uma melhoria para a arma Bang-Bang.";
 	["name::service_upgrade_flame"] = "Melhoria do Cetro";
 	["desc::service_upgrade_flame"] = "Uma melhoria para o Cetro de Chamas.";
-	["name::service_upgrade_cog"] = "Melhoria do Atirador";
-	["desc::service_upgrade_cog"] = "Uma melhoria para o Atirador de engrenagens.";
+	["name::service_upgrade_cog"] = "Melhoria do Atira serras";
+	["desc::service_upgrade_cog"] = "Uma melhoria para o Atira serras.";
 	["name::service_upgrade_bomb"] = "Melhoria de Bomba";
 	["desc::service_upgrade_bomb"] = "Uma melhoria para bombas.";
 	["detail::service_upgrade_bomb"] = "";
@@ -1107,7 +1107,7 @@ return {
 	["name::salad_fruit"] = "Salada de Frutas";
 	["desc::salad_fruit"] = "Uma mistura deliciosa de vegetais e frutas.";
 	["detail::salad_fruit"] = "Combo bem nutritivo. No entanto, não enche muito.";
-	["name::seafood_grill"] = "Espetos de Frutos-do-mar";
+	["name::seafood_grill"] = "Espetos de Peixe";
 	["desc::seafood_grill"] = "Comida espetada é a melhor.";
 	["detail::seafood_grill"] = "Sinta-se como um animal selvagem ao rasgar esses espetos das profundezas.";
 	["name::fruit_pie"] = "Torta de Frutas";
@@ -1127,7 +1127,7 @@ return {
 	["detail::salad_sea"] = "Os gourmets de New Dam adoram este prato. O peixe leva o sabor da fruta. A fruta leva o sabor do peixe!";
 	["Recipe::salad_sea"] = "Recheie um peixe com sua fruta favorita e jogue-o no vaporizador. Cuidado com o calor!";
 	["Recipe::salad_fruit"] = "Fatie e corte em cubos suas frutas e vegetais favoritos e jogue-os em uma tigela. A alma está no curativo!";
-	["name::salad_mix"] = "Ovos mexidos com legumes";
+	["name::salad_mix"] = "Ovos mexidos";
 	["desc::salad_mix"] = "Um ovo por dia não fará mal a ninguém.";
 	["detail::salad_mix"] = "Misture os tipos de vegetais para uma miscelânea culinária de possibilidades.";
 	["Recipe::salad_mix"] = "Se você deve fritar os ovos ou os vegetais primeiro é uma controvérsia de longa data.";
@@ -1175,7 +1175,7 @@ return {
 	["desc::sushi"] = "Ninguém consegue resistir ao fascínio do peixe cru.";
 	["detail::sushi"] = "As possibilidades são infinitas quando se trata de peixe e arroz.";
 	["Recipe::sushi"] = "Corte um pouco de peixe e cubra com arroz. Ou apenas enrole tudo!";
-	["name::toufu"] = "Tofu com Ovas de Caranguejo";
+	["name::toufu"] = "Tofu com Ovas";
 	["desc::toufu"] = "Um prato que dizem trazer boa sorte.";
 	["detail::toufu"] = "Um prato gourmet para os ricos e famosos. Ovas de caranguejo não são baratas!";
 	["Recipe::toufu"] = "Extraia cuidadosamente as ovas do caranguejo e cozinhe com tofu.";
@@ -1188,7 +1188,7 @@ return {
 	["desc::steam_egg"] = "Parece delicioso.";
 	["detail::steam_egg"] = "Derrete bem na boca. O prato favorito de Sam.";
 	["Recipe::steam_egg"] = "Um prato aparentemente complexo. Não cozinhe demais!";
-	["name::tenpura"] = "Tempura de frutos do mar";
+	["name::tenpura"] = "Tempura de peixes";
 	["desc::tenpura"] = "Bondade maltratada de ouro.";
 	["detail::tenpura"] = "A massa dourada e amanteigada mantém a delícia até o momento em que você crava os dentes.";
 	["Recipe::tenpura"] = "Cubra os frutos do mar com massa e frite até dourar.";
